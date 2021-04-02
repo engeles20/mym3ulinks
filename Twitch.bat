@@ -32,13 +32,16 @@ streamlink twitch.tv/AnthonyZ 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulin
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/user-default-pictures-uv/ebb84563-db81-4b9c-8940-64ed33ccfc7b-profile_image-70x70.png" group-title="Roosters Rest",fyzicul best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/fyzicul best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
+
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/07663350-ad3f-4f62-a7ee-c5ce70e0c5a0-profile_image-70x70.png" group-title="Roosters Rest",biotoxz_ best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/biotoxz_ best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
+
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b78bd6f1ba63a9dc-profile_image-70x70.png" group-title="Roosters Rest",garek best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/garek best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/83d3f03f-f731-4778-8d97-712f1e905b5f-profile_image-70x70.png" group-title="Roosters Rest",itsleslie 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
@@ -83,12 +86,20 @@ streamlink twitch.tv/LIRIK best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Tw
 streamlink twitch.tv/s0upes 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7779488e-83de-4e83-a0a2-ea21231655ac-profile_image-70x70.png" group-title="No_Group",uberhaxornova best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/uberhaxornova best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7779488e-83de-4e83-a0a2-ea21231655ac-profile_image-70x70.png" group-title="No_Group",uberhaxornova 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/uberhaxornova 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a1fd2a2c-5219-4442-a234-0f7312735eef-profile_image-70x70.png" group-title="No_Group",chalupa_pants 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/chalupa_pants 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d95469d5-77f4-4c87-b6bd-cbf469dacea5-profile_image-70x70.png" group-title="No_Group",AndyMilonakis 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/AndyMilonakis 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b704c474-accc-4753-aa25-7abca4269fd6-profile_image-70x70.png" group-title="No_Group",fortyone 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
@@ -109,6 +120,7 @@ streamlink twitch.tv/burn 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\T
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/31c7daf1-5691-4c94-83c6-a591a9b57c64-profile_image-70x70.png" group-title="No_Group",ashi 480p >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/ashi 480p >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4241136033a90b93-profile_image-70x70.jpeg" group-title="No_Group",MiltonTPike1 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
@@ -135,6 +147,7 @@ streamlink twitch.tv/carter 720p >> C:\Users\erick\Documents\GitHub\mym3ulinks\T
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/02ab6748-9bfe-4772-9ae1-e34bcc2fc169-profile_image-70x70.png" group-title="No_Group",buzterwow best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/buzterwow best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/60224904-462d-4085-a32a-9058062fdadf-profile_image-70x70.png" group-title="No_Group",crystalst 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
@@ -222,12 +235,28 @@ streamlink twitch.tv/qmariox best >> C:\Users\erick\Documents\GitHub\mym3ulinks\
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3f972b7e-aa35-4fa1-8b82-0965907e6ee5-profile_image-70x70.png" group-title="Chang Gang",qmariox 480p >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/qmariox 480p >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
+
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3e199dde-25df-49a8-a40b-19a8f6d8a068-profile_image-70x70.png" group-title="Chang Gang",shotz best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/shotz best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3e199dde-25df-49a8-a40b-19a8f6d8a068-profile_image-70x70.png" group-title="Chang Gang",shotz 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/shotz 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
+
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8f037036-e421-4913-a300-ec84d1245079-profile_image-70x70.png" group-title="Chang Gang",silent best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/silent best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8f037036-e421-4913-a300-ec84d1245079-profile_image-70x70.png" group-title="Chang Gang",silent 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/silent 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8921f9b6-7734-4530-a226-3b45c5853d6f-profile_image-70x70.png" group-title="Chang Gang",hutchmf best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/hutchmf best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8921f9b6-7734-4530-a226-3b45c5853d6f-profile_image-70x70.png" group-title="Chang Gang",hutchmf 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/hutchmf 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3f972b7e-aa35-4fa1-8b82-0965907e6ee5-profile_image-70x70.png" group-title="Chang Gang",qozmyox best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
@@ -258,13 +287,6 @@ streamlink twitch.tv/jimmytulip best >> C:\Users\erick\Documents\GitHub\mym3ulin
 streamlink twitch.tv/jimmytulip 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7779488e-83de-4e83-a0a2-ea21231655ac-profile_image-70x70.png" group-title="Chang Gang",uberhaxornova best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-streamlink twitch.tv/uberhaxornova best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7779488e-83de-4e83-a0a2-ea21231655ac-profile_image-70x70.png" group-title="Chang Gang",uberhaxornova 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-streamlink twitch.tv/uberhaxornova 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-
-@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d614c432-5782-4380-b952-4dba08c336d5-profile_image-70x70.png" group-title="Chang Gang",blaustoise best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/blaustoise best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
@@ -293,6 +315,7 @@ streamlink twitch.tv/hexagonistlive 720p60 >> C:\Users\erick\Documents\GitHub\my
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/476ee93d-66a6-4e57-b3a9-db1ceb168ad8-profile_image-70x70.png" group-title="Cops",esfandtv 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/esfandtv 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0086f56a-7976-4fa9-b48b-a4df03c88040-profile_image-70x70.png" group-title="Cops",hirona 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
@@ -422,6 +445,11 @@ streamlink twitch.tv/bennnistreams 720p60 >> C:\Users\erick\Documents\GitHub\mym
 streamlink twitch.tv/larryx7 best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9eeb7ed5-47d2-4a6d-a521-e57284aa9d49-profile_image-70x70.png" group-title="Vagos",umadbrahlive best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/umadbrahlive best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
+
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d6f2b7de-f7ed-4a0c-a6a0-d7529d502cb0-profile_image-70x70.png" group-title="Vagos",kongfue 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/kongfue 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
@@ -429,17 +457,24 @@ streamlink twitch.tv/kongfue 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulink
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ddc043d3477a83d5-profile_image-70x70.jpeg" group-title="Vagos",adeptthebest 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/adeptthebest 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
+
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f2818e17-3104-4cdb-b787-3e49d0ee055b-profile_image-70x70.png" group-title="Ballas",curtisryan 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f2818e17-3104-4cdb-b787-3e49d0ee055b-profile_image-70x70.png" group-title="Ballas",curtisryan_Chang 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/curtisryan 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a041d175-84af-4d60-b2fc-521da91ac597-profile_image-70x70.png" group-title="Ballas",itssammyp 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/itssammyp 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0215ba80-2006-431d-bd10-306e3d8e7a4d-profile_image-70x70.png" group-title="Ballas",timmy2 best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0215ba80-2006-431d-bd10-306e3d8e7a4d-profile_image-70x70.png" group-title="Ballas",timmy2_andVagos 720p >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/timmy2 best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/378e3456-ee55-4832-abf3-057e74abc500-profile_image-70x70.png" group-title="Ballas",lagtvmaximusblack 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/lagtvmaximusblack 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/44ed1ef2-8a0c-43c2-8173-7da557bcb51a-profile_image-70x70.png" group-title="Casino_Pegasus",lucky_rp 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
@@ -466,6 +501,11 @@ streamlink twitch.tv/timmac 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/343206f6-abd6-47b7-9d51-080fbfed2716-profile_image-70x70.png" group-title="Casino_Pegasus",auxidental 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/auxidental 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ray__c-profile_image-6c44b069aaa13cb4-70x70.jpeg" group-title="Casino_Pegasus",ray__c 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/ray__c 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4e71bd4b-a304-4e4d-b611-8a423270f243-profile_image-70x70.png" group-title="Casino_Pegasus",jonthebroski best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
@@ -541,9 +581,11 @@ streamlink twitch.tv/kitboga best >> C:\Users\erick\Documents\GitHub\mym3ulinks\
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ff13760d-d795-49d9-8f3f-f05035930c81-profile_image-70x70.png" group-title="Streamers",NICKMERCS best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/NICKMERCS best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
+
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bd6ad02e-9bc7-4956-b62f-7277d9981109-profile_image-70x70.png" group-title="Streamers",timthetatman best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/timthetatman best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://i.imgur.com/dcEO5IY.jpg" group-title="Streamers",Aa9skillz best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
@@ -553,6 +595,7 @@ streamlink twitch.tv/Aa9skillz best >> C:\Users\erick\Documents\GitHub\mym3ulink
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b6ce7c10-8280-41a7-84c8-94b99b797849-profile_image-70x70.png" group-title="Streamers",alinity best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/alinity best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
+
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9f33a16f-f260-4002-8e9b-dc4ba6904bf8-profile_image-70x70.png" group-title="Streamers",ch14 best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/ch14 best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
@@ -560,6 +603,7 @@ streamlink twitch.tv/ch14 best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twi
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3c11b8e0-0b8e-4f06-a4ac-b89a7de5a74e-profile_image-70x70.png" group-title="Streamers",retrogaijin best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/retrogaijin best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/315a4ed8-1853-45a5-b702-42ad23055b90-profile_image-70x70.png" group-title="Streamers",thesushidragon best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
@@ -577,25 +621,43 @@ streamlink twitch.tv/LotsOfBunnies best >> C:\Users\erick\Documents\GitHub\mym3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/1090fc37-ec9b-4999-b8dc-7258e03a5b99-profile_image-70x70.png" group-title="Streamers",papomc best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/papomc best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
+
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fdd726f0-5e06-4211-ab5c-abf1faedece9-profile_image-70x70.png" group-title="Streamers",TPAIN best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/TPAIN best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2f62857a-5bbf-470f-bf25-acea83ccdc73-profile_image-70x70.png" group-title="Streamers",COREANOLOCOLIVE best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/COREANOLOCOLIVE best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
+
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/beeafc17-3ebe-4e1d-b250-404f1ea56988-profile_image-70x70.png" group-title="Streamers",pokimane best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/pokimane best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f94fdd31-4605-4cd7-9ce7-6b588e6579d6-profile_image-70x70.png" group-title="Streamers",awkwards_travel best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/awkwards_travel best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
+
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fba43d21-dcc3-4d55-8ee0-8b3ac21e7392-profile_image-70x70.png" group-title="Streamers",warrior_trading best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/warrior_trading best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-logo="https://i.imgur.com/lI3dHWJ.jpg" group-title="FB/YT",WashingtonPost best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink https://www.youtube.com/channel/UCHd62-u_v4DvJ8TCFtpi4GA/live best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-logo="https://i.imgur.com/lk3fiap.jpg" group-title="FB/YT",DrDisrespect best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink https://www.youtube.com/channel/UCcJL2ld6kxy_nuV1u7PVQ0g/live best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
+
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 group-title="FB/YT",LordKebun best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
 
 git add -A
 git commit -m "new links"
