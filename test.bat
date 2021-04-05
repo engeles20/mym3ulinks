@@ -1,8 +1,8 @@
 git add -A
-SLEEP 20
+timeout 5 > NUL
 git commit -m "new links"
-SLEEP 20
+timeout 5 > NUL
 git pull
-SLEEP 20
+timeout 5 > NUL
 git push
-SLEEP 20
+timeout 5 > NUL
