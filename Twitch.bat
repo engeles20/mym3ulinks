@@ -658,7 +658,7 @@ streamlink https://www.youtube.com/channel/UCcJL2ld6kxy_nuV1u7PVQ0g/live best >>
 
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo #EXTINF:-1 group-title="FB/YT",LordKebun best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-logo="https://i.imgur.com/MaBj8i8.png" group-title="FB/YT",LordKebun best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 timeout 5 > NUL
 pushd C:\Users\erick\Documents\GitHub\mym3ulinks
