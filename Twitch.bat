@@ -657,5 +657,3 @@ streamlink https://www.youtube.com/channel/UCcJL2ld6kxy_nuV1u7PVQ0g/live best >>
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 group-title="FB/YT",LordKebun best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-
-call C:\Users\erick\Documents\GitHub\mym3ulinks\test.bat
