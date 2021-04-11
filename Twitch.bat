@@ -648,7 +648,7 @@ streamlink https://www.youtube.com/channel/UCcJL2ld6kxy_nuV1u7PVQ0g/live best >>
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://i.imgur.com/MaBj8i8.png" group-title="FB/YT",LordKebun best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-streamlink --http-proxy "http://167.172.184.166:40607" https://www.facebook.com/LordKebun/videos/791392298157679 best
+streamlink --http-proxy "http://167.172.184.166:40607" ######################### best
 
 
 timeout 5 > NUL
