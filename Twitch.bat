@@ -416,7 +416,7 @@ streamlink twitch.tv/confuseddevil 720p60 >> C:\Users\erick\Documents\GitHub\mym
 streamlink twitch.tv/sock22 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c016b19c-abcc-49cc-8a80-800cf96d0365-profile_image-70x70.png" group-title="Cops",moboking 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/67339288-9870-4e65-9fca-551f923c8c10-profile_image-70x70.png" group-title="Cops",moboking 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/moboking 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
