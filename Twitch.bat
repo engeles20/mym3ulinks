@@ -435,6 +435,11 @@ streamlink twitch.tv/timmy2 best >> C:\Users\erick\Documents\GitHub\mym3ulinks\T
 streamlink twitch.tv/bennnistreams 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3b34b603-334a-4432-ad2d-c70318ee3004-profile_image-70x70.png" group-title="Vagos",natettvrp 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/natettvrp 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
+
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0e6b486d-85ca-4309-9d50-1f9839557398-profile_image-70x70.png" group-title="Vagos",larryx7 best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/larryx7 best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
