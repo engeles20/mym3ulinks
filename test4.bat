@@ -1,3 +1,3 @@
 git pull
-timeout 5 > NUL
+timeout 3 > NUL
 call test5.bat

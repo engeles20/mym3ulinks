@@ -1,2 +1,2 @@
 git push
-timeout 5 > NUL
+timeout 3 > NUL
