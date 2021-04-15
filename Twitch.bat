@@ -439,8 +439,8 @@ streamlink twitch.tv/SayeedBlack 720p60 >> C:\Users\erick\Documents\GitHub\mym3u
 streamlink twitch.tv/timmy2 best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/67a993bd-a81c-4e19-9c9f-dd53792eff2d-profile_image-70x70.png" group-title="Vagos",bennnistreams 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-streamlink twitch.tv/bennnistreams 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/67a993bd-a81c-4e19-9c9f-dd53792eff2d-profile_image-70x70.png" group-title="Vagos",bennnistreams 720p >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/bennnistreams 720p >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3b34b603-334a-4432-ad2d-c70318ee3004-profile_image-70x70.png" group-title="Vagos",natettvrp 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
