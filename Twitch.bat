@@ -320,6 +320,11 @@ streamlink twitch.tv/esfandtv 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulin
 streamlink twitch.tv/hirona 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9a29d40d-7b46-4610-9643-7deef27f94e5-profile_image-70x70.png" group-title="Cops",aarononair 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/aarononair 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
+
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/nikkisariot-profile_image-3d3448fe1613ab60-70x70.png" group-title="Cops",nikkisariot 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/nikkisariot 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
