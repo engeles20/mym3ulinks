@@ -485,6 +485,10 @@ streamlink twitch.tv/koil 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\T
 streamlink twitch.tv/timmac 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/dd90a581-c88e-4a24-98b4-c4768a1cedb4-profile_image-70x70.png" group-title="Casino_Pegasus",cathfawr_GSF 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/cathfawr 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/343206f6-abd6-47b7-9d51-080fbfed2716-profile_image-70x70.png" group-title="Casino_Pegasus",auxidental 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/auxidental 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
