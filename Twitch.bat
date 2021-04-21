@@ -47,8 +47,8 @@ streamlink twitch.tv/garek best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Tw
 streamlink twitch.tv/itsleslie best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ggqf-profile_image-e400fd10b8971bca-70x70.png" group-title="Roosters Rest",ggqf best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-streamlink twitch.tv/ggqf best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ggqf-profile_image-e400fd10b8971bca-70x70.png" group-title="Roosters Rest",ggqf 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/ggqf 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ca69bd69-4a5d-4fb0-aac8-d0dcb80f6a27-profile_image-70x70.png" group-title="Roosters Rest",SodaKite 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
