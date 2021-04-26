@@ -1,6 +1,6 @@
 pushd C:\Users\erick\Documents\GitHub\mym3ulinks
 timeout 3 > NUL
-@echo #EXTM3U > C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTM3U url-tvg="https://raw.githubusercontent.com/engeles20/mym3ulinks/main/EPGGuide.xml" > C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7f1cd66d-f145-4a0f-8e0e-5196c9c87410-profile_image-70x70.png" group-title="Roosters Rest",Buddha best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
