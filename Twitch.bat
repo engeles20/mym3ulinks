@@ -228,8 +228,8 @@ streamlink twitch.tv/kyle 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\T
 streamlink twitch.tv/penta 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo #EXTINF:-1 tvg-id="hexagonistlive.us" tvg-name="hexagonistlive" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/03f5185d-9d05-47f8-9256-baeb52af4aae-profile_image-70x70.png" group-title="Cops",hexagonistlive 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-streamlink twitch.tv/hexagonistlive 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-id="TheHexagonist.us" tvg-name="TheHexagonist" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/03f5185d-9d05-47f8-9256-baeb52af4aae-profile_image-70x70.png" group-title="Cops",TheHexagonist 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/TheHexagonist 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="moonmoon.us" tvg-name="moonmoon" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3973e918fe7cc8c8-profile_image-70x70.png" group-title="Cops",moonmoon 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
@@ -471,8 +471,8 @@ streamlink twitch.tv/jayce 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\
 streamlink twitch.tv/Saiiren 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo #EXTINF:-1 tvg-id="juggsrp.us" tvg-name="juggsrp" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a6fc1ee5-9f9c-4520-b874-9c68867f66ec-profile_image-70x70.png" group-title="Burger Shot",juggsrp 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-streamlink twitch.tv/juggsrp 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-id="juggs.us" tvg-name="juggs" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a6fc1ee5-9f9c-4520-b874-9c68867f66ec-profile_image-70x70.png" group-title="Burger Shot",juggs 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/juggs 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="Castro_1021.us" tvg-name="Castro_1021" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ed0f84d6-2d2d-4c4e-a5fe-7a3cc365684a-profile_image-70x70.jpg" group-title="Streamers",Castro_1021 best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
