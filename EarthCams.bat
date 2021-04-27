@@ -32,6 +32,11 @@ streamlink https://www.youtube.com/watch?v=eJ7ZkQ5TC08 best >> C:\Users\erick\Do
 @echo #EXTINF:-1 group-title="Earth_Cams",Santa Monica Beach Cam powered by EXPLORE >> C:\Users\erick\Documents\GitHub\mym3ulinks\EarthCams.m3u
 streamlink https://www.youtube.com/watch?v=OWbI6WtlI-k best >> C:\Users\erick\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\EarthCams.m3u
+@echo #EXTINF:-1 group-title="Earth_Cams",Florida Live Beach Cam on Fort Myers Beach Pier at Pierside Bar and Grill >> C:\Users\erick\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/watch?v=l6gSenZqmeU best >> C:\Users\erick\Documents\GitHub\mym3ulinks\EarthCams.m3u
+
+
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Earth_Cams",🐳 LIVE 24/7 🌴 Kaanapali Beach HD Maui Cam >> C:\Users\erick\Documents\GitHub\mym3ulinks\EarthCams.m3u
