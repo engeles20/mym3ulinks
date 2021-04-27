@@ -251,7 +251,7 @@ twitch-stream-check -f -t -g -v warrior_trading >> C:\Users\erick\Documents\GitH
 
 
 timeout 3 > NUL
-pushd C:\Users\erick\Documents\GitHub\mym3ulinks
+pushd C:\Batch Files\
 timeout 3 > NUL
-call test.bat
+call launch_bat.vbs
 
