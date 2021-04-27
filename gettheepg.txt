@@ -247,3 +247,11 @@ twitch-stream-check -f -t -g -v COREANOLOCOLIVE >> C:\Users\erick\Documents\GitH
 twitch-stream-check -f -t -g -v awkwards_travel >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 twitch-stream-check -f -t -g -v woke >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 twitch-stream-check -f -t -g -v warrior_trading >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+
+
+
+timeout 3 > NUL
+pushd C:\Users\erick\Documents\GitHub\mym3ulinks
+timeout 3 > NUL
+call test.bat
+
