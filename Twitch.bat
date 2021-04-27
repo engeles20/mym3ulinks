@@ -55,7 +55,7 @@ streamlink twitch.tv/ggqf 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\T
 streamlink twitch.tv/SodaKite 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo #EXTINF:-1 tvg-id="shiny.us" tvg-name="shiny" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/be877674-e4a8-4c2f-8b9d-95078dc7ba05-profile_image-70x70.png" group-title="Roosters Rest",shiny 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-id="shiny.us" tvg-name="shiny" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7e0e9390-b8c3-4f06-aa94-4b7f5ca75b65-profile_image-70x70.png" group-title="Roosters Rest",shiny 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/shiny 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
