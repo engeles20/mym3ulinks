@@ -64,6 +64,7 @@ CALL twitch-stream-check -s -m -p afriicansnowball >> C:\Users\erick\Documents\G
 CALL twitch-stream-check -s -m -p nokingu >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p uhsnow >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p ziggy >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p hobbittrash >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p kinamazing >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p kiwo >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p primal >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
@@ -188,6 +189,7 @@ CALL twitch-stream-check -f -t -g -v afriicansnowball >> C:\Users\erick\Document
 CALL twitch-stream-check -f -t -g -v nokingu >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v uhsnow >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v ziggy >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v hobbittrash >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v kinamazing >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v kiwo >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v primal >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
@@ -494,6 +496,11 @@ streamlink twitch.tv/hirona 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="aarononair.us" tvg-name="aarononair" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9a29d40d-7b46-4610-9643-7deef27f94e5-profile_image-70x70.png" group-title="Cops",aarononair 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/aarononair 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
+
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-id="hobbittrash.us" tvg-name="hobbittrash" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c6ed5cc2-744f-4bd7-bd85-9d183137692f-profile_image-70x70.png" group-title="Cops",hobbittrash 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/hobbittrash 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
