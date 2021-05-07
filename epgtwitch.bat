@@ -834,4 +834,6 @@ git pull
 timeout 3 >> NUL
 git push
 timeout 3 >> NUL
+pushd C:\Users\erick\Documents\lif
+call test4.bat
 
