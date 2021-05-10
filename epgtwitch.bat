@@ -406,7 +406,7 @@ streamlink twitch.tv/roflgator 720p60 >> C:\Users\erick\Documents\GitHub\mym3uli
 streamlink twitch.tv/ramee best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="ramee.us" tvg-name="ramee" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/852b713a-dd69-4a15-9edb-384b8edd3d2d-profile_image-70x70.png" group-title="Chang_Gang",ramee 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-streamlink twitch.tv/ramee 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/ramee 720p50 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="ratedepicz.us" tvg-name="ratedepicz" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/647b139f-4cd1-4a6f-9dc2-40113781bf15-profile_image-70x70.png" group-title="Chang_Gang",ratedepicz best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
