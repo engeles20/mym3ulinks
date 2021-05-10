@@ -89,6 +89,8 @@ CALL twitch-stream-check -s -m -p itssammyp >> C:\Users\erick\Documents\GitHub\m
 CALL twitch-stream-check -s -m -p lagtvmaximusblack >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p lucky_rp >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p dwjft >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p spanser_ >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p nikez >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p koil >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p timmac >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p nidas >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
@@ -214,6 +216,8 @@ CALL twitch-stream-check -f -t -g -v itssammyp >> C:\Users\erick\Documents\GitHu
 CALL twitch-stream-check -f -t -g -v lagtvmaximusblack >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v lucky_rp >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v dwjft >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v spanser_ >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v nikez >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v koil >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v timmac >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v nidas >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
@@ -665,6 +669,23 @@ streamlink twitch.tv/dwjft best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Tw
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="dwjft.us" tvg-name="dwjft" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/562c956b-f59d-4a7b-8715-c88827127970-profile_image-70x70.png" group-title="Casino_Pegasus",dwjft 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/dwjft 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-id="spanser_.us" tvg-name="spanser_" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/680a4996-9868-4888-8208-b18f92afaed5-profile_image-70x70.png" group-title="Casino_Pegasus",spanser_ best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/spanser_ best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-id="spanser_.us" tvg-name="spanser_" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/680a4996-9868-4888-8208-b18f92afaed5-profile_image-70x70.png" group-title="Casino_Pegasus",spanser_ 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/spanser_ 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-id="nikez.us" tvg-name="nikez" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e70e266a-f7cf-488f-a4b5-540ea879abfb-profile_image-70x70.png" group-title="Casino_Pegasus",nikez best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/nikez best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-id="nikez.us" tvg-name="nikez" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e70e266a-f7cf-488f-a4b5-540ea879abfb-profile_image-70x70.png" group-title="Casino_Pegasus",nikez 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/nikez 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
+
+
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="koil.us" tvg-name="koil" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2f781a88-ef79-493c-aaed-ae4e3ebcd395-profile_image-70x70.png" group-title="Casino_Pegasus",koil best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
