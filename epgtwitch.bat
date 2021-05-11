@@ -309,7 +309,7 @@ streamlink twitch.tv/SodaKite 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulin
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="shiny.us" tvg-name="shiny" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7e0e9390-b8c3-4f06-aa94-4b7f5ca75b65-profile_image-70x70.png" group-title="Roosters Rest",shiny 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-streamlink twitch.tv/shiny 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/shiny best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="nerdandi.us" tvg-name="nerdandi" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/nerdandi-profile_image-2e3f9b3cc93818bc-70x70.png" group-title="Roosters Rest",nerdandi best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
