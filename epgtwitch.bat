@@ -673,9 +673,7 @@ streamlink twitch.tv/dwjft 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="spanser_.us" tvg-name="spanser_" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/680a4996-9868-4888-8208-b18f92afaed5-profile_image-70x70.png" group-title="Casino_Pegasus",spanser_ best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/spanser_ best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo #EXTINF:-1 tvg-id="spanser_.us" tvg-name="spanser_" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/680a4996-9868-4888-8208-b18f92afaed5-profile_image-70x70.png" group-title="Casino_Pegasus",spanser_ 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-streamlink twitch.tv/spanser_ 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="nikez.us" tvg-name="nikez" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e70e266a-f7cf-488f-a4b5-540ea879abfb-profile_image-70x70.png" group-title="Casino_Pegasus",nikez best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
