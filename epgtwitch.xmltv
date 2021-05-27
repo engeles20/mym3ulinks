@@ -1,19 +1,5 @@
-An error occured! Error: getaddrinfo ENOTFOUND api.twitch.tv
-    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
-  errno: -3008,
-  code: 'ENOTFOUND',
-  syscall: 'getaddrinfo',
-  hostname: 'api.twitch.tv',
-  response: undefined
-}
-An error occured! Error: getaddrinfo ENOTFOUND api.twitch.tv
-    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
-  errno: -3008,
-  code: 'ENOTFOUND',
-  syscall: 'getaddrinfo',
-  hostname: 'api.twitch.tv',
-  response: undefined
-}
+
+
 
 
 
@@ -41,9 +27,7 @@ An error occured! Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 
 
-<channel id="Crystalst.us">
-<display-name>Crystalst</display-name>
-</channel>
+
 
 
 
@@ -104,9 +88,7 @@ An error occured! Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 
 
-<channel id="Lysium.us">
-<display-name>Lysium</display-name>
-</channel>
+
 
 
 
@@ -120,8 +102,12 @@ An error occured! Error: getaddrinfo ENOTFOUND api.twitch.tv
 <channel id="Itssammyp.us">
 <display-name>Itssammyp</display-name>
 </channel>
-
-
+<channel id="Lagtvmaximusblack.us">
+<display-name>Lagtvmaximusblack</display-name>
+</channel>
+<channel id="Noelusionz.us">
+<display-name>Noelusionz</display-name>
+</channel>
 <channel id="Xreklez.us">
 <display-name>Xreklez</display-name>
 </channel>
@@ -137,9 +123,7 @@ An error occured! Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 
 
-<channel id="Ray__c.us">
-<display-name>Ray__c</display-name>
-</channel>
+
 
 
 
@@ -192,7 +176,7 @@ An error occured! Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Uberhaxornova.us">
 <title lang="en" > Stopping all Fishermans | NoPixel | Creator Code: Nova | check !paststreams </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 5921 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 6182 </desc>
 </programme>
 
 
@@ -206,11 +190,7 @@ An error occured! Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 
 
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Crystalst.us">
-<title lang="en" > lil late night stream x | NoPixel 3.0 | !nordvpn
- </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 3239 </desc>
-</programme>
+
 
 
 
@@ -222,7 +202,7 @@ An error occured! Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Msteamkk.us">
 <title lang="en" > Riley Carter NoPixel | !court </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1045 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 893 </desc>
 </programme>
 
 
@@ -249,7 +229,7 @@ An error occured! Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Curvyelephant.us">
 <title lang="en" > Undersheriff Matt Rhodes | NoPixel 3.0 | !k9 !discord </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 3114 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 3395 </desc>
 </programme>
 
 
@@ -257,19 +237,19 @@ An error occured! Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Ziggy.us">
 <title lang="en" > special stream || NoPixel 3.0 || @ziggyjg on !socials </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1528 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1993 </desc>
 </programme>
 
 
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Primal.us">
 <title lang="en" > Kareem | 2 YEAR PARTNER SUBATHON | !subathon | !socials </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 601 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 632 </desc>
 </programme>
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Ladyhope.us">
 <title lang="en" > NoPixel | Senior Officer Pond - Probationary FTO & Detective </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 151 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 208 </desc>
 </programme>
 
 
@@ -277,10 +257,7 @@ An error occured! Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 
 
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Lysium.us">
-<title lang="en" > 🐝 BENJI MAKES MONEY | NEW TWITCH CONTRACT | NoPixel 3.0 | GTA RP | @LysiumGG | youtube.com/Lysium </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 4117 </desc>
-</programme>
+
 
 
 
@@ -289,18 +266,24 @@ An error occured! Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Kongfue.us">
 <title lang="en" > NoPixel 3.0 | KJ | Lets goooo, money moves!! . !RP !meta !Vagos </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 220 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 661 </desc>
 </programme>
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Itssammyp.us">
 <title lang="en" > !nopixel - Mando - Ballas </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 278 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 360 </desc>
 </programme>
-
-
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Lagtvmaximusblack.us">
+<title lang="en" > OTT -  Label Killer - WARRRR !DissTrack Music & Ballas !NordVPN !Elgato  </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1050 </desc>
+</programme>
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Noelusionz.us">
+<title lang="en" > 🔴War with Vagos? Who-Chang Killas - Bobby Beats the Balla - Nopixel 🎙!podcast 🔔!twitter - 🎹DMCA Free !Music - ENG/NA - Music Production </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 21 </desc>
+</programme>
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Xreklez.us">
 <title lang="en" > Chico | Vagos | Nopixel 3.0 </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 51 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 57 </desc>
 </programme>
 
 
@@ -310,15 +293,12 @@ An error occured! Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Timmac.us">
 <title lang="en" > Sergeant Mack | 308 | NoPixel </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 8169 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 9180 </desc>
 </programme>
 
 
 
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Ray__c.us">
-<title lang="en" > FIRST RE Village Playthough Part 3 - HARDCORE!  </title>
-<desc lang="en"> Game: Resident Evil Village  Viewers: 2868 </desc>
-</programme>
+
 
 
 
@@ -327,7 +307,7 @@ An error occured! Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Saiiren.us">
 <title lang="en" > AI MUSORI / BETCH / EGG | NoPixel 3.0 | !nordvpn </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1508 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1806 </desc>
 </programme>
 
 
@@ -340,7 +320,7 @@ An error occured! Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Retrogaijin.us">
 <title lang="en" > IRL, Japan - Big in Tokyo | Silver Hair btw | !move !discord !social </title>
-<desc lang="en"> Game: Just Chatting  Viewers: 1890 </desc>
+<desc lang="en"> Game: Just Chatting  Viewers: 1809 </desc>
 </programme>
 
 
@@ -350,7 +330,7 @@ An error occured! Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Awkwards_travel.us">
 <title lang="en" > Chill w/ me! BANGKOK, THAILAND </title>
-<desc lang="en"> Game: Just Chatting  Viewers: 1009 </desc>
+<desc lang="en"> Game: Just Chatting  Viewers: 905 </desc>
 </programme>
 
 
