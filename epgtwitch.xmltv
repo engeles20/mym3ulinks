@@ -66,9 +66,211 @@
 <channel id="Deansocool.us">
 <display-name>Deansocool</display-name>
 </channel>
-<channel id="Cyr.us">
-<display-name>Cyr</display-name>
-</channel>
+An error occured! Error: Gateway Timeout
+    at Request.callback (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:883:15)
+    at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:20)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  status: 504,
+  response: <ref *1> Response {
+    _events: [Object: null prototype] {},
+    _eventsCount: 0,
+    _maxListeners: undefined,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      headers: [Object],
+      rawHeaders: [Array],
+      trailers: {},
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 504,
+      statusMessage: 'Gateway Time-out',
+      client: [TLSSocket],
+      _consuming: true,
+      _dumped: false,
+      req: [ClientRequest],
+      text: '<html>\r\n' +
+        '<head><title>504 Gateway Time-out</title></head>\r\n' +
+        '<body>\r\n' +
+        '<center><h1>504 Gateway Time-out</h1></center>\r\n' +
+        '</body>\r\n' +
+        '</html>\r\n',
+      [Symbol(kCapture)]: false,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    request: Request {
+      _events: [Object: null prototype] {},
+      _eventsCount: 0,
+      _maxListeners: undefined,
+      _enableHttp2: false,
+      _agent: false,
+      _formData: null,
+      method: 'GET',
+      url: 'https://api.twitch.tv/kraken/users?login=cyr',
+      _header: [Object],
+      header: [Object],
+      writable: true,
+      _redirects: 0,
+      _maxRedirects: 5,
+      cookies: '',
+      qs: {},
+      _query: [],
+      qsRaw: [],
+      _redirectList: [],
+      _streamRequest: false,
+      req: [ClientRequest],
+      protocol: 'https:',
+      host: 'api.twitch.tv',
+      _endCalled: true,
+      _callback: [Function (anonymous)],
+      res: [IncomingMessage],
+      _resBuffered: true,
+      response: [Circular *1],
+      called: true,
+      [Symbol(kCapture)]: false
+    },
+    req: ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: false,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: 0,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [TLSSocket],
+      _header: 'GET /kraken/users?login=cyr HTTP/1.1\r\n' +
+        'Host: api.twitch.tv\r\n' +
+        'Accept-Encoding: gzip, deflate\r\n' +
+        'Client-ID: 3zzmx0l2ph50anf78iefr6su9d8byj8\r\n' +
+        'Accept: application/vnd.twitchtv.v5+json\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'GET',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/kraken/users?login=cyr',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.twitch.tv',
+      protocol: 'https:',
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    text: '<html>\r\n' +
+      '<head><title>504 Gateway Time-out</title></head>\r\n' +
+      '<body>\r\n' +
+      '<center><h1>504 Gateway Time-out</h1></center>\r\n' +
+      '</body>\r\n' +
+      '</html>\r\n',
+    body: {},
+    files: undefined,
+    buffered: true,
+    headers: {
+      connection: 'close',
+      'content-length': '132',
+      server: 'awselb/2.0',
+      'content-type': 'text/html',
+      date: 'Sat, 05 Jun 2021 05:00:32 GMT',
+      'x-served-by': 'cache-sea4473-SEA, cache-dfw18653-DFW',
+      'x-cache': 'MISS, MISS',
+      'x-cache-hits': '0, 0',
+      'x-timer': 'S1622869222.944228,VS0,VS0,VE10059',
+      'strict-transport-security': 'max-age=300'
+    },
+    header: {
+      connection: 'close',
+      'content-length': '132',
+      server: 'awselb/2.0',
+      'content-type': 'text/html',
+      date: 'Sat, 05 Jun 2021 05:00:32 GMT',
+      'x-served-by': 'cache-sea4473-SEA, cache-dfw18653-DFW',
+      'x-cache': 'MISS, MISS',
+      'x-cache-hits': '0, 0',
+      'x-timer': 'S1622869222.944228,VS0,VS0,VE10059',
+      'strict-transport-security': 'max-age=300'
+    },
+    statusCode: 504,
+    status: 504,
+    statusType: 5,
+    info: false,
+    ok: false,
+    redirect: false,
+    clientError: false,
+    serverError: true,
+    error: Error: cannot GET /kraken/users?login=cyr (504)
+        at Response.toError (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:98:13)
+        at ResponseBase._setStatusProperties (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\response-base.js:119:48)
+        at new Response (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:44:8)
+        at Request._emitResponse (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:930:18)
+        at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:42)
+        at IncomingMessage.emit (events.js:327:22)
+        at endReadableNT (internal/streams/readable.js:1327:12)
+        at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+      status: 504,
+      text: '<html>\r\n' +
+        '<head><title>504 Gateway Time-out</title></head>\r\n' +
+        '<body>\r\n' +
+        '<center><h1>504 Gateway Time-out</h1></center>\r\n' +
+        '</body>\r\n' +
+        '</html>\r\n',
+      method: 'GET',
+      path: '/kraken/users?login=cyr'
+    },
+    created: false,
+    accepted: false,
+    noContent: false,
+    badRequest: false,
+    unauthorized: false,
+    notAcceptable: false,
+    forbidden: false,
+    notFound: false,
+    unprocessableEntity: false,
+    type: 'text/html',
+    links: {},
+    setEncoding: [Function: bound ],
+    redirects: [],
+    pipe: [Function (anonymous)],
+    [Symbol(kCapture)]: false
+  }
+}
 
 
 
@@ -84,9 +286,7 @@
 <channel id="Moonmoon.us">
 <display-name>Moonmoon</display-name>
 </channel>
-<channel id="Esfandtv.us">
-<display-name>Esfandtv</display-name>
-</channel>
+
 
 
 
@@ -152,7 +352,9 @@
 
 
 
-
+<channel id="Cathfawr.us">
+<display-name>Cathfawr</display-name>
+</channel>
 
 <channel id="Ray__c.us">
 <display-name>Ray__c</display-name>
@@ -162,7 +364,211 @@
 
 
 
-
+An error occured! Error: Gateway Timeout
+    at Request.callback (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:883:15)
+    at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:20)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  status: 504,
+  response: <ref *1> Response {
+    _events: [Object: null prototype] {},
+    _eventsCount: 0,
+    _maxListeners: undefined,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      headers: [Object],
+      rawHeaders: [Array],
+      trailers: {},
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 504,
+      statusMessage: 'Gateway Time-out',
+      client: [TLSSocket],
+      _consuming: true,
+      _dumped: false,
+      req: [ClientRequest],
+      text: '<html>\r\n' +
+        '<head><title>504 Gateway Time-out</title></head>\r\n' +
+        '<body>\r\n' +
+        '<center><h1>504 Gateway Time-out</h1></center>\r\n' +
+        '</body>\r\n' +
+        '</html>\r\n',
+      [Symbol(kCapture)]: false,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    request: Request {
+      _events: [Object: null prototype] {},
+      _eventsCount: 0,
+      _maxListeners: undefined,
+      _enableHttp2: false,
+      _agent: false,
+      _formData: null,
+      method: 'GET',
+      url: 'https://api.twitch.tv/kraken/streams/40531123',
+      _header: [Object],
+      header: [Object],
+      writable: true,
+      _redirects: 0,
+      _maxRedirects: 5,
+      cookies: '',
+      qs: {},
+      _query: [],
+      qsRaw: [],
+      _redirectList: [],
+      _streamRequest: false,
+      req: [ClientRequest],
+      protocol: 'https:',
+      host: 'api.twitch.tv',
+      _endCalled: true,
+      _callback: [Function: response],
+      res: [IncomingMessage],
+      _resBuffered: true,
+      response: [Circular *1],
+      called: true,
+      [Symbol(kCapture)]: false
+    },
+    req: ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: false,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: 0,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [TLSSocket],
+      _header: 'GET /kraken/streams/40531123 HTTP/1.1\r\n' +
+        'Host: api.twitch.tv\r\n' +
+        'Accept-Encoding: gzip, deflate\r\n' +
+        'Client-ID: 3zzmx0l2ph50anf78iefr6su9d8byj8\r\n' +
+        'Accept: application/vnd.twitchtv.v5+json\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'GET',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/kraken/streams/40531123',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.twitch.tv',
+      protocol: 'https:',
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    text: '<html>\r\n' +
+      '<head><title>504 Gateway Time-out</title></head>\r\n' +
+      '<body>\r\n' +
+      '<center><h1>504 Gateway Time-out</h1></center>\r\n' +
+      '</body>\r\n' +
+      '</html>\r\n',
+    body: {},
+    files: undefined,
+    buffered: true,
+    headers: {
+      connection: 'close',
+      'content-length': '132',
+      server: 'awselb/2.0',
+      'content-type': 'text/html',
+      date: 'Sat, 05 Jun 2021 05:01:25 GMT',
+      'x-served-by': 'cache-sea4432-SEA, cache-dal21246-DAL',
+      'x-cache': 'MISS, MISS',
+      'x-cache-hits': '0, 0',
+      'x-timer': 'S1622869276.618314,VS0,VS0,VE10054',
+      'strict-transport-security': 'max-age=300'
+    },
+    header: {
+      connection: 'close',
+      'content-length': '132',
+      server: 'awselb/2.0',
+      'content-type': 'text/html',
+      date: 'Sat, 05 Jun 2021 05:01:25 GMT',
+      'x-served-by': 'cache-sea4432-SEA, cache-dal21246-DAL',
+      'x-cache': 'MISS, MISS',
+      'x-cache-hits': '0, 0',
+      'x-timer': 'S1622869276.618314,VS0,VS0,VE10054',
+      'strict-transport-security': 'max-age=300'
+    },
+    statusCode: 504,
+    status: 504,
+    statusType: 5,
+    info: false,
+    ok: false,
+    redirect: false,
+    clientError: false,
+    serverError: true,
+    error: Error: cannot GET /kraken/streams/40531123 (504)
+        at Response.toError (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:98:13)
+        at ResponseBase._setStatusProperties (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\response-base.js:119:48)
+        at new Response (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:44:8)
+        at Request._emitResponse (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:930:18)
+        at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:42)
+        at IncomingMessage.emit (events.js:327:22)
+        at endReadableNT (internal/streams/readable.js:1327:12)
+        at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+      status: 504,
+      text: '<html>\r\n' +
+        '<head><title>504 Gateway Time-out</title></head>\r\n' +
+        '<body>\r\n' +
+        '<center><h1>504 Gateway Time-out</h1></center>\r\n' +
+        '</body>\r\n' +
+        '</html>\r\n',
+      method: 'GET',
+      path: '/kraken/streams/40531123'
+    },
+    created: false,
+    accepted: false,
+    noContent: false,
+    badRequest: false,
+    unauthorized: false,
+    notAcceptable: false,
+    forbidden: false,
+    notFound: false,
+    unprocessableEntity: false,
+    type: 'text/html',
+    links: {},
+    setEncoding: [Function: bound ],
+    redirects: [],
+    pipe: [Function (anonymous)],
+    [Symbol(kCapture)]: false
+  }
+}
 <channel id="Jayce.us">
 <display-name>Jayce</display-name>
 </channel>
@@ -205,27 +611,27 @@
 <display-name>Xqcow</display-name>
 </channel>
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Buddha.us">
-<title lang="en" > Lang Buddha - NoPixel </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 17195 </desc>
+<title lang="en" > !stake #AD +18 DONT GAMBLE  </title>
+<desc lang="en"> Game: Slots  Viewers: 10340 </desc>
 </programme>
 
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="AnthonyZ.us">
 <title lang="en" > 24hr??? | !Giveaway | !F1 | TONY CORLEONE | NoPixel WL | STREAMS MON-SAT 9:30AM CT </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 5156 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 4794 </desc>
 </programme>
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Thechief1114.us">
 <title lang="en" > Fingle Dan - NoPixel </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 824 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 798 </desc>
 </programme>
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Biotoxz_.us">
 <title lang="en" > 70 Prot Warr | Getting Kara Attuned | old r1 men </title>
-<desc lang="en"> Game: World of Warcraft  Viewers: 104 </desc>
+<desc lang="en"> Game: World of Warcraft  Viewers: 126 </desc>
 </programme>
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Garek.us">
 <title lang="en" > Nopixel - Gloryon - Yuno Birthday Bash and Talon Training? </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 548 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 461 </desc>
 </programme>
 
 
@@ -234,12 +640,12 @@
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Evilshatner.us">
 <title lang="en" > NoPixel | Anna Swallows Los Santos </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 17 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 10 </desc>
 </programme>
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Uberhaxornova.us">
 <title lang="en" > Siz, Cop Siz, Cop, Different Cop? No idea. | NoPixel | Creator Code: Nova | check !paststreams </title>
-<desc lang="en"> Game: Just Chatting  Viewers: 340 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 3491 </desc>
 </programme>
 
 
@@ -247,7 +653,7 @@
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Ashi.us">
 <title lang="en" > Fiona - Racer/Jaywalker/Meth Queen | NoPixel RP </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 257 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 272 </desc>
 </programme>
 
 
@@ -257,36 +663,36 @@
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Whippy.us">
 <title lang="en" > Dundee 🔥 NoPixel l !NordVPN | !honey | !merch | !meta | twitter.com/whippynotpoopy </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 3415 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 4488 </desc>
 </programme>
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Kristoferyee.us">
 <title lang="en" > Ludwig PC Build | @KristoferYee on socials | !build !v1tech </title>
-<desc lang="en"> Game: Just Chatting  Viewers: 2288 </desc>
+<desc lang="en"> Game: Just Chatting  Viewers: 7448 </desc>
 </programme>
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Crystalst.us">
-<title lang="en" > Four Tee | NoPixel 3.0 | !nordvpn </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1544 </desc>
+<title lang="en" > Swan DeLeur | NoPixel 3.0 | !nordvpn </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1464 </desc>
 </programme>
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Kiva.us">
 <title lang="en" > Trig Happy | NoPixel Public Server  </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 966 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 795 </desc>
 </programme>
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Roflgator.us">
 <title lang="en" > KYLE, PENTA, CRUMP, AND DYRUS IN EXCITING DATING GAME </title>
-<desc lang="en"> Game: VRChat  Viewers: 2823 </desc>
+<desc lang="en"> Game: VRChat  Viewers: 3521 </desc>
 </programme>
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Ramee.us">
 <title lang="en" > Ramee | !Twitter | NoPixel | Chang Gang </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 8721 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 8173 </desc>
 </programme>
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Ratedepicz.us">
-<title lang="en" > Trooper A.J. Bullet | NoPixel Public Server | GTA V RP | !youtube !newvid </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 8877 </desc>
+<title lang="en" > Randy Buffet | NoPixel Public Server | GTA V RP | !youtube !newvid </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 11585 </desc>
 </programme>
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Summit1g.us">
 <title lang="en" > John. NoPixel. Merch dropped summit1g.gg  [ @summit1g ] </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 25971 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 28213 </desc>
 </programme>
 
 
@@ -294,34 +700,31 @@
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Deansocool.us">
 <title lang="en" > Dean Quincy |Drug King|NBC|  !socials  </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 567 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 584 </desc>
 </programme>
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Cyr.us">
-<title lang="en" > SCUFFED COOKING W/ ModeloAndy , HOMEMADE GOD-TIER PIZZA (GONE WRONG) MUST SEE. YOU WONT LAST 5 SECONDS WATCHING THIS </title>
-<desc lang="en"> Game: Just Chatting  Viewers: 4274 </desc>
+<title lang="en" > SCUFFED COOKING W/ ModeloAndy & SIMPLY | HOMEMADE GOD-TIER PIZZA (GONE WRONG) MUST SEE. YOU WONT LAST 5 SECONDS WATCHING THIS </title>
+<desc lang="en"> Game: Just Chatting  Viewers: 3676 </desc>
 </programme>
 
 
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Blaustoise.us">
 <title lang="en" > Don Bad | Changaloa Cartel | !glassy | !nordvpn | !honey </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 3235 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 826 </desc>
 </programme>
 
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Penta.us">
 <title lang="en" > VRCHAT DATING MASTERMIND  </title>
-<desc lang="en"> Game: VRChat  Viewers: 6910 </desc>
+<desc lang="en"> Game: VRChat  Viewers: 6356 </desc>
 </programme>
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Moonmoon.us">
 <title lang="en" > NoPixel public server | 200 Coohal McCohp </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 19804 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 18732 </desc>
 </programme>
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Esfandtv.us">
-<title lang="en" > LVL 70 (NICE (VIRGIN NUMBER)) PALADIN WARLORD OF WARCRAFT - A NEW HOPE </title>
-<desc lang="en"> Game: World of Warcraft  Viewers: 6971 </desc>
-</programme>
+
 
 
 
@@ -334,20 +737,20 @@
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Curvyllama.us">
 <title lang="en" > #SYPS[f] STARTS NOW! Grab your drink and lets get drunkkk </title>
-<desc lang="en"> Game: Resident Evil Village  Viewers: 342 </desc>
+<desc lang="en"> Game: Resident Evil Village  Viewers: 425 </desc>
 </programme>
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Curvyelephant.us">
 <title lang="en" > Elefanto, the Neato Resto Druido | !discord </title>
-<desc lang="en"> Game: World of Warcraft  Viewers: 194 </desc>
+<desc lang="en"> Game: World of Warcraft  Viewers: 208 </desc>
 </programme>
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Afriicansnowball.us">
 <title lang="en" > Cadet Carter | NoPixel 3.0 </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 142 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 112 </desc>
 </programme>
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Nokingu.us">
 <title lang="en" > King | Nopixel 3.0 | @nokingu_ </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 45 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 185 </desc>
 </programme>
 
 
@@ -364,8 +767,8 @@
 
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Lysium.us">
-<title lang="en" > 🐝 BENJI MAKES BANK | NoPixel 3.0 | GTA V RP | @LysiumGG | youtube.com/Lysium </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1953 </desc>
+<title lang="en" > 🐝 BENJI RACING THE NOS SUBIE | NoPixel 3.0 | GTA V RP | @LysiumGG | youtube.com/Lysium </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 2159 </desc>
 </programme>
 
 
@@ -376,7 +779,7 @@
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Adeptthebest.us">
 <title lang="en" > Selena on WL then Mari on Public Nopixel !NORDVPN </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 790 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 657 </desc>
 </programme>
 
 
@@ -390,11 +793,14 @@
 
 
 
-
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Cathfawr.us">
+<title lang="en" > Lydia Vale | NoPixel WL | !socials !nexus !NordVPN </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 133 </desc>
+</programme>
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Ray__c.us">
 <title lang="en" > Cleaning $$$ + Racing NEW Car for Upgrades (C8)! NoPixel + RE7 After! </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 2642 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 3188 </desc>
 </programme>
 
 
@@ -403,7 +809,7 @@
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Jayce.us">
 <title lang="en" > Best Dice Strats 🤑 !Stake 🎲 Use code JAYCE for FREE $3 BTC & instant VIP Rakeback on new account </title>
-<desc lang="en"> Game: Slots  Viewers: 40 </desc>
+<desc lang="en"> Game: Slots  Viewers: 55 </desc>
 </programme>
 
 
@@ -415,35 +821,35 @@
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Aa9skillz.us">
 <title lang="en" > PS5 RTG FUT CHAMPS!! RTG DAY 4 @aa9skillz </title>
-<desc lang="en"> Game: FIFA 21  Viewers: 1961 </desc>
+<desc lang="en"> Game: FIFA 21  Viewers: 1921 </desc>
 </programme>
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Ch14.us">
 <title lang="en" > ¡Vamos por las wins! | CHICHARITO EN WARZONE </title>
-<desc lang="en"> Game: Call of Duty: Warzone  Viewers: 2761 </desc>
+<desc lang="en"> Game: Call of Duty: Warzone  Viewers: 2340 </desc>
 </programme>
 
 
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="LotsOfBunnies.us">
 <title lang="en" > 30% OFF GFUEL CODE RAY! !store !gfuel </title>
-<desc lang="en"> Game: Call of Duty: Warzone  Viewers: 100 </desc>
+<desc lang="en"> Game: Call of Duty: Warzone  Viewers: 80 </desc>
 </programme>
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="TPAIN.us">
 <title lang="en" > We're back home from LA!! Still got work to do so let's answer some DMs !TheSquad !PizzlePack !rig !merch - I Like Dat !ilikedat </title>
-<desc lang="en"> Game: Music  Viewers: 2031 </desc>
+<desc lang="en"> Game: Music  Viewers: 1827 </desc>
 </programme>
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Awkwards_travel.us">
 <title lang="en" > Day Trip in Ancient City w/ !PPIM - AYUTTHAYA, THAILAND </title>
-<desc lang="en"> Game: Just Chatting  Viewers: 0 </desc>
+<desc lang="en"> Game: Just Chatting  Viewers: 308 </desc>
 </programme>
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Woke.us">
 <title lang="en" > 06/04/21 - WOKE.NET - DAY 375 </title>
-<desc lang="en"> Game: Just Chatting  Viewers: 292 </desc>
+<desc lang="en"> Game: Just Chatting  Viewers: 392 </desc>
 </programme>
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Xqcow.us">
 <title lang="en" > {NO-PIXEL} PUBLIC. RETURN OF X. BURGERSHOT HIRING, EMPLOYEE TRAINING, GRINDFATHER ARC, ROBBING BANKS. DOING STUFF ALL DAY (GONE TERRIBLE) </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 91359 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 91125 </desc>
 </programme>
