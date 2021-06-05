@@ -20,211 +20,7 @@
 <display-name>Uberhaxornova</display-name>
 </channel>
 
-An error occured! Error: Gateway Timeout
-    at Request.callback (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:883:15)
-    at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:20)
-    at IncomingMessage.emit (events.js:327:22)
-    at endReadableNT (internal/streams/readable.js:1327:12)
-    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
-  status: 504,
-  response: <ref *1> Response {
-    _events: [Object: null prototype] {},
-    _eventsCount: 0,
-    _maxListeners: undefined,
-    res: IncomingMessage {
-      _readableState: [ReadableState],
-      _events: [Object: null prototype],
-      _eventsCount: 4,
-      _maxListeners: undefined,
-      socket: [TLSSocket],
-      httpVersionMajor: 1,
-      httpVersionMinor: 1,
-      httpVersion: '1.1',
-      complete: true,
-      headers: [Object],
-      rawHeaders: [Array],
-      trailers: {},
-      rawTrailers: [],
-      aborted: false,
-      upgrade: false,
-      url: '',
-      method: null,
-      statusCode: 504,
-      statusMessage: 'Gateway Time-out',
-      client: [TLSSocket],
-      _consuming: true,
-      _dumped: false,
-      req: [ClientRequest],
-      text: '<html>\r\n' +
-        '<head><title>504 Gateway Time-out</title></head>\r\n' +
-        '<body>\r\n' +
-        '<center><h1>504 Gateway Time-out</h1></center>\r\n' +
-        '</body>\r\n' +
-        '</html>\r\n',
-      [Symbol(kCapture)]: false,
-      [Symbol(RequestTimeout)]: undefined
-    },
-    request: Request {
-      _events: [Object: null prototype] {},
-      _eventsCount: 0,
-      _maxListeners: undefined,
-      _enableHttp2: false,
-      _agent: false,
-      _formData: null,
-      method: 'GET',
-      url: 'https://api.twitch.tv/kraken/users?login=Spaceboy',
-      _header: [Object],
-      header: [Object],
-      writable: true,
-      _redirects: 0,
-      _maxRedirects: 5,
-      cookies: '',
-      qs: {},
-      _query: [],
-      qsRaw: [],
-      _redirectList: [],
-      _streamRequest: false,
-      req: [ClientRequest],
-      protocol: 'https:',
-      host: 'api.twitch.tv',
-      _endCalled: true,
-      _callback: [Function (anonymous)],
-      res: [IncomingMessage],
-      _resBuffered: true,
-      response: [Circular *1],
-      called: true,
-      [Symbol(kCapture)]: false
-    },
-    req: ClientRequest {
-      _events: [Object: null prototype],
-      _eventsCount: 3,
-      _maxListeners: undefined,
-      outputData: [],
-      outputSize: 0,
-      writable: true,
-      destroyed: false,
-      _last: true,
-      chunkedEncoding: false,
-      shouldKeepAlive: false,
-      _defaultKeepAlive: true,
-      useChunkedEncodingByDefault: false,
-      sendDate: false,
-      _removedConnection: false,
-      _removedContLen: false,
-      _removedTE: false,
-      _contentLength: 0,
-      _hasBody: true,
-      _trailer: '',
-      finished: true,
-      _headerSent: true,
-      socket: [TLSSocket],
-      _header: 'GET /kraken/users?login=Spaceboy HTTP/1.1\r\n' +
-        'Host: api.twitch.tv\r\n' +
-        'Accept-Encoding: gzip, deflate\r\n' +
-        'Client-ID: 3zzmx0l2ph50anf78iefr6su9d8byj8\r\n' +
-        'Accept: application/vnd.twitchtv.v5+json\r\n' +
-        'Connection: close\r\n' +
-        '\r\n',
-      _keepAliveTimeout: 0,
-      _onPendingData: [Function: noopPendingOutput],
-      agent: [Agent],
-      socketPath: undefined,
-      method: 'GET',
-      maxHeaderSize: undefined,
-      insecureHTTPParser: undefined,
-      path: '/kraken/users?login=Spaceboy',
-      _ended: true,
-      res: [IncomingMessage],
-      aborted: false,
-      timeoutCb: null,
-      upgradeOrConnect: false,
-      parser: null,
-      maxHeadersCount: null,
-      reusedSocket: false,
-      host: 'api.twitch.tv',
-      protocol: 'https:',
-      [Symbol(kCapture)]: false,
-      [Symbol(kNeedDrain)]: false,
-      [Symbol(corked)]: 0,
-      [Symbol(kOutHeaders)]: [Object: null prototype]
-    },
-    text: '<html>\r\n' +
-      '<head><title>504 Gateway Time-out</title></head>\r\n' +
-      '<body>\r\n' +
-      '<center><h1>504 Gateway Time-out</h1></center>\r\n' +
-      '</body>\r\n' +
-      '</html>\r\n',
-    body: {},
-    files: undefined,
-    buffered: true,
-    headers: {
-      connection: 'close',
-      'content-length': '132',
-      server: 'awselb/2.0',
-      'content-type': 'text/html',
-      date: 'Sat, 05 Jun 2021 09:00:19 GMT',
-      'x-served-by': 'cache-sea4426-SEA, cache-dfw18675-DFW',
-      'x-cache': 'MISS, MISS',
-      'x-cache-hits': '0, 0',
-      'x-timer': 'S1622883610.902632,VS0,VS0,VE10058',
-      'strict-transport-security': 'max-age=300'
-    },
-    header: {
-      connection: 'close',
-      'content-length': '132',
-      server: 'awselb/2.0',
-      'content-type': 'text/html',
-      date: 'Sat, 05 Jun 2021 09:00:19 GMT',
-      'x-served-by': 'cache-sea4426-SEA, cache-dfw18675-DFW',
-      'x-cache': 'MISS, MISS',
-      'x-cache-hits': '0, 0',
-      'x-timer': 'S1622883610.902632,VS0,VS0,VE10058',
-      'strict-transport-security': 'max-age=300'
-    },
-    statusCode: 504,
-    status: 504,
-    statusType: 5,
-    info: false,
-    ok: false,
-    redirect: false,
-    clientError: false,
-    serverError: true,
-    error: Error: cannot GET /kraken/users?login=Spaceboy (504)
-        at Response.toError (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:98:13)
-        at ResponseBase._setStatusProperties (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\response-base.js:119:48)
-        at new Response (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:44:8)
-        at Request._emitResponse (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:930:18)
-        at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:42)
-        at IncomingMessage.emit (events.js:327:22)
-        at endReadableNT (internal/streams/readable.js:1327:12)
-        at processTicksAndRejections (internal/process/task_queues.js:80:21) {
-      status: 504,
-      text: '<html>\r\n' +
-        '<head><title>504 Gateway Time-out</title></head>\r\n' +
-        '<body>\r\n' +
-        '<center><h1>504 Gateway Time-out</h1></center>\r\n' +
-        '</body>\r\n' +
-        '</html>\r\n',
-      method: 'GET',
-      path: '/kraken/users?login=Spaceboy'
-    },
-    created: false,
-    accepted: false,
-    noContent: false,
-    badRequest: false,
-    unauthorized: false,
-    notAcceptable: false,
-    forbidden: false,
-    notFound: false,
-    unprocessableEntity: false,
-    type: 'text/html',
-    links: {},
-    setEncoding: [Function: bound ],
-    redirects: [],
-    pipe: [Function (anonymous)],
-    [Symbol(kCapture)]: false
-  }
-}
+
 
 
 
@@ -238,9 +34,7 @@ An error occured! Error: Gateway Timeout
 <channel id="Crystalst.us">
 <display-name>Crystalst</display-name>
 </channel>
-<channel id="Kiva.us">
-<display-name>Kiva</display-name>
-</channel>
+
 <channel id="Roflgator.us">
 <display-name>Roflgator</display-name>
 </channel>
@@ -286,7 +80,9 @@ An error occured! Error: Gateway Timeout
 
 
 
-
+<channel id="Ziggy.us">
+<display-name>Ziggy</display-name>
+</channel>
 
 
 
@@ -297,6 +93,247 @@ An error occured! Error: Gateway Timeout
 <channel id="Ladyhope.us">
 <display-name>Ladyhope</display-name>
 </channel>
+
+
+
+
+<channel id="Luka_aus.us">
+<display-name>Luka_aus</display-name>
+</channel>
+<channel id="Aus24.us">
+<display-name>Aus24</display-name>
+</channel>
+<channel id="Lysium.us">
+<display-name>Lysium</display-name>
+</channel>
+
+
+
+
+
+
+
+<channel id="Adeptthebest.us">
+<display-name>Adeptthebest</display-name>
+</channel>
+
+
+
+<channel id="Xreklez.us">
+<display-name>Xreklez</display-name>
+</channel>
+
+
+
+
+
+<channel id="Koil.us">
+<display-name>Koil</display-name>
+</channel>
+
+
+<channel id="Cathfawr.us">
+<display-name>Cathfawr</display-name>
+</channel>
+
+<channel id="Ray__c.us">
+<display-name>Ray__c</display-name>
+</channel>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<channel id="Awkwards_travel.us">
+<display-name>Awkwards_travel</display-name>
+</channel>
+
+
+<channel id="Xqcow.us">
+<display-name>Xqcow</display-name>
+</channel>
+
+
+
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="AnthonyZ.us">
+<title lang="en" > 24hr??? | !Giveaway | !F1 | TONY CORLEONE | NoPixel WL | STREAMS MON-SAT 9:30AM CT </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 6526 </desc>
+</programme>
+
+
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Biotoxz_.us">
+<title lang="en" > 70 Prot Warr | Getting Kara Attuned | old r1 men </title>
+<desc lang="en"> Game: World of Warcraft  Viewers: 197 </desc>
+</programme>
+
+
+
+
+
+
+
+
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Uberhaxornova.us">
+<title lang="en" > Siz, Cop Siz, Cop, Different Cop? No idea. | NoPixel | Creator Code: Nova | check !paststreams </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 4447 </desc>
+</programme>
+
+
+
+
+
+
+
+
+
+
+
+
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Kristoferyee.us">
+<title lang="en" > professional block placer OTV SMP :) | !rules !meta !mod !shaders | @KristoferYee on socials </title>
+<desc lang="en"> Game: Minecraft  Viewers: 4566 </desc>
+</programme>
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Crystalst.us">
+<title lang="en" > Just Chillin x | !nordvpn </title>
+<desc lang="en"> Game: osu!  Viewers: 869 </desc>
+</programme>
+
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Roflgator.us">
+<title lang="en" > (NoPixel) NEW FRIENDS COME TO BURGERSHOT </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 5061 </desc>
+</programme>
+
+
+
+
+
+
+
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Msteamkk.us">
+<title lang="en" > Riley Carter NoPixel | !court </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 802 </desc>
+</programme>
+
+
+
+
+
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Blaustoise.us">
+<title lang="en" > Michael S| Public Server Grind Time | !glassy | !nordvpn | !honey </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 3753 </desc>
+</programme>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Ziggy.us">
+<title lang="en" > Game Warden Ziggy Prayge || NoPixel || @ziggyjg on !socials </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 71 </desc>
+</programme>
+
+
+
+
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Hedisaurus.us">
+<title lang="en" > Ramona (Dispatch Bitch - SHORT STRUM) | discord.gg/hedisaurus </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 153 </desc>
+</programme>
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Ladyhope.us">
+<title lang="en" > NoPixel WL | Sr Officer Pond - FTO & Detective </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 160 </desc>
+</programme>
+
+
+
+
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Luka_aus.us">
+<title lang="en" > NoPixel 3.0 WL Server | Detective Sgt Kozlov | Major Crimes </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 52 </desc>
+</programme>
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Aus24.us">
+<title lang="en" > Jordan Walker | NoPixel 3.0 WL | #Harmony </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 46 </desc>
+</programme>
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Lysium.us">
+<title lang="en" > 🐝 BENJI SELLING DROGAS | NoPixel 3.0 | GTA V RP | @LysiumGG | youtube.com/Lysium </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 2455 </desc>
+</programme>
+
+
+
+
+
+
+
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Adeptthebest.us">
+<title lang="en" > MARIA POSER Nopixel !NORDVPN </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1716 </desc>
+</programme>
+
+
+
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Xreklez.us">
+<title lang="en" > Chico | GTA RP | Vagos | Nopixel 3.0 | !reddit !discord </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 91 </desc>
+</programme>
+
+
+
+
+
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Koil.us">
+<title lang="en" > Trooper SHT </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 6564 </desc>
+</programme>
+
+
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Cathfawr.us">
+<title lang="en" > Lydia Vale | NoPixel WL | !socials !nexus !NordVPN </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 365 </desc>
+</programme>
+
+<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Ray__c.us">
+<title lang="en" > Fully Upgraded Corvette Racing (C8)! NoPixel + RE7 After! </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 3370 </desc>
+</programme>
 
 
 
@@ -353,7 +390,7 @@ An error occured! Error: Gateway Timeout
       _agent: false,
       _formData: null,
       method: 'GET',
-      url: 'https://api.twitch.tv/kraken/users?login=luka_aus',
+      url: 'https://api.twitch.tv/kraken/users?login=jdotfield',
       _header: [Object],
       header: [Object],
       writable: true,
@@ -399,7 +436,7 @@ An error occured! Error: Gateway Timeout
       finished: true,
       _headerSent: true,
       socket: [TLSSocket],
-      _header: 'GET /kraken/users?login=luka_aus HTTP/1.1\r\n' +
+      _header: 'GET /kraken/users?login=jdotfield HTTP/1.1\r\n' +
         'Host: api.twitch.tv\r\n' +
         'Accept-Encoding: gzip, deflate\r\n' +
         'Client-ID: 3zzmx0l2ph50anf78iefr6su9d8byj8\r\n' +
@@ -413,7 +450,7 @@ An error occured! Error: Gateway Timeout
       method: 'GET',
       maxHeaderSize: undefined,
       insecureHTTPParser: undefined,
-      path: '/kraken/users?login=luka_aus',
+      path: '/kraken/users?login=jdotfield',
       _ended: true,
       res: [IncomingMessage],
       aborted: false,
@@ -443,11 +480,11 @@ An error occured! Error: Gateway Timeout
       'content-length': '132',
       server: 'awselb/2.0',
       'content-type': 'text/html',
-      date: 'Sat, 05 Jun 2021 09:01:01 GMT',
-      'x-served-by': 'cache-sea4473-SEA, cache-dfw18644-DFW',
+      date: 'Sat, 05 Jun 2021 10:02:05 GMT',
+      'x-served-by': 'cache-sea4481-SEA, cache-iah17222-IAH',
       'x-cache': 'MISS, MISS',
       'x-cache-hits': '0, 0',
-      'x-timer': 'S1622883651.476071,VS0,VS0,VE10059',
+      'x-timer': 'S1622887316.555103,VS0,VS0,VE10054',
       'strict-transport-security': 'max-age=300'
     },
     header: {
@@ -455,11 +492,11 @@ An error occured! Error: Gateway Timeout
       'content-length': '132',
       server: 'awselb/2.0',
       'content-type': 'text/html',
-      date: 'Sat, 05 Jun 2021 09:01:01 GMT',
-      'x-served-by': 'cache-sea4473-SEA, cache-dfw18644-DFW',
+      date: 'Sat, 05 Jun 2021 10:02:05 GMT',
+      'x-served-by': 'cache-sea4481-SEA, cache-iah17222-IAH',
       'x-cache': 'MISS, MISS',
       'x-cache-hits': '0, 0',
-      'x-timer': 'S1622883651.476071,VS0,VS0,VE10059',
+      'x-timer': 'S1622887316.555103,VS0,VS0,VE10054',
       'strict-transport-security': 'max-age=300'
     },
     statusCode: 504,
@@ -470,7 +507,7 @@ An error occured! Error: Gateway Timeout
     redirect: false,
     clientError: false,
     serverError: true,
-    error: Error: cannot GET /kraken/users?login=luka_aus (504)
+    error: Error: cannot GET /kraken/users?login=jdotfield (504)
         at Response.toError (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:98:13)
         at ResponseBase._setStatusProperties (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\response-base.js:119:48)
         at new Response (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:44:8)
@@ -487,7 +524,7 @@ An error occured! Error: Gateway Timeout
         '</body>\r\n' +
         '</html>\r\n',
       method: 'GET',
-      path: '/kraken/users?login=luka_aus'
+      path: '/kraken/users?login=jdotfield'
     },
     created: false,
     accepted: false,
@@ -506,49 +543,6 @@ An error occured! Error: Gateway Timeout
     [Symbol(kCapture)]: false
   }
 }
-<channel id="Aus24.us">
-<display-name>Aus24</display-name>
-</channel>
-<channel id="Lysium.us">
-<display-name>Lysium</display-name>
-</channel>
-
-
-
-
-
-
-
-<channel id="Adeptthebest.us">
-<display-name>Adeptthebest</display-name>
-</channel>
-
-
-
-<channel id="Xreklez.us">
-<display-name>Xreklez</display-name>
-</channel>
-
-
-
-
-
-<channel id="Koil.us">
-<display-name>Koil</display-name>
-</channel>
-
-
-<channel id="Cathfawr.us">
-<display-name>Cathfawr</display-name>
-</channel>
-
-<channel id="Ray__c.us">
-<display-name>Ray__c</display-name>
-</channel>
-
-
-
-
 An error occured! Error: Gateway Timeout
     at Request.callback (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:883:15)
     at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:20)
@@ -601,7 +595,7 @@ An error occured! Error: Gateway Timeout
       _agent: false,
       _formData: null,
       method: 'GET',
-      url: 'https://api.twitch.tv/kraken/streams/35618666',
+      url: 'https://api.twitch.tv/kraken/streams/139144469',
       _header: [Object],
       header: [Object],
       writable: true,
@@ -647,7 +641,7 @@ An error occured! Error: Gateway Timeout
       finished: true,
       _headerSent: true,
       socket: [TLSSocket],
-      _header: 'GET /kraken/streams/35618666 HTTP/1.1\r\n' +
+      _header: 'GET /kraken/streams/139144469 HTTP/1.1\r\n' +
         'Host: api.twitch.tv\r\n' +
         'Accept-Encoding: gzip, deflate\r\n' +
         'Client-ID: 3zzmx0l2ph50anf78iefr6su9d8byj8\r\n' +
@@ -661,7 +655,7 @@ An error occured! Error: Gateway Timeout
       method: 'GET',
       maxHeaderSize: undefined,
       insecureHTTPParser: undefined,
-      path: '/kraken/streams/35618666',
+      path: '/kraken/streams/139144469',
       _ended: true,
       res: [IncomingMessage],
       aborted: false,
@@ -691,11 +685,11 @@ An error occured! Error: Gateway Timeout
       'content-length': '132',
       server: 'awselb/2.0',
       'content-type': 'text/html',
-      date: 'Sat, 05 Jun 2021 09:01:27 GMT',
-      'x-served-by': 'cache-sea4420-SEA, cache-dfw18627-DFW',
+      date: 'Sat, 05 Jun 2021 10:02:16 GMT',
+      'x-served-by': 'cache-sea4454-SEA, cache-iah17221-IAH',
       'x-cache': 'MISS, MISS',
       'x-cache-hits': '0, 0',
-      'x-timer': 'S1622883678.823672,VS0,VS0,VE10059',
+      'x-timer': 'S1622887326.025906,VS0,VS0,VE10054',
       'strict-transport-security': 'max-age=300'
     },
     header: {
@@ -703,11 +697,11 @@ An error occured! Error: Gateway Timeout
       'content-length': '132',
       server: 'awselb/2.0',
       'content-type': 'text/html',
-      date: 'Sat, 05 Jun 2021 09:01:27 GMT',
-      'x-served-by': 'cache-sea4420-SEA, cache-dfw18627-DFW',
+      date: 'Sat, 05 Jun 2021 10:02:16 GMT',
+      'x-served-by': 'cache-sea4454-SEA, cache-iah17221-IAH',
       'x-cache': 'MISS, MISS',
       'x-cache-hits': '0, 0',
-      'x-timer': 'S1622883678.823672,VS0,VS0,VE10059',
+      'x-timer': 'S1622887326.025906,VS0,VS0,VE10054',
       'strict-transport-security': 'max-age=300'
     },
     statusCode: 504,
@@ -718,7 +712,7 @@ An error occured! Error: Gateway Timeout
     redirect: false,
     clientError: false,
     serverError: true,
-    error: Error: cannot GET /kraken/streams/35618666 (504)
+    error: Error: cannot GET /kraken/streams/139144469 (504)
         at Response.toError (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:98:13)
         at ResponseBase._setStatusProperties (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\response-base.js:119:48)
         at new Response (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:44:8)
@@ -735,7 +729,7 @@ An error occured! Error: Gateway Timeout
         '</body>\r\n' +
         '</html>\r\n',
       method: 'GET',
-      path: '/kraken/streams/35618666'
+      path: '/kraken/streams/139144469'
     },
     created: false,
     accepted: false,
@@ -771,209 +765,13 @@ An error occured! Error: Gateway Timeout
 
 
 
-
-
-
-<channel id="Awkwards_travel.us">
-<display-name>Awkwards_travel</display-name>
-</channel>
-
-
-<channel id="Xqcow.us">
-<display-name>Xqcow</display-name>
-</channel>
-
-
-
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="AnthonyZ.us">
-<title lang="en" > 24hr??? | !Giveaway | !F1 | TONY CORLEONE | NoPixel WL | STREAMS MON-SAT 9:30AM CT </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 6579 </desc>
-</programme>
-
-
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Biotoxz_.us">
-<title lang="en" > 70 Prot Warr | Getting Kara Attuned | old r1 men </title>
-<desc lang="en"> Game: World of Warcraft  Viewers: 191 </desc>
-</programme>
-
-
-
-
-
-
-
-
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Uberhaxornova.us">
-<title lang="en" > Siz, Cop Siz, Cop, Different Cop? No idea. | NoPixel | Creator Code: Nova | check !paststreams </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 4098 </desc>
-</programme>
-
-
-
-
-
-
-
-
-
-
-
-
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Kristoferyee.us">
-<title lang="en" > professional block placer OTV SMP :) | !rules !meta !mod !shaders | @KristoferYee on socials </title>
-<desc lang="en"> Game: Minecraft  Viewers: 4560 </desc>
-</programme>
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Crystalst.us">
-<title lang="en" > Swan DeLeur | NoPixel 3.0 - whitelisted server | !nordvpn </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1050 </desc>
-</programme>
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Kiva.us">
-<title lang="en" > Trig Happy | NoPixel Public Server  </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 670 </desc>
-</programme>
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Roflgator.us">
-<title lang="en" > (NoPixel) NEW FRIENDS COME TO BURGERSHOT </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 6526 </desc>
-</programme>
-
-
-
-
-
-
-
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Msteamkk.us">
-<title lang="en" > Riley Carter NoPixel | !court </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1069 </desc>
-</programme>
-
-
-
-
-
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Blaustoise.us">
-<title lang="en" > Michael S| Public Server Grind Time | !glassy | !nordvpn | !honey </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 4153 </desc>
-</programme>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Hedisaurus.us">
-<title lang="en" > Ramona (Dispatch Bitch - SHORT STRUM) | discord.gg/hedisaurus </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 150 </desc>
-</programme>
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Ladyhope.us">
-<title lang="en" > NoPixel WL | Sr Officer Pond - FTO & Detective </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 120 </desc>
-</programme>
-
-
-
-
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Luka_aus.us">
-<title lang="en" > NoPixel 3.0 WL Server | Detective Sgt Kozlov | Major Crimes </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1 </desc>
-</programme>
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Aus24.us">
-<title lang="en" > Jordan Walker | NoPixel 3.0 WL | #Harmony </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 55 </desc>
-</programme>
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Lysium.us">
-<title lang="en" > 🐝 BENJI SELLING DROGAS | NoPixel 3.0 | GTA V RP | @LysiumGG | youtube.com/Lysium </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 2595 </desc>
-</programme>
-
-
-
-
-
-
-
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Adeptthebest.us">
-<title lang="en" > MARIA POSER Nopixel !NORDVPN </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1644 </desc>
-</programme>
-
-
-
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Xreklez.us">
-<title lang="en" > Chico | GTA RP | Vagos | Nopixel 3.0 | !reddit !discord </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 97 </desc>
-</programme>
-
-
-
-
-
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Koil.us">
-<title lang="en" > Trooper SHT </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 3679 </desc>
-</programme>
-
-
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Cathfawr.us">
-<title lang="en" > Lydia Vale | NoPixel WL | !socials !nexus !NordVPN </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 377 </desc>
-</programme>
-
-<programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Ray__c.us">
-<title lang="en" > Fully Upgraded Corvette Racing (C8)! NoPixel + RE7 After! </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 3359 </desc>
-</programme>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Awkwards_travel.us">
 <title lang="en" > Day Trip in Ancient City w/ !PPIM - AYUTTHAYA, THAILAND </title>
-<desc lang="en"> Game: Just Chatting  Viewers: 587 </desc>
+<desc lang="en"> Game: Just Chatting  Viewers: 669 </desc>
 </programme>
 
 
 <programme start="20210515000000 +0000" stop="20210630010000 +0000" channel="Xqcow.us">
 <title lang="en" > {NO-PIXEL} PUBLIC. RETURN OF X. BURGERSHOT HIRING, EMPLOYEE TRAINING, GRINDFATHER ARC, ROBBING BANKS. DOING STUFF ALL DAY (GONE TERRIBLE) </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 100941 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 87591 </desc>
 </programme>
