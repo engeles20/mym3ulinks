@@ -1,43 +1,8 @@
-A Error: getaddrinfo ENOTFOUND api.twitch.tv
-    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
-  errno: -3008,
-  code: 'ENOTFOUND',
-  syscall: 'getaddrinfo',
-  hostname: 'api.twitch.tv',
-  response: undefined
-}
-A Error: getaddrinfo ENOTFOUND api.twitch.tv
-    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
-  errno: -3008,
-  code: 'ENOTFOUND',
-  syscall: 'getaddrinfo',
-  hostname: 'api.twitch.tv',
-  response: undefined
-}
-A Error: getaddrinfo ENOTFOUND api.twitch.tv
-    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
-  errno: -3008,
-  code: 'ENOTFOUND',
-  syscall: 'getaddrinfo',
-  hostname: 'api.twitch.tv',
-  response: undefined
-}
-A Error: getaddrinfo ENOTFOUND api.twitch.tv
-    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
-  errno: -3008,
-  code: 'ENOTFOUND',
-  syscall: 'getaddrinfo',
-  hostname: 'api.twitch.tv',
-  response: undefined
-}
-A Error: getaddrinfo ENOTFOUND api.twitch.tv
-    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
-  errno: -3008,
-  code: 'ENOTFOUND',
-  syscall: 'getaddrinfo',
-  hostname: 'api.twitch.tv',
-  response: undefined
-}
+
+
+
+
+
 
 
 
@@ -63,12 +28,8 @@ A Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 
 
-<channel id="Kiva.us">
-<display-name>Kiva</display-name>
-</channel>
-<channel id="Roflgator.us">
-<display-name>Roflgator</display-name>
-</channel>
+
+
 
 
 
@@ -107,7 +68,9 @@ A Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 
 
-
+<channel id="Ziggy.us">
+<display-name>Ziggy</display-name>
+</channel>
 
 
 
@@ -139,7 +102,9 @@ A Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 
 
-
+<channel id="Kongfue.us">
+<display-name>Kongfue</display-name>
+</channel>
 <channel id="Adeptthebest.us">
 <display-name>Adeptthebest</display-name>
 </channel>
@@ -189,9 +154,7 @@ A Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 
 
-<channel id="Awkwards_travel.us">
-<display-name>Awkwards_travel</display-name>
-</channel>
+
 
 
 
@@ -210,7 +173,7 @@ A Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Evilshatner.us">
 <title lang="en" > NoPixel | Anna Swallows Los Santos </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 31 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 44 </desc>
 </programme>
 
 
@@ -228,14 +191,8 @@ A Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 
 
-<programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Kiva.us">
-<title lang="en" > Trig Happy | NoPixel Public </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1721 </desc>
-</programme>
-<programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Roflgator.us">
-<title lang="en" > ACTUAL ARTISTS POG </title>
-<desc lang="en"> Game: Gartic Phone  Viewers: 3247 </desc>
-</programme>
+
+
 
 
 
@@ -244,7 +201,7 @@ A Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Silent.us">
 <title lang="en" > NoPixel WL | FLIPPY | SileNtCSGO on Twitter </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 2053 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 2184 </desc>
 </programme>
 
 
@@ -275,7 +232,10 @@ A Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 
 
-
+<programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Ziggy.us">
+<title lang="en" > Ranger Ziggy || NoPixel || @ziggyjg on !socials </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1013 </desc>
+</programme>
 
 
 
@@ -283,40 +243,43 @@ A Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Ladyhope.us">
 <title lang="en" > NoPixel WL | Sr Officer Pond - FTO & Detective </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 180 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 208 </desc>
 </programme>
 
 
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Hotted89.us">
 <title lang="en" > Sergeant Matthew Espinoz - Nopixel 3.0 WL </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 403 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 367 </desc>
 </programme>
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Luka_aus.us">
 <title lang="en" > NoPixel 3.0 WL Server | Detective Sgt Kozlov | Major Crimes </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 70 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 62 </desc>
 </programme>
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Aus24.us">
 <title lang="en" > LSPD's Finest... Davenport | NoPixel 3.0 WL | #Harmony </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 62 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 57 </desc>
 </programme>
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Lysium.us">
-<title lang="en" > 🐝 OFFICER DEAN DUNCAN | NoPixel Public | GTA V RP | @LysiumGG | youtube.com/Lysium </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 2915 </desc>
+<title lang="en" > 🐝 BENJI RAMOS | NoPixel Main | GTA V RP | @LysiumGG | youtube.com/Lysium </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 2796 </desc>
 </programme>
 
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Bennnistreams.us">
 <title lang="en" > SANTI - im hooked on racing - !music - !NoPixel - !esv </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 319 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 272 </desc>
 </programme>
 
 
 
-
+<programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Kongfue.us">
+<title lang="en" > NoPixel 3.0 | KJ | We are back with a short stream!  !RP !meta !Vagos </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 178 </desc>
+</programme>
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Adeptthebest.us">
 <title lang="en" > Mari Posa  !NORDVPN </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 3537 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 2931 </desc>
 </programme>
 
 
@@ -329,18 +292,18 @@ A Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Timmac.us">
-<title lang="en" > Sergeant Mack | 308 | NoPixel </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 3529 </desc>
+<title lang="en" > Trooper Gomer | NoPixel Public </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 5959 </desc>
 </programme>
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Cathfawr.us">
 <title lang="en" > Lydia Vale | NoPixel WL | !socials !nexus !NordVPN </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 423 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 467 </desc>
 </programme>
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Ray__c.us">
 <title lang="en" > Chill Day - Raycardo Flick Cop on Public NoPixel 3.0? #Sponsored by NVIDIA !GeForce </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 4994 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 4866 </desc>
 </programme>
 
 
@@ -365,10 +328,7 @@ A Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 
 
-<programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Awkwards_travel.us">
-<title lang="en" > BANGKOK: River Adventures - THAILAND </title>
-<desc lang="en"> Game: Just Chatting  Viewers: 1050 </desc>
-</programme>
+
 
 
 
