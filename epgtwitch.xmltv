@@ -1,35 +1,7 @@
-A Error: getaddrinfo ENOTFOUND api.twitch.tv
-    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
-  errno: -3008,
-  code: 'ENOTFOUND',
-  syscall: 'getaddrinfo',
-  hostname: 'api.twitch.tv',
-  response: undefined
-}
-A Error: getaddrinfo ENOTFOUND api.twitch.tv
-    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
-  errno: -3008,
-  code: 'ENOTFOUND',
-  syscall: 'getaddrinfo',
-  hostname: 'api.twitch.tv',
-  response: undefined
-}
-A Error: getaddrinfo ENOTFOUND api.twitch.tv
-    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
-  errno: -3008,
-  code: 'ENOTFOUND',
-  syscall: 'getaddrinfo',
-  hostname: 'api.twitch.tv',
-  response: undefined
-}
-A Error: getaddrinfo ENOTFOUND api.twitch.tv
-    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
-  errno: -3008,
-  code: 'ENOTFOUND',
-  syscall: 'getaddrinfo',
-  hostname: 'api.twitch.tv',
-  response: undefined
-}
+
+
+
+
 
 
 
@@ -82,9 +54,7 @@ A Error: getaddrinfo ENOTFOUND api.twitch.tv
 
 
 
-<channel id="Esfandtv.us">
-<display-name>Esfandtv</display-name>
-</channel>
+
 
 
 
@@ -114,225 +84,19 @@ A Error: getaddrinfo ENOTFOUND api.twitch.tv
 </channel>
 
 
+<channel id="Sock22.us">
+<display-name>Sock22</display-name>
+</channel>
 
-A Error: Internal Server Error
-    at Request.callback (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:883:15)
-    at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:20)
-    at IncomingMessage.emit (events.js:327:22)
-    at endReadableNT (internal/streams/readable.js:1327:12)
-    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
-  status: 500,
-  response: <ref *1> Response {
-    _events: [Object: null prototype] {},
-    _eventsCount: 0,
-    _maxListeners: undefined,
-    res: IncomingMessage {
-      _readableState: [ReadableState],
-      _events: [Object: null prototype],
-      _eventsCount: 4,
-      _maxListeners: undefined,
-      socket: [TLSSocket],
-      httpVersionMajor: 1,
-      httpVersionMinor: 1,
-      httpVersion: '1.1',
-      complete: true,
-      headers: [Object],
-      rawHeaders: [Array],
-      trailers: {},
-      rawTrailers: [],
-      aborted: false,
-      upgrade: false,
-      url: '',
-      method: null,
-      statusCode: 500,
-      statusMessage: 'Service Not Found',
-      client: [TLSSocket],
-      _consuming: true,
-      _dumped: false,
-      req: [ClientRequest],
-      text: '\n' +
-        '<html>\n' +
-        '<head>\n' +
-        '<title>Fastly error: unknown domain: api.twitch.tv</title>\n' +
-        '</head>\n' +
-        '<body>\n' +
-        '<p>Fastly error: unknown domain: api.twitch.tv.</p>\n' +
-        '<p>Details: cache-iah17262-IAH</p></body></html>',
-      [Symbol(kCapture)]: false,
-      [Symbol(RequestTimeout)]: undefined
-    },
-    request: Request {
-      _events: [Object: null prototype] {},
-      _eventsCount: 0,
-      _maxListeners: undefined,
-      _enableHttp2: false,
-      _agent: false,
-      _formData: null,
-      method: 'GET',
-      url: 'https://api.twitch.tv/kraken/streams/47026536',
-      _header: [Object],
-      header: [Object],
-      writable: true,
-      _redirects: 0,
-      _maxRedirects: 5,
-      cookies: '',
-      qs: {},
-      _query: [],
-      qsRaw: [],
-      _redirectList: [],
-      _streamRequest: false,
-      req: [ClientRequest],
-      protocol: 'https:',
-      host: 'api.twitch.tv',
-      _endCalled: true,
-      _callback: [Function: response],
-      res: [IncomingMessage],
-      _resBuffered: true,
-      response: [Circular *1],
-      called: true,
-      [Symbol(kCapture)]: false
-    },
-    req: ClientRequest {
-      _events: [Object: null prototype],
-      _eventsCount: 3,
-      _maxListeners: undefined,
-      outputData: [],
-      outputSize: 0,
-      writable: true,
-      destroyed: false,
-      _last: true,
-      chunkedEncoding: false,
-      shouldKeepAlive: false,
-      _defaultKeepAlive: true,
-      useChunkedEncodingByDefault: false,
-      sendDate: false,
-      _removedConnection: false,
-      _removedContLen: false,
-      _removedTE: false,
-      _contentLength: 0,
-      _hasBody: true,
-      _trailer: '',
-      finished: true,
-      _headerSent: true,
-      socket: [TLSSocket],
-      _header: 'GET /kraken/streams/47026536 HTTP/1.1\r\n' +
-        'Host: api.twitch.tv\r\n' +
-        'Accept-Encoding: gzip, deflate\r\n' +
-        'Client-ID: 3zzmx0l2ph50anf78iefr6su9d8byj8\r\n' +
-        'Accept: application/vnd.twitchtv.v5+json\r\n' +
-        'Connection: close\r\n' +
-        '\r\n',
-      _keepAliveTimeout: 0,
-      _onPendingData: [Function: noopPendingOutput],
-      agent: [Agent],
-      socketPath: undefined,
-      method: 'GET',
-      maxHeaderSize: undefined,
-      insecureHTTPParser: undefined,
-      path: '/kraken/streams/47026536',
-      _ended: true,
-      res: [IncomingMessage],
-      aborted: false,
-      timeoutCb: null,
-      upgradeOrConnect: false,
-      parser: null,
-      maxHeadersCount: null,
-      reusedSocket: false,
-      host: 'api.twitch.tv',
-      protocol: 'https:',
-      [Symbol(kCapture)]: false,
-      [Symbol(kNeedDrain)]: false,
-      [Symbol(corked)]: 0,
-      [Symbol(kOutHeaders)]: [Object: null prototype]
-    },
-    text: '\n' +
-      '<html>\n' +
-      '<head>\n' +
-      '<title>Fastly error: unknown domain: api.twitch.tv</title>\n' +
-      '</head>\n' +
-      '<body>\n' +
-      '<p>Fastly error: unknown domain: api.twitch.tv.</p>\n' +
-      '<p>Details: cache-iah17262-IAH</p></body></html>',
-    body: {},
-    files: undefined,
-    buffered: true,
-    headers: {
-      connection: 'close',
-      'content-length': '189',
-      server: 'Varnish',
-      'retry-after': '0',
-      'content-type': 'text/html',
-      'cache-control': 'private, no-cache',
-      'x-served-by': 'cache-iah17262-IAH',
-      'accept-ranges': 'bytes',
-      date: 'Tue, 08 Jun 2021 11:00:37 GMT',
-      via: '1.1 varnish'
-    },
-    header: {
-      connection: 'close',
-      'content-length': '189',
-      server: 'Varnish',
-      'retry-after': '0',
-      'content-type': 'text/html',
-      'cache-control': 'private, no-cache',
-      'x-served-by': 'cache-iah17262-IAH',
-      'accept-ranges': 'bytes',
-      date: 'Tue, 08 Jun 2021 11:00:37 GMT',
-      via: '1.1 varnish'
-    },
-    statusCode: 500,
-    status: 500,
-    statusType: 5,
-    info: false,
-    ok: false,
-    redirect: false,
-    clientError: false,
-    serverError: true,
-    error: Error: cannot GET /kraken/streams/47026536 (500)
-        at Response.toError (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:98:13)
-        at ResponseBase._setStatusProperties (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\response-base.js:119:48)
-        at new Response (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:44:8)
-        at Request._emitResponse (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:930:18)
-        at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:42)
-        at IncomingMessage.emit (events.js:327:22)
-        at endReadableNT (internal/streams/readable.js:1327:12)
-        at processTicksAndRejections (internal/process/task_queues.js:80:21) {
-      status: 500,
-      text: '\n' +
-        '<html>\n' +
-        '<head>\n' +
-        '<title>Fastly error: unknown domain: api.twitch.tv</title>\n' +
-        '</head>\n' +
-        '<body>\n' +
-        '<p>Fastly error: unknown domain: api.twitch.tv.</p>\n' +
-        '<p>Details: cache-iah17262-IAH</p></body></html>',
-      method: 'GET',
-      path: '/kraken/streams/47026536'
-    },
-    created: false,
-    accepted: false,
-    noContent: false,
-    badRequest: false,
-    unauthorized: false,
-    notAcceptable: false,
-    forbidden: false,
-    notFound: false,
-    unprocessableEntity: false,
-    type: 'text/html',
-    links: {},
-    setEncoding: [Function: bound ],
-    redirects: [],
-    pipe: [Function (anonymous)],
-    [Symbol(kCapture)]: false
-  }
-}
 <channel id="Hotted89.us">
 <display-name>Hotted89</display-name>
 </channel>
 <channel id="Luka_aus.us">
 <display-name>Luka_aus</display-name>
 </channel>
-
+<channel id="Aus24.us">
+<display-name>Aus24</display-name>
+</channel>
 
 <channel id="SayeedBlack.us">
 <display-name>SayeedBlack</display-name>
@@ -347,14 +111,12 @@ A Error: Internal Server Error
 <channel id="Kongfue.us">
 <display-name>Kongfue</display-name>
 </channel>
-<channel id="Adeptthebest.us">
-<display-name>Adeptthebest</display-name>
-</channel>
 
 
-<channel id="Noelusionz.us">
-<display-name>Noelusionz</display-name>
+<channel id="Lagtvmaximusblack.us">
+<display-name>Lagtvmaximusblack</display-name>
 </channel>
+
 <channel id="Xreklez.us">
 <display-name>Xreklez</display-name>
 </channel>
@@ -368,7 +130,9 @@ A Error: Internal Server Error
 
 
 
-
+<channel id="Cathfawr.us">
+<display-name>Cathfawr</display-name>
+</channel>
 
 <channel id="Ray__c.us">
 <display-name>Ray__c</display-name>
@@ -410,217 +174,7 @@ A Error: Internal Server Error
 </channel>
 
 
-A Error: Internal Server Error
-    at Request.callback (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:883:15)
-    at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:20)
-    at IncomingMessage.emit (events.js:327:22)
-    at endReadableNT (internal/streams/readable.js:1327:12)
-    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
-  status: 500,
-  response: <ref *1> Response {
-    _events: [Object: null prototype] {},
-    _eventsCount: 0,
-    _maxListeners: undefined,
-    res: IncomingMessage {
-      _readableState: [ReadableState],
-      _events: [Object: null prototype],
-      _eventsCount: 4,
-      _maxListeners: undefined,
-      socket: [TLSSocket],
-      httpVersionMajor: 1,
-      httpVersionMinor: 1,
-      httpVersion: '1.1',
-      complete: true,
-      headers: [Object],
-      rawHeaders: [Array],
-      trailers: {},
-      rawTrailers: [],
-      aborted: false,
-      upgrade: false,
-      url: '',
-      method: null,
-      statusCode: 500,
-      statusMessage: 'Service Not Found',
-      client: [TLSSocket],
-      _consuming: true,
-      _dumped: false,
-      req: [ClientRequest],
-      text: '\n' +
-        '<html>\n' +
-        '<head>\n' +
-        '<title>Fastly error: unknown domain: api.twitch.tv</title>\n' +
-        '</head>\n' +
-        '<body>\n' +
-        '<p>Fastly error: unknown domain: api.twitch.tv.</p>\n' +
-        '<p>Details: cache-iah17262-IAH</p></body></html>',
-      [Symbol(kCapture)]: false,
-      [Symbol(RequestTimeout)]: undefined
-    },
-    request: Request {
-      _events: [Object: null prototype] {},
-      _eventsCount: 0,
-      _maxListeners: undefined,
-      _enableHttp2: false,
-      _agent: false,
-      _formData: null,
-      method: 'GET',
-      url: 'https://api.twitch.tv/kraken/streams/207813352',
-      _header: [Object],
-      header: [Object],
-      writable: true,
-      _redirects: 0,
-      _maxRedirects: 5,
-      cookies: '',
-      qs: {},
-      _query: [],
-      qsRaw: [],
-      _redirectList: [],
-      _streamRequest: false,
-      req: [ClientRequest],
-      protocol: 'https:',
-      host: 'api.twitch.tv',
-      _endCalled: true,
-      _callback: [Function: response],
-      res: [IncomingMessage],
-      _resBuffered: true,
-      response: [Circular *1],
-      called: true,
-      [Symbol(kCapture)]: false
-    },
-    req: ClientRequest {
-      _events: [Object: null prototype],
-      _eventsCount: 3,
-      _maxListeners: undefined,
-      outputData: [],
-      outputSize: 0,
-      writable: true,
-      destroyed: false,
-      _last: true,
-      chunkedEncoding: false,
-      shouldKeepAlive: false,
-      _defaultKeepAlive: true,
-      useChunkedEncodingByDefault: false,
-      sendDate: false,
-      _removedConnection: false,
-      _removedContLen: false,
-      _removedTE: false,
-      _contentLength: 0,
-      _hasBody: true,
-      _trailer: '',
-      finished: true,
-      _headerSent: true,
-      socket: [TLSSocket],
-      _header: 'GET /kraken/streams/207813352 HTTP/1.1\r\n' +
-        'Host: api.twitch.tv\r\n' +
-        'Accept-Encoding: gzip, deflate\r\n' +
-        'Client-ID: 3zzmx0l2ph50anf78iefr6su9d8byj8\r\n' +
-        'Accept: application/vnd.twitchtv.v5+json\r\n' +
-        'Connection: close\r\n' +
-        '\r\n',
-      _keepAliveTimeout: 0,
-      _onPendingData: [Function: noopPendingOutput],
-      agent: [Agent],
-      socketPath: undefined,
-      method: 'GET',
-      maxHeaderSize: undefined,
-      insecureHTTPParser: undefined,
-      path: '/kraken/streams/207813352',
-      _ended: true,
-      res: [IncomingMessage],
-      aborted: false,
-      timeoutCb: null,
-      upgradeOrConnect: false,
-      parser: null,
-      maxHeadersCount: null,
-      reusedSocket: false,
-      host: 'api.twitch.tv',
-      protocol: 'https:',
-      [Symbol(kCapture)]: false,
-      [Symbol(kNeedDrain)]: false,
-      [Symbol(corked)]: 0,
-      [Symbol(kOutHeaders)]: [Object: null prototype]
-    },
-    text: '\n' +
-      '<html>\n' +
-      '<head>\n' +
-      '<title>Fastly error: unknown domain: api.twitch.tv</title>\n' +
-      '</head>\n' +
-      '<body>\n' +
-      '<p>Fastly error: unknown domain: api.twitch.tv.</p>\n' +
-      '<p>Details: cache-iah17262-IAH</p></body></html>',
-    body: {},
-    files: undefined,
-    buffered: true,
-    headers: {
-      connection: 'close',
-      'content-length': '189',
-      server: 'Varnish',
-      'retry-after': '0',
-      'content-type': 'text/html',
-      'cache-control': 'private, no-cache',
-      'x-served-by': 'cache-iah17262-IAH',
-      'accept-ranges': 'bytes',
-      date: 'Tue, 08 Jun 2021 11:01:01 GMT',
-      via: '1.1 varnish'
-    },
-    header: {
-      connection: 'close',
-      'content-length': '189',
-      server: 'Varnish',
-      'retry-after': '0',
-      'content-type': 'text/html',
-      'cache-control': 'private, no-cache',
-      'x-served-by': 'cache-iah17262-IAH',
-      'accept-ranges': 'bytes',
-      date: 'Tue, 08 Jun 2021 11:01:01 GMT',
-      via: '1.1 varnish'
-    },
-    statusCode: 500,
-    status: 500,
-    statusType: 5,
-    info: false,
-    ok: false,
-    redirect: false,
-    clientError: false,
-    serverError: true,
-    error: Error: cannot GET /kraken/streams/207813352 (500)
-        at Response.toError (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:98:13)
-        at ResponseBase._setStatusProperties (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\response-base.js:119:48)
-        at new Response (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:44:8)
-        at Request._emitResponse (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:930:18)
-        at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:42)
-        at IncomingMessage.emit (events.js:327:22)
-        at endReadableNT (internal/streams/readable.js:1327:12)
-        at processTicksAndRejections (internal/process/task_queues.js:80:21) {
-      status: 500,
-      text: '\n' +
-        '<html>\n' +
-        '<head>\n' +
-        '<title>Fastly error: unknown domain: api.twitch.tv</title>\n' +
-        '</head>\n' +
-        '<body>\n' +
-        '<p>Fastly error: unknown domain: api.twitch.tv.</p>\n' +
-        '<p>Details: cache-iah17262-IAH</p></body></html>',
-      method: 'GET',
-      path: '/kraken/streams/207813352'
-    },
-    created: false,
-    accepted: false,
-    noContent: false,
-    badRequest: false,
-    unauthorized: false,
-    notAcceptable: false,
-    forbidden: false,
-    notFound: false,
-    unprocessableEntity: false,
-    type: 'text/html',
-    links: {},
-    setEncoding: [Function: bound ],
-    redirects: [],
-    pipe: [Function (anonymous)],
-    [Symbol(kCapture)]: false
-  }
-}
+
 
 
 
@@ -633,12 +187,12 @@ A Error: Internal Server Error
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Evilshatner.us">
 <title lang="en" > NoPixel | Anna Swallows Los Santos </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 20 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 21 </desc>
 </programme>
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Uberhaxornova.us">
 <title lang="en" > Siz + Barry (New Ranger Items) | NoPixel | Creator Code: Nova | check !paststreams </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 4371 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 4472 </desc>
 </programme>
 
 
@@ -650,12 +204,15 @@ A Error: Internal Server Error
 
 
 
-
+<programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Gtawiseguy.us">
+<title lang="en" > Eddie | NoPixel WL !public !twitter </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 0 </desc>
+</programme>
 
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Crystalst.us">
 <title lang="en" > Just Chilling | !nordvpn </title>
-<desc lang="en"> Game: VALORANT  Viewers: 1510 </desc>
+<desc lang="en"> Game: VALORANT  Viewers: 1325 </desc>
 </programme>
 
 
@@ -667,7 +224,7 @@ A Error: Internal Server Error
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Silent.us">
 <title lang="en" > NoPixel WL | FLIPPY VAULT ANDY IS BACK | SileNtCSGO on Twitter </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1866 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 2022 </desc>
 </programme>
 
 
@@ -681,10 +238,7 @@ A Error: Internal Server Error
 
 
 
-<programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Esfandtv.us">
-<title lang="en" > WARLORD OF WARCRAFT PROT PALADIN HEROICS </title>
-<desc lang="en"> Game: World of Warcraft  Viewers: 6775 </desc>
-</programme>
+
 
 
 
@@ -698,7 +252,7 @@ A Error: Internal Server Error
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Curvyelephant.us">
 <title lang="en" > Ryan Parker | NoPixel 3.0 WL | !discord </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1305 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1534 </desc>
 </programme>
 
 
@@ -710,700 +264,79 @@ A Error: Internal Server Error
 
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Hedisaurus.us">
-<title lang="en" > Ramona on NP Public Server as a Park Ranger! | discord.gg/hedisaurus </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 6582 </desc>
+<title lang="en" > Ramona as a Dispatcher on WL! | discord.gg/hedisaurus </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 5202 </desc>
 </programme>
 
-A Error: Internal Server Error
-    at Request.callback (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:883:15)
-    at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:20)
-    at IncomingMessage.emit (events.js:327:22)
-    at endReadableNT (internal/streams/readable.js:1327:12)
-    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
-  status: 500,
-  response: <ref *1> Response {
-    _events: [Object: null prototype] {},
-    _eventsCount: 0,
-    _maxListeners: undefined,
-    res: IncomingMessage {
-      _readableState: [ReadableState],
-      _events: [Object: null prototype],
-      _eventsCount: 4,
-      _maxListeners: undefined,
-      socket: [TLSSocket],
-      httpVersionMajor: 1,
-      httpVersionMinor: 1,
-      httpVersion: '1.1',
-      complete: true,
-      headers: [Object],
-      rawHeaders: [Array],
-      trailers: {},
-      rawTrailers: [],
-      aborted: false,
-      upgrade: false,
-      url: '',
-      method: null,
-      statusCode: 500,
-      statusMessage: 'Service Not Found',
-      client: [TLSSocket],
-      _consuming: true,
-      _dumped: false,
-      req: [ClientRequest],
-      text: '\n' +
-        '<html>\n' +
-        '<head>\n' +
-        '<title>Fastly error: unknown domain: api.twitch.tv</title>\n' +
-        '</head>\n' +
-        '<body>\n' +
-        '<p>Fastly error: unknown domain: api.twitch.tv.</p>\n' +
-        '<p>Details: cache-iah17262-IAH</p></body></html>',
-      [Symbol(kCapture)]: false,
-      [Symbol(RequestTimeout)]: undefined
-    },
-    request: Request {
-      _events: [Object: null prototype] {},
-      _eventsCount: 0,
-      _maxListeners: undefined,
-      _enableHttp2: false,
-      _agent: false,
-      _formData: null,
-      method: 'GET',
-      url: 'https://api.twitch.tv/kraken/streams/142871388',
-      _header: [Object],
-      header: [Object],
-      writable: true,
-      _redirects: 0,
-      _maxRedirects: 5,
-      cookies: '',
-      qs: {},
-      _query: [],
-      qsRaw: [],
-      _redirectList: [],
-      _streamRequest: false,
-      req: [ClientRequest],
-      protocol: 'https:',
-      host: 'api.twitch.tv',
-      _endCalled: true,
-      _callback: [Function: response],
-      res: [IncomingMessage],
-      _resBuffered: true,
-      response: [Circular *1],
-      called: true,
-      [Symbol(kCapture)]: false
-    },
-    req: ClientRequest {
-      _events: [Object: null prototype],
-      _eventsCount: 3,
-      _maxListeners: undefined,
-      outputData: [],
-      outputSize: 0,
-      writable: true,
-      destroyed: false,
-      _last: true,
-      chunkedEncoding: false,
-      shouldKeepAlive: false,
-      _defaultKeepAlive: true,
-      useChunkedEncodingByDefault: false,
-      sendDate: false,
-      _removedConnection: false,
-      _removedContLen: false,
-      _removedTE: false,
-      _contentLength: 0,
-      _hasBody: true,
-      _trailer: '',
-      finished: true,
-      _headerSent: true,
-      socket: [TLSSocket],
-      _header: 'GET /kraken/streams/142871388 HTTP/1.1\r\n' +
-        'Host: api.twitch.tv\r\n' +
-        'Accept-Encoding: gzip, deflate\r\n' +
-        'Client-ID: 3zzmx0l2ph50anf78iefr6su9d8byj8\r\n' +
-        'Accept: application/vnd.twitchtv.v5+json\r\n' +
-        'Connection: close\r\n' +
-        '\r\n',
-      _keepAliveTimeout: 0,
-      _onPendingData: [Function: noopPendingOutput],
-      agent: [Agent],
-      socketPath: undefined,
-      method: 'GET',
-      maxHeaderSize: undefined,
-      insecureHTTPParser: undefined,
-      path: '/kraken/streams/142871388',
-      _ended: true,
-      res: [IncomingMessage],
-      aborted: false,
-      timeoutCb: null,
-      upgradeOrConnect: false,
-      parser: null,
-      maxHeadersCount: null,
-      reusedSocket: false,
-      host: 'api.twitch.tv',
-      protocol: 'https:',
-      [Symbol(kCapture)]: false,
-      [Symbol(kNeedDrain)]: false,
-      [Symbol(corked)]: 0,
-      [Symbol(kOutHeaders)]: [Object: null prototype]
-    },
-    text: '\n' +
-      '<html>\n' +
-      '<head>\n' +
-      '<title>Fastly error: unknown domain: api.twitch.tv</title>\n' +
-      '</head>\n' +
-      '<body>\n' +
-      '<p>Fastly error: unknown domain: api.twitch.tv.</p>\n' +
-      '<p>Details: cache-iah17262-IAH</p></body></html>',
-    body: {},
-    files: undefined,
-    buffered: true,
-    headers: {
-      connection: 'close',
-      'content-length': '189',
-      server: 'Varnish',
-      'retry-after': '0',
-      'content-type': 'text/html',
-      'cache-control': 'private, no-cache',
-      'x-served-by': 'cache-iah17262-IAH',
-      'accept-ranges': 'bytes',
-      date: 'Tue, 08 Jun 2021 11:01:29 GMT',
-      via: '1.1 varnish'
-    },
-    header: {
-      connection: 'close',
-      'content-length': '189',
-      server: 'Varnish',
-      'retry-after': '0',
-      'content-type': 'text/html',
-      'cache-control': 'private, no-cache',
-      'x-served-by': 'cache-iah17262-IAH',
-      'accept-ranges': 'bytes',
-      date: 'Tue, 08 Jun 2021 11:01:29 GMT',
-      via: '1.1 varnish'
-    },
-    statusCode: 500,
-    status: 500,
-    statusType: 5,
-    info: false,
-    ok: false,
-    redirect: false,
-    clientError: false,
-    serverError: true,
-    error: Error: cannot GET /kraken/streams/142871388 (500)
-        at Response.toError (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:98:13)
-        at ResponseBase._setStatusProperties (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\response-base.js:119:48)
-        at new Response (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:44:8)
-        at Request._emitResponse (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:930:18)
-        at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:42)
-        at IncomingMessage.emit (events.js:327:22)
-        at endReadableNT (internal/streams/readable.js:1327:12)
-        at processTicksAndRejections (internal/process/task_queues.js:80:21) {
-      status: 500,
-      text: '\n' +
-        '<html>\n' +
-        '<head>\n' +
-        '<title>Fastly error: unknown domain: api.twitch.tv</title>\n' +
-        '</head>\n' +
-        '<body>\n' +
-        '<p>Fastly error: unknown domain: api.twitch.tv.</p>\n' +
-        '<p>Details: cache-iah17262-IAH</p></body></html>',
-      method: 'GET',
-      path: '/kraken/streams/142871388'
-    },
-    created: false,
-    accepted: false,
-    noContent: false,
-    badRequest: false,
-    unauthorized: false,
-    notAcceptable: false,
-    forbidden: false,
-    notFound: false,
-    unprocessableEntity: false,
-    type: 'text/html',
-    links: {},
-    setEncoding: [Function: bound ],
-    redirects: [],
-    pipe: [Function (anonymous)],
-    [Symbol(kCapture)]: false
-  }
-}
-A Error: Internal Server Error
-    at Request.callback (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:883:15)
-    at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:20)
-    at IncomingMessage.emit (events.js:327:22)
-    at endReadableNT (internal/streams/readable.js:1327:12)
-    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
-  status: 500,
-  response: <ref *1> Response {
-    _events: [Object: null prototype] {},
-    _eventsCount: 0,
-    _maxListeners: undefined,
-    res: IncomingMessage {
-      _readableState: [ReadableState],
-      _events: [Object: null prototype],
-      _eventsCount: 4,
-      _maxListeners: undefined,
-      socket: [TLSSocket],
-      httpVersionMajor: 1,
-      httpVersionMinor: 1,
-      httpVersion: '1.1',
-      complete: true,
-      headers: [Object],
-      rawHeaders: [Array],
-      trailers: {},
-      rawTrailers: [],
-      aborted: false,
-      upgrade: false,
-      url: '',
-      method: null,
-      statusCode: 500,
-      statusMessage: 'Service Not Found',
-      client: [TLSSocket],
-      _consuming: true,
-      _dumped: false,
-      req: [ClientRequest],
-      text: '\n' +
-        '<html>\n' +
-        '<head>\n' +
-        '<title>Fastly error: unknown domain: api.twitch.tv</title>\n' +
-        '</head>\n' +
-        '<body>\n' +
-        '<p>Fastly error: unknown domain: api.twitch.tv.</p>\n' +
-        '<p>Details: cache-iah17262-IAH</p></body></html>',
-      [Symbol(kCapture)]: false,
-      [Symbol(RequestTimeout)]: undefined
-    },
-    request: Request {
-      _events: [Object: null prototype] {},
-      _eventsCount: 0,
-      _maxListeners: undefined,
-      _enableHttp2: false,
-      _agent: false,
-      _formData: null,
-      method: 'GET',
-      url: 'https://api.twitch.tv/kraken/streams/81978976',
-      _header: [Object],
-      header: [Object],
-      writable: true,
-      _redirects: 0,
-      _maxRedirects: 5,
-      cookies: '',
-      qs: {},
-      _query: [],
-      qsRaw: [],
-      _redirectList: [],
-      _streamRequest: false,
-      req: [ClientRequest],
-      protocol: 'https:',
-      host: 'api.twitch.tv',
-      _endCalled: true,
-      _callback: [Function: response],
-      res: [IncomingMessage],
-      _resBuffered: true,
-      response: [Circular *1],
-      called: true,
-      [Symbol(kCapture)]: false
-    },
-    req: ClientRequest {
-      _events: [Object: null prototype],
-      _eventsCount: 3,
-      _maxListeners: undefined,
-      outputData: [],
-      outputSize: 0,
-      writable: true,
-      destroyed: false,
-      _last: true,
-      chunkedEncoding: false,
-      shouldKeepAlive: false,
-      _defaultKeepAlive: true,
-      useChunkedEncodingByDefault: false,
-      sendDate: false,
-      _removedConnection: false,
-      _removedContLen: false,
-      _removedTE: false,
-      _contentLength: 0,
-      _hasBody: true,
-      _trailer: '',
-      finished: true,
-      _headerSent: true,
-      socket: [TLSSocket],
-      _header: 'GET /kraken/streams/81978976 HTTP/1.1\r\n' +
-        'Host: api.twitch.tv\r\n' +
-        'Accept-Encoding: gzip, deflate\r\n' +
-        'Client-ID: 3zzmx0l2ph50anf78iefr6su9d8byj8\r\n' +
-        'Accept: application/vnd.twitchtv.v5+json\r\n' +
-        'Connection: close\r\n' +
-        '\r\n',
-      _keepAliveTimeout: 0,
-      _onPendingData: [Function: noopPendingOutput],
-      agent: [Agent],
-      socketPath: undefined,
-      method: 'GET',
-      maxHeaderSize: undefined,
-      insecureHTTPParser: undefined,
-      path: '/kraken/streams/81978976',
-      _ended: true,
-      res: [IncomingMessage],
-      aborted: false,
-      timeoutCb: null,
-      upgradeOrConnect: false,
-      parser: null,
-      maxHeadersCount: null,
-      reusedSocket: false,
-      host: 'api.twitch.tv',
-      protocol: 'https:',
-      [Symbol(kCapture)]: false,
-      [Symbol(kNeedDrain)]: false,
-      [Symbol(corked)]: 0,
-      [Symbol(kOutHeaders)]: [Object: null prototype]
-    },
-    text: '\n' +
-      '<html>\n' +
-      '<head>\n' +
-      '<title>Fastly error: unknown domain: api.twitch.tv</title>\n' +
-      '</head>\n' +
-      '<body>\n' +
-      '<p>Fastly error: unknown domain: api.twitch.tv.</p>\n' +
-      '<p>Details: cache-iah17262-IAH</p></body></html>',
-    body: {},
-    files: undefined,
-    buffered: true,
-    headers: {
-      connection: 'close',
-      'content-length': '189',
-      server: 'Varnish',
-      'retry-after': '0',
-      'content-type': 'text/html',
-      'cache-control': 'private, no-cache',
-      'x-served-by': 'cache-iah17262-IAH',
-      'accept-ranges': 'bytes',
-      date: 'Tue, 08 Jun 2021 11:01:29 GMT',
-      via: '1.1 varnish'
-    },
-    header: {
-      connection: 'close',
-      'content-length': '189',
-      server: 'Varnish',
-      'retry-after': '0',
-      'content-type': 'text/html',
-      'cache-control': 'private, no-cache',
-      'x-served-by': 'cache-iah17262-IAH',
-      'accept-ranges': 'bytes',
-      date: 'Tue, 08 Jun 2021 11:01:29 GMT',
-      via: '1.1 varnish'
-    },
-    statusCode: 500,
-    status: 500,
-    statusType: 5,
-    info: false,
-    ok: false,
-    redirect: false,
-    clientError: false,
-    serverError: true,
-    error: Error: cannot GET /kraken/streams/81978976 (500)
-        at Response.toError (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:98:13)
-        at ResponseBase._setStatusProperties (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\response-base.js:119:48)
-        at new Response (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:44:8)
-        at Request._emitResponse (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:930:18)
-        at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:42)
-        at IncomingMessage.emit (events.js:327:22)
-        at endReadableNT (internal/streams/readable.js:1327:12)
-        at processTicksAndRejections (internal/process/task_queues.js:80:21) {
-      status: 500,
-      text: '\n' +
-        '<html>\n' +
-        '<head>\n' +
-        '<title>Fastly error: unknown domain: api.twitch.tv</title>\n' +
-        '</head>\n' +
-        '<body>\n' +
-        '<p>Fastly error: unknown domain: api.twitch.tv.</p>\n' +
-        '<p>Details: cache-iah17262-IAH</p></body></html>',
-      method: 'GET',
-      path: '/kraken/streams/81978976'
-    },
-    created: false,
-    accepted: false,
-    noContent: false,
-    badRequest: false,
-    unauthorized: false,
-    notAcceptable: false,
-    forbidden: false,
-    notFound: false,
-    unprocessableEntity: false,
-    type: 'text/html',
-    links: {},
-    setEncoding: [Function: bound ],
-    redirects: [],
-    pipe: [Function (anonymous)],
-    [Symbol(kCapture)]: false
-  }
-}
+
+<programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Sock22.us">
+<title lang="en" > Richard Dark - Healing - NoPixel 3.0 WL | Chivalry II Later! </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 72 </desc>
+</programme>
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Hotted89.us">
 <title lang="en" > Sergeant Matthew Espinoz - Nopixel 3.0 WL </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 242 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 496 </desc>
 </programme>
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Luka_aus.us">
 <title lang="en" > NoPixel 3.0 WL Server | Detective Sgt Kozlov | Major Crimes | Gang Unit </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 63 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 82 </desc>
 </programme>
-
+<programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Aus24.us">
+<title lang="en" > Jordan Walker | NoPixel 3.0 WL | #Harmony </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 27 </desc>
+</programme>
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="SayeedBlack.us">
 <title lang="en" > Speedy Vagos Jefe  @Sayeeedblack </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 823 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1092 </desc>
 </programme>
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Bennnistreams.us">
 <title lang="en" > SANTI - BERTIFIED BETAWAY BRIVER - ESV - !NoPixel WL - !music </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 155 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 228 </desc>
 </programme>
 
 
-A Error: Internal Server Error
-    at Request.callback (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:883:15)
-    at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:20)
-    at IncomingMessage.emit (events.js:327:22)
-    at endReadableNT (internal/streams/readable.js:1327:12)
-    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
-  status: 500,
-  response: <ref *1> Response {
-    _events: [Object: null prototype] {},
-    _eventsCount: 0,
-    _maxListeners: undefined,
-    res: IncomingMessage {
-      _readableState: [ReadableState],
-      _events: [Object: null prototype],
-      _eventsCount: 4,
-      _maxListeners: undefined,
-      socket: [TLSSocket],
-      httpVersionMajor: 1,
-      httpVersionMinor: 1,
-      httpVersion: '1.1',
-      complete: true,
-      headers: [Object],
-      rawHeaders: [Array],
-      trailers: {},
-      rawTrailers: [],
-      aborted: false,
-      upgrade: false,
-      url: '',
-      method: null,
-      statusCode: 500,
-      statusMessage: 'Service Not Found',
-      client: [TLSSocket],
-      _consuming: true,
-      _dumped: false,
-      req: [ClientRequest],
-      text: '\n' +
-        '<html>\n' +
-        '<head>\n' +
-        '<title>Fastly error: unknown domain: api.twitch.tv</title>\n' +
-        '</head>\n' +
-        '<body>\n' +
-        '<p>Fastly error: unknown domain: api.twitch.tv.</p>\n' +
-        '<p>Details: cache-iah17262-IAH</p></body></html>',
-      [Symbol(kCapture)]: false,
-      [Symbol(RequestTimeout)]: undefined
-    },
-    request: Request {
-      _events: [Object: null prototype] {},
-      _eventsCount: 0,
-      _maxListeners: undefined,
-      _enableHttp2: false,
-      _agent: false,
-      _formData: null,
-      method: 'GET',
-      url: 'https://api.twitch.tv/kraken/streams/147554495',
-      _header: [Object],
-      header: [Object],
-      writable: true,
-      _redirects: 0,
-      _maxRedirects: 5,
-      cookies: '',
-      qs: {},
-      _query: [],
-      qsRaw: [],
-      _redirectList: [],
-      _streamRequest: false,
-      req: [ClientRequest],
-      protocol: 'https:',
-      host: 'api.twitch.tv',
-      _endCalled: true,
-      _callback: [Function: response],
-      res: [IncomingMessage],
-      _resBuffered: true,
-      response: [Circular *1],
-      called: true,
-      [Symbol(kCapture)]: false
-    },
-    req: ClientRequest {
-      _events: [Object: null prototype],
-      _eventsCount: 3,
-      _maxListeners: undefined,
-      outputData: [],
-      outputSize: 0,
-      writable: true,
-      destroyed: false,
-      _last: true,
-      chunkedEncoding: false,
-      shouldKeepAlive: false,
-      _defaultKeepAlive: true,
-      useChunkedEncodingByDefault: false,
-      sendDate: false,
-      _removedConnection: false,
-      _removedContLen: false,
-      _removedTE: false,
-      _contentLength: 0,
-      _hasBody: true,
-      _trailer: '',
-      finished: true,
-      _headerSent: true,
-      socket: [TLSSocket],
-      _header: 'GET /kraken/streams/147554495 HTTP/1.1\r\n' +
-        'Host: api.twitch.tv\r\n' +
-        'Accept-Encoding: gzip, deflate\r\n' +
-        'Client-ID: 3zzmx0l2ph50anf78iefr6su9d8byj8\r\n' +
-        'Accept: application/vnd.twitchtv.v5+json\r\n' +
-        'Connection: close\r\n' +
-        '\r\n',
-      _keepAliveTimeout: 0,
-      _onPendingData: [Function: noopPendingOutput],
-      agent: [Agent],
-      socketPath: undefined,
-      method: 'GET',
-      maxHeaderSize: undefined,
-      insecureHTTPParser: undefined,
-      path: '/kraken/streams/147554495',
-      _ended: true,
-      res: [IncomingMessage],
-      aborted: false,
-      timeoutCb: null,
-      upgradeOrConnect: false,
-      parser: null,
-      maxHeadersCount: null,
-      reusedSocket: false,
-      host: 'api.twitch.tv',
-      protocol: 'https:',
-      [Symbol(kCapture)]: false,
-      [Symbol(kNeedDrain)]: false,
-      [Symbol(corked)]: 0,
-      [Symbol(kOutHeaders)]: [Object: null prototype]
-    },
-    text: '\n' +
-      '<html>\n' +
-      '<head>\n' +
-      '<title>Fastly error: unknown domain: api.twitch.tv</title>\n' +
-      '</head>\n' +
-      '<body>\n' +
-      '<p>Fastly error: unknown domain: api.twitch.tv.</p>\n' +
-      '<p>Details: cache-iah17262-IAH</p></body></html>',
-    body: {},
-    files: undefined,
-    buffered: true,
-    headers: {
-      connection: 'close',
-      'content-length': '189',
-      server: 'Varnish',
-      'retry-after': '0',
-      'content-type': 'text/html',
-      'cache-control': 'private, no-cache',
-      'x-served-by': 'cache-iah17262-IAH',
-      'accept-ranges': 'bytes',
-      date: 'Tue, 08 Jun 2021 11:01:34 GMT',
-      via: '1.1 varnish'
-    },
-    header: {
-      connection: 'close',
-      'content-length': '189',
-      server: 'Varnish',
-      'retry-after': '0',
-      'content-type': 'text/html',
-      'cache-control': 'private, no-cache',
-      'x-served-by': 'cache-iah17262-IAH',
-      'accept-ranges': 'bytes',
-      date: 'Tue, 08 Jun 2021 11:01:34 GMT',
-      via: '1.1 varnish'
-    },
-    statusCode: 500,
-    status: 500,
-    statusType: 5,
-    info: false,
-    ok: false,
-    redirect: false,
-    clientError: false,
-    serverError: true,
-    error: Error: cannot GET /kraken/streams/147554495 (500)
-        at Response.toError (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:98:13)
-        at ResponseBase._setStatusProperties (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\response-base.js:119:48)
-        at new Response (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:44:8)
-        at Request._emitResponse (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:930:18)
-        at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:42)
-        at IncomingMessage.emit (events.js:327:22)
-        at endReadableNT (internal/streams/readable.js:1327:12)
-        at processTicksAndRejections (internal/process/task_queues.js:80:21) {
-      status: 500,
-      text: '\n' +
-        '<html>\n' +
-        '<head>\n' +
-        '<title>Fastly error: unknown domain: api.twitch.tv</title>\n' +
-        '</head>\n' +
-        '<body>\n' +
-        '<p>Fastly error: unknown domain: api.twitch.tv.</p>\n' +
-        '<p>Details: cache-iah17262-IAH</p></body></html>',
-      method: 'GET',
-      path: '/kraken/streams/147554495'
-    },
-    created: false,
-    accepted: false,
-    noContent: false,
-    badRequest: false,
-    unauthorized: false,
-    notAcceptable: false,
-    forbidden: false,
-    notFound: false,
-    unprocessableEntity: false,
-    type: 'text/html',
-    links: {},
-    setEncoding: [Function: bound ],
-    redirects: [],
-    pipe: [Function (anonymous)],
-    [Symbol(kCapture)]: false
-  }
-}
+
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Kongfue.us">
 <title lang="en" > NoPixel 3.0 | KJ | Money, Money - Money! We need.   !RP !meta !Vagos </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 430 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 487 </desc>
 </programme>
 
 
-
-<programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Noelusionz.us">
-<title lang="en" > 🔴Hunting Benji - Bobby Beats - WL Server - Nopixel 🎙!podcast 🔔!twitter - 🎹DMCA Free !Music - ENG/NA - Music Production </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 11 </desc>
+<programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Lagtvmaximusblack.us">
+<title lang="en" > 0TT - WAR Brouge Street Kingz  (WL)-  !NordVPN !Elgato </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 698 </desc>
 </programme>
+
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Xreklez.us">
 <title lang="en" > Subathon CHICO | GTA RP | Vagos | Nopixel 3.0 | !reddit !discord </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 122 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 113 </desc>
 </programme>
 
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Denis3d.us">
 <title lang="en" > NoPixel Dev | Tuna Ship Soon COPIUM, Only few days COPIUM, Tomorrow COPIUM | !cmd | #Polglish </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 617 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 901 </desc>
 </programme>
 
 
 
 
 
-
+<programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Cathfawr.us">
+<title lang="en" > Lydia Vale | NoPixel WL | !socials !nexus !NordVPN </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 248 </desc>
+</programme>
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Ray__c.us">
 <title lang="en" > Raymond Romanov - Corvette + BIKE Racing & Bank Progress?! NoPixel + Public Server after! </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 5172 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 4977 </desc>
 </programme>
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Jonthebroski.us">
 <title lang="en" > Denzel Williams | NoPixel WL | A vote for Denzel is a vote for the cause </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 2121 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 2653 </desc>
 </programme>
 
 
@@ -1421,8 +354,8 @@ A Error: Internal Server Error
 
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Retrogaijin.us">
-<title lang="en" > IRL, Japan | Big in Akasaka | !move !discord !social </title>
-<desc lang="en"> Game: Just Chatting  Viewers: 1925 </desc>
+<title lang="en" > IRL, Japan | Big in Shin-Okubo | NEW YT VIDEO IS UP !youtube | !move !discord !social </title>
+<desc lang="en"> Game: Just Chatting  Viewers: 2311 </desc>
 </programme>
 
 
@@ -1435,5 +368,5 @@ A Error: Internal Server Error
 
 <programme start="20210606000000 +0000" stop="20210730010000 +0000" channel="Xqcow.us">
 <title lang="en" > {NO-PIXEL} RANK 1 CEO BUSINESS OWNER DOMINATES THE PLEB WORLD AND EBCOMES THE TRUE GRINDFATHER (GONE WRONG) (LAPTOP BUSTAH LULW) (EPIC FAIL) </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 61219 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 71393 </desc>
 </programme>
