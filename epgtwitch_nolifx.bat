@@ -5,6 +5,7 @@ CALL twitch-stream-check -s -m -p AnthonyZ >> C:\Users\erick\Documents\GitHub\my
 CALL twitch-stream-check -s -m -p fyzicul >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p biotoxz_ >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p garek >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p travpiper >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p itsleslie >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p ggqf >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p suzy_q >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
@@ -130,6 +131,7 @@ CALL twitch-stream-check -f -t -g -v buddha >> C:\Users\erick\Documents\GitHub\m
 CALL twitch-stream-check -f -t -g -v dasMEHDI >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v HasanAbi >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v AnthonyZ >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v travpiper >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v thechief1114 >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v suzy_q >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v fyzicul >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
@@ -649,6 +651,10 @@ streamlink twitch.tv/bananabrea 720p60 >> C:\Users\erick\Documents\GitHub\mym3ul
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="silentsentry.us" tvg-name="silentsentry" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/silentsentry-profile_image-7520c0ac773d86c2-70x70.png" group-title="No_Group",silentsentry 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/silentsentry 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-id="travpiper.us" tvg-name="travpiper" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0d856d6d-54fd-4ab4-83fc-98b65148d72b-profile_image-70x70.png" group-title="No_Group",travpiper 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/travpiper 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="afro.us" tvg-name="afro" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/aca99da2-0024-422a-8bf7-43d38782392b-profile_image-70x70.png" group-title="No_Group",afro best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
