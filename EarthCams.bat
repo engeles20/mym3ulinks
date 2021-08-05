@@ -85,7 +85,7 @@ streamlink https://www.youtube.com/watch?v=Er_sq4DTeas best >> C:\Users\erick\Do
 streamlink https://www.youtube.com/watch?v=wc4Vy1T6hcE best >> C:\Users\erick\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\EarthCams.m3u
-@echo #EXTINF:-1 group-title="Earth_Cams",Field Museum >> C:\Users\erick\Documents\GitHub\mym3ulinks\EarthCams.m3u
+@echo #EXTINF:-1 group-title="Earth_Cams",Chicago >> C:\Users\erick\Documents\GitHub\mym3ulinks\EarthCams.m3u
 streamlink https://www.earthcam.com/usa/illinois/chicago/field/?cam=fieldmuseum best >> C:\Users\erick\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\EarthCams.m3u
