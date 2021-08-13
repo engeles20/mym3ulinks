@@ -295,8 +295,8 @@ streamlink twitch.tv/SodaKite 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulin
 streamlink twitch.tv/suzy_q 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo #EXTINF:-1 tvg-id="raine.us" tvg-name="raine" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/45d8cb8f-d423-4b53-ba03-34a8d26c4f97-profile_image-70x70.png" group-title="Roosters",raine best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
-streamlink twitch.tv/raine best >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-id="raine.us" tvg-name="raine" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/45d8cb8f-d423-4b53-ba03-34a8d26c4f97-profile_image-70x70.png" group-title="Roosters",raine 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/raine 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
