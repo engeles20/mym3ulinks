@@ -1,7 +1,5 @@
 
-<channel id="HasanAbi.us">
-<display-name>HasanAbi</display-name>
-</channel>
+
 <channel id="AnthonyZ.us">
 <display-name>AnthonyZ</display-name>
 </channel>
@@ -28,9 +26,7 @@
 <display-name>Ramee</display-name>
 </channel>
 
-<channel id="Ratedepicz.us">
-<display-name>Ratedepicz</display-name>
-</channel>
+
 
 
 
@@ -68,12 +64,198 @@
 
 
 
+A Error: Bad Gateway
+    at Request.callback (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:883:15)
+    at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:20)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  status: 502,
+  response: <ref *1> Response {
+    _events: [Object: null prototype] {},
+    _eventsCount: 0,
+    _maxListeners: undefined,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      headers: [Object],
+      rawHeaders: [Array],
+      trailers: {},
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 502,
+      statusMessage: 'Gateway Error',
+      client: [TLSSocket],
+      _consuming: true,
+      _dumped: false,
+      req: [ClientRequest],
+      text: 'I/O error',
+      [Symbol(kCapture)]: false,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    request: Request {
+      _events: [Object: null prototype] {},
+      _eventsCount: 0,
+      _maxListeners: undefined,
+      _enableHttp2: false,
+      _agent: false,
+      _formData: null,
+      method: 'GET',
+      url: 'https://api.twitch.tv/kraken/streams/95343009',
+      _header: [Object],
+      header: [Object],
+      writable: true,
+      _redirects: 0,
+      _maxRedirects: 5,
+      cookies: '',
+      qs: {},
+      _query: [],
+      qsRaw: [],
+      _redirectList: [],
+      _streamRequest: false,
+      req: [ClientRequest],
+      protocol: 'https:',
+      host: 'api.twitch.tv',
+      _endCalled: true,
+      _callback: [Function: response],
+      res: [IncomingMessage],
+      _resBuffered: true,
+      response: [Circular *1],
+      called: true,
+      [Symbol(kCapture)]: false
+    },
+    req: ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: false,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: 0,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [TLSSocket],
+      _header: 'GET /kraken/streams/95343009 HTTP/1.1\r\n' +
+        'Host: api.twitch.tv\r\n' +
+        'Accept-Encoding: gzip, deflate\r\n' +
+        'Client-ID: 3zzmx0l2ph50anf78iefr6su9d8byj8\r\n' +
+        'Accept: application/vnd.twitchtv.v5+json\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'GET',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/kraken/streams/95343009',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.twitch.tv',
+      protocol: 'https:',
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    text: 'I/O error',
+    body: {},
+    files: undefined,
+    buffered: true,
+    headers: {
+      connection: 'close',
+      'content-length': '9',
+      'content-type': 'text/plain; charset=utf-8',
+      date: 'Sun, 22 Aug 2021 04:10:28 GMT',
+      'x-served-by': 'cache-dal21225-DAL',
+      'x-cache': 'MISS',
+      'x-cache-hits': '0',
+      'x-timer': 'S1629605425.258133,VS0,VS0,VE3118',
+      'strict-transport-security': 'max-age=300'
+    },
+    header: {
+      connection: 'close',
+      'content-length': '9',
+      'content-type': 'text/plain; charset=utf-8',
+      date: 'Sun, 22 Aug 2021 04:10:28 GMT',
+      'x-served-by': 'cache-dal21225-DAL',
+      'x-cache': 'MISS',
+      'x-cache-hits': '0',
+      'x-timer': 'S1629605425.258133,VS0,VS0,VE3118',
+      'strict-transport-security': 'max-age=300'
+    },
+    statusCode: 502,
+    status: 502,
+    statusType: 5,
+    info: false,
+    ok: false,
+    redirect: false,
+    clientError: false,
+    serverError: true,
+    error: Error: cannot GET /kraken/streams/95343009 (502)
+        at Response.toError (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:98:13)
+        at ResponseBase._setStatusProperties (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\response-base.js:119:48)
+        at new Response (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:44:8)
+        at Request._emitResponse (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:930:18)
+        at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:42)
+        at IncomingMessage.emit (events.js:327:22)
+        at endReadableNT (internal/streams/readable.js:1327:12)
+        at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+      status: 502,
+      text: 'I/O error',
+      method: 'GET',
+      path: '/kraken/streams/95343009'
+    },
+    created: false,
+    accepted: false,
+    noContent: false,
+    badRequest: false,
+    unauthorized: false,
+    notAcceptable: false,
+    forbidden: false,
+    notFound: false,
+    unprocessableEntity: false,
+    type: 'text/plain',
+    charset: 'utf-8',
+    links: {},
+    setEncoding: [Function: bound ],
+    redirects: [],
+    pipe: [Function (anonymous)],
+    [Symbol(kCapture)]: false
+  }
+}
 
 
 
-<channel id="Moboking.us">
-<display-name>Moboking</display-name>
-</channel>
 
 
 
@@ -96,9 +278,7 @@
 
 
 
-<channel id="Mrtimeee.us">
-<display-name>Mrtimeee</display-name>
-</channel>
+
 
 
 
@@ -111,9 +291,7 @@
 </channel>
 
 
-<channel id="Harry.us">
-<display-name>Harry</display-name>
-</channel>
+
 
 
 
@@ -131,9 +309,7 @@
 
 
 
-<channel id="Thechief1114.us">
-<display-name>Thechief1114</display-name>
-</channel>
+
 
 
 
@@ -158,43 +334,37 @@
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Raine.us">
 <title lang="en" > penny "always tired" farthing || nopixel </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 312 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 251 </desc>
 </programme>
-<programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="HasanAbi.us">
-<title lang="en" > TRUMP RALLY </title>
-<desc lang="en"> Game: Just Chatting  Viewers: 29488 </desc>
-</programme>
+
 
 
 
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="AnthonyZ.us">
 <title lang="en" > !SUBATHON 20K DREAM | Tony Corleone NoPixel WL !  | LIVE MON-FRI 9:30AM CT </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 10576 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 11873 </desc>
 </programme>
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Hutchmf.us">
 <title lang="en" > Hutch "Yes I Am That Broke" Hutcherson | !gfuel !tiktok </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 834 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1155 </desc>
 </programme>
 
 
 
-<programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Thechief1114.us">
-<title lang="en" > Fingle Dan - NoPixel </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 2324 </desc>
-</programme>
+
 
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Biotoxz_.us">
 <title lang="en" > BJORN TRIPOD CORLEONE WARDEN OF THE NORTH SURVIVED THE 9'S | 47 WOLF 100% | NOPIXEL WL | </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 757 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1027 </desc>
 </programme>
 
 
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Onetapbingus.us">
 <title lang="en" > Bodhi Mack | WE GOT PARTNERED! | Vagos Prospect | NoPixel 3.0 [WL] | !OOCpractice !hacked </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 68 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 57 </desc>
 </programme>
 
 
@@ -212,13 +382,10 @@
 
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Ramee.us">
-<title lang="en" > Ramee | !Merch IS LIVE! | Chang Gang | NoPixel </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 10611 </desc>
+<title lang="en" > Conan Clarkson | !Merch IS LIVE! | Chang Gang | NoPixel </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 14924 </desc>
 </programme>
-<programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Ratedepicz.us">
-<title lang="en" > Randy Bullet | Chang Gang | NoPixel | GTA V RP | !youtube !newvid | !GFuel </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 16145 </desc>
-</programme>
+
 
 
 
@@ -226,7 +393,7 @@
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Blaustoise.us">
 <title lang="en" > Downbad Mickey | NoPixel | !glassy !gfuel !glorious </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1113 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1286 </desc>
 </programme>
 
 
@@ -234,14 +401,14 @@
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Moonmoon.us">
 <title lang="en" > games with the lads (it's ster's birthday) </title>
-<desc lang="en"> Game: World War Z  Viewers: 16875 </desc>
+<desc lang="en"> Game: World War Z  Viewers: 15937 </desc>
 </programme>
 
 
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Nakkida.us">
 <title lang="en" > Tessa Lamb | aww jeez | NoPixel RP WL | !Merch !Manscaped </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1301 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1283 </desc>
 </programme>
 
 
@@ -262,10 +429,7 @@
 
 
 
-<programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Moboking.us">
-<title lang="en" > Snr. Officer Ellis Pinzon | !lspd !rank | #RazerStreamer !razer | NoPixel WL | !reddit !angels !discord @mobo_king | Angels GTA V </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 451 </desc>
-</programme>
+
 
 
 
@@ -275,43 +439,38 @@
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Natettvrp.us">
 <title lang="en" > FIRST EVER SUBATHON! | CURRENTLY IN THE CHAPO TUNNELS | Carlitos Loco | Twitter.com/natettvrp </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 276 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 348 </desc>
 </programme>
 
 
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Lagtvmaximusblack.us">
 <title lang="en" > OTT - WAR Vs GSF B$K's OG !NordVPN !Elgato </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 519 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 459 </desc>
 </programme>
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Noelusionz.us">
 <title lang="en" > 🔴!MODWEEK - King Bara - Bobby "Beats" Schmiguel - KINGZ - Nopixel WL - NEW !music </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 65 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 55 </desc>
 </programme>
 
 
 
-<channel id="Mrtimeee.us">
-<display-name>Mrtimeee</display-name>
-</channel>
+
 
 
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Timmac.us">
 <title lang="en" > Sgt Mack | NoPixel </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 987 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 5487 </desc>
 </programme>
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Cathfawr.us">
 <title lang="en" > Lydia Vale | NoPixel WL !socials !nexus !NordVPN </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 478 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 424 </desc>
 </programme>
 
 
-<programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Harry.us">
-<title lang="en" > Harry Brown | NoPixel - !youtube !tiktok !tts </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 3733 </desc>
-</programme>
+
 
 
 
@@ -325,7 +484,7 @@
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Melipastel.us">
 <title lang="en" >  ❤ new to ffxiv :) leveling!! ❤ | ig: @Melipastel | !subgift !prime !discord </title>
-<desc lang="en"> Game: Final Fantasy XIV Online  Viewers: 236 </desc>
+<desc lang="en"> Game: Final Fantasy XIV Online  Viewers: 235 </desc>
 </programme>
 
 
