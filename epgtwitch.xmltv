@@ -10,7 +10,9 @@
 <channel id="Biotoxz_.us">
 <display-name>Biotoxz_</display-name>
 </channel>
-
+<channel id="Garek.us">
+<display-name>Garek</display-name>
+</channel>
 <channel id="Travpiper.us">
 <display-name>Travpiper</display-name>
 </channel>
@@ -27,7 +29,9 @@
 <channel id="Mekabear.us">
 <display-name>Mekabear</display-name>
 </channel>
-
+<channel id="Ashi.us">
+<display-name>Ashi</display-name>
+</channel>
 
 <channel id="Bananabrea.us">
 <display-name>Bananabrea</display-name>
@@ -59,19 +63,1237 @@
 <display-name>Ssaab</display-name>
 </channel>
 
+A Error: Bad Gateway
+    at Request.callback (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:883:15)
+    at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:20)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  status: 502,
+  response: <ref *1> Response {
+    _events: [Object: null prototype] {},
+    _eventsCount: 0,
+    _maxListeners: undefined,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      headers: [Object],
+      rawHeaders: [Array],
+      trailers: {},
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 502,
+      statusMessage: 'Bad Gateway',
+      client: [TLSSocket],
+      _consuming: true,
+      _dumped: false,
+      req: [ClientRequest],
+      text: '<html>\r\n' +
+        '<head><title>502 Bad Gateway</title></head>\r\n' +
+        '<body>\r\n' +
+        '<center><h1>502 Bad Gateway</h1></center>\r\n' +
+        '</body>\r\n' +
+        '</html>\r\n',
+      [Symbol(kCapture)]: false,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    request: Request {
+      _events: [Object: null prototype] {},
+      _eventsCount: 0,
+      _maxListeners: undefined,
+      _enableHttp2: false,
+      _agent: false,
+      _formData: null,
+      method: 'GET',
+      url: 'https://api.twitch.tv/kraken/streams/84316241',
+      _header: [Object],
+      header: [Object],
+      writable: true,
+      _redirects: 0,
+      _maxRedirects: 5,
+      cookies: '',
+      qs: {},
+      _query: [],
+      qsRaw: [],
+      _redirectList: [],
+      _streamRequest: false,
+      req: [ClientRequest],
+      protocol: 'https:',
+      host: 'api.twitch.tv',
+      _endCalled: true,
+      _callback: [Function: response],
+      res: [IncomingMessage],
+      _resBuffered: true,
+      response: [Circular *1],
+      called: true,
+      [Symbol(kCapture)]: false
+    },
+    req: ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: false,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: 0,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [TLSSocket],
+      _header: 'GET /kraken/streams/84316241 HTTP/1.1\r\n' +
+        'Host: api.twitch.tv\r\n' +
+        'Accept-Encoding: gzip, deflate\r\n' +
+        'Client-ID: 3zzmx0l2ph50anf78iefr6su9d8byj8\r\n' +
+        'Accept: application/vnd.twitchtv.v5+json\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'GET',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/kraken/streams/84316241',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.twitch.tv',
+      protocol: 'https:',
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    text: '<html>\r\n' +
+      '<head><title>502 Bad Gateway</title></head>\r\n' +
+      '<body>\r\n' +
+      '<center><h1>502 Bad Gateway</h1></center>\r\n' +
+      '</body>\r\n' +
+      '</html>\r\n',
+    body: {},
+    files: undefined,
+    buffered: true,
+    headers: {
+      connection: 'close',
+      'content-length': '122',
+      server: 'awselb/2.0',
+      'content-type': 'text/html',
+      date: 'Mon, 23 Aug 2021 20:59:29 GMT',
+      'x-served-by': 'cache-sea4452-SEA, cache-iah17253-IAH',
+      'x-cache': 'MISS, MISS',
+      'x-cache-hits': '0, 0',
+      'x-timer': 'S1629752369.407903,VS0,VS0,VE62',
+      'strict-transport-security': 'max-age=300'
+    },
+    header: {
+      connection: 'close',
+      'content-length': '122',
+      server: 'awselb/2.0',
+      'content-type': 'text/html',
+      date: 'Mon, 23 Aug 2021 20:59:29 GMT',
+      'x-served-by': 'cache-sea4452-SEA, cache-iah17253-IAH',
+      'x-cache': 'MISS, MISS',
+      'x-cache-hits': '0, 0',
+      'x-timer': 'S1629752369.407903,VS0,VS0,VE62',
+      'strict-transport-security': 'max-age=300'
+    },
+    statusCode: 502,
+    status: 502,
+    statusType: 5,
+    info: false,
+    ok: false,
+    redirect: false,
+    clientError: false,
+    serverError: true,
+    error: Error: cannot GET /kraken/streams/84316241 (502)
+        at Response.toError (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:98:13)
+        at ResponseBase._setStatusProperties (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\response-base.js:119:48)
+        at new Response (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:44:8)
+        at Request._emitResponse (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:930:18)
+        at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:42)
+        at IncomingMessage.emit (events.js:327:22)
+        at endReadableNT (internal/streams/readable.js:1327:12)
+        at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+      status: 502,
+      text: '<html>\r\n' +
+        '<head><title>502 Bad Gateway</title></head>\r\n' +
+        '<body>\r\n' +
+        '<center><h1>502 Bad Gateway</h1></center>\r\n' +
+        '</body>\r\n' +
+        '</html>\r\n',
+      method: 'GET',
+      path: '/kraken/streams/84316241'
+    },
+    created: false,
+    accepted: false,
+    noContent: false,
+    badRequest: false,
+    unauthorized: false,
+    notAcceptable: false,
+    forbidden: false,
+    notFound: false,
+    unprocessableEntity: false,
+    type: 'text/html',
+    links: {},
+    setEncoding: [Function: bound ],
+    redirects: [],
+    pipe: [Function (anonymous)],
+    [Symbol(kCapture)]: false
+  }
+}
+A Error: Bad Gateway
+    at Request.callback (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:883:15)
+    at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:20)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  status: 502,
+  response: <ref *1> Response {
+    _events: [Object: null prototype] {},
+    _eventsCount: 0,
+    _maxListeners: undefined,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      headers: [Object],
+      rawHeaders: [Array],
+      trailers: {},
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 502,
+      statusMessage: 'Bad Gateway',
+      client: [TLSSocket],
+      _consuming: true,
+      _dumped: false,
+      req: [ClientRequest],
+      text: '<html>\r\n' +
+        '<head><title>502 Bad Gateway</title></head>\r\n' +
+        '<body>\r\n' +
+        '<center><h1>502 Bad Gateway</h1></center>\r\n' +
+        '</body>\r\n' +
+        '</html>\r\n',
+      [Symbol(kCapture)]: false,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    request: Request {
+      _events: [Object: null prototype] {},
+      _eventsCount: 0,
+      _maxListeners: undefined,
+      _enableHttp2: false,
+      _agent: false,
+      _formData: null,
+      method: 'GET',
+      url: 'https://api.twitch.tv/kraken/users?login=TheHexagonist',
+      _header: [Object],
+      header: [Object],
+      writable: true,
+      _redirects: 0,
+      _maxRedirects: 5,
+      cookies: '',
+      qs: {},
+      _query: [],
+      qsRaw: [],
+      _redirectList: [],
+      _streamRequest: false,
+      req: [ClientRequest],
+      protocol: 'https:',
+      host: 'api.twitch.tv',
+      _endCalled: true,
+      _callback: [Function (anonymous)],
+      res: [IncomingMessage],
+      _resBuffered: true,
+      response: [Circular *1],
+      called: true,
+      [Symbol(kCapture)]: false
+    },
+    req: ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: false,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: 0,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [TLSSocket],
+      _header: 'GET /kraken/users?login=TheHexagonist HTTP/1.1\r\n' +
+        'Host: api.twitch.tv\r\n' +
+        'Accept-Encoding: gzip, deflate\r\n' +
+        'Client-ID: 3zzmx0l2ph50anf78iefr6su9d8byj8\r\n' +
+        'Accept: application/vnd.twitchtv.v5+json\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'GET',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/kraken/users?login=TheHexagonist',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.twitch.tv',
+      protocol: 'https:',
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    text: '<html>\r\n' +
+      '<head><title>502 Bad Gateway</title></head>\r\n' +
+      '<body>\r\n' +
+      '<center><h1>502 Bad Gateway</h1></center>\r\n' +
+      '</body>\r\n' +
+      '</html>\r\n',
+    body: {},
+    files: undefined,
+    buffered: true,
+    headers: {
+      connection: 'close',
+      'content-length': '122',
+      server: 'awselb/2.0',
+      'content-type': 'text/html',
+      date: 'Mon, 23 Aug 2021 20:59:29 GMT',
+      'x-served-by': 'cache-sea4465-SEA, cache-iah17230-IAH',
+      'x-cache': 'MISS, MISS',
+      'x-cache-hits': '0, 0',
+      'x-timer': 'S1629752370.701379,VS0,VS0,VE54',
+      'strict-transport-security': 'max-age=300'
+    },
+    header: {
+      connection: 'close',
+      'content-length': '122',
+      server: 'awselb/2.0',
+      'content-type': 'text/html',
+      date: 'Mon, 23 Aug 2021 20:59:29 GMT',
+      'x-served-by': 'cache-sea4465-SEA, cache-iah17230-IAH',
+      'x-cache': 'MISS, MISS',
+      'x-cache-hits': '0, 0',
+      'x-timer': 'S1629752370.701379,VS0,VS0,VE54',
+      'strict-transport-security': 'max-age=300'
+    },
+    statusCode: 502,
+    status: 502,
+    statusType: 5,
+    info: false,
+    ok: false,
+    redirect: false,
+    clientError: false,
+    serverError: true,
+    error: Error: cannot GET /kraken/users?login=TheHexagonist (502)
+        at Response.toError (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:98:13)
+        at ResponseBase._setStatusProperties (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\response-base.js:119:48)
+        at new Response (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:44:8)
+        at Request._emitResponse (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:930:18)
+        at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:42)
+        at IncomingMessage.emit (events.js:327:22)
+        at endReadableNT (internal/streams/readable.js:1327:12)
+        at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+      status: 502,
+      text: '<html>\r\n' +
+        '<head><title>502 Bad Gateway</title></head>\r\n' +
+        '<body>\r\n' +
+        '<center><h1>502 Bad Gateway</h1></center>\r\n' +
+        '</body>\r\n' +
+        '</html>\r\n',
+      method: 'GET',
+      path: '/kraken/users?login=TheHexagonist'
+    },
+    created: false,
+    accepted: false,
+    noContent: false,
+    badRequest: false,
+    unauthorized: false,
+    notAcceptable: false,
+    forbidden: false,
+    notFound: false,
+    unprocessableEntity: false,
+    type: 'text/html',
+    links: {},
+    setEncoding: [Function: bound ],
+    redirects: [],
+    pipe: [Function (anonymous)],
+    [Symbol(kCapture)]: false
+  }
+}
 
-<channel id="TheHexagonist.us">
-<display-name>TheHexagonist</display-name>
-</channel>
-
-<channel id="Hirona.us">
-<display-name>Hirona</display-name>
-</channel>
-
-<channel id="Nikkisariot.us">
-<display-name>Nikkisariot</display-name>
-</channel>
-
+A Error: Bad Gateway
+    at Request.callback (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:883:15)
+    at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:20)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  status: 502,
+  response: <ref *1> Response {
+    _events: [Object: null prototype] {},
+    _eventsCount: 0,
+    _maxListeners: undefined,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      headers: [Object],
+      rawHeaders: [Array],
+      trailers: {},
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 502,
+      statusMessage: 'Bad Gateway',
+      client: [TLSSocket],
+      _consuming: true,
+      _dumped: false,
+      req: [ClientRequest],
+      text: '<html>\r\n' +
+        '<head><title>502 Bad Gateway</title></head>\r\n' +
+        '<body>\r\n' +
+        '<center><h1>502 Bad Gateway</h1></center>\r\n' +
+        '</body>\r\n' +
+        '</html>\r\n',
+      [Symbol(kCapture)]: false,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    request: Request {
+      _events: [Object: null prototype] {},
+      _eventsCount: 0,
+      _maxListeners: undefined,
+      _enableHttp2: false,
+      _agent: false,
+      _formData: null,
+      method: 'GET',
+      url: 'https://api.twitch.tv/kraken/streams/39655944',
+      _header: [Object],
+      header: [Object],
+      writable: true,
+      _redirects: 0,
+      _maxRedirects: 5,
+      cookies: '',
+      qs: {},
+      _query: [],
+      qsRaw: [],
+      _redirectList: [],
+      _streamRequest: false,
+      req: [ClientRequest],
+      protocol: 'https:',
+      host: 'api.twitch.tv',
+      _endCalled: true,
+      _callback: [Function: response],
+      res: [IncomingMessage],
+      _resBuffered: true,
+      response: [Circular *1],
+      called: true,
+      [Symbol(kCapture)]: false
+    },
+    req: ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: false,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: 0,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [TLSSocket],
+      _header: 'GET /kraken/streams/39655944 HTTP/1.1\r\n' +
+        'Host: api.twitch.tv\r\n' +
+        'Accept-Encoding: gzip, deflate\r\n' +
+        'Client-ID: 3zzmx0l2ph50anf78iefr6su9d8byj8\r\n' +
+        'Accept: application/vnd.twitchtv.v5+json\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'GET',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/kraken/streams/39655944',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.twitch.tv',
+      protocol: 'https:',
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    text: '<html>\r\n' +
+      '<head><title>502 Bad Gateway</title></head>\r\n' +
+      '<body>\r\n' +
+      '<center><h1>502 Bad Gateway</h1></center>\r\n' +
+      '</body>\r\n' +
+      '</html>\r\n',
+    body: {},
+    files: undefined,
+    buffered: true,
+    headers: {
+      connection: 'close',
+      'content-length': '122',
+      server: 'awselb/2.0',
+      'content-type': 'text/html',
+      date: 'Mon, 23 Aug 2021 20:59:30 GMT',
+      'x-served-by': 'cache-sea4479-SEA, cache-iah17247-IAH',
+      'x-cache': 'MISS, MISS',
+      'x-cache-hits': '0, 0',
+      'x-timer': 'S1629752371.555097,VS0,VS0,VE57',
+      'strict-transport-security': 'max-age=300'
+    },
+    header: {
+      connection: 'close',
+      'content-length': '122',
+      server: 'awselb/2.0',
+      'content-type': 'text/html',
+      date: 'Mon, 23 Aug 2021 20:59:30 GMT',
+      'x-served-by': 'cache-sea4479-SEA, cache-iah17247-IAH',
+      'x-cache': 'MISS, MISS',
+      'x-cache-hits': '0, 0',
+      'x-timer': 'S1629752371.555097,VS0,VS0,VE57',
+      'strict-transport-security': 'max-age=300'
+    },
+    statusCode: 502,
+    status: 502,
+    statusType: 5,
+    info: false,
+    ok: false,
+    redirect: false,
+    clientError: false,
+    serverError: true,
+    error: Error: cannot GET /kraken/streams/39655944 (502)
+        at Response.toError (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:98:13)
+        at ResponseBase._setStatusProperties (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\response-base.js:119:48)
+        at new Response (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:44:8)
+        at Request._emitResponse (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:930:18)
+        at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:42)
+        at IncomingMessage.emit (events.js:327:22)
+        at endReadableNT (internal/streams/readable.js:1327:12)
+        at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+      status: 502,
+      text: '<html>\r\n' +
+        '<head><title>502 Bad Gateway</title></head>\r\n' +
+        '<body>\r\n' +
+        '<center><h1>502 Bad Gateway</h1></center>\r\n' +
+        '</body>\r\n' +
+        '</html>\r\n',
+      method: 'GET',
+      path: '/kraken/streams/39655944'
+    },
+    created: false,
+    accepted: false,
+    noContent: false,
+    badRequest: false,
+    unauthorized: false,
+    notAcceptable: false,
+    forbidden: false,
+    notFound: false,
+    unprocessableEntity: false,
+    type: 'text/html',
+    links: {},
+    setEncoding: [Function: bound ],
+    redirects: [],
+    pipe: [Function (anonymous)],
+    [Symbol(kCapture)]: false
+  }
+}
+A Error: Bad Gateway
+    at Request.callback (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:883:15)
+    at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:20)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  status: 502,
+  response: <ref *1> Response {
+    _events: [Object: null prototype] {},
+    _eventsCount: 0,
+    _maxListeners: undefined,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      headers: [Object],
+      rawHeaders: [Array],
+      trailers: {},
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 502,
+      statusMessage: 'Bad Gateway',
+      client: [TLSSocket],
+      _consuming: true,
+      _dumped: false,
+      req: [ClientRequest],
+      text: '<html>\r\n' +
+        '<head><title>502 Bad Gateway</title></head>\r\n' +
+        '<body>\r\n' +
+        '<center><h1>502 Bad Gateway</h1></center>\r\n' +
+        '</body>\r\n' +
+        '</html>\r\n',
+      [Symbol(kCapture)]: false,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    request: Request {
+      _events: [Object: null prototype] {},
+      _eventsCount: 0,
+      _maxListeners: undefined,
+      _enableHttp2: false,
+      _agent: false,
+      _formData: null,
+      method: 'GET',
+      url: 'https://api.twitch.tv/kraken/streams/26484662',
+      _header: [Object],
+      header: [Object],
+      writable: true,
+      _redirects: 0,
+      _maxRedirects: 5,
+      cookies: '',
+      qs: {},
+      _query: [],
+      qsRaw: [],
+      _redirectList: [],
+      _streamRequest: false,
+      req: [ClientRequest],
+      protocol: 'https:',
+      host: 'api.twitch.tv',
+      _endCalled: true,
+      _callback: [Function: response],
+      res: [IncomingMessage],
+      _resBuffered: true,
+      response: [Circular *1],
+      called: true,
+      [Symbol(kCapture)]: false
+    },
+    req: ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: false,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: 0,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [TLSSocket],
+      _header: 'GET /kraken/streams/26484662 HTTP/1.1\r\n' +
+        'Host: api.twitch.tv\r\n' +
+        'Accept-Encoding: gzip, deflate\r\n' +
+        'Client-ID: 3zzmx0l2ph50anf78iefr6su9d8byj8\r\n' +
+        'Accept: application/vnd.twitchtv.v5+json\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'GET',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/kraken/streams/26484662',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.twitch.tv',
+      protocol: 'https:',
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    text: '<html>\r\n' +
+      '<head><title>502 Bad Gateway</title></head>\r\n' +
+      '<body>\r\n' +
+      '<center><h1>502 Bad Gateway</h1></center>\r\n' +
+      '</body>\r\n' +
+      '</html>\r\n',
+    body: {},
+    files: undefined,
+    buffered: true,
+    headers: {
+      connection: 'close',
+      'content-length': '122',
+      server: 'awselb/2.0',
+      'content-type': 'text/html',
+      date: 'Mon, 23 Aug 2021 20:59:31 GMT',
+      'x-served-by': 'cache-sea4435-SEA, cache-iah17223-IAH',
+      'x-cache': 'MISS, MISS',
+      'x-cache-hits': '0, 0',
+      'x-timer': 'S1629752371.977884,VS0,VS0,VE55',
+      'strict-transport-security': 'max-age=300'
+    },
+    header: {
+      connection: 'close',
+      'content-length': '122',
+      server: 'awselb/2.0',
+      'content-type': 'text/html',
+      date: 'Mon, 23 Aug 2021 20:59:31 GMT',
+      'x-served-by': 'cache-sea4435-SEA, cache-iah17223-IAH',
+      'x-cache': 'MISS, MISS',
+      'x-cache-hits': '0, 0',
+      'x-timer': 'S1629752371.977884,VS0,VS0,VE55',
+      'strict-transport-security': 'max-age=300'
+    },
+    statusCode: 502,
+    status: 502,
+    statusType: 5,
+    info: false,
+    ok: false,
+    redirect: false,
+    clientError: false,
+    serverError: true,
+    error: Error: cannot GET /kraken/streams/26484662 (502)
+        at Response.toError (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:98:13)
+        at ResponseBase._setStatusProperties (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\response-base.js:119:48)
+        at new Response (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:44:8)
+        at Request._emitResponse (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:930:18)
+        at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:42)
+        at IncomingMessage.emit (events.js:327:22)
+        at endReadableNT (internal/streams/readable.js:1327:12)
+        at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+      status: 502,
+      text: '<html>\r\n' +
+        '<head><title>502 Bad Gateway</title></head>\r\n' +
+        '<body>\r\n' +
+        '<center><h1>502 Bad Gateway</h1></center>\r\n' +
+        '</body>\r\n' +
+        '</html>\r\n',
+      method: 'GET',
+      path: '/kraken/streams/26484662'
+    },
+    created: false,
+    accepted: false,
+    noContent: false,
+    badRequest: false,
+    unauthorized: false,
+    notAcceptable: false,
+    forbidden: false,
+    notFound: false,
+    unprocessableEntity: false,
+    type: 'text/html',
+    links: {},
+    setEncoding: [Function: bound ],
+    redirects: [],
+    pipe: [Function (anonymous)],
+    [Symbol(kCapture)]: false
+  }
+}
+A Error: Bad Gateway
+    at Request.callback (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:883:15)
+    at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:20)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  status: 502,
+  response: <ref *1> Response {
+    _events: [Object: null prototype] {},
+    _eventsCount: 0,
+    _maxListeners: undefined,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      headers: [Object],
+      rawHeaders: [Array],
+      trailers: {},
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 502,
+      statusMessage: 'Bad Gateway',
+      client: [TLSSocket],
+      _consuming: true,
+      _dumped: false,
+      req: [ClientRequest],
+      text: '<html>\r\n' +
+        '<head><title>502 Bad Gateway</title></head>\r\n' +
+        '<body>\r\n' +
+        '<center><h1>502 Bad Gateway</h1></center>\r\n' +
+        '</body>\r\n' +
+        '</html>\r\n',
+      [Symbol(kCapture)]: false,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    request: Request {
+      _events: [Object: null prototype] {},
+      _eventsCount: 0,
+      _maxListeners: undefined,
+      _enableHttp2: false,
+      _agent: false,
+      _formData: null,
+      method: 'GET',
+      url: 'https://api.twitch.tv/kraken/streams/48024016',
+      _header: [Object],
+      header: [Object],
+      writable: true,
+      _redirects: 0,
+      _maxRedirects: 5,
+      cookies: '',
+      qs: {},
+      _query: [],
+      qsRaw: [],
+      _redirectList: [],
+      _streamRequest: false,
+      req: [ClientRequest],
+      protocol: 'https:',
+      host: 'api.twitch.tv',
+      _endCalled: true,
+      _callback: [Function: response],
+      res: [IncomingMessage],
+      _resBuffered: true,
+      response: [Circular *1],
+      called: true,
+      [Symbol(kCapture)]: false
+    },
+    req: ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: false,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: 0,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [TLSSocket],
+      _header: 'GET /kraken/streams/48024016 HTTP/1.1\r\n' +
+        'Host: api.twitch.tv\r\n' +
+        'Accept-Encoding: gzip, deflate\r\n' +
+        'Client-ID: 3zzmx0l2ph50anf78iefr6su9d8byj8\r\n' +
+        'Accept: application/vnd.twitchtv.v5+json\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'GET',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/kraken/streams/48024016',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.twitch.tv',
+      protocol: 'https:',
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    text: '<html>\r\n' +
+      '<head><title>502 Bad Gateway</title></head>\r\n' +
+      '<body>\r\n' +
+      '<center><h1>502 Bad Gateway</h1></center>\r\n' +
+      '</body>\r\n' +
+      '</html>\r\n',
+    body: {},
+    files: undefined,
+    buffered: true,
+    headers: {
+      connection: 'close',
+      'content-length': '122',
+      server: 'awselb/2.0',
+      'content-type': 'text/html',
+      date: 'Mon, 23 Aug 2021 20:59:31 GMT',
+      'x-served-by': 'cache-sea4453-SEA, cache-iah17253-IAH',
+      'x-cache': 'MISS, MISS',
+      'x-cache-hits': '0, 0',
+      'x-timer': 'S1629752371.391103,VS0,VS0,VE70',
+      'strict-transport-security': 'max-age=300'
+    },
+    header: {
+      connection: 'close',
+      'content-length': '122',
+      server: 'awselb/2.0',
+      'content-type': 'text/html',
+      date: 'Mon, 23 Aug 2021 20:59:31 GMT',
+      'x-served-by': 'cache-sea4453-SEA, cache-iah17253-IAH',
+      'x-cache': 'MISS, MISS',
+      'x-cache-hits': '0, 0',
+      'x-timer': 'S1629752371.391103,VS0,VS0,VE70',
+      'strict-transport-security': 'max-age=300'
+    },
+    statusCode: 502,
+    status: 502,
+    statusType: 5,
+    info: false,
+    ok: false,
+    redirect: false,
+    clientError: false,
+    serverError: true,
+    error: Error: cannot GET /kraken/streams/48024016 (502)
+        at Response.toError (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:98:13)
+        at ResponseBase._setStatusProperties (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\response-base.js:119:48)
+        at new Response (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:44:8)
+        at Request._emitResponse (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:930:18)
+        at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:42)
+        at IncomingMessage.emit (events.js:327:22)
+        at endReadableNT (internal/streams/readable.js:1327:12)
+        at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+      status: 502,
+      text: '<html>\r\n' +
+        '<head><title>502 Bad Gateway</title></head>\r\n' +
+        '<body>\r\n' +
+        '<center><h1>502 Bad Gateway</h1></center>\r\n' +
+        '</body>\r\n' +
+        '</html>\r\n',
+      method: 'GET',
+      path: '/kraken/streams/48024016'
+    },
+    created: false,
+    accepted: false,
+    noContent: false,
+    badRequest: false,
+    unauthorized: false,
+    notAcceptable: false,
+    forbidden: false,
+    notFound: false,
+    unprocessableEntity: false,
+    type: 'text/html',
+    links: {},
+    setEncoding: [Function: bound ],
+    redirects: [],
+    pipe: [Function (anonymous)],
+    [Symbol(kCapture)]: false
+  }
+}
+A Error: Bad Gateway
+    at Request.callback (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:883:15)
+    at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:20)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  status: 502,
+  response: <ref *1> Response {
+    _events: [Object: null prototype] {},
+    _eventsCount: 0,
+    _maxListeners: undefined,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      headers: [Object],
+      rawHeaders: [Array],
+      trailers: {},
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 502,
+      statusMessage: 'Bad Gateway',
+      client: [TLSSocket],
+      _consuming: true,
+      _dumped: false,
+      req: [ClientRequest],
+      text: '<html>\r\n' +
+        '<head><title>502 Bad Gateway</title></head>\r\n' +
+        '<body>\r\n' +
+        '<center><h1>502 Bad Gateway</h1></center>\r\n' +
+        '</body>\r\n' +
+        '</html>\r\n',
+      [Symbol(kCapture)]: false,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    request: Request {
+      _events: [Object: null prototype] {},
+      _eventsCount: 0,
+      _maxListeners: undefined,
+      _enableHttp2: false,
+      _agent: false,
+      _formData: null,
+      method: 'GET',
+      url: 'https://api.twitch.tv/kraken/streams/42022015',
+      _header: [Object],
+      header: [Object],
+      writable: true,
+      _redirects: 0,
+      _maxRedirects: 5,
+      cookies: '',
+      qs: {},
+      _query: [],
+      qsRaw: [],
+      _redirectList: [],
+      _streamRequest: false,
+      req: [ClientRequest],
+      protocol: 'https:',
+      host: 'api.twitch.tv',
+      _endCalled: true,
+      _callback: [Function: response],
+      res: [IncomingMessage],
+      _resBuffered: true,
+      response: [Circular *1],
+      called: true,
+      [Symbol(kCapture)]: false
+    },
+    req: ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: false,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: 0,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [TLSSocket],
+      _header: 'GET /kraken/streams/42022015 HTTP/1.1\r\n' +
+        'Host: api.twitch.tv\r\n' +
+        'Accept-Encoding: gzip, deflate\r\n' +
+        'Client-ID: 3zzmx0l2ph50anf78iefr6su9d8byj8\r\n' +
+        'Accept: application/vnd.twitchtv.v5+json\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'GET',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/kraken/streams/42022015',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.twitch.tv',
+      protocol: 'https:',
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    text: '<html>\r\n' +
+      '<head><title>502 Bad Gateway</title></head>\r\n' +
+      '<body>\r\n' +
+      '<center><h1>502 Bad Gateway</h1></center>\r\n' +
+      '</body>\r\n' +
+      '</html>\r\n',
+    body: {},
+    files: undefined,
+    buffered: true,
+    headers: {
+      connection: 'close',
+      'content-length': '122',
+      server: 'awselb/2.0',
+      'content-type': 'text/html',
+      date: 'Mon, 23 Aug 2021 20:59:31 GMT',
+      'x-served-by': 'cache-sea4425-SEA, cache-iah17221-IAH',
+      'x-cache': 'MISS, MISS',
+      'x-cache-hits': '0, 0',
+      'x-timer': 'S1629752372.804694,VS0,VS0,VE56',
+      'strict-transport-security': 'max-age=300'
+    },
+    header: {
+      connection: 'close',
+      'content-length': '122',
+      server: 'awselb/2.0',
+      'content-type': 'text/html',
+      date: 'Mon, 23 Aug 2021 20:59:31 GMT',
+      'x-served-by': 'cache-sea4425-SEA, cache-iah17221-IAH',
+      'x-cache': 'MISS, MISS',
+      'x-cache-hits': '0, 0',
+      'x-timer': 'S1629752372.804694,VS0,VS0,VE56',
+      'strict-transport-security': 'max-age=300'
+    },
+    statusCode: 502,
+    status: 502,
+    statusType: 5,
+    info: false,
+    ok: false,
+    redirect: false,
+    clientError: false,
+    serverError: true,
+    error: Error: cannot GET /kraken/streams/42022015 (502)
+        at Response.toError (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:98:13)
+        at ResponseBase._setStatusProperties (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\response-base.js:119:48)
+        at new Response (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\response.js:44:8)
+        at Request._emitResponse (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:930:18)
+        at IncomingMessage.<anonymous> (C:\Users\erick\AppData\Roaming\npm\node_modules\twitch-stream-check\node_modules\superagent\lib\node\index.js:1127:42)
+        at IncomingMessage.emit (events.js:327:22)
+        at endReadableNT (internal/streams/readable.js:1327:12)
+        at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+      status: 502,
+      text: '<html>\r\n' +
+        '<head><title>502 Bad Gateway</title></head>\r\n' +
+        '<body>\r\n' +
+        '<center><h1>502 Bad Gateway</h1></center>\r\n' +
+        '</body>\r\n' +
+        '</html>\r\n',
+      method: 'GET',
+      path: '/kraken/streams/42022015'
+    },
+    created: false,
+    accepted: false,
+    noContent: false,
+    badRequest: false,
+    unauthorized: false,
+    notAcceptable: false,
+    forbidden: false,
+    notFound: false,
+    unprocessableEntity: false,
+    type: 'text/html',
+    links: {},
+    setEncoding: [Function: bound ],
+    redirects: [],
+    pipe: [Function (anonymous)],
+    [Symbol(kCapture)]: false
+  }
+}
 
 <channel id="Kyliebitkin.us">
 <display-name>Kyliebitkin</display-name>
@@ -106,9 +1328,7 @@
 <channel id="Lysium.us">
 <display-name>Lysium</display-name>
 </channel>
-<channel id="SayeedBlack.us">
-<display-name>SayeedBlack</display-name>
-</channel>
+
 <channel id="Timmy2.us">
 <display-name>Timmy2</display-name>
 </channel>
@@ -122,9 +1342,7 @@
 <channel id="Lagtvmaximusblack.us">
 <display-name>Lagtvmaximusblack</display-name>
 </channel>
-<channel id="Noelusionz.us">
-<display-name>Noelusionz</display-name>
-</channel>
+
 
 
 
@@ -136,9 +1354,7 @@
 
 
 
-<channel id="Cathfawr.us">
-<display-name>Cathfawr</display-name>
-</channel>
+
 
 
 <channel id="Harry.us">
@@ -155,7 +1371,9 @@
 <channel id="Timthetatman.us">
 <display-name>Timthetatman</display-name>
 </channel>
-
+<channel id="Aa9skillz.us">
+<display-name>Aa9skillz</display-name>
+</channel>
 
 
 
@@ -163,18 +1381,14 @@
 <channel id="LotsOfBunnies.us">
 <display-name>LotsOfBunnies</display-name>
 </channel>
-<channel id="Grandpoobear.us">
-<display-name>Grandpoobear</display-name>
-</channel>
 
 
 
 
 
 
-<channel id="Traycee.us">
-<display-name>Traycee</display-name>
-</channel>
+
+
 
 <channel id="Abdulhd.us">
 <display-name>Abdulhd</display-name>
@@ -184,8 +1398,12 @@
 </channel>
 
 
-
-
+<channel id="Zerkaa.us">
+<display-name>Zerkaa</display-name>
+</channel>
+<channel id="Carmen.us">
+<display-name>Carmen</display-name>
+</channel>
 
 
 <channel id="Raine.us">
@@ -193,62 +1411,65 @@
 </channel>
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Buddha.us">
 <title lang="en" > Lang Buddha - NoPixel | !website !tiktok </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 19378 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 20999 </desc>
 </programme>
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Raine.us">
 <title lang="en" > penny "farming PogOs" farthing || nopixel </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 102 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 108 </desc>
 </programme>
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="HasanAbi.us">
 <title lang="en" > VAXNATION!!!! MONDAY NO MORE DRAMA PLS JUST NEWS AND GAMING  </title>
-<desc lang="en"> Game: Just Chatting  Viewers: 40528 </desc>
+<desc lang="en"> Game: Just Chatting  Viewers: 44838 </desc>
 </programme>
 
-
-
+<programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Zerkaa.us">
+<title lang="en" > TOMMY TATE | 1 MILLION FOLLOWER PRO STREAMER | NoPixel WL | !nprules </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 7692 </desc>
+</programme>
+<programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Carmen.us">
+<title lang="en" > carmella BADDEST BBBB ♡ nopixel 3.0 ♡ !discord </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 912 </desc>
+</programme>
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="AnthonyZ.us">
-<title lang="en" > 15HR STREAM 20K DREAM | COPLEONE BEST COP! NOPIXEL WL | STREAMS MON-FRI 9:30AM CT! </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 6110 </desc>
+<title lang="en" > 15HR STREAM 20K DREAM | RDR 2 STORY MODE | STREAMS MON-FRI 9:30AM CT! </title>
+<desc lang="en"> Game: Red Dead Redemption 2  Viewers: 4391 </desc>
 </programme>
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Abdulhd.us">
 <title lang="en" > Abdul Election Day 1/7 | !NoPixel | !Mayor | !NordVPN | !SneakEnergy | !Socials | #GoodVibes #ToxicFree #COYB </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 4499 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 3812 </desc>
 </programme>
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Travpiper.us">
 <title lang="en" > Cheddar | NoPixel WL </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 339 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 460 </desc>
 </programme>
 
 
-<programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Grandpoobear.us">
-<title lang="en" > Mick Flair 15 Time Champ ||The Stable </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1462 </desc>
-</programme>
+
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Biotoxz_.us">
 <title lang="en" > BJORN TRIPOD CORLEONE WARDEN OF THE NORTH SURVIVED THE 9'S | 47 WOLF 100% | NOPIXEL WL | </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 472 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 377 </desc>
 </programme>
 
-<programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Traycee.us">
-<title lang="en" > Aspen Gray | Dispatch D-21 | NoPixel WL | !Angels </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 55 </desc>
-</programme>
+
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Neutren.us">
 <title lang="en" > Goofy | Nopixel WL | Street Racing </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 2494 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1433 </desc>
 </programme>
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Kate.us">
 <title lang="en" > Nancy Drew - NoPixel WL - The Stable - !new !socials </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 766 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 887 </desc>
 </programme>
-
+<programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Garek.us">
+<title lang="en" > ROR2 Mod vs GAMER FRIENDS </title>
+<desc lang="en"> Game: Risk of Rain 2  Viewers: 46 </desc>
+</programme>
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Itsleslie.us">
 <title lang="en" > NO MORE STALLING/COPIUM/BS !socials </title>
-<desc lang="en"> Game: Just Chatting  Viewers: 89 </desc>
+<desc lang="en"> Game: Just Chatting  Viewers: 157 </desc>
 </programme>
 
 
@@ -256,73 +1477,73 @@
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Mekabear.us">
 <title lang="en" > ROAD 69 </title>
-<desc lang="en"> Game: Road 96  Viewers: 746 </desc>
+<desc lang="en"> Game: Road 96  Viewers: 820 </desc>
 </programme>
-
+<programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Ashi.us">
+<title lang="en" > Fiona | Racer/drug | NoPixel RP | !social </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 68 </desc>
+</programme>
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Bananabrea.us">
 <title lang="en" > Claire Seducer | Angels  |twitter/insta @bananabreaa  </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 2373 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1611 </desc>
 </programme>
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Gtawiseguy.us">
 <title lang="en" > Sgt Underwood, Eddie later | NoPixel WL !discord </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 4993 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 4154 </desc>
 </programme>
 
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Ramee.us">
 <title lang="en" > Ramee | !Merch IS LIVE! | Chang Gang | NoPixel </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 9561 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 11356 </desc>
 </programme>
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Ratedepicz.us">
 <title lang="en" > Randy Bullet | Chang Gang | NoPixel | GTA V RP | !youtube !newvid | !GFuel </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 12026 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 15218 </desc>
 </programme>
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Shotz.us">
 <title lang="en" > John Mineo | SENIOR Park Ranger | NoPixel | !VBI !PObox !GFuel !Merch </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1943 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1626 </desc>
 </programme>
 
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Curtisryan.us">
-<title lang="en" > McClane MotoCert awesome guy cool person good guy - NoPixel - Twitter: @CurtisRyan__ </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 396 </desc>
+<title lang="en" > MotoCert McClane - Promoted! - NoPixel - Twitter: @CurtisRyan__ </title>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 432 </desc>
 </programme>
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Ssaab.us">
 <title lang="en" > Chief Of Police Baas - Nopixel  | !tonor !tiktok #ad </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 947 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 3529 </desc>
 </programme>
 
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="TheHexagonist.us">
 <title lang="en" > Deputy Vincent Glass - 327 | Probationary FTO | NoPixel WL  </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 34 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 52 </desc>
 </programme>
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Hirona.us">
 <title lang="en" > Trooper Copper | NoPixel GTARP </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1388 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1349 </desc>
 </programme>
 
-<programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Nikkisariot.us">
-<title lang="en" > Sgt. Jenny Hall | NPU | NoPixel WL </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 124 </desc>
-</programme>
+
 
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Kyliebitkin.us">
 <title lang="en" > Nopixel WL | Captain Brittany Angel | !merch !discord !links </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1452 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1982 </desc>
 </programme>
 
 
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Cathie.us">
 <title lang="en" > Sgt Anita May / NoPixel WL / Twitter  @cathiesousa  </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 57 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 79 </desc>
 </programme>
 
 
@@ -333,11 +1554,11 @@
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Kinamazing.us">
 <title lang="en" > GTA RP | Dupogggg | Nopixel </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 858 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 649 </desc>
 </programme>
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Kiwo.us">
 <title lang="en" > Adelaide Cress | Apples | ThePRC |  #245 </title>
-<desc lang="en"> Game: Red Dead Redemption 2  Viewers: 419 </desc>
+<desc lang="en"> Game: Red Dead Redemption 2  Viewers: 450 </desc>
 </programme>
 
 
@@ -349,15 +1570,12 @@
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Lysium.us">
 <title lang="en" > BENJI MAKES NEW FRIENDS | NoPIxel WL | GTA V RP | youtube.com/Lysium </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 2389 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1998 </desc>
 </programme>
-<programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="SayeedBlack.us">
-<title lang="en" > Speedy and Friends smuggle 50 kilo drogas to tijuana (RP) </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 459 </desc>
-</programme>
+
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Timmy2.us">
 <title lang="en" > WORLDS BEST </title>
-<desc lang="en"> Game: Apex Legends  Viewers: 65 </desc>
+<desc lang="en"> Game: Apex Legends  Viewers: 69 </desc>
 </programme>
 
 
@@ -365,16 +1583,13 @@
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Itssammyp.us">
 <title lang="en" > NoPixel WL - Mando - Lawn Chair RP </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 202 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 152 </desc>
 </programme>
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Lagtvmaximusblack.us">
 <title lang="en" > OTT - B$K WAR VS GSF !NordVPN !Elgato </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 886 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 748 </desc>
 </programme>
-<programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Noelusionz.us">
-<title lang="en" > 🔴The Bobby Beats Experience - KINGZ - Nopixel WL - NEW !music </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 113 </desc>
-</programme>
+
 
 
 
@@ -386,15 +1601,12 @@
 
 
 
-<programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Cathfawr.us">
-<title lang="en" > Lydia Vale | NoPixel WL !socials !nexus !NordVPN </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 499 </desc>
-</programme>
+
 
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Harry.us">
 <title lang="en" > Harry Brown | NoPixel - !youtube !tiktok !tts </title>
-<desc lang="en"> Game: Grand Theft Auto V  Viewers: 1920 </desc>
+<desc lang="en"> Game: Grand Theft Auto V  Viewers: 2600 </desc>
 </programme>
 
 
@@ -403,20 +1615,23 @@
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="NICKMERCS.us">
 <title lang="en" > Fraggin' | Code: MFAM | @NICKMERCS </title>
-<desc lang="en"> Game: Apex Legends  Viewers: 53320 </desc>
+<desc lang="en"> Game: Apex Legends  Viewers: 51054 </desc>
 </programme>
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Timthetatman.us">
 <title lang="en" > howdy </title>
-<desc lang="en"> Game: Call of Duty: Warzone  Viewers: 43204 </desc>
+<desc lang="en"> Game: Call of Duty: Warzone  Viewers: 38152 </desc>
 </programme>
-
+<programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="Aa9skillz.us">
+<title lang="en" > BALDNALDO!! CHAMPION LEAGUE KNOCK OUT!!!!! @AA9SKILLZ  </title>
+<desc lang="en"> Game: FIFA 21  Viewers: 553 </desc>
+</programme>
 
 
 
 
 <programme start="20210811000000 +0000" stop="20210930010000 +0000" channel="LotsOfBunnies.us">
 <title lang="en" > Happy Monday </title>
-<desc lang="en"> Game: Apex Legends  Viewers: 95 </desc>
+<desc lang="en"> Game: Apex Legends  Viewers: 56 </desc>
 </programme>
 
 
