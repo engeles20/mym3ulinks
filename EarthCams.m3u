@@ -1,217 +1,91 @@
 #EXTM3U 
  
 #EXTINF:-1 group-title="Youtube_Cams",Live Camera - Dallas TX - AXIS Q6215-LE 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/channel/UCdiPSngCBBo_6DBbj7oWNow/live
-[cli][info] Available streams: 144p (worst), 240p, 360p, 480p, 720p, 1080p (best)
-[cli][info] Opening stream: 1080p (hls)
-[cli][info] Starting player: "C:\Program Files (x86)\VideoLAN\VLC\vlc.exe"
-[cli][info] Player closed
-[cli][info] Stream ended
-[cli][info] Closing currently open stream...
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1630638002/ei/UjsxYZOXJYmc6QKuvIS4Cg/ip/2603:8080:901:aa20:dd88:eeb3:9523:29ee/id/eXspKgzbMOs.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-q4flrn7k.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/13200/mh/bl/mm/44/mn/sn-q4flrn7k/ms/lva/mv/m/mvi/3/pl/34/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1630616198/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgSg-l2PzcZSaIrC1MEMWZrZ-O_MyvTOIK1n9EmAy4xCICIQCpW2GemyIIczvSjRaMJXcDIdTCnyOAyJ8nty86k-sBug%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgb25JaXRPWCP0ZhZfMkoi_quyq7yOC5DOdwyLnFWv0hACIFBCkG7-KpO8Z3BB75p_EzlLiRxt_aZ53vmE46kAJY5c/playlist/index.m3u8
  
 #EXTINF:-1 group-title="Youtube_Cams",Fort Worth Stockyards Live Cam 24/7 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/channel/UCPOQ0aIZO6CR6vJrbLCNtGA/live
 
  
 #EXTINF:-1 group-title="Youtube_Cams",Galveston Texas 24/7 Live Beach Camera 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/watch?v=smDLmSZ4j80
-[cli][info] Available streams: 144p (worst), 240p, 360p, 480p, 720p (best)
-[cli][info] Opening stream: 720p (hls)
-[cli][info] Starting player: "C:\Program Files (x86)\VideoLAN\VLC\vlc.exe"
-[cli][info] Player closed
-[cli][info] Stream ended
-[cli][info] Closing currently open stream...
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1630638005/ei/VTsxYbOYIvCxlu8Pn4essA4/ip/2603:8080:901:aa20:dd88:eeb3:9523:29ee/id/smDLmSZ4j80.2/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/hls_chunk_host/rr5---sn-q4flrnl6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/13200/mh/Go/mm/44/mn/sn-q4flrnl6/ms/lva/mv/m/mvi/5/pl/34/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1630616198/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAIukS6JGZEyu5zp37eGAUiTvtRaL6N3lMv17IqSBOBVyAiEA-BKYpoBJ05Qw_hRC05wNmB3KY8hc_Ma0SQt71lc0gR4%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgFsUkSYp5sJtW-uX66Elme8faQYkK3KVl1wefX26yZSUCIGfssZnSlX5sDdfsNByf8ZuGWLE5YHZ61VXTA9pVjJCe/playlist/index.m3u8
  
 #EXTINF:-1 group-title="Youtube_Cams",Houston Texas 24/7 Live City Camera 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/watch?v=c5_w4yGHmNQ
-[cli][info] Available streams: 144p (worst), 240p, 360p, 480p, 720p (best)
-[cli][info] Opening stream: 720p (hls)
-[cli][info] Starting player: "C:\Program Files (x86)\VideoLAN\VLC\vlc.exe"
-[cli][info] Player closed
-[cli][info] Stream ended
-[cli][info] Closing currently open stream...
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1630638007/ei/VzsxYdbUEaeC_tcP7ue_sAc/ip/2603:8080:901:aa20:dd88:eeb3:9523:29ee/id/c5_w4yGHmNQ.2/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/hls_chunk_host/rr3---sn-q4fl6ns6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/12750/mh/NQ/mm/44/mn/sn-q4fl6ns6/ms/lva/mv/m/mvi/3/pl/34/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1630616198/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAKmYKeDwU6dmqdqOwSBpGvIa8lZa4EnZ1s6AXTordh-tAiEA9r6wPZhHwht37inJ4OYu7x9jG3DCWDGfDJEQ7ArK3aE%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgdoRk09GA9UTfvGEMCIpL2QvYtnOZRr-E96I0kmeRcMECIBLWbEqpEaScVIvVAg3wcK-HHduFhFna3AECxSQyUHtC/playlist/index.m3u8
  
 #EXTINF:-1 group-title="Youtube_Cams",Houston Texas 24/7 Live City Camera 2 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/watch?v=hjqbpnigAHA
-[cli][info] Available streams: 144p (worst), 240p, 360p, 480p, 720p (best)
-[cli][info] Opening stream: 720p (hls)
-[cli][info] Starting player: "C:\Program Files (x86)\VideoLAN\VLC\vlc.exe"
-[cli][info] Player closed
-[cli][info] Stream ended
-[cli][info] Closing currently open stream...
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1630638009/ei/WTsxYZ-vCdyO2_gP1o2FcA/ip/2603:8080:901:aa20:dd88:eeb3:9523:29ee/id/hjqbpnigAHA.2/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/hls_chunk_host/rr2---sn-q4flrnl6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/13200/mh/at/mm/44/mn/sn-q4flrnl6/ms/lva/mv/m/mvi/2/pl/34/dover/11/keepalive/yes/fexp/24001373,24007246/beids/23886214/mt/1630616198/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAPAmlGnlPxKvjX3aA0GZ0LJfu8psQrNMz59kjlzNdOptAiBaOsewtYu-KNGi13TD7zIjDx2YH8hM9xD4IXsKTsAeZA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhALQJTqxJIEAoRuLw7pcEoqMdVNdq2KXsZ0WE6IvtN15iAiAJhlqErYCGlZigNHtMDDVuA2KpEPTikMZExYQ5Igipdw%3D%3D/playlist/index.m3u8
  
 #EXTINF:-1 group-title="Youtube_Cams",Times Square Duffy Square 4K View Live 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/watch?v=VYsHV7WPyFw
 
  
 #EXTINF:-1 group-title="Youtube_Cams",EarthCam Live Times Square in 4K 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/watch?v=eJ7ZkQ5TC08
 
  
 #EXTINF:-1 group-title="Youtube_Cams",Santa Monica Beach Cam powered by EXPLORE 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/watch?v=OWbI6WtlI-k
-[cli][info] Available streams: 144p (worst), 240p, 360p, 480p, 720p, 1080p (best)
-[cli][info] Opening stream: 1080p (hls)
-[cli][info] Starting player: "C:\Program Files (x86)\VideoLAN\VLC\vlc.exe"
-[cli][info] Player closed
-[cli][info] Stream ended
-[cli][info] Closing currently open stream...
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1630638016/ei/YDsxYfigOaKN2_gPlpaqoAQ/ip/2603:8080:901:aa20:dd88:eeb3:9523:29ee/id/OWbI6WtlI-k.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-q4fl6nlz.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/12750/mh/-7/mm/44/mn/sn-q4fl6nlz/ms/lva/mv/m/mvi/5/pl/34/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1630616198/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAKbvb7EpvY8qeayzZwEWjjLkau2e2J0mFZaI45WfmUgvAiAOAkw9VyidCi2yM4ZaLGVZ0W_zDnmVnTOkdJQ_fJrqag%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgXPGKOBvvRYJk_vksQOIgZZ4Q9LVglGCz3yJF-0ic5AMCIQC64DSWFxr3g0gagHSULEqGXOSwKXhDXuIjlsH8aV8ARA%3D%3D/playlist/index.m3u8
  
 #EXTINF:-1 group-title="Youtube_Cams",Florida Live Beach Cam on Fort Myers Beach Pier at Pierside Bar and Grill 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/watch?v=l6gSenZqmeU
 
  
 #EXTINF:-1 group-title="Youtube_Cams",🐳 LIVE 24/7 🌴 Kaanapali Beach HD Maui Cam 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/channel/UCIQVWkOilfxoQSFcban_d-A/live
-[cli][info] Available streams: 144p (worst), 240p, 360p, 480p, 720p, 1080p (best)
-[cli][info] Opening stream: 1080p (hls)
-[cli][info] Starting player: "C:\Program Files (x86)\VideoLAN\VLC\vlc.exe"
-[cli][info] Player closed
-[cli][info] Stream ended
-[cli][info] Closing currently open stream...
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1630638022/ei/ZjsxYf72OMSulu8PgeOqqAU/ip/2603:8080:901:aa20:dd88:eeb3:9523:29ee/id/GDf5KI70R6A.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-q4fl6nly.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/13390/mh/u7/mm/44/mn/sn-q4fl6nly/ms/lva/mv/m/mvi/3/pl/34/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1630616198/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgKyZ0VzP_QqlBdtG43cYBvf0lfzUjiKUpkBA_4EF0_EsCIGLjja-OP-w_KyyjDjZQSUMpqqujCDfvoLAgQL0-NCRQ/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgYNqD4Ktlu0gLbTOUbZR_Tb2q1nCJ4RSv3JWBzRs4DtgCIQDEQCavW1kI7KDwOiKJzIlRlI7oKvOOQK8dJ51CW6pu7g%3D%3D/playlist/index.m3u8
  
 #EXTINF:-1 group-title="Youtube_Cams",Big Bear Bald Eagle Cam 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/channel/UCsFgbVuhRrPV5FqyN7kOD8g/live
-[cli][info] Available streams: 144p (worst), 240p, 360p, 480p, 720p, 1080p (best)
-[cli][info] Opening stream: 1080p (hls)
-[cli][info] Starting player: "C:\Program Files (x86)\VideoLAN\VLC\vlc.exe"
-[cli][info] Player closed
-[cli][info] Stream ended
-[cli][info] Closing currently open stream...
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1630638024/ei/aDsxYdypIu-dlu8P-cKXiAQ/ip/2603:8080:901:aa20:dd88:eeb3:9523:29ee/id/7utMaDb1W08.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-q4fl6nzy.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/12970/mh/Z5/mm/44/mn/sn-q4fl6nzy/ms/lva/mv/m/mvi/3/pl/34/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1630616198/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAL-JLifSQl-TRtnYNy3HbdQhyhMbJ7iux7GoqJhGRDoZAiAk1sEEF5yR4sh5aNl5nxA2NRvg6CgebyHUeAdEVl7Yyw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgHikIq8QwWAcjdRdfn4DHw7PtzGGjmEeiQhLP2RwWSz8CIQDcoQOgIBIwglFbmrAX4_GPWl-vURygdf31YjseaGx7Dg%3D%3D/playlist/index.m3u8
  
 #EXTINF:-1 group-title="Youtube_Cams",Chicago Live Camera 360 Chicago Tilt 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/channel/UCXPSmo_oiBOHmjh_jOtTvQg/live
-[cli][info] Available streams: 144p (worst), 240p, 360p, 480p, 720p, 1080p (best)
-[cli][info] Opening stream: 1080p (hls)
-[cli][info] Starting player: "C:\Program Files (x86)\VideoLAN\VLC\vlc.exe"
-[cli][info] Player closed
-[cli][info] Stream ended
-[cli][info] Closing currently open stream...
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1630638026/ei/ajsxYY-SC7iW2_gPmrmG0Aw/ip/2603:8080:901:aa20:dd88:eeb3:9523:29ee/id/Te1P7GfA9uo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-q4flrnle.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/13200/mh/Vp/mm/44/mn/sn-q4flrnle/ms/lva/mv/m/mvi/1/pl/34/dover/11/keepalive/yes/fexp/24001373,24007246/beids/9466586/mt/1630616198/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAIYFozF5rPPasCIwQCJxa_cyB7oJJqH9hKQNZ98TvNmhAiEAx5qApV6TKwAS3maUz0n96FtSH4FOiNtD_sZ0R3jMSVY%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAKj5UCuORsHpZ34LE9_kQreLMsNnAtlpPfKzRq4o0aMYAiB9NtOTLF3E0FnV1CAHdNxCx0jrjZSnuHbzQL9NUhacdA%3D%3D/playlist/index.m3u8
  
 #EXTINF:-1 group-title="Youtube_Cams",Live Cam Central Memorial Park Calgary Alberta 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/watch?v=xsRDTfuksyI
-[cli][info] Available streams: 144p (worst), 240p, 360p, 480p, 720p, 1080p (best)
-[cli][info] Opening stream: 1080p (hls)
-[cli][info] Starting player: "C:\Program Files (x86)\VideoLAN\VLC\vlc.exe"
-[cli][info] Player closed
-[cli][info] Stream ended
-[cli][info] Closing currently open stream...
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1630638027/ei/azsxYZGOK5CC6QLp-qaABw/ip/2603:8080:901:aa20:dd88:eeb3:9523:29ee/id/xsRDTfuksyI.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-q4fl6nz6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/12970/mh/GA/mm/44/mn/sn-q4fl6nz6/ms/lva/mv/m/mvi/3/pl/34/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1630616198/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgG4RGFVPONB4rzbIMTg9E4r92jGYrA3zAYfD5AUodf8ICIC_GK5ObTZY4oLqnFIVNiF6CRCsGe4sQ8AGz4OqKj7wR/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhANVANUqHIl6rn93gtD_p3LSAbAe2vdmJMiVwRNTqO_zFAiEA95tMCU6VWE5JeUZMinTziAPJR4M40TVHoNW5I6xxG1U%3D/playlist/index.m3u8
  
 #EXTINF:-1 group-title="Youtube_Cams",Live NYC Brooklyn Bridge Manhattan cam 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/watch?v=KGuCGd726RA
-[cli][info] Available streams: 144p (worst), 240p, 360p, 480p, 720p, 1080p (best)
-[cli][info] Opening stream: 1080p (hls)
-[cli][info] Starting player: "C:\Program Files (x86)\VideoLAN\VLC\vlc.exe"
-[cli][info] Player closed
-[cli][info] Stream ended
-[cli][info] Closing currently open stream...
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1630638030/ei/bTsxYfukOY-2lu8Pnsyt8AM/ip/2603:8080:901:aa20:dd88:eeb3:9523:29ee/id/KGuCGd726RA.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-q4flrnl7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/12750/mh/aU/mm/44/mn/sn-q4flrnl7/ms/lva/mv/m/mvi/4/pl/34/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1630616198/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAIfrf4hnYMUdPmpCYIVO5jPmmRtnvrULf82mUZnJh8WjAiEA0Aetc0ZVbqu9yhvR1m5s11hO4mV3iFdyFntAQfoHY6Y%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAPw6Ol4Pp-4fnh9vLLSKbi-a_bzxoEOLS897tntxN9kyAiAeiXVACOg-FJ6hD05RY5-hUBqobP8l3xPttEi1ZXw5Mw%3D%3D/playlist/index.m3u8
  
 #EXTINF:-1 group-title="Youtube_Cams",Live NYC Lower Manhattan New York Harbor Cam 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/watch?v=Vj0XKu6AoOw
-[cli][info] Available streams: 144p (worst), 240p, 360p, 480p, 720p, 1080p (best)
-[cli][info] Opening stream: 1080p (hls)
-[cli][info] Starting player: "C:\Program Files (x86)\VideoLAN\VLC\vlc.exe"
-[cli][info] Player closed
-[cli][info] Stream ended
-[cli][info] Closing currently open stream...
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1630638031/ei/bzsxYcHbHu7m2_gPssePwAg/ip/2603:8080:901:aa20:dd88:eeb3:9523:29ee/id/Vj0XKu6AoOw.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-q4flrnel.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/13200/mh/gT/mm/44/mn/sn-q4flrnel/ms/lva/mv/m/mvi/3/pl/34/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1630616198/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAMrxNTy0CI1ozbhMDrgf2Z8PPqNLHBTz8bweKh1O2dSHAiABxIPuRA46wtUj_ga8xAmaB01JCoJgddOAI4b0Wn7axQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgMqMFXQwgIWW9x2uVGgEFHI9i7mZE9ZHAOnclCjpI8J8CIQC7OfOMQNH8ZJbx7tRNW0IN9RzLcFFo-ZbRmXlYIb0BIw%3D%3D/playlist/index.m3u8
  
 #EXTINF:-1 group-title="Youtube_Cams",The University of Tampa Live Webcam 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/watch?v=bB96qObNTSU
 
  
 #EXTINF:-1 group-title="Youtube_Cams",The University of Tampa Riverfront Live 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/watch?v=ogbkyRehtCo
 
  
 #EXTINF:-1 group-title="Youtube_Cams",Dania Beach Pier and Beach Cam 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/watch?v=bEoNVd3spEM
-[cli][info] Available streams: 144p (worst), 240p, 360p, 480p, 720p (best)
-[cli][info] Opening stream: 720p (hls)
-[cli][info] Starting player: "C:\Program Files (x86)\VideoLAN\VLC\vlc.exe"
-[cli][info] Player closed
-[cli][info] Stream ended
-[cli][info] Closing currently open stream...
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1630638039/ei/djsxYd-1PPm_lu8P_aSJ8AI/ip/2603:8080:901:aa20:dd88:eeb3:9523:29ee/id/bEoNVd3spEM.4/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr3---sn-q4flrne6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/12970/mh/UI/mm/44/mn/sn-q4flrne6/ms/lva/mv/m/mvi/3/pl/34/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1630616198/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAPkvPlZ7c1cdP0hiCxOrVl1kQXkz6AnweMX3JmykG_UsAiB3yYZdy8sCrTZ0QHjUgF8qKmwQBM6GbUBeh2Hbwu9rSQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgQBbpjYuagDK68tczspDZlcw4-dlbSviLV96awTb0dsICIQDD3rpZPmAkoEKDAyDaYCL_RpYVo57qftzv-m4qmvFAAw%3D%3D/playlist/index.m3u8
  
 #EXTINF:-1 group-title="Youtube_Cams",Las Vegas AE View Live 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/watch?v=1ZNCtDLUKHw
 
  
 #EXTINF:-1 group-title="Youtube_Cams",Las Vegas NYNY View Live 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/watch?v=Er_sq4DTeas
 
  
 #EXTINF:-1 group-title="Youtube_Cams",Hermosa Beach Good Stuff Strand Cam 
-[cli][info] Found matching plugin youtube for URL https://www.youtube.com/watch?v=wc4Vy1T6hcE
-[cli][info] Available streams: 144p (worst), 240p, 360p, 480p, 720p (best)
-[cli][info] Opening stream: 720p (hls)
-[cli][info] Starting player: "C:\Program Files (x86)\VideoLAN\VLC\vlc.exe"
-[cli][info] Player closed
-[cli][info] Stream ended
-[cli][info] Closing currently open stream...
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1630638049/ei/gTsxYeGhDset6QKp5LjQBA/ip/2603:8080:901:aa20:dd88:eeb3:9523:29ee/id/wc4Vy1T6hcE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr4---sn-q4fl6nz6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/13200/mh/6H/mm/44/mn/sn-q4fl6nz6/ms/lva/mv/m/mvi/4/pl/34/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1630616198/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAJCqMXnfiLMPRL5Jon6eqieS8EzxmzqyCnbORm-1KO0RAiEA9Lp-r8JNE1M2_E2j4fVjXksDS2SHbjW9P09xvCiyOBs%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhANnGIJK7EeyFgfIJ6lJN8xlADiYhKQ-iXBZqg0wpHqGOAiBNr33gDbAPT8DEPlZgbdYE0lHT0fDi8PBGp6nYSqQk7A%3D%3D/playlist/index.m3u8
  
 #EXTINF:-1 group-title="Earth_Cams",Chicago 
-[cli][info] Found matching plugin earthcam for URL https://www.earthcam.com/usa/illinois/chicago/field/?cam=fieldmuseum
-[cli][info] Available streams: live (worst), 1080p (best)
-[cli][info] Opening stream: 1080p (hls)
-[cli][info] Starting player: "C:\Program Files (x86)\VideoLAN\VLC\vlc.exe"
-[cli][info] Player closed
-[cli][info] Stream ended
-[cli][info] Closing currently open stream...
+https://videos-3.earthcam.com/fecnetwork/15649.flv/chunklist_w2016091773.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwMLdOeeBaZx3EM7anSlnvI0%2FmI8fWqpmJaxQJj3sc7om
  
 #EXTINF:-1 group-title="Earth_Cams",Wrigley Field 
-[cli][info] Found matching plugin earthcam for URL https://www.earthcam.com/usa/illinois/chicago/wrigleyfield/?cam=wrigleyfield_hd
-[cli][info] Available streams: 720p (worst), live (best)
-[cli][info] Opening stream: live (rtmp)
-[cli][error] Try 1/1: Could not open stream <RTMPStream({'rtmp': 'rtmp://videos-3.earthcam.com/fecnetwork/', 'playpath': '13661.flv', 'pageUrl': 'https://www.earthcam.com/usa/illinois/chicago/wrigleyfield/?cam=wrigleyfield_hd', 'swfUrl': 'http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf', 'live': 'true', 'flv': '-'}, redirect=False> (Could not open stream: rtmpdump.exe is not installed or not supported on your system)
-
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/illinois/chicago/wrigleyfield/?cam=wrigleyfield_hd playpath=13661.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
  
 #EXTINF:-1 group-title="Earth_Cams",Wrigley Field 2 
-[cli][info] Found matching plugin earthcam for URL https://www.earthcam.com/usa/illinois/chicago/wrigleyville/?cam=wrigleyville
-[cli][info] Available streams: 720p (worst), live (best)
-[cli][info] Opening stream: live (rtmp)
-[cli][error] Try 1/1: Could not open stream <RTMPStream({'rtmp': 'rtmp://videos-3.earthcam.com/fecnetwork/', 'playpath': '13220.flv', 'pageUrl': 'https://www.earthcam.com/usa/illinois/chicago/wrigleyville/?cam=wrigleyville', 'swfUrl': 'http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf', 'live': 'true', 'flv': '-'}, redirect=False> (Could not open stream: rtmpdump.exe is not installed or not supported on your system)
-
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/illinois/chicago/wrigleyville/?cam=wrigleyville playpath=13220.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
  
 #EXTINF:-1 group-title="Earth_Cams",Seattle Space Needle 
-[cli][info] Found matching plugin earthcam for URL https://www.earthcam.com/usa/washington/seattle/?cam=seattlespaceneedle
-[cli][info] Available streams: 720p (worst), live (best)
-[cli][info] Opening stream: live (rtmp)
-[cli][error] Try 1/1: Could not open stream <RTMPStream({'rtmp': 'rtmp://videos-3.earthcam.com/fecnetwork/', 'playpath': '17833.flv', 'pageUrl': 'https://www.earthcam.com/usa/washington/seattle/?cam=seattlespaceneedle', 'swfUrl': 'http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf', 'live': 'true', 'flv': '-'}, redirect=False> (Could not open stream: rtmpdump.exe is not installed or not supported on your system)
-
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/washington/seattle/?cam=seattlespaceneedle playpath=17833.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
  
 #EXTINF:-1 group-title="Earth_Cams",Seattle Space Needle 2 
-[cli][info] Found matching plugin earthcam for URL https://www.earthcam.com/usa/washington/seattle/?cam=seattleskyline
-[cli][info] Available streams: live (worst), 1080p (best)
-[cli][info] Opening stream: 1080p (hls)
-[cli][info] Starting player: "C:\Program Files (x86)\VideoLAN\VLC\vlc.exe"
-[cli][info] Player closed
-[cli][info] Stream ended
-[cli][info] Closing currently open stream...
+https://videos-3.earthcam.com/fecnetwork/17629.flv/chunklist_w599459911.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwIlBzL8SvagUp2NDvw%2Fg0E0W02i4DRiE3YQTSmx1qDcG
  
 #EXTINF:-1 group-title="Earth_Cams",Brooklyn Bridge 
-[cli][info] Found matching plugin earthcam for URL https://www.earthcam.com/usa/newyork/brooklynbridge/?cam=gzcchd
-[cli][info] Available streams: 720p (worst), live (best)
-[cli][info] Opening stream: live (rtmp)
-[cli][error] Try 1/1: Could not open stream <RTMPStream({'rtmp': 'rtmp://videos-3.earthcam.com/fecnetwork/', 'playpath': '3983.flv', 'pageUrl': 'https://www.earthcam.com/usa/newyork/brooklynbridge/?cam=gzcchd', 'swfUrl': 'http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf', 'live': 'true', 'flv': '-'}, redirect=False> (Could not open stream: rtmpdump.exe is not installed or not supported on your system)
-
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/newyork/brooklynbridge/?cam=gzcchd playpath=3983.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
  
 #EXTINF:-1 group-title="Earth_Cams",Dallas 
-[cli][info] Found matching plugin earthcam for URL https://www.earthcam.com/usa/texas/dallas/?cam=dallas
-[cli][info] Available streams: 720p (worst), live (best)
-[cli][info] Opening stream: live (rtmp)
-[cli][error] Try 1/1: Could not open stream <RTMPStream({'rtmp': 'rtmp://videos-3.earthcam.com/fecnetwork/', 'playpath': '17605.flv', 'pageUrl': 'https://www.earthcam.com/usa/texas/dallas/?cam=dallas', 'swfUrl': 'http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf', 'live': 'true', 'flv': '-'}, redirect=False> (Could not open stream: rtmpdump.exe is not installed or not supported on your system)
-
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/texas/dallas/?cam=dallas playpath=17605.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
  
 #EXTINF:-1 group-title="Earth_Cams",Dallas Reunion Tower 
-[cli][info] Found matching plugin earthcam for URL https://www.earthcam.com/usa/texas/dallas/reuniontower/?cam=reuniontower
-[cli][info] Available streams: 720p (worst), live (best)
-[cli][info] Opening stream: live (rtmp)
-[cli][error] Try 1/1: Could not open stream <RTMPStream({'rtmp': 'rtmp://videos-3.earthcam.com/fecnetwork/', 'playpath': '7524.flv', 'pageUrl': 'https://www.earthcam.com/usa/texas/dallas/reuniontower/?cam=reuniontower', 'swfUrl': 'http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf', 'live': 'true', 'flv': '-'}, redirect=False> (Could not open stream: rtmpdump.exe is not installed or not supported on your system)
-
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/texas/dallas/reuniontower/?cam=reuniontower playpath=7524.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
  
 #EXTINF:-1 group-title="Earth_Cams",waikoloa 
-[cli][info] Found matching plugin earthcam for URL https://www.earthcam.com/usa/hawaii/bigisland/waikoloa/?cam=waikoloa
-[cli][info] Available streams: 720p (worst), live (best)
-[cli][info] Opening stream: live (rtmp)
-[cli][error] Try 1/1: Could not open stream <RTMPStream({'rtmp': 'rtmp://videos-3.earthcam.com/fecnetwork/', 'playpath': '18095.flv', 'pageUrl': 'https://www.earthcam.com/usa/hawaii/bigisland/waikoloa/?cam=waikoloa', 'swfUrl': 'http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf', 'live': 'true', 'flv': '-'}, redirect=False> (Could not open stream: rtmpdump.exe is not installed or not supported on your system)
-
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/hawaii/bigisland/waikoloa/?cam=waikoloa playpath=18095.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
