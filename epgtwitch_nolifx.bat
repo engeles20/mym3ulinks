@@ -1,3 +1,4 @@
+pushd C:\Users\erick\Documents\GitHub\mym3ulinks
 CALL twitch-stream-check -s -m -p buddha > C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p HasanAbi >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p AnthonyZ >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
@@ -744,5 +745,4 @@ git pull
 timeout 3 >> NUL
 git push
 timeout 3 >> NUL
-
 
