@@ -121,11 +121,13 @@ CALL twitch-stream-check -s -m -p s0upes >> C:\Users\erick\Documents\GitHub\mym3
 CALL twitch-stream-check -s -m -p cosmic >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p vindicelive >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p kclient >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p africansnowball >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p viviana >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p raine >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 
 CALL twitch-stream-check -f -t -g -v buddha >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v raine >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v africansnowball >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v summit1g >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v jjlakee >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v cosmic >> C:\Users\erick\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
@@ -535,6 +537,10 @@ streamlink twitch.tv/kiwo 720p >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twi
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="primal.us" tvg-name="primal" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/45173210-ad0c-407f-8877-3dabfeb3a3cc-profile_image-70x70.png" group-title="Cops",primal 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/primal 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+
+@echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-id="africansnowball.us" tvg-name="africansnowball" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/28119dce-c1d9-4d11-91ac-3750d0a28d40-profile_image-70x70.png" group-title="Cops",africansnowball 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/africansnowball 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="ladyhope.us" tvg-name="ladyhope" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2df1f6e6-a4ae-4e72-99e9-c56446db1225-profile_image-70x70.png" group-title="Cops",ladyhope 720p60 >> C:\Users\erick\Documents\GitHub\mym3ulinks\Twitch.m3u
