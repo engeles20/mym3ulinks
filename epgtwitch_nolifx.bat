@@ -119,7 +119,7 @@ CALL twitch-stream-check -s -m -p jack >> C:\Users\erickkkk\Documents\GitHub\mym
 CALL twitch-stream-check -s -m -p s0upes >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p cosmic >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p vindicelive >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -s -m -p kclient >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p client >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p raine >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 
 CALL twitch-stream-check -f -t -g -v buddha >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
@@ -131,7 +131,7 @@ CALL twitch-stream-check -f -t -g -v deansocool >> C:\Users\erickkkk\Documents\G
 CALL twitch-stream-check -f -t -g -v HasanAbi >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v vindicelive >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v s0upes >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -f -t -g -v kclient >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v client >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v tinker >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v occamssabre >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v sgtapollo >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
@@ -616,8 +616,8 @@ streamlink twitch.tv/zerkaa 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3uli
 streamlink twitch.tv/deansocool 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo #EXTINF:-1 tvg-id="kclient.us" tvg-name="kclient" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/06bddbdd-dd50-466c-935f-ede32fcff66e-profile_image-70x70.png" group-title="Mandem_NBC",kclient 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
-streamlink twitch.tv/kclient 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-id="client.us" tvg-name="client" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/06bddbdd-dd50-466c-935f-ede32fcff66e-profile_image-70x70.png" group-title="Mandem_NBC",client 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/client 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="sgtapollo.us" tvg-name="sgtapollo" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/sgtapollo-profile_image-b08f7a4065838f1f-70x70.png" group-title="Mandem_NBC",sgtapollo 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
@@ -777,3 +777,4 @@ git pull
 timeout 3 >> NUL
 git push
 timeout 3 >> NUL
+
