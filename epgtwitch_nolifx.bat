@@ -45,7 +45,7 @@ CALL twitch-stream-check -s -m -p cathie >> C:\Users\erickkkk\Documents\GitHub\m
 CALL twitch-stream-check -s -m -p curvyllama >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p curvyelephant >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p five0antho >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -s -m -p afriicansnowball >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p africansnowball >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p nokingu >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p uhsnow >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p ziggy >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
@@ -120,12 +120,10 @@ CALL twitch-stream-check -s -m -p s0upes >> C:\Users\erickkkk\Documents\GitHub\m
 CALL twitch-stream-check -s -m -p cosmic >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p vindicelive >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p kclient >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -s -m -p africansnowball >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p raine >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 
 CALL twitch-stream-check -f -t -g -v buddha >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v raine >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -f -t -g -v africansnowball >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v summit1g >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v jjlakee >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v cosmic >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
@@ -194,7 +192,7 @@ CALL twitch-stream-check -f -t -g -v cathie >> C:\Users\erickkkk\Documents\GitHu
 CALL twitch-stream-check -f -t -g -v curvyllama >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v curvyelephant >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v five0antho >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -f -t -g -v afriicansnowball >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v africansnowball >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v nokingu >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v uhsnow >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v ziggy >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
@@ -482,8 +480,8 @@ streamlink twitch.tv/generalemu 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym
 streamlink twitch.tv/five0antho 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo #EXTINF:-1 tvg-id="afriicansnowball.us" tvg-name="afriicansnowball" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/28119dce-c1d9-4d11-91ac-3750d0a28d40-profile_image-70x70.png" group-title="Cops",afriicansnowball 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
-streamlink twitch.tv/afriicansnowball 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-id="africansnowball.us" tvg-name="africansnowball" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/28119dce-c1d9-4d11-91ac-3750d0a28d40-profile_image-70x70.png" group-title="Cops",africansnowball 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/africansnowball 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="nokingu.us" tvg-name="nokingu" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0c84e29a-3da1-4680-b794-04fbfb658d0b-profile_image-70x70.png" group-title="Cops",nokingu >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
@@ -533,10 +531,6 @@ streamlink twitch.tv/kiwo 720p >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="primal.us" tvg-name="primal" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/45173210-ad0c-407f-8877-3dabfeb3a3cc-profile_image-70x70.png" group-title="Cops",primal 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/primal 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
-
-@echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo #EXTINF:-1 tvg-id="africansnowball.us" tvg-name="africansnowball" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/28119dce-c1d9-4d11-91ac-3750d0a28d40-profile_image-70x70.png" group-title="Cops",africansnowball 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
-streamlink twitch.tv/africansnowball 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="ladyhope.us" tvg-name="ladyhope" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2df1f6e6-a4ae-4e72-99e9-c56446db1225-profile_image-70x70.png" group-title="Cops",ladyhope 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
@@ -783,4 +777,3 @@ git pull
 timeout 3 >> NUL
 git push
 timeout 3 >> NUL
-

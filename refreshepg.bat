@@ -44,7 +44,7 @@ CALL twitch-stream-check -s -m -p cathie >> C:\Users\erickkkk\Documents\GitHub\m
 CALL twitch-stream-check -s -m -p curvyllama >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p curvyelephant >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p five0antho >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -s -m -p afriicansnowball >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p africansnowball >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p nokingu >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p uhsnow >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p ziggy >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
@@ -73,7 +73,6 @@ CALL twitch-stream-check -s -m -p dwjft >> C:\Users\erickkkk\Documents\GitHub\my
 CALL twitch-stream-check -s -m -p denis3d >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p spanser_ >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p mrtimeee >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -s -m -p crayonponyfish >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p nikez >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p koil >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p timmac >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
@@ -99,40 +98,54 @@ CALL twitch-stream-check -s -m -p grandpoobear >> C:\Users\erickkkk\Documents\Gi
 CALL twitch-stream-check -s -m -p TPAIN >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p thechief1114 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p COREANOLOCOLIVE >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -s -m -p awkwards_travel >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p lyndi >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p alexten0909 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p traycee >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p hutchmf >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -s -m -p abdulhd >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p neutren >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p onetapbingus >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p deansocool >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p wolfabelle >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p zerkaa >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -s -m -p carmen >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p summit1g >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -s -m -p sodapoppin >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -s -m -p viviana >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -s -m -p woke >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p sgtapollo >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p aleks >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p occamssabre >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p tinker >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p generalemu >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p jjlakee >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p jack >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p s0upes >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p cosmic >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p vindicelive >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p kclient >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p raine >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 
 CALL twitch-stream-check -f -t -g -v buddha >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v raine >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v summit1g >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -f -t -g -v sodapoppin >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v jjlakee >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v cosmic >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v deansocool >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v HasanAbi >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -f -t -g -v viviana >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v vindicelive >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v s0upes >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v kclient >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v tinker >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v occamssabre >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v sgtapollo >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v jack >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v zerkaa >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -f -t -g -v carmen >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v generalemu >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v wolfabelle >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v AnthonyZ >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v hutchmf >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -f -t -g -v abdulhd >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v lyndi >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v travpiper >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v thechief1114 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v suzy_q >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v grandpoobear >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v aleks >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v biotoxz_ >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v alexten0909 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v traycee >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
@@ -178,7 +191,7 @@ CALL twitch-stream-check -f -t -g -v cathie >> C:\Users\erickkkk\Documents\GitHu
 CALL twitch-stream-check -f -t -g -v curvyllama >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v curvyelephant >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v five0antho >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -f -t -g -v afriicansnowball >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v africansnowball >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v nokingu >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v uhsnow >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v ziggy >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
@@ -207,7 +220,6 @@ CALL twitch-stream-check -f -t -g -v dwjft >> C:\Users\erickkkk\Documents\GitHub
 CALL twitch-stream-check -f -t -g -v denis3d >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v spanser_ >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p mrtimeee >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -s -m -p crayonponyfish >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v nikez >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v koil >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v timmac >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
@@ -231,13 +243,11 @@ CALL twitch-stream-check -f -t -g -v Melipastel >> C:\Users\erickkkk\Documents\G
 CALL twitch-stream-check -f -t -g -v LotsOfBunnies >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v TPAIN >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v COREANOLOCOLIVE >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -f -t -g -v awkwards_travel >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-CALL twitch-stream-check -f -t -g -v woke >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
-pushd C:\Users\erick\Documents\GitHub\mym3ulinks
+pushd C:\Users\erickkkk\Documents\GitHub\mym3ulinks
 timeout 2 > NUL
-pushd C:\Users\erick\Documents\GitHub\mym3ulinks
+pushd C:\Users\erickkkk\Documents\GitHub\mym3ulinks
 timeout 2 >> NUL
-pushd C:\Users\erick\Documents\GitHub\mym3ulinks
+pushd C:\Users\erickkkk\Documents\GitHub\mym3ulinks
 timeout 2 >> NUL
 git add -A
 timeout 2 >> NUL
