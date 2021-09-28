@@ -1,4 +1,4 @@
-pushd C:\Users\erick\Documents\GitHub\mym3ulinks
+pushd C:\Users\erickkkk\Documents\GitHub\mym3ulinks
 timeout 3 > NUL
 git add -A
 timeout 3 > NUL
