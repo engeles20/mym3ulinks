@@ -115,6 +115,7 @@ CALL twitch-stream-check -s -m -p occamssabre >> C:\Users\erickkkk\Documents\Git
 CALL twitch-stream-check -s -m -p tinker >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p generalemu >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p jjlakee >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -s -m -p crystalst >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p jack >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p s0upes >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -s -m -p cosmic >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
@@ -124,6 +125,7 @@ CALL twitch-stream-check -s -m -p raine >> C:\Users\erickkkk\Documents\GitHub\my
 
 CALL twitch-stream-check -f -t -g -v buddha >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v raine >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
+CALL twitch-stream-check -f -t -g -v crystalst >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v summit1g >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v jjlakee >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
 CALL twitch-stream-check -f -t -g -v cosmic >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\epgtwitch.xmltv
@@ -598,6 +600,10 @@ streamlink twitch.tv/neutren 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ul
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="whippy.us" tvg-name="whippy" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3ffb7125-e69a-4c04-bf6d-a1eda07a9ebb-profile_image-70x70.png" group-title="No_Group",whippy 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/whippy 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
+
+@echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-id="crystalst.us" tvg-name="crystalst" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b00b7446-f7f6-415b-8c20-42c894497717-profile_image-70x70.png" group-title="No_Group",crystalst 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/crystalst 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="kiva.us" tvg-name="kiva" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fd3a6517-40c0-4330-a363-29d2f0e5b73c-profile_image-70x70.png" group-title="No_Group",kiva 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
