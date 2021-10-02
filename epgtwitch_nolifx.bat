@@ -770,23 +770,6 @@ streamlink https://www.youtube.com/channel/UCcJL2ld6kxy_nuV1u7PVQ0g/live best >>
 @echo #EXTINF:-1 tvg-logo="https://i.imgur.com/fjmobD6.jpg" group-title="FB/YT",Live on Patrol best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink https://www.youtube.com/channel/UCkHBaplUW2OH3_jqltpOK8g/live best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 
-
-@echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo #EXTINF:-1 tvg-logo="https://i.imgur.com/MaBj8i8.png" group-title="FB/YT",LordKebun best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
-
-
-
 timeout 3 >> NUL
-pushd C:\Users\erickkkk\Documents\GitHub\mym3ulinks
-timeout 3 >> NUL
-pushd C:\Users\erickkkk\Documents\GitHub\mym3ulinks
-timeout 3 >> NUL
-git add -A
-timeout 3 >> NUL
-git commit -m "new links"
-timeout 3 >> NUL
-git pull
-timeout 3 >> NUL
-git push
-timeout 3 >> NUL
-
+pushd \\192.168.1.15\config\www\twitch
+call facebook.bat
