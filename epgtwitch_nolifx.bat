@@ -310,7 +310,7 @@ streamlink twitch.tv/itsleslie 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3
 streamlink twitch.tv/jonthebroski 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo #EXTINF:-1 tvg-id="SodaKite.us" tvg-name="SodaKite" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/1e6a47ad-34c2-4cfc-926a-6c2fbdf08b05-profile_image-70x70.png" group-title="Roosters",SodaKite 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-id="SodaKite.us" tvg-name="SodaKite" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d228ea14-aec4-4ed7-8347-aa8f1e62cac9-profile_image-70x70.png" group-title="Roosters",SodaKite 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/SodaKite 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
@@ -612,7 +612,7 @@ streamlink twitch.tv/whippy 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3uli
 streamlink twitch.tv/crystalst 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo #EXTINF:-1 tvg-id="kiva.us" tvg-name="kiva" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fd3a6517-40c0-4330-a363-29d2f0e5b73c-profile_image-70x70.png" group-title="No_Group",kiva 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-id="kiva.us" tvg-name="kiva" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/daff67a1-6871-4540-af97-58a60a48b036-profile_image-70x70.png" group-title="No_Group",kiva 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/kiva 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
