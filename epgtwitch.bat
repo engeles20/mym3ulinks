@@ -772,5 +772,5 @@ streamlink https://www.youtube.com/channel/UCkHBaplUW2OH3_jqltpOK8g/live best >>
 
 timeout 3 >> NUL
 pushd \\192.168.1.15\config\www\twitch
-call facebook.bat
+call facebook_lif.bat
 
