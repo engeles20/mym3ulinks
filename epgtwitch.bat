@@ -380,7 +380,7 @@ streamlink twitch.tv/denis3d 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ul
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="spanser_.us" tvg-name="spanser_" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/680a4996-9868-4888-8208-b18f92afaed5-profile_image-70x70.png" group-title="Casino_Pegasus",spanser_ best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
-streamlink twitch.tv/spanser_ best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/spanser_ 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="nikez.us" tvg-name="nikez" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e70e266a-f7cf-488f-a4b5-540ea879abfb-profile_image-70x70.png" group-title="Casino_Pegasus",nikez 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
@@ -489,7 +489,7 @@ streamlink twitch.tv/africansnowball 720p60 >> C:\Users\erickkkk\Documents\GitHu
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="nokingu.us" tvg-name="nokingu" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0c84e29a-3da1-4680-b794-04fbfb658d0b-profile_image-70x70.png" group-title="Cops",nokingu >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
-streamlink twitch.tv/nokingu best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
+streamlink twitch.tv/nokingu 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 @echo #EXTINF:-1 tvg-id="vindicelive.us" tvg-name="vindicelive" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b109ea2f-d95f-4584-a957-41b987334f80-profile_image-70x70.png" group-title="Cops",vindicelive >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
