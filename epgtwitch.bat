@@ -700,7 +700,7 @@ streamlink twitch.tv/lagtvmaximusblack 720p60 >> C:\Users\erickkkk\Documents\Git
 streamlink twitch.tv/noelusionz 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
-@echo #EXTINF:-1 tvg-id="Saiiren.us" tvg-name="Saiiren" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3cc1ffa5-b5c8-444d-8a0e-4d3516c5ba5b-profile_image-70x70.png" group-title="Burger Shot",Saiiren 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
+@echo #EXTINF:-1 tvg-id="Saiiren.us" tvg-name="Saiiren" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3cc1ffa5-b5c8-444d-8a0e-4d3516c5ba5b-profile_image-70x70.png" group-title="BurgerShot",Saiiren 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 streamlink twitch.tv/Saiiren 720p60 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\Twitch.m3u
