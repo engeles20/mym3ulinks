@@ -79,3 +79,13 @@ rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.
 https://videos-3.earthcam.com/fecnetwork/17629.flv/chunklist_w856400201.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwCeUu2SR7jSiq4NoaMjjCqe%2FtRanSgueGNYDfecNhl9W
  
 #EXTINF:-1 group-title="Earth_Cams",Brooklyn Bridge 
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/newyork/brooklynbridge/?cam=gzcchd playpath=3983.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
+ 
+#EXTINF:-1 group-title="Earth_Cams",Dallas 
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/texas/dallas/?cam=dallas playpath=17605.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
+ 
+#EXTINF:-1 group-title="Earth_Cams",Dallas Reunion Tower 
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/texas/dallas/reuniontower/?cam=reuniontower playpath=7524.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
+ 
+#EXTINF:-1 group-title="Earth_Cams",waikoloa 
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/hawaii/bigisland/waikoloa/?cam=waikoloa playpath=18095.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
