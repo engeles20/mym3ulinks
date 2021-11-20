@@ -58,3 +58,34 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1637438453/ei/
 
  
 #EXTINF:-1 group-title="Youtube_Cams",Las Vegas NYNY View Live 
+
+ 
+#EXTINF:-1 group-title="Youtube_Cams",Hermosa Beach Good Stuff Strand Cam 
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1637438465/ei/of-YYafuMoqvuAKr166IDw/ip/2603:8080:901:aa20:49c8:755e:4ef0:740a/id/wc4Vy1T6hcE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr4---sn-q4flrnld.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/16520/mh/6H/mm/44/mn/sn-q4flrnld/ms/lva/mv/m/mvi/4/pl/37/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1637416591/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAODJFciJAEcKep3XcN8YnbGX4Zi5h0NVo3uZlL86_AH8AiEAlzPtdEMWEvIw5MYgvjmsZPHZIEU70URNkHMEKUrb-Tc%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgLRuTbTO-48IEVOs2AAshD1S9SnQ3CmMNYCMtlgCoaC0CIQCQzJSKSD3zTYrffrFnf0_RX5osx1NpuaepmBTzVD2XAQ%3D%3D/playlist/index.m3u8
+ 
+#EXTINF:-1 group-title="Earth_Cams",Chicago 
+https://videos-3.earthcam.com/fecnetwork/15649.flv/chunklist_w1604169461.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwG6f3kP0kFpsD2AnMNHhKKulwkGnXoxBYlKzrdw2y831
+ 
+#EXTINF:-1 group-title="Earth_Cams",Wrigley Field 
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/illinois/chicago/wrigleyfield/?cam=wrigleyfield_hd playpath=13661.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
+ 
+#EXTINF:-1 group-title="Earth_Cams",Wrigley Field 2 
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/illinois/chicago/wrigleyville/?cam=wrigleyville playpath=13220.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
+ 
+#EXTINF:-1 group-title="Earth_Cams",Seattle Space Needle 
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/washington/seattle/?cam=seattlespaceneedle playpath=17833.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
+ 
+#EXTINF:-1 group-title="Earth_Cams",Seattle Space Needle 2 
+https://videos-3.earthcam.com/fecnetwork/17629.flv/chunklist_w273685458.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwHi2mcgxPyAyBZa4GGpEJ0db%2BpUN%2BKClI9T8ewrHOoMv
+ 
+#EXTINF:-1 group-title="Earth_Cams",Brooklyn Bridge 
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/newyork/brooklynbridge/?cam=gzcchd playpath=3983.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
+ 
+#EXTINF:-1 group-title="Earth_Cams",Dallas 
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/texas/dallas/?cam=dallas playpath=17605.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
+ 
+#EXTINF:-1 group-title="Earth_Cams",Dallas Reunion Tower 
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/texas/dallas/reuniontower/?cam=reuniontower playpath=7524.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
+ 
+#EXTINF:-1 group-title="Earth_Cams",waikoloa 
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/hawaii/bigisland/waikoloa/?cam=waikoloa playpath=18095.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
