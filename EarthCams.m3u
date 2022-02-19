@@ -58,3 +58,34 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1645272055/ei/
 
  
 #EXTINF:-1 group-title="Youtube_Cams",Las Vegas NYNY View Live 
+
+ 
+#EXTINF:-1 group-title="Youtube_Cams",Hermosa Beach Good Stuff Strand Cam 
+
+ 
+#EXTINF:-1 group-title="Earth_Cams",Chicago 
+https://videos-3.earthcam.com/fecnetwork/15649.flv/chunklist_w1136485910.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwKX2To7pqXu32vaRB7QUTtbiBVbX1e70AkWOfAJahLEL
+ 
+#EXTINF:-1 group-title="Earth_Cams",Wrigley Field 
+https://videos-3.earthcam.com/fecnetwork/13661.flv/chunklist_w1944526827.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwGMNl%2Bgzfau0ZSW6erHoTRHZcVD3VBcs5rFDXC2Xq30d
+ 
+#EXTINF:-1 group-title="Earth_Cams",Wrigley Field 2 
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/illinois/chicago/wrigleyville/?cam=wrigleyville playpath=13220.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
+ 
+#EXTINF:-1 group-title="Earth_Cams",Seattle Space Needle 
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/washington/seattle/?cam=seattlespaceneedle playpath=17833.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
+ 
+#EXTINF:-1 group-title="Earth_Cams",Seattle Space Needle 2 
+https://videos-3.earthcam.com/fecnetwork/17629.flv/chunklist_w1175956771.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwIbFzlNXWAwoFyopfC5dj5c2iCxYEnwuwKncpJRA2uCC
+ 
+#EXTINF:-1 group-title="Earth_Cams",Brooklyn Bridge 
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/newyork/brooklynbridge/?cam=gzcchd playpath=3983.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
+ 
+#EXTINF:-1 group-title="Earth_Cams",Dallas 
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/texas/dallas/?cam=dallas playpath=17605.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
+ 
+#EXTINF:-1 group-title="Earth_Cams",Dallas Reunion Tower 
+rtmp://video2archives.earthcam.com/archives live=true pageUrl=https://www.earthcam.com/usa/texas/dallas/reuniontower/?cam=reuniontower playpath=/permanent/dealeyplaza2/2013/04/06/1600.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
+ 
+#EXTINF:-1 group-title="Earth_Cams",waikoloa 
+rtmp://videos-3.earthcam.com/fecnetwork/ live=true pageUrl=https://www.earthcam.com/usa/hawaii/bigisland/waikoloa/?cam=waikoloa playpath=18095.flv swfUrl=http://static.earthcam.com/swf/streaming/stream_viewer_v3.swf
