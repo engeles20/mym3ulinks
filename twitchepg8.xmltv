@@ -2,12 +2,12 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="penta.us">
-<display-name>penta</display-name>
-</channel>
-
 <channel id="dasmehdi.us">
 <display-name>dasmehdi</display-name>
+</channel>
+
+<channel id="penta.us">
+<display-name>penta</display-name>
 </channel>
 
 <channel id="arckon_.us">
@@ -26,8 +26,16 @@
 <display-name>SodaKite</display-name>
 </channel>
 
+<channel id="StayHachi.us">
+<display-name>StayHachi</display-name>
+</channel>
+
 <channel id="lysium.us">
 <display-name>lysium</display-name>
+</channel>
+
+<channel id="LittleBabyBum.us">
+<display-name>LittleBabyBum</display-name>
 </channel>
 
 <channel id="BabyFirstTV.us">
@@ -38,89 +46,92 @@
 <display-name>WashingtonPost</display-name>
 </channel>
 
-<channel id="LittleBabyBum.us">
-<display-name>LittleBabyBum</display-name>
-</channel>
-
 <channel id="AdinRoss.us">
 <display-name>AdinRoss</display-name>
 </channel>
-
-<programme start="20230805211017 +0000" stop="20230808161017 +0000" channel="penta.us">
-<title lang="en"> DROPS ON - HARDCORE BEAR RP HARDCORE </title>
-<desc lang="en"> Started: 4:10PM
-Playing: Baldur's Gate 3
-Viewers: 3932 </desc>
-</programme>
 
 <programme start="20230805162308 +0000" stop="20230808112308 +0000" channel="dasmehdi.us">
 <title lang="en"> Brian Knight - Back on Twitch SOCIALS: @dasmehdi </title>
 <desc lang="en"> Started: 11:23AM
 Playing: Diablo IV
-Viewers: 4233 </desc>
+Viewers: 3889 </desc>
+</programme>
+
+<programme start="20230805211017 +0000" stop="20230808161017 +0000" channel="penta.us">
+<title lang="en"> DROPS ON - HARDCORE BEAR RP HARDCORE </title>
+<desc lang="en"> Started: 4:10PM
+Playing: Baldur's Gate 3
+Viewers: 3887 </desc>
 </programme>
 
 <programme start="20230805180204 +0000" stop="20230808130204 +0000" channel="arckon_.us">
 <title lang="en"> 🔴UNCAPPED FIRST SUBATHON - Sgt Beric Johnson - NoPixel WL - subathon goals discord twitter </title>
 <desc lang="en"> Started: 1:02PM
 Playing: Grand Theft Auto V
-Viewers: 178 </desc>
+Viewers: 189 </desc>
 </programme>
 
 <programme start="20230805102146 +0000" stop="20230808052146 +0000" channel="ash.us">
 <title lang="en"> War Time Subathon • Ash Ketchup • Hydra • NP Whitelist </title>
 <desc lang="en"> Started: 5:21AM
 Playing: Grand Theft Auto V
-Viewers: 2210 </desc>
+Viewers: 2244 </desc>
 </programme>
 
 <programme start="20230806061433 +0000" stop="20230809011433 +0000" channel="arnie.us">
 <title lang="en"> NOPIXEL WL - HYDRA GANG ARNIEDOG </title>
 <desc lang="en"> Started: 1:14AM
 Playing: Grand Theft Auto V
-Viewers: 94 </desc>
+Viewers: 230 </desc>
 </programme>
 
 <programme start="20230806005919 +0000" stop="20230808195919 +0000" channel="SodaKite.us">
 <title lang="en"> the addiction continues :) </title>
 <desc lang="en"> Started: 7:59PM
 Playing: Baldur's Gate 3
-Viewers: 259 </desc>
+Viewers: 295 </desc>
+</programme>
+
+<programme start="20230806024604 +0000" stop="20230808214604 +0000" channel="StayHachi.us">
+<title lang="en"> R.U.S.T. QandA  Chilling 3 - Uncapped Subathon Finale - R.U.S.T. - NoPixel WL 3.0 - socials discord music </title>
+<desc lang="en"> Started: 9:46PM
+Playing: Grand Theft Auto V
+Viewers: 77 </desc>
 </programme>
 
 <programme start="20230806045937 +0000" stop="20230808235937 +0000" channel="lysium.us">
 <title lang="en"> SEASIDE AWARDS TODAY - BENJIS BACK - SPICY REACTS - VARIETY - ROAD TO 5K SUBS - G2A </title>
 <desc lang="en"> Started: 11:59PM
 Playing: Grand Theft Auto V
-Viewers: 2241 </desc>
+Viewers: 2265 </desc>
 </programme>
 
-<programme start="20230806000000 +0000" stop="20230809012111 +0000" channel="BabyFirstTV.us">
-<title lang="en"> Toddler Learning Video - Color Crew and Larry Surprise Eggs - Nursery Rhymes for Babies - BabyFirst </title>
-<desc lang="en"> Started: earlier
-Playing: idk
-Viewers: 200 </desc>
-</programme>
-
-<programme start="20230806000000 +0000" stop="20230809012111 +0000" channel="WashingtonPost.us">
-<title lang="en"> WATCH LIVE NOW: The latest news, politics and newsmaker interviews streaming live. </title>
-<desc lang="en"> Started: earlier
-Playing: idk
-Viewers: 200 </desc>
-</programme>
-
-<programme start="20230806000000 +0000" stop="20230809012111 +0000" channel="LittleBabyBum.us">
+<programme start="20230806000000 +0000" stop="20230809012811 +0000" channel="LittleBabyBum.us">
 <title lang="en"> 🔴LBB Live: Baby Nursery Rhyme - Wheels on The Bus, Six Little Ducks More </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20230806000000 +0000" stop="20230809012124 +0000" channel="AdinRoss.us">
+<programme start="20230806000000 +0000" stop="20230809012811 +0000" channel="BabyFirstTV.us">
+<title lang="en"> Toddler Learning Video - Color Crew and Larry Surprise Eggs - Nursery Rhymes for Babies - BabyFirst </title>
+<desc lang="en"> Started: earlier
+Playing: idk
+Viewers: 200 </desc>
+</programme>
+
+<programme start="20230806000000 +0000" stop="20230809012811 +0000" channel="WashingtonPost.us">
+<title lang="en"> WATCH LIVE NOW: The latest news, politics and newsmaker interviews streaming live. </title>
+<desc lang="en"> Started: earlier
+Playing: idk
+Viewers: 200 </desc>
+</programme>
+
+<programme start="20230806000000 +0000" stop="20230809012824 +0000" channel="AdinRoss.us">
 <title lang="en"> COME TALK 18 #ad </title>
 <desc lang="en"> Started: 
 Playing: Slots andamp; Casino
-Viewers: 37382 </desc>
+Viewers: 36908 </desc>
 </programme>
 
 
