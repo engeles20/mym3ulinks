@@ -2,32 +2,28 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="VortexChasing.us">
-<display-name>VortexChasing</display-name>
+<channel id="StormChaserVinceWaelti.us">
+<display-name>StormChaserVinceWaelti</display-name>
 </channel>
 
-<channel id="StormChaserBradArnold.us">
-<display-name>StormChaserBradArnold</display-name>
+<channel id="msrachel.us">
+<display-name>msrachel</display-name>
 </channel>
 
 <channel id="texasstormchasers.us">
 <display-name>texasstormchasers</display-name>
 </channel>
 
-<channel id="StormChaserVinceWaelti.us">
-<display-name>StormChaserVinceWaelti</display-name>
-</channel>
-
-<channel id="RyanHallYall.us">
-<display-name>RyanHallYall</display-name>
+<channel id="StormChaserBradArnold.us">
+<display-name>StormChaserBradArnold</display-name>
 </channel>
 
 <channel id="ReedTimmerWx.us">
 <display-name>ReedTimmerWx</display-name>
 </channel>
 
-<channel id="msrachel.us">
-<display-name>msrachel</display-name>
+<channel id="RyanHallYall.us">
+<display-name>RyanHallYall</display-name>
 </channel>
 
 <channel id="WashingtonPost.us">
@@ -42,70 +38,63 @@
 <display-name>LittleBabyBum</display-name>
 </channel>
 
-<programme start="20230830000000 +0000" stop="20230902082808 +0000" channel="VortexChasing.us">
-<title lang="en"> HURRICANE IDALIA: LIVE INTERCEPT </title>
-<desc lang="en"> Started: earlier
-Playing: idk
-Viewers: 200 </desc>
-</programme>
-
-<programme start="20230830000000 +0000" stop="20230902082808 +0000" channel="StormChaserBradArnold.us">
-<title lang="en"> 🔴LIVE STORM CHASING Intercepting Major Hurricane Idalia on Florida Coast 8-30-2023 </title>
-<desc lang="en"> Started: earlier
-Playing: idk
-Viewers: 200 </desc>
-</programme>
-
-<programme start="20230830000000 +0000" stop="20230902082808 +0000" channel="texasstormchasers.us">
-<title lang="en"> Tracking Hurricane Idalia 2023 </title>
-<desc lang="en"> Started: earlier
-Playing: idk
-Viewers: 200 </desc>
-</programme>
-
-<programme start="20230830000000 +0000" stop="20230902082808 +0000" channel="StormChaserVinceWaelti.us">
+<programme start="20230830000000 +0000" stop="20230902083608 +0000" channel="StormChaserVinceWaelti.us">
 <title lang="en"> LIVE MAJOR HURRICANE IDALIA Impacts Florida Live Storm Chasers </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20230830000000 +0000" stop="20230902082808 +0000" channel="RyanHallYall.us">
-<title lang="en"> 🔴LIVE - Major Hurricane Idalia Coverage With Storm Chasers In The Eye - Live Weather Channel... </title>
-<desc lang="en"> Started: earlier
-Playing: idk
-Viewers: 200 </desc>
-</programme>
-
-<programme start="20230830000000 +0000" stop="20230902082808 +0000" channel="ReedTimmerWx.us">
-<title lang="en"> Hurricane Idalia - Action On the Ground </title>
-<desc lang="en"> Started: earlier
-Playing: idk
-Viewers: 200 </desc>
-</programme>
-
-<programme start="20230830000000 +0000" stop="20230902082808 +0000" channel="msrachel.us">
+<programme start="20230830000000 +0000" stop="20230902083608 +0000" channel="msrachel.us">
 <title lang="en"> 🔴 Wheels on the Bus - Nursery Rhymes and Kids Songs - Toddler Learning Video - Ms Rachel </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20230830000000 +0000" stop="20230902082808 +0000" channel="WashingtonPost.us">
+<programme start="20230830000000 +0000" stop="20230902083608 +0000" channel="texasstormchasers.us">
+<title lang="en"> Tracking Hurricane Idalia 2023 </title>
+<desc lang="en"> Started: earlier
+Playing: idk
+Viewers: 200 </desc>
+</programme>
+
+<programme start="20230830000000 +0000" stop="20230902083608 +0000" channel="StormChaserBradArnold.us">
+<title lang="en"> 🔴LIVE STORM CHASING Intercepting Major Hurricane Idalia on Florida Coast 8-30-2023 </title>
+<desc lang="en"> Started: earlier
+Playing: idk
+Viewers: 200 </desc>
+</programme>
+
+<programme start="20230830000000 +0000" stop="20230902083608 +0000" channel="ReedTimmerWx.us">
+<title lang="en"> Hurricane Idalia - Action On the Ground </title>
+<desc lang="en"> Started: earlier
+Playing: idk
+Viewers: 200 </desc>
+</programme>
+
+<programme start="20230830000000 +0000" stop="20230902083608 +0000" channel="RyanHallYall.us">
+<title lang="en"> 🔴LIVE - Major Hurricane Idalia Coverage With Storm Chasers In The Eye - Live Weather Channel... </title>
+<desc lang="en"> Started: earlier
+Playing: idk
+Viewers: 200 </desc>
+</programme>
+
+<programme start="20230830000000 +0000" stop="20230902083608 +0000" channel="WashingtonPost.us">
 <title lang="en"> WATCH: Hurricane Idalia batters Tampa Bay </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20230830000000 +0000" stop="20230902082808 +0000" channel="LiveStormsMedia.us">
+<programme start="20230830000000 +0000" stop="20230902083608 +0000" channel="LiveStormsMedia.us">
 <title lang="en"> 🔴LIVE: HURRICANE IDALIA - AS IT HAPPENS - MULTIPLE STORM CHASERS STREAMING </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20230830000000 +0000" stop="20230902082808 +0000" channel="LittleBabyBum.us">
+<programme start="20230830000000 +0000" stop="20230902083608 +0000" channel="LittleBabyBum.us">
 <title lang="en"> 🔴LBB Live: Baby Nursery Rhyme - Wheels on The Bus, Six Little Ducks More </title>
 <desc lang="en"> Started: earlier
 Playing: idk
