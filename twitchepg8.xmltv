@@ -2,12 +2,16 @@
 <display-name>clearepg</display-name>
 </channel>
 
+<channel id="tinyspark.us">
+<display-name>tinyspark</display-name>
+</channel>
+
 <channel id="timmac.us">
 <display-name>timmac</display-name>
 </channel>
 
-<channel id="tinyspark.us">
-<display-name>tinyspark</display-name>
+<channel id="rerolldota.us">
+<display-name>rerolldota</display-name>
 </channel>
 
 <channel id="appleshampoo.us">
@@ -16,10 +20,6 @@
 
 <channel id="curvyelephant.us">
 <display-name>curvyelephant</display-name>
-</channel>
-
-<channel id="rerolldota.us">
-<display-name>rerolldota</display-name>
 </channel>
 
 <channel id="hotted89.us">
@@ -46,20 +46,20 @@
 <display-name>benni</display-name>
 </channel>
 
-<channel id="ascensionlive.us">
-<display-name>ascensionlive</display-name>
-</channel>
-
 <channel id="bbyruthless.us">
 <display-name>bbyruthless</display-name>
 </channel>
 
-<channel id="defac3d.us">
-<display-name>defac3d</display-name>
+<channel id="ascensionlive.us">
+<display-name>ascensionlive</display-name>
 </channel>
 
 <channel id="StayHachi.us">
 <display-name>StayHachi</display-name>
+</channel>
+
+<channel id="defac3d.us">
+<display-name>defac3d</display-name>
 </channel>
 
 <channel id="JayPlays.us">
@@ -90,68 +90,68 @@
 <display-name>WashingtonPost</display-name>
 </channel>
 
-<channel id="BabyFirstTV.us">
-<display-name>BabyFirstTV</display-name>
-</channel>
-
 <channel id="LittleBabyBum.us">
 <display-name>LittleBabyBum</display-name>
 </channel>
 
-<programme start="20230913233950 +0000" stop="20230916183950 +0000" channel="timmac.us">
-<title lang="en"> Gomers Grand Return: ProdigyRPs Most Awaited Moment - @Timmac SUBtember tts phynixpc </title>
-<desc lang="en"> Started: 6:39PM
-Playing: Grand Theft Auto V
-Viewers: 5673 </desc>
-</programme>
+<channel id="BabyFirstTV.us">
+<display-name>BabyFirstTV</display-name>
+</channel>
 
 <programme start="20230914062338 +0000" stop="20230917012338 +0000" channel="tinyspark.us">
 <title lang="en"> 318 Daisy Dukakis - NoPixel - wraith </title>
 <desc lang="en"> Started: 1:23AM
 Playing: Grand Theft Auto V
-Viewers: 218 </desc>
+Viewers: 207 </desc>
 </programme>
 
-<programme start="20230914073012 +0000" stop="20230917023012 +0000" channel="appleshampoo.us">
-<title lang="en"> 🔴SUBTEMBER IS HERE - SUB F0R GOOD LUCK - GIO-SF  COP STUFF </title>
-<desc lang="en"> Started: 2:30AM
+<programme start="20230913233950 +0000" stop="20230916183950 +0000" channel="timmac.us">
+<title lang="en"> Gomers Grand Return: ProdigyRPs Most Awaited Moment - @Timmac SUBtember tts phynixpc </title>
+<desc lang="en"> Started: 6:39PM
 Playing: Grand Theft Auto V
-Viewers: 89 </desc>
-</programme>
-
-<programme start="20230914080853 +0000" stop="20230917030853 +0000" channel="curvyelephant.us">
-<title lang="en"> Matt Rhodes - NoPixel - discord </title>
-<desc lang="en"> Started: 3:08AM
-Playing: Grand Theft Auto V
-Viewers: 606 </desc>
+Viewers: 5471 </desc>
 </programme>
 
 <programme start="20230914102329 +0000" stop="20230917052329 +0000" channel="rerolldota.us">
 <title lang="en"> Nopixel WL - 666 Maxwell Law - Nova Later :) </title>
 <desc lang="en"> Started: 5:23AM
 Playing: Grand Theft Auto V
-Viewers: 28 </desc>
+Viewers: 39 </desc>
+</programme>
+
+<programme start="20230914073012 +0000" stop="20230917023012 +0000" channel="appleshampoo.us">
+<title lang="en"> 🔴SUBTEMBER IS HERE - SUB F0R GOOD LUCK - GIO-SF  COP STUFF </title>
+<desc lang="en"> Started: 2:30AM
+Playing: Grand Theft Auto V
+Viewers: 90 </desc>
+</programme>
+
+<programme start="20230914080853 +0000" stop="20230917030853 +0000" channel="curvyelephant.us">
+<title lang="en"> Matt Rhodes - NoPixel - discord </title>
+<desc lang="en"> Started: 3:08AM
+Playing: Grand Theft Auto V
+Viewers: 663 </desc>
 </programme>
 
 <programme start="20230914072510 +0000" stop="20230917022510 +0000" channel="hotted89.us">
 <title lang="en"> Cpl Matthew Espinoz - NP WL 3.0 - pc discord twitter </title>
 <desc lang="en"> Started: 2:25AM
 Playing: Grand Theft Auto V
-Viewers: 123 </desc>
+Viewers: 129 </desc>
 </programme>
 
 <programme start="20230914060925 +0000" stop="20230917010925 +0000" channel="arnie.us">
 <title lang="en"> ARNIEDOG 🌭 - NOPIXEL - HYDRA GANG 🐍 </title>
 <desc lang="en"> Started: 1:09AM
 Playing: Grand Theft Auto V
-Viewers: 731 </desc>
+Viewers: 756 </desc>
 </programme>
 
 <programme start="20230914075133 +0000" stop="20230917025133 +0000" channel="tobii.us">
 <title lang="en"> Michael Simone - NoPixel Dev - socials discord </title>
 <desc lang="en"> Started: 2:51AM
 Playing: Grand Theft Auto V
-Viewers: 810 </desc>
+Viewers: 826 </desc>
 </programme>
 
 <programme start="20230914062539 +0000" stop="20230917012539 +0000" channel="mollyrollinxo.us">
@@ -165,35 +165,28 @@ Viewers: 20 </desc>
 <title lang="en"> [VOD] SUBATHON [Day 14-30] - DUNDEE NOPIXEL ExpressVPN </title>
 <desc lang="en"> Started: 5:49PM
 Playing: Grand Theft Auto V
-Viewers: 531 </desc>
+Viewers: 538 </desc>
 </programme>
 
 <programme start="20230914082449 +0000" stop="20230917032449 +0000" channel="benni.us">
 <title lang="en"> Santi - Vagos NoPixel WL - If you took the mirror down and said that shit to somebody else you could drive them to greatness - discord </title>
 <desc lang="en"> Started: 3:24AM
 Playing: Grand Theft Auto V
-Viewers: 16 </desc>
-</programme>
-
-<programme start="20230914094626 +0000" stop="20230917044626 +0000" channel="ascensionlive.us">
-<title lang="en"> 🟢 please come back patar 🟢 JAMES MALDING 🟢 nopixel wl 🟢 MDMA 🟢 socials discord </title>
-<desc lang="en"> Started: 4:46AM
-Playing: Grand Theft Auto V
-Viewers: 355 </desc>
+Viewers: 21 </desc>
 </programme>
 
 <programme start="20230914100750 +0000" stop="20230917050750 +0000" channel="bbyruthless.us">
 <title lang="en"> 🌺 Saint Gomez 🌺NoPixel WL 🌺 MDM 🌺 throne </title>
 <desc lang="en"> Started: 5:07AM
 Playing: Grand Theft Auto V
-Viewers: 222 </desc>
+Viewers: 236 </desc>
 </programme>
 
-<programme start="20230914072719 +0000" stop="20230917022719 +0000" channel="defac3d.us">
-<title lang="en"> DEN CHAPO LOCKED UP LAST DAY - MDMA - NOPIXEL WL - EXPRESSVPN CYBER TANKS #AD </title>
-<desc lang="en"> Started: 2:27AM
+<programme start="20230914094626 +0000" stop="20230917044626 +0000" channel="ascensionlive.us">
+<title lang="en"> 🟢 please come back patar 🟢 JAMES MALDING 🟢 nopixel wl 🟢 MDMA 🟢 socials discord </title>
+<desc lang="en"> Started: 4:46AM
 Playing: Grand Theft Auto V
-Viewers: 517 </desc>
+Viewers: 321 </desc>
 </programme>
 
 <programme start="20230914061919 +0000" stop="20230917011919 +0000" channel="StayHachi.us">
@@ -203,64 +196,71 @@ Playing: Grand Theft Auto V
 Viewers: 93 </desc>
 </programme>
 
+<programme start="20230914072719 +0000" stop="20230917022719 +0000" channel="defac3d.us">
+<title lang="en"> DEN CHAPO LOCKED UP LAST DAY - MDMA - NOPIXEL WL - EXPRESSVPN CYBER TANKS #AD </title>
+<desc lang="en"> Started: 2:27AM
+Playing: Grand Theft Auto V
+Viewers: 532 </desc>
+</programme>
+
 <programme start="20230914100743 +0000" stop="20230917050743 +0000" channel="JayPlays.us">
 <title lang="en"> 🔴 JAY BACK IN EU LETS GO - WAR - Mandem - Jay Martin - socials cyber 🔴 </title>
 <desc lang="en"> Started: 5:07AM
 Playing: Grand Theft Auto V
-Viewers: 621 </desc>
+Viewers: 680 </desc>
 </programme>
 
 <programme start="20230914073802 +0000" stop="20230917023802 +0000" channel="kongfue.us">
 <title lang="en"> 🌞KARL JOHNNY KJ BLACK🌞NOPIXEL WL🌞SEASIDE🌞MERCH SUBTEMBER PC </title>
 <desc lang="en"> Started: 2:38AM
 Playing: Grand Theft Auto V
-Viewers: 95 </desc>
+Viewers: 108 </desc>
 </programme>
 
 <programme start="20230914062254 +0000" stop="20230917012254 +0000" channel="simo.us">
 <title lang="en"> Reggie Might - Seaside - NoPixel WL </title>
 <desc lang="en"> Started: 1:22AM
 Playing: Grand Theft Auto V
-Viewers: 168 </desc>
+Viewers: 157 </desc>
 </programme>
 
 <programme start="20230914013810 +0000" stop="20230916203810 +0000" channel="bucketst.us">
 <title lang="en"> RP  Criminal Mastermind Challenge (Heisting in another world) - Gheto Kaiba - BBMC-Redline - NoPixel WL shorts subtember </title>
 <desc lang="en"> Started: 8:38PM
 Playing: Grand Theft Auto V
-Viewers: 218 </desc>
+Viewers: 221 </desc>
 </programme>
 
 <programme start="20230914011312 +0000" stop="20230916201312 +0000" channel="raye.us">
 <title lang="en"> SUBTEMBER 🌸🤍・AUBREY ADAMS - BBMC - NP WL subathon《pRIZZon rp》- subathon discord twitter </title>
 <desc lang="en"> Started: 8:13PM
 Playing: Grand Theft Auto V
-Viewers: 233 </desc>
+Viewers: 223 </desc>
 </programme>
 
 <programme start="20230914102616 +0000" stop="20230917052616 +0000" channel="Hauwnted.us">
 <title lang="en"> Cau Mau - BSK - NoPixel WL - War Over </title>
 <desc lang="en"> Started: 5:26AM
 Playing: Grand Theft Auto V
-Viewers: 31 </desc>
+Viewers: 43 </desc>
 </programme>
 
-<programme start="20230914000000 +0000" stop="20230917053615 +0000" channel="WashingtonPost.us">
+<programme start="20230914000000 +0000" stop="20230917054315 +0000" channel="WashingtonPost.us">
 <title lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20230914000000 +0000" stop="20230917053615 +0000" channel="BabyFirstTV.us">
-<title lang="en"> Toddler Learning Video - Color Crew and Larry Surprise Eggs - Nursery Rhymes for Babies - BabyFirst </title>
+<programme start="20230914000000 +0000" stop="20230917054315 +0000" channel="LittleBabyBum.us">
+<title lang="en"> 🔴LBB Live: Baby Nursery Rhyme - Wheels on The Bus, Six Little Ducks More </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20230914000000 +0000" stop="20230917053615 +0000" channel="LittleBabyBum.us">
-<title lang="en"> 🔴LBB Live: Baby Nursery Rhyme - Wheels on The Bus, Six Little Ducks More </title>
+<programme start="20230914000000 +0000" stop="20230917054315 +0000" channel="BabyFirstTV.us">
+<title lang="en"> Toddler Learning Video - Color Crew and Larry Surprise Eggs - Nursery Rhymes for Babies - BabyFirst </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
