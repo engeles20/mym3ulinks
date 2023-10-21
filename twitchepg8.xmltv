@@ -2,24 +2,28 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="dasmehdi.us">
-<display-name>dasmehdi</display-name>
+<channel id="nikkisariot.us">
+<display-name>nikkisariot</display-name>
 </channel>
 
-<channel id="dyoti.us">
-<display-name>dyoti</display-name>
+<channel id="dasmehdi.us">
+<display-name>dasmehdi</display-name>
 </channel>
 
 <channel id="luka_aus.us">
 <display-name>luka_aus</display-name>
 </channel>
 
-<channel id="minervamaat.us">
-<display-name>minervamaat</display-name>
-</channel>
-
 <channel id="tinyspark.us">
 <display-name>tinyspark</display-name>
+</channel>
+
+<channel id="dyoti.us">
+<display-name>dyoti</display-name>
+</channel>
+
+<channel id="minervamaat.us">
+<display-name>minervamaat</display-name>
 </channel>
 
 <channel id="vindichee.us">
@@ -28,6 +32,14 @@
 
 <channel id="zhedish.us">
 <display-name>zhedish</display-name>
+</channel>
+
+<channel id="berryyboo.us">
+<display-name>berryyboo</display-name>
+</channel>
+
+<channel id="hotted89.us">
+<display-name>hotted89</display-name>
 </channel>
 
 <channel id="cosmic.us">
@@ -42,20 +54,12 @@
 <display-name>shotz</display-name>
 </channel>
 
-<channel id="hotted89.us">
-<display-name>hotted89</display-name>
-</channel>
-
-<channel id="capped.us">
-<display-name>capped</display-name>
-</channel>
-
 <channel id="vader.us">
 <display-name>vader</display-name>
 </channel>
 
-<channel id="berryyboo.us">
-<display-name>berryyboo</display-name>
+<channel id="capped.us">
+<display-name>capped</display-name>
 </channel>
 
 <channel id="travpiper.us">
@@ -66,16 +70,16 @@
 <display-name>4head</display-name>
 </channel>
 
-<channel id="benni.us">
-<display-name>benni</display-name>
-</channel>
-
 <channel id="madbush.us">
 <display-name>madbush</display-name>
 </channel>
 
 <channel id="irish_gt.us">
 <display-name>irish_gt</display-name>
+</channel>
+
+<channel id="benni.us">
+<display-name>benni</display-name>
 </channel>
 
 <channel id="chuny.us">
@@ -106,10 +110,6 @@
 <display-name>neverossa</display-name>
 </channel>
 
-<channel id="charlthemisfit.us">
-<display-name>charlthemisfit</display-name>
-</channel>
-
 <channel id="letterjaye.us">
 <display-name>letterjaye</display-name>
 </channel>
@@ -122,12 +122,16 @@
 <display-name>AmericanSneakers</display-name>
 </channel>
 
-<channel id="lirik.us">
-<display-name>lirik</display-name>
+<channel id="charlthemisfit.us">
+<display-name>charlthemisfit</display-name>
 </channel>
 
 <channel id="amouranth.us">
 <display-name>amouranth</display-name>
+</channel>
+
+<channel id="lirik.us">
+<display-name>lirik</display-name>
 </channel>
 
 <channel id="WashingtonPost.us">
@@ -142,25 +146,39 @@
 <display-name>LittleBabyBum</display-name>
 </channel>
 
+<programme start="20231021132158 +0000" stop="20231024082158 +0000" channel="nikkisariot.us">
+<title lang="en"> • Jenny • NoPixel WL • </title>
+<desc lang="en"> Started: 8:21AM
+Playing: Grand Theft Auto V
+Viewers: 202 </desc>
+</programme>
+
 <programme start="20231021140325 +0000" stop="20231024090325 +0000" channel="dasmehdi.us">
 <title lang="en"> Lil Tuggz - ProdigyRP - shorts socials:@dasmehdi </title>
 <desc lang="en"> Started: 9:03AM
 Playing: Grand Theft Auto V
-Viewers: 3593 </desc>
-</programme>
-
-<programme start="20231021160145 +0000" stop="20231024110145 +0000" channel="dyoti.us">
-<title lang="en"> 🔴 Winston Crimston Walker - NoPixel - @dyoti 🔴 </title>
-<desc lang="en"> Started: 11:01AM
-Playing: Grand Theft Auto V
-Viewers: 218 </desc>
+Viewers: 3519 </desc>
 </programme>
 
 <programme start="20231021100702 +0000" stop="20231024050702 +0000" channel="luka_aus.us">
 <title lang="en"> Nopixel - Gazz Maloo - 💎🐶 - Streaming While Ur Streamers Is At TC </title>
 <desc lang="en"> Started: 5:07AM
 Playing: Grand Theft Auto V
-Viewers: 47 </desc>
+Viewers: 46 </desc>
+</programme>
+
+<programme start="20231021144421 +0000" stop="20231024094421 +0000" channel="tinyspark.us">
+<title lang="en"> Kassandra Kage - Yokai - NoPixel - wraith CivKai </title>
+<desc lang="en"> Started: 9:44AM
+Playing: Grand Theft Auto V
+Viewers: 88 </desc>
+</programme>
+
+<programme start="20231021160145 +0000" stop="20231024110145 +0000" channel="dyoti.us">
+<title lang="en"> 🔴 Winston Crimston Walker - NoPixel - @dyoti 🔴 </title>
+<desc lang="en"> Started: 11:01AM
+Playing: Grand Theft Auto V
+Viewers: 216 </desc>
 </programme>
 
 <programme start="20231021152823 +0000" stop="20231024102823 +0000" channel="minervamaat.us">
@@ -170,137 +188,130 @@ Playing: Grand Theft Auto V
 Viewers: 39 </desc>
 </programme>
 
-<programme start="20231021144421 +0000" stop="20231024094421 +0000" channel="tinyspark.us">
-<title lang="en"> Kassandra Kage - Yokai - NoPixel - wraith CivKai </title>
-<desc lang="en"> Started: 9:44AM
-Playing: Grand Theft Auto V
-Viewers: 91 </desc>
-</programme>
-
 <programme start="20231021121958 +0000" stop="20231024071958 +0000" channel="vindichee.us">
 <title lang="en"> Vincent Ryker - NOPIXEL WL 3.0 - - Vincent Week - @vindichee </title>
 <desc lang="en"> Started: 7:19AM
 Playing: Grand Theft Auto V
-Viewers: 63 </desc>
+Viewers: 61 </desc>
 </programme>
 
 <programme start="20231021120832 +0000" stop="20231024070832 +0000" channel="zhedish.us">
 <title lang="en"> Nopixel WL - Yokai Fox Hunt - Emberlynn Fire Starter McKale - RUST Hangy - ENG </title>
 <desc lang="en"> Started: 7:08AM
 Playing: Grand Theft Auto V
-Viewers: 49 </desc>
-</programme>
-
-<programme start="20231021141641 +0000" stop="20231024091641 +0000" channel="cosmic.us">
-<title lang="en"> 🔹 NoPixel WL - YOKAI FOXHUNT, I NEED MONEY SO I WIN 🔹 - subgoals - discord merch </title>
-<desc lang="en"> Started: 9:16AM
-Playing: Grand Theft Auto V
-Viewers: 131 </desc>
-</programme>
-
-<programme start="20231021155915 +0000" stop="20231024105915 +0000" channel="fitnihil.us">
-<title lang="en"> Cpl Ethan Turrow - NoPixel WL - ⛺⚠️ TWITCH CON REFUGEE CAMP - PART 2⚠️⛺ </title>
-<desc lang="en"> Started: 10:59AM
-Playing: Grand Theft Auto V
-Viewers: 45 </desc>
-</programme>
-
-<programme start="20231021163001 +0000" stop="20231024113001 +0000" channel="shotz.us">
-<title lang="en"> 🔥Make dat Monayy🔥Vinny Pistone🔥 Chang 🐉 Gang 🔥 Prodigy RP 🔥 VBI Youtube Coffee TTS 🔥 @shotz </title>
-<desc lang="en"> Started: 11:30AM
-Playing: Grand Theft Auto V
-Viewers: 1831 </desc>
-</programme>
-
-<programme start="20231021110553 +0000" stop="20231024060553 +0000" channel="hotted89.us">
-<title lang="en"> JJ - Yokai - NP Whitelist - pc discord twitter </title>
-<desc lang="en"> Started: 6:05AM
-Playing: Grand Theft Auto V
-Viewers: 106 </desc>
-</programme>
-
-<programme start="20231021143258 +0000" stop="20231024093258 +0000" channel="capped.us">
-<title lang="en"> Capped Pigeon Tarranova - NoPixel WL - Cinematic Crime - Plug </title>
-<desc lang="en"> Started: 9:32AM
-Playing: Grand Theft Auto V
-Viewers: 410 </desc>
-</programme>
-
-<programme start="20231021151000 +0000" stop="20231024101000 +0000" channel="vader.us">
-<title lang="en"> Eugene - NoPixel </title>
-<desc lang="en"> Started: 10:10AM
-Playing: Grand Theft Auto V
-Viewers: 1062 </desc>
+Viewers: 44 </desc>
 </programme>
 
 <programme start="20231021161327 +0000" stop="20231024111327 +0000" channel="berryyboo.us">
 <title lang="en"> Sgt. Viv - Training the newbies - Vivienne Grey - LSPD - NoPixel WL </title>
 <desc lang="en"> Started: 11:13AM
 Playing: Grand Theft Auto V
-Viewers: 55 </desc>
+Viewers: 105 </desc>
+</programme>
+
+<programme start="20231021110553 +0000" stop="20231024060553 +0000" channel="hotted89.us">
+<title lang="en"> JJ - Yokai - NP Whitelist - pc discord twitter </title>
+<desc lang="en"> Started: 6:05AM
+Playing: Grand Theft Auto V
+Viewers: 116 </desc>
+</programme>
+
+<programme start="20231021141641 +0000" stop="20231024091641 +0000" channel="cosmic.us">
+<title lang="en"> 🔹 NoPixel WL - YOKAI FOXHUNT, I NEED MONEY SO I WIN 🔹 - subgoals - discord merch </title>
+<desc lang="en"> Started: 9:16AM
+Playing: Grand Theft Auto V
+Viewers: 127 </desc>
+</programme>
+
+<programme start="20231021155915 +0000" stop="20231024105915 +0000" channel="fitnihil.us">
+<title lang="en"> Cpl Ethan Turrow - NoPixel WL - ⛺⚠️ TWITCH CON REFUGEE CAMP - PART 2⚠️⛺ </title>
+<desc lang="en"> Started: 10:59AM
+Playing: Grand Theft Auto V
+Viewers: 53 </desc>
+</programme>
+
+<programme start="20231021163001 +0000" stop="20231024113001 +0000" channel="shotz.us">
+<title lang="en"> 🔥Make dat Monayy🔥Vinny Pistone🔥 Chang 🐉 Gang 🔥 Prodigy RP 🔥 VBI Youtube Coffee TTS 🔥 @shotz </title>
+<desc lang="en"> Started: 11:30AM
+Playing: Grand Theft Auto V
+Viewers: 2099 </desc>
+</programme>
+
+<programme start="20231021151000 +0000" stop="20231024101000 +0000" channel="vader.us">
+<title lang="en"> Eugene - NoPixel </title>
+<desc lang="en"> Started: 10:10AM
+Playing: Grand Theft Auto V
+Viewers: 1158 </desc>
+</programme>
+
+<programme start="20231021143258 +0000" stop="20231024093258 +0000" channel="capped.us">
+<title lang="en"> Capped Pigeon Tarranova - NoPixel WL - Cinematic Crime - Plug </title>
+<desc lang="en"> Started: 9:32AM
+Playing: Grand Theft Auto V
+Viewers: 455 </desc>
 </programme>
 
 <programme start="20231021114845 +0000" stop="20231024064845 +0000" channel="travpiper.us">
 <title lang="en"> EA FC - D-head-D-rainer - NOPIXEL - 5-60 days in a row </title>
 <desc lang="en"> Started: 6:48AM
 Playing: Grand Theft Auto V
-Viewers: 935 </desc>
+Viewers: 758 </desc>
 </programme>
 
 <programme start="20231021140432 +0000" stop="20231024090432 +0000" channel="4head.us">
 <title lang="en"> 4HEAD - GG - NoPixel WL </title>
 <desc lang="en"> Started: 9:04AM
 Playing: Grand Theft Auto V
-Viewers: 1402 </desc>
-</programme>
-
-<programme start="20231021133618 +0000" stop="20231024083618 +0000" channel="benni.us">
-<title lang="en"> SANTI AKA LANTI - PLS TIP IM BROKE BOY - DERBY DAY VICTORY LETSGOOOOOOOOOO LIVERPOOL TOP OF THE LEAGUE - VAGOS - NoPixel WL - L CRIM POV </title>
-<desc lang="en"> Started: 8:36AM
-Playing: Grand Theft Auto V
-Viewers: 19 </desc>
+Viewers: 1385 </desc>
 </programme>
 
 <programme start="20231021141051 +0000" stop="20231024091051 +0000" channel="madbush.us">
 <title lang="en"> Haze - NoPixel WL - Yokai - 3rd YOKAI FOX HUNT - time to hunt the FOX @snowe foxhunt fh_teams fh_getinvolved </title>
 <desc lang="en"> Started: 9:10AM
 Playing: Grand Theft Auto V
-Viewers: 118 </desc>
+Viewers: 121 </desc>
 </programme>
 
 <programme start="20231021144159 +0000" stop="20231024094159 +0000" channel="irish_gt.us">
 <title lang="en"> Sean Irish McQuillen - BBMC - NoPixel WL - discord </title>
 <desc lang="en"> Started: 9:41AM
 Playing: Grand Theft Auto V
-Viewers: 197 </desc>
+Viewers: 215 </desc>
+</programme>
+
+<programme start="20231021133618 +0000" stop="20231024083618 +0000" channel="benni.us">
+<title lang="en"> SANTI AKA LANTI - PLS TIP IM BROKE BOY - DERBY DAY VICTORY LETSGOOOOOOOOOO LIVERPOOL TOP OF THE LEAGUE - VAGOS - NoPixel WL - L CRIM POV </title>
+<desc lang="en"> Started: 8:36AM
+Playing: Grand Theft Auto V
+Viewers: 21 </desc>
 </programme>
 
 <programme start="20231021144729 +0000" stop="20231024094729 +0000" channel="chuny.us">
 <title lang="en"> 💜Kate Doll Myles 💜 - FOXHUNT - THE PUPPETEERS - R.U.S.T - YOKAI - Nopixel WL 3.0- cod </title>
 <desc lang="en"> Started: 9:47AM
 Playing: Grand Theft Auto V
-Viewers: 44 </desc>
+Viewers: 41 </desc>
 </programme>
 
 <programme start="20231021133222 +0000" stop="20231024083222 +0000" channel="phantomzz_ow.us">
 <title lang="en"> Connell MacGregor - NoPixel WL - Diamond Dogs 💎 🐶 - zoomer of DD </title>
 <desc lang="en"> Started: 8:32AM
 Playing: Grand Theft Auto V
-Viewers: 67 </desc>
+Viewers: 77 </desc>
 </programme>
 
 <programme start="20231021144335 +0000" stop="20231024094335 +0000" channel="ms_star.us">
 <title lang="en"> Subathon day 3 all Tips are 3x time - Yokai Fox Hunt - Cora Star - BBMC - NoPixel WL - @ms_star - https:--discord.gg-G634rysvbB </title>
 <desc lang="en"> Started: 9:43AM
 Playing: Grand Theft Auto V
-Viewers: 120 </desc>
+Viewers: 125 </desc>
 </programme>
 
 <programme start="20231021153236 +0000" stop="20231024103236 +0000" channel="enevun.us">
 <title lang="en"> Maximillian Angel Investigates - NoPixel WL - Liquid Library - Cerberus - Mayor </title>
 <desc lang="en"> Started: 10:32AM
 Playing: Grand Theft Auto V
-Viewers: 258 </desc>
+Viewers: 281 </desc>
 </programme>
 
 <programme start="20231021112008 +0000" stop="20231024062008 +0000" channel="liftedgn.us">
@@ -314,28 +325,21 @@ Viewers: 34 </desc>
 <title lang="en"> Subathon - Garret Mathews - The Hidden - NoPixel WL - Marvel #Ad </title>
 <desc lang="en"> Started: 9:37AM
 Playing: Grand Theft Auto V
-Viewers: 64 </desc>
+Viewers: 60 </desc>
 </programme>
 
 <programme start="20231021141114 +0000" stop="20231024091114 +0000" channel="neverossa.us">
 <title lang="en"> Dawn ~ FOX HUNT TYME - NoPixel WL - youtube </title>
 <desc lang="en"> Started: 9:11AM
 Playing: Grand Theft Auto V
-Viewers: 74 </desc>
-</programme>
-
-<programme start="20231021163956 +0000" stop="20231024113956 +0000" channel="charlthemisfit.us">
-<title lang="en"> CHARLOTTE Bozo SPADE - Nopixel WL </title>
-<desc lang="en"> Started: 11:39AM
-Playing: Grand Theft Auto V
-Viewers: 21 </desc>
+Viewers: 82 </desc>
 </programme>
 
 <programme start="20231021145908 +0000" stop="20231024095908 +0000" channel="letterjaye.us">
 <title lang="en"> Dahlia Fey - yup -NoPixel WL - SubBlub Cam - newvideo </title>
 <desc lang="en"> Started: 9:59AM
 Playing: Grand Theft Auto V
-Viewers: 125 </desc>
+Viewers: 129 </desc>
 </programme>
 
 <programme start="20231021154940 +0000" stop="20231024104940 +0000" channel="IdleElectric.us">
@@ -349,38 +353,45 @@ Viewers: 1 </desc>
 <title lang="en"> Veronica V Westfield - Baby Steps - Deputy Chief of EMS - NoPixel WL </title>
 <desc lang="en"> Started: 11:24AM
 Playing: Grand Theft Auto V
-Viewers: 30 </desc>
+Viewers: 31 </desc>
 </programme>
 
-<programme start="20231021160029 +0000" stop="20231024110029 +0000" channel="lirik.us">
-<title lang="en"> Spodman 2 pt. 2 - MATRIX </title>
-<desc lang="en"> Started: 11:00AM
-Playing: Marvel's Spider-Man 2
-Viewers: 12508 </desc>
+<programme start="20231021163956 +0000" stop="20231024113956 +0000" channel="charlthemisfit.us">
+<title lang="en"> CHARLOTTE Bozo SPADE - Nopixel WL </title>
+<desc lang="en"> Started: 11:39AM
+Playing: Grand Theft Auto V
+Viewers: 21 </desc>
 </programme>
 
 <programme start="20231021173349 +0000" stop="20231024123349 +0000" channel="amouranth.us">
 <title lang="en"> ⭐️TWITCHCON DAY 2⭐️ count the hover hands👋 s-- links </title>
 <desc lang="en"> Started: 12:33PM
 Playing: Just Chatting
-Viewers: 6351 </desc>
+Viewers: 10390 </desc>
 </programme>
 
-<programme start="20231021000000 +0000" stop="20231024125118 +0000" channel="WashingtonPost.us">
+<programme start="20231021160029 +0000" stop="20231024110029 +0000" channel="lirik.us">
+<title lang="en"> Spodman 2 pt. 2 - MATRIX </title>
+<desc lang="en"> Started: 11:00AM
+Playing: Marvel's Spider-Man 2
+Viewers: 12667 </desc>
+</programme>
+
+<programme start="20231021000000 +0000" stop="20231024125818 +0000" channel="WashingtonPost.us">
 <title lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20231021000000 +0000" stop="20231024125118 +0000" channel="msrachel.us">
+<programme start="20231021000000 +0000" stop="20231024125818 +0000" channel="msrachel.us">
 <title lang="en"> 🔴 Wheels on the Bus - Nursery Rhymes and Kids Songs - Toddler Learning Video - Ms Rachel </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20231021000000 +0000" stop="20231024125118 +0000" channel="LittleBabyBum.us">
+<programme start="20231021000000 +0000" stop="20231024125818 +0000" channel="LittleBabyBum.us">
 <title lang="en"> 🔴Baby Halloween Songs 👻 Peekaboo Painting Pumpkins No Monsters LittleBabyBum </title>
 <desc lang="en"> Started: earlier
 Playing: idk
