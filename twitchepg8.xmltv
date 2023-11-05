@@ -2,6 +2,10 @@
 <display-name>clearepg</display-name>
 </channel>
 
+<channel id="anthonyz.us">
+<display-name>anthonyz</display-name>
+</channel>
+
 <channel id="luka_aus.us">
 <display-name>luka_aus</display-name>
 </channel>
@@ -26,6 +30,10 @@
 <display-name>judd</display-name>
 </channel>
 
+<channel id="anthonyz.us">
+<display-name>anthonyz</display-name>
+</channel>
+
 <channel id="defac3d.us">
 <display-name>defac3d</display-name>
 </channel>
@@ -46,60 +54,74 @@
 <display-name>LittleBabyBum</display-name>
 </channel>
 
+<programme start="20231105102600 +0000" stop="20231108052600 +0000" channel="anthonyz.us">
+<title lang="en"> ayo we chillin 🌕 - GTA RP - graphics f0r my shaders </title>
+<desc lang="en"> Started: 5:26AM
+Playing: Grand Theft Auto V
+Viewers: 103 </desc>
+</programme>
+
 <programme start="20231105092617 +0000" stop="20231108042617 +0000" channel="luka_aus.us">
 <title lang="en"> Nopixel - Gazz Maloo - 💎🐶 Diamond Dogs </title>
 <desc lang="en"> Started: 4:26AM
 Playing: Grand Theft Auto V
-Viewers: 96 </desc>
+Viewers: 102 </desc>
 </programme>
 
 <programme start="20231105075501 +0000" stop="20231108025501 +0000" channel="kemony.us">
 <title lang="en"> Alice - NoPixel WL - Hydra, Honorary Angel, .30% CG Socials Reddit Meth - @Kemony </title>
 <desc lang="en"> Started: 2:55AM
 Playing: Grand Theft Auto V
-Viewers: 144 </desc>
+Viewers: 149 </desc>
 </programme>
 
 <programme start="20231105092508 +0000" stop="20231108042508 +0000" channel="rexsair.us">
 <title lang="en"> Rex - Hydra Gang 🐍 - Nopixel WL </title>
 <desc lang="en"> Started: 4:25AM
 Playing: Grand Theft Auto V
-Viewers: 135 </desc>
+Viewers: 134 </desc>
 </programme>
 
 <programme start="20231105094442 +0000" stop="20231108044442 +0000" channel="chelb.us">
 <title lang="en"> 🚨 DEVIOUS JOSH KADE 🚨 - No Pixel WL - discord socials tts </title>
 <desc lang="en"> Started: 4:44AM
 Playing: Grand Theft Auto V
-Viewers: 176 </desc>
+Viewers: 210 </desc>
 </programme>
 
 <programme start="20231105095015 +0000" stop="20231108045015 +0000" channel="dripp.us">
 <title lang="en"> future hendrix np wl </title>
 <desc lang="en"> Started: 4:50AM
 Playing: Grand Theft Auto V
-Viewers: 165 </desc>
+Viewers: 152 </desc>
 </programme>
 
 <programme start="20231105064844 +0000" stop="20231108014844 +0000" channel="judd.us">
 <title lang="en"> god mechanic - prodigyRP </title>
 <desc lang="en"> Started: 1:48AM
 Playing: Grand Theft Auto V
-Viewers: 1122 </desc>
+Viewers: 1135 </desc>
+</programme>
+
+<programme start="20231105102600 +0000" stop="20231108052600 +0000" channel="anthonyz.us">
+<title lang="en"> ayo we chillin 🌕 - GTA RP - graphics f0r my shaders </title>
+<desc lang="en"> Started: 5:26AM
+Playing: Grand Theft Auto V
+Viewers: 103 </desc>
 </programme>
 
 <programme start="20231105080347 +0000" stop="20231108030347 +0000" channel="defac3d.us">
 <title lang="en"> 1 FIANCÉE -1 BENCH - DENZEL - MDM - NOPIXEL WL - CYBER G2A EXPRESSVPN </title>
 <desc lang="en"> Started: 3:03AM
 Playing: Grand Theft Auto V
-Viewers: 562 </desc>
+Viewers: 576 </desc>
 </programme>
 
 <programme start="20231105092002 +0000" stop="20231108042002 +0000" channel="skiliyo.us">
 <title lang="en"> o7 R34 - DEREK THOMSON - RUST - TikTok -Discord </title>
 <desc lang="en"> Started: 4:20AM
 Playing: Grand Theft Auto V
-Viewers: 48 </desc>
+Viewers: 44 </desc>
 </programme>
 
 <programme start="20231105075116 +0000" stop="20231108025116 +0000" channel="cowsmooingnsuch.us">
@@ -109,14 +131,14 @@ Playing: Grand Theft Auto V
 Viewers: 2 </desc>
 </programme>
 
-<programme start="20231105000000 +0000" stop="20231108052116 +0000" channel="WashingtonPost.us">
+<programme start="20231105000000 +0000" stop="20231108052816 +0000" channel="WashingtonPost.us">
 <title lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20231105000000 +0000" stop="20231108052116 +0000" channel="LittleBabyBum.us">
+<programme start="20231105000000 +0000" stop="20231108052816 +0000" channel="LittleBabyBum.us">
 <title lang="en"> 🔴LBB Live: Baby Nursery Rhyme - Wheels on The Bus, Six Little Ducks More </title>
 <desc lang="en"> Started: earlier
 Playing: idk
