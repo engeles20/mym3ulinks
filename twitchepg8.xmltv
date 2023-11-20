@@ -2,20 +2,20 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="dasmehdi.us">
-<display-name>dasmehdi</display-name>
-</channel>
-
 <channel id="nidas.us">
 <display-name>nidas</display-name>
 </channel>
 
-<channel id="SayeedBlack.us">
-<display-name>SayeedBlack</display-name>
-</channel>
-
 <channel id="uhsnow.us">
 <display-name>uhsnow</display-name>
+</channel>
+
+<channel id="dasmehdi.us">
+<display-name>dasmehdi</display-name>
+</channel>
+
+<channel id="SayeedBlack.us">
+<display-name>SayeedBlack</display-name>
 </channel>
 
 <channel id="wolfabelle.us">
@@ -34,6 +34,10 @@
 <display-name>rerolldota</display-name>
 </channel>
 
+<channel id="vindichee.us">
+<display-name>vindichee</display-name>
+</channel>
+
 <channel id="appleshampoo.us">
 <display-name>appleshampoo</display-name>
 </channel>
@@ -42,52 +46,40 @@
 <display-name>zhedish</display-name>
 </channel>
 
-<channel id="vindichee.us">
-<display-name>vindichee</display-name>
+<channel id="hotted89.us">
+<display-name>hotted89</display-name>
 </channel>
 
 <channel id="kinamazing.us">
 <display-name>kinamazing</display-name>
 </channel>
 
-<channel id="vader.us">
-<display-name>vader</display-name>
-</channel>
-
-<channel id="hotted89.us">
-<display-name>hotted89</display-name>
-</channel>
-
-<channel id="silent.us">
-<display-name>silent</display-name>
-</channel>
-
-<channel id="emoussy.us">
-<display-name>emoussy</display-name>
-</channel>
-
-<channel id="chillypanda.us">
-<display-name>chillypanda</display-name>
-</channel>
-
-<channel id="ash.us">
-<display-name>ash</display-name>
+<channel id="shotz.us">
+<display-name>shotz</display-name>
 </channel>
 
 <channel id="moboking.us">
 <display-name>moboking</display-name>
 </channel>
 
-<channel id="kemony.us">
-<display-name>kemony</display-name>
+<channel id="ash.us">
+<display-name>ash</display-name>
 </channel>
 
-<channel id="chelb.us">
-<display-name>chelb</display-name>
+<channel id="vader.us">
+<display-name>vader</display-name>
+</channel>
+
+<channel id="emoussy.us">
+<display-name>emoussy</display-name>
 </channel>
 
 <channel id="4head.us">
 <display-name>4head</display-name>
+</channel>
+
+<channel id="kemony.us">
+<display-name>kemony</display-name>
 </channel>
 
 <channel id="bunnivixen.us">
@@ -98,36 +90,44 @@
 <display-name>a2guapo</display-name>
 </channel>
 
-<channel id="franktactics.us">
-<display-name>franktactics</display-name>
+<channel id="silent.us">
+<display-name>silent</display-name>
 </channel>
 
-<channel id="hutchmf.us">
-<display-name>hutchmf</display-name>
+<channel id="chillypanda.us">
+<display-name>chillypanda</display-name>
+</channel>
+
+<channel id="chelb.us">
+<display-name>chelb</display-name>
+</channel>
+
+<channel id="franktactics.us">
+<display-name>franktactics</display-name>
 </channel>
 
 <channel id="defac3d.us">
 <display-name>defac3d</display-name>
 </channel>
 
+<channel id="hutchmf.us">
+<display-name>hutchmf</display-name>
+</channel>
+
+<channel id="ray__c.us">
+<display-name>ray__c</display-name>
+</channel>
+
 <channel id="ms_star.us">
 <display-name>ms_star</display-name>
-</channel>
-
-<channel id="titanrespawned.us">
-<display-name>titanrespawned</display-name>
-</channel>
-
-<channel id="ladydima.us">
-<display-name>ladydima</display-name>
 </channel>
 
 <channel id="matteu.us">
 <display-name>matteu</display-name>
 </channel>
 
-<channel id="ray__c.us">
-<display-name>ray__c</display-name>
+<channel id="titanrespawned.us">
+<display-name>titanrespawned</display-name>
 </channel>
 
 <channel id="vtechas.us">
@@ -138,12 +138,12 @@
 <display-name>uhzabo</display-name>
 </channel>
 
-<channel id="sl1mew.us">
-<display-name>sl1mew</display-name>
-</channel>
-
 <channel id="0reed.us">
 <display-name>0reed</display-name>
+</channel>
+
+<channel id="sl1mew.us">
+<display-name>sl1mew</display-name>
 </channel>
 
 <channel id="noelusionz.us">
@@ -152,6 +152,10 @@
 
 <channel id="josesantanna.us">
 <display-name>josesantanna</display-name>
+</channel>
+
+<channel id="ladydima.us">
+<display-name>ladydima</display-name>
 </channel>
 
 <channel id="phantomzz_ow.us">
@@ -182,109 +186,123 @@
 <display-name>BabyFirstTV</display-name>
 </channel>
 
-<programme start="20231120141711 +0000" stop="20231123091711 +0000" channel="dasmehdi.us">
-<title lang="en"> Lil Tuggz - ProdigyRP - socials:@dasmehdi </title>
-<desc lang="en"> Started: 9:17AM
-Playing: Grand Theft Auto V
-Viewers: 180 </desc>
-</programme>
-
 <programme start="20231120113043 +0000" stop="20231123063043 +0000" channel="nidas.us">
 <title lang="en"> GAIMIN - @nidas specs socials </title>
 <desc lang="en"> Started: 6:30AM
 Playing: The Coin Game
-Viewers: 353 </desc>
-</programme>
-
-<programme start="20231120132322 +0000" stop="20231123082322 +0000" channel="SayeedBlack.us">
-<title lang="en"> Speedy New Week new Goodtimeeees-Nopixel-BIC@X sayeeedblack </title>
-<desc lang="en"> Started: 8:23AM
-Playing: Grand Theft Auto V
-Viewers: 602 </desc>
+Viewers: 357 </desc>
 </programme>
 
 <programme start="20231120140318 +0000" stop="20231123090318 +0000" channel="uhsnow.us">
 <title lang="en"> Jackie Snow - NoPixel - discord.gg-Snow </title>
 <desc lang="en"> Started: 9:03AM
 Playing: Grand Theft Auto V
-Viewers: 540 </desc>
+Viewers: 729 </desc>
+</programme>
+
+<programme start="20231120141711 +0000" stop="20231123091711 +0000" channel="dasmehdi.us">
+<title lang="en"> Lil Tuggz - ProdigyRP - socials:@dasmehdi </title>
+<desc lang="en"> Started: 9:17AM
+Playing: Grand Theft Auto V
+Viewers: 488 </desc>
+</programme>
+
+<programme start="20231120132322 +0000" stop="20231123082322 +0000" channel="SayeedBlack.us">
+<title lang="en"> Speedy New Week new Goodtimeeees-Nopixel-BIC@X sayeeedblack </title>
+<desc lang="en"> Started: 8:23AM
+Playing: Grand Theft Auto V
+Viewers: 616 </desc>
 </programme>
 
 <programme start="20231120105001 +0000" stop="20231123055001 +0000" channel="wolfabelle.us">
 <title lang="en"> SGT CANDICE DEFITT NoPixel WL (variety later) - TSM Wolfabelle - Youtube </title>
 <desc lang="en"> Started: 5:50AM
 Playing: Grand Theft Auto V
-Viewers: 936 </desc>
+Viewers: 955 </desc>
 </programme>
 
 <programme start="20231120093522 +0000" stop="20231123043522 +0000" channel="timmac.us">
 <title lang="en"> Gomerrrrrrr - Prodigy RP - phynix - Socials: @timmac </title>
 <desc lang="en"> Started: 4:35AM
 Playing: Grand Theft Auto V
-Viewers: 1848 </desc>
+Viewers: 1804 </desc>
 </programme>
 
 <programme start="20231120085956 +0000" stop="20231123035956 +0000" channel="luka_aus.us">
 <title lang="en"> ANZ SUBFEST 🐨 - Nopxiel - Sgt BAASTARD Kozlov - Day 4 subfest </title>
 <desc lang="en"> Started: 3:59AM
 Playing: Grand Theft Auto V
-Viewers: 80 </desc>
+Viewers: 75 </desc>
 </programme>
 
 <programme start="20231120053929 +0000" stop="20231123003929 +0000" channel="rerolldota.us">
 <title lang="en"> Nopixel WL - 353 Lea Nova - Holding The Shift Down </title>
 <desc lang="en"> Started: 12:39AM
 Playing: Grand Theft Auto V
-Viewers: 101 </desc>
-</programme>
-
-<programme start="20231120111050 +0000" stop="20231123061050 +0000" channel="appleshampoo.us">
-<title lang="en"> 🔴AMAZON HYPERQUEST - ROAD TO PARTNER PLUS - BACK FROM LONG BREAK MISS U NERDS ❤️ </title>
-<desc lang="en"> Started: 6:10AM
-Playing: Grand Theft Auto V
-Viewers: 94 </desc>
-</programme>
-
-<programme start="20231120095531 +0000" stop="20231123045531 +0000" channel="zhedish.us">
-<title lang="en"> Nopixel WL - Tails - THANK YOU F0R 4000 Followers 3 - ENG </title>
-<desc lang="en"> Started: 4:55AM
-Playing: Grand Theft Auto V
-Viewers: 81 </desc>
+Viewers: 99 </desc>
 </programme>
 
 <programme start="20231120122608 +0000" stop="20231123072608 +0000" channel="vindichee.us">
 <title lang="en"> Trooper World of Warcraft - HSPU-SASP - NoPixel WL 3.0 - @vindichee </title>
 <desc lang="en"> Started: 7:26AM
 Playing: Grand Theft Auto V
-Viewers: 122 </desc>
+Viewers: 117 </desc>
 </programme>
 
-<programme start="20231120135300 +0000" stop="20231123085300 +0000" channel="kinamazing.us">
-<title lang="en"> GTA RP - DUPONT - NOPIXEL </title>
-<desc lang="en"> Started: 8:53AM
+<programme start="20231120111050 +0000" stop="20231123061050 +0000" channel="appleshampoo.us">
+<title lang="en"> 🔴AMAZON HYPERQUEST - ROAD TO PARTNER PLUS - BACK FROM LONG BREAK MISS U NERDS ❤️ </title>
+<desc lang="en"> Started: 6:10AM
 Playing: Grand Theft Auto V
-Viewers: 78 </desc>
+Viewers: 95 </desc>
 </programme>
 
-<programme start="20231120134449 +0000" stop="20231123084449 +0000" channel="vader.us">
-<title lang="en"> Eugene - EPIC MONDAY </title>
-<desc lang="en"> Started: 8:44AM
+<programme start="20231120095531 +0000" stop="20231123045531 +0000" channel="zhedish.us">
+<title lang="en"> Nopixel WL - Tails - THANK YOU F0R 4000 Followers 3 - ENG </title>
+<desc lang="en"> Started: 4:55AM
 Playing: Grand Theft Auto V
-Viewers: 568 </desc>
+Viewers: 80 </desc>
 </programme>
 
 <programme start="20231120101841 +0000" stop="20231123051841 +0000" channel="hotted89.us">
 <title lang="en"> Trooper Matthew Espinoz - Nopixel WL - pc </title>
 <desc lang="en"> Started: 5:18AM
 Playing: Grand Theft Auto V
-Viewers: 231 </desc>
+Viewers: 210 </desc>
 </programme>
 
-<programme start="20231120135743 +0000" stop="20231123085743 +0000" channel="silent.us">
-<title lang="en"> FLIPPPY - gs HF #ad - awards 🏆 - SileNt Live on youtube vods </title>
-<desc lang="en"> Started: 8:57AM
+<programme start="20231120135300 +0000" stop="20231123085300 +0000" channel="kinamazing.us">
+<title lang="en"> GTA RP - DUPONT - NOPIXEL </title>
+<desc lang="en"> Started: 8:53AM
 Playing: Grand Theft Auto V
-Viewers: 690 </desc>
+Viewers: 66 </desc>
+</programme>
+
+<programme start="20231120142739 +0000" stop="20231123092739 +0000" channel="shotz.us">
+<title lang="en"> 🚨Ollie The Olive Garten🚨Unlimited Nightsticks Hit Different🚨Prodigy RP🚨VBI Discord Coffee TTS 🚨 @shotz </title>
+<desc lang="en"> Started: 9:27AM
+Playing: Grand Theft Auto V
+Viewers: 14 </desc>
+</programme>
+
+<programme start="20231120135407 +0000" stop="20231123085407 +0000" channel="moboking.us">
+<title lang="en"> Aleks  99 Problems But MONEY AINT ONE  Bogo Sazkaljovich - NoPixel 3.0 WL - gamersupps hydra twitter discord - Hydra Gang GTA V </title>
+<desc lang="en"> Started: 8:54AM
+Playing: Grand Theft Auto V
+Viewers: 52 </desc>
+</programme>
+
+<programme start="20231120140322 +0000" stop="20231123090322 +0000" channel="ash.us">
+<title lang="en"> Ash Mustard • PBSO • NP Green • ggs gamersupps </title>
+<desc lang="en"> Started: 9:03AM
+Playing: Grand Theft Auto V
+Viewers: 280 </desc>
+</programme>
+
+<programme start="20231120134449 +0000" stop="20231123084449 +0000" channel="vader.us">
+<title lang="en"> Eugene - EPIC MONDAY </title>
+<desc lang="en"> Started: 8:44AM
+Playing: Grand Theft Auto V
+Viewers: 514 </desc>
 </programme>
 
 <programme start="20231120132720 +0000" stop="20231123082720 +0000" channel="emoussy.us">
@@ -294,203 +312,196 @@ Playing: Grand Theft Auto V
 Viewers: 38 </desc>
 </programme>
 
-<programme start="20231120131319 +0000" stop="20231123081319 +0000" channel="chillypanda.us">
-<title lang="en"> Lilly Megaphone Pandia -- Hydra -- NP WL -- GTA - Minecraft-- gamersupps </title>
-<desc lang="en"> Started: 8:13AM
+<programme start="20231120142008 +0000" stop="20231123092008 +0000" channel="4head.us">
+<title lang="en"> 4HEAD - GG - NoPixel WL - TTS </title>
+<desc lang="en"> Started: 9:20AM
 Playing: Grand Theft Auto V
-Viewers: 124 </desc>
-</programme>
-
-<programme start="20231120140322 +0000" stop="20231123090322 +0000" channel="ash.us">
-<title lang="en"> Ash Mustard • PBSO • NP Green • ggs gamersupps </title>
-<desc lang="en"> Started: 9:03AM
-Playing: Grand Theft Auto V
-Viewers: 285 </desc>
-</programme>
-
-<programme start="20231120135407 +0000" stop="20231123085407 +0000" channel="moboking.us">
-<title lang="en"> Aleks  99 Problems But MONEY AINT ONE  Bogo Sazkaljovich - NoPixel 3.0 WL - gamersupps hydra twitter discord - Hydra Gang GTA V </title>
-<desc lang="en"> Started: 8:54AM
-Playing: Grand Theft Auto V
-Viewers: 53 </desc>
+Viewers: 148 </desc>
 </programme>
 
 <programme start="20231120072403 +0000" stop="20231123022403 +0000" channel="kemony.us">
 <title lang="en"> Gamersupps SUSIE - NoPixel WL - Hydra, Honorary Angel, .30% CG Socials Reddit Meth - @Kemony #ad </title>
 <desc lang="en"> Started: 2:24AM
 Playing: Grand Theft Auto V
-Viewers: 69 </desc>
-</programme>
-
-<programme start="20231120134526 +0000" stop="20231123084526 +0000" channel="chelb.us">
-<title lang="en"> 🐍 ALAN KYLES 🐍 - 🚨 JOSH KADE 🚨- HYDRA - NOPIXEL WL - discord socials tts </title>
-<desc lang="en"> Started: 8:45AM
-Playing: Grand Theft Auto V
-Viewers: 47 </desc>
-</programme>
-
-<programme start="20231120142008 +0000" stop="20231123092008 +0000" channel="4head.us">
-<title lang="en"> 4HEAD - GG - NoPixel WL - TTS </title>
-<desc lang="en"> Started: 9:20AM
-Playing: Grand Theft Auto V
-Viewers: 56 </desc>
+Viewers: 65 </desc>
 </programme>
 
 <programme start="20231120084413 +0000" stop="20231123034413 +0000" channel="bunnivixen.us">
 <title lang="en"> - ♥ Baby Joss ♥ - 🌸final stream until im back from my holiday trip🌸- ♥ love u ♥ PRODIGYRP </title>
 <desc lang="en"> Started: 3:44AM
 Playing: Grand Theft Auto V
-Viewers: 36 </desc>
+Viewers: 38 </desc>
 </programme>
 
 <programme start="20231120110659 +0000" stop="20231123060659 +0000" channel="a2guapo.us">
 <title lang="en"> back - youtube twitter tiktok discord newvid </title>
 <desc lang="en"> Started: 6:06AM
 Playing: Grand Theft Auto V
-Viewers: 441 </desc>
+Viewers: 486 </desc>
+</programme>
+
+<programme start="20231120135743 +0000" stop="20231123085743 +0000" channel="silent.us">
+<title lang="en"> FLIPPPY - gs HF #ad - awards 🏆 - SileNt Live on youtube vods </title>
+<desc lang="en"> Started: 8:57AM
+Playing: Grand Theft Auto V
+Viewers: 767 </desc>
+</programme>
+
+<programme start="20231120131319 +0000" stop="20231123081319 +0000" channel="chillypanda.us">
+<title lang="en"> Lilly Megaphone Pandia -- Hydra -- NP WL -- GTA - Minecraft-- gamersupps </title>
+<desc lang="en"> Started: 8:13AM
+Playing: Grand Theft Auto V
+Viewers: 118 </desc>
+</programme>
+
+<programme start="20231120134526 +0000" stop="20231123084526 +0000" channel="chelb.us">
+<title lang="en"> 🐍 ALAN KYLES 🐍 - 🚨 JOSH KADE 🚨- HYDRA - NOPIXEL WL - discord socials tts </title>
+<desc lang="en"> Started: 8:45AM
+Playing: Grand Theft Auto V
+Viewers: 45 </desc>
 </programme>
 
 <programme start="20231120132220 +0000" stop="20231123082220 +0000" channel="franktactics.us">
 <title lang="en"> your broken hero - Nomad - NoPixel - GTA RP </title>
 <desc lang="en"> Started: 8:22AM
 Playing: Grand Theft Auto V
-Viewers: 40 </desc>
-</programme>
-
-<programme start="20231120131145 +0000" stop="20231123081145 +0000" channel="hutchmf.us">
-<title lang="en"> 🚨 Bustin Thicc Cider 🚨 Prodigy RP 🚨Underdog Starf0rge Youtube Twitter Merch 🚨 @HutchMF </title>
-<desc lang="en"> Started: 8:11AM
-Playing: Grand Theft Auto V
-Viewers: 2369 </desc>
+Viewers: 47 </desc>
 </programme>
 
 <programme start="20231120075359 +0000" stop="20231123025359 +0000" channel="defac3d.us">
 <title lang="en"> BIG GANG RP - DENZEL - MDM - NOPIXEL WL - CYBER G2A EXPRESSVPN </title>
 <desc lang="en"> Started: 2:53AM
 Playing: Grand Theft Auto V
-Viewers: 612 </desc>
+Viewers: 621 </desc>
 </programme>
 
-<programme start="20231120051330 +0000" stop="20231123001330 +0000" channel="ms_star.us">
-<title lang="en"> Subathon day 29 - Cpl. Skye Faye 322 - PBSO - HSPU - NoPixel WL - @ms_star - https:--discord.gg-G634rysvbB </title>
-<desc lang="en"> Started: 12:13AM
+<programme start="20231120131145 +0000" stop="20231123081145 +0000" channel="hutchmf.us">
+<title lang="en"> 🚨 Bustin Thicc Cider 🚨 Prodigy RP 🚨Underdog Starf0rge Youtube Twitter Merch 🚨 @HutchMF </title>
+<desc lang="en"> Started: 8:11AM
 Playing: Grand Theft Auto V
-Viewers: 137 </desc>
-</programme>
-
-<programme start="20231120125047 +0000" stop="20231123075047 +0000" channel="titanrespawned.us">
-<title lang="en"> Cornelius Seolf0r - NoPixel - Monday Madness The countdown to Turkey Day </title>
-<desc lang="en"> Started: 7:50AM
-Playing: Grand Theft Auto V
-Viewers: 9 </desc>
-</programme>
-
-<programme start="20231120135007 +0000" stop="20231123085007 +0000" channel="ladydima.us">
-<title lang="en"> 🟪EMILY JONES 🟪NOPIXEL WL 🟪discord awards socials 🟪 </title>
-<desc lang="en"> Started: 8:50AM
-Playing: Grand Theft Auto V
-Viewers: 31 </desc>
-</programme>
-
-<programme start="20231120135254 +0000" stop="20231123085254 +0000" channel="matteu.us">
-<title lang="en"> ‧₊˚ ☁️⋅MANDEMS PROBLEM CHILD BECOMES THE GOLDEN CHILD ✨ MATTHEW ANTOV ✨ NOPIXEL WL ✨ discord socials ⋅☁️˚₊ </title>
-<desc lang="en"> Started: 8:52AM
-Playing: Grand Theft Auto V
-Viewers: 766 </desc>
+Viewers: 2475 </desc>
 </programme>
 
 <programme start="20231120092612 +0000" stop="20231123042612 +0000" channel="ray__c.us">
 <title lang="en"> ❄️ VAULT HEIST - MORNING SQUAD - GTA RP ❄️ Raymond Romanov 🔥🔴 BACK TO RUST @ 10 AM PST ❄️ React  NoPixel WL 🔴 socials HF #sponsored </title>
 <desc lang="en"> Started: 4:26AM
 Playing: Grand Theft Auto V
-Viewers: 1225 </desc>
+Viewers: 1101 </desc>
+</programme>
+
+<programme start="20231120051330 +0000" stop="20231123001330 +0000" channel="ms_star.us">
+<title lang="en"> Subathon day 29 - Cpl. Skye Faye 322 - PBSO - HSPU - NoPixel WL - @ms_star - https:--discord.gg-G634rysvbB </title>
+<desc lang="en"> Started: 12:13AM
+Playing: Grand Theft Auto V
+Viewers: 135 </desc>
+</programme>
+
+<programme start="20231120135254 +0000" stop="20231123085254 +0000" channel="matteu.us">
+<title lang="en"> ‧₊˚ ☁️⋅MANDEMS PROBLEM CHILD BECOMES THE GOLDEN CHILD ✨ MATTHEW ANTOV ✨ NOPIXEL WL ✨ discord socials ⋅☁️˚₊ </title>
+<desc lang="en"> Started: 8:52AM
+Playing: Grand Theft Auto V
+Viewers: 926 </desc>
+</programme>
+
+<programme start="20231120125047 +0000" stop="20231123075047 +0000" channel="titanrespawned.us">
+<title lang="en"> Cornelius Seolf0r - NoPixel - Monday Madness The countdown to Turkey Day </title>
+<desc lang="en"> Started: 7:50AM
+Playing: Grand Theft Auto V
+Viewers: 10 </desc>
 </programme>
 
 <programme start="20231120131537 +0000" stop="20231123081537 +0000" channel="vtechas.us">
 <title lang="en"> W Cop tings then Rust after - Cameron Everly - NoPixel WL </title>
 <desc lang="en"> Started: 8:15AM
 Playing: Grand Theft Auto V
-Viewers: 76 </desc>
+Viewers: 73 </desc>
 </programme>
 
 <programme start="20231120121049 +0000" stop="20231123071049 +0000" channel="uhzabo.us">
 <title lang="en"> 🚨 Randy Cox 🚨 Legion 🚨 ProdigyRP🚨 Discord 🚨 Tiktok 🚨 Starf0rge </title>
 <desc lang="en"> Started: 7:10AM
 Playing: Grand Theft Auto V
-Viewers: 2 </desc>
-</programme>
-
-<programme start="20231120112839 +0000" stop="20231123062839 +0000" channel="sl1mew.us">
-<title lang="en"> Tommy tictac Olliver - Nopixel WL 3.0 - discord - @sl1meW </title>
-<desc lang="en"> Started: 6:28AM
-Playing: Grand Theft Auto V
-Viewers: 34 </desc>
+Viewers: 3 </desc>
 </programme>
 
 <programme start="20231120134142 +0000" stop="20231123084142 +0000" channel="0reed.us">
 <title lang="en"> RP THEN RUST - REED DANKLEAF - DIAMANTE CARTL - NOPIXEL WL </title>
 <desc lang="en"> Started: 8:41AM
 Playing: Grand Theft Auto V
-Viewers: 147 </desc>
+Viewers: 144 </desc>
+</programme>
+
+<programme start="20231120112839 +0000" stop="20231123062839 +0000" channel="sl1mew.us">
+<title lang="en"> Tommy tictac Olliver - Nopixel WL 3.0 - discord - @sl1meW </title>
+<desc lang="en"> Started: 6:28AM
+Playing: Grand Theft Auto V
+Viewers: 35 </desc>
 </programme>
 
 <programme start="20231120124435 +0000" stop="20231123074435 +0000" channel="noelusionz.us">
 <title lang="en"> ⚠🔴Richie Roach Looks f0r Wood Chipper - The WorldZ End RP - Nopixel WL Laters - GTA RP - linktree </title>
 <desc lang="en"> Started: 7:44AM
 Playing: Grand Theft Auto V
-Viewers: 36 </desc>
+Viewers: 32 </desc>
 </programme>
 
 <programme start="20231120122900 +0000" stop="20231123072900 +0000" channel="josesantanna.us">
 <title lang="en"> Jose Santanna - GG - NoStrict prime diced </title>
 <desc lang="en"> Started: 7:29AM
 Playing: Grand Theft Auto V
-Viewers: 58 </desc>
+Viewers: 61 </desc>
+</programme>
+
+<programme start="20231120135007 +0000" stop="20231123085007 +0000" channel="ladydima.us">
+<title lang="en"> 🟪EMILY JONES 🟪NOPIXEL WL 🟪discord awards socials 🟪 </title>
+<desc lang="en"> Started: 8:50AM
+Playing: Grand Theft Auto V
+Viewers: 39 </desc>
 </programme>
 
 <programme start="20231120130618 +0000" stop="20231123080618 +0000" channel="phantomzz_ow.us">
 <title lang="en"> Short stream probably - Connell MacGregor - NoPixel WL - Diamond Dogs 💎🐶 - Diamante Cartel arc </title>
 <desc lang="en"> Started: 8:06AM
 Playing: Grand Theft Auto V
-Viewers: 42 </desc>
+Viewers: 39 </desc>
 </programme>
 
 <programme start="20231120130127 +0000" stop="20231123080127 +0000" channel="farmhouse78.us">
 <title lang="en"> Steven Hayes - Living the Dream - NoPixel 3.0 WL GTARP - discord meta </title>
 <desc lang="en"> Started: 8:01AM
 Playing: Grand Theft Auto V
-Viewers: 140 </desc>
+Viewers: 139 </desc>
 </programme>
 
-<programme start="20231120000000 +0000" stop="20231123092118 +0000" channel="msrachel.us">
+<programme start="20231120000000 +0000" stop="20231123092818 +0000" channel="msrachel.us">
 <title lang="en"> 🔴 Wheels on the Bus - Nursery Rhymes and Kids Songs - Toddler Learning Video - Ms Rachel </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20231120000000 +0000" stop="20231123092118 +0000" channel="LittleBabyBum.us">
+<programme start="20231120000000 +0000" stop="20231123092818 +0000" channel="LittleBabyBum.us">
 <title lang="en"> 🔴LBB Live: Baby Nursery Rhyme - Wheels on The Bus, Six Little Ducks More </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20231120000000 +0000" stop="20231123092118 +0000" channel="WashingtonPost.us">
+<programme start="20231120000000 +0000" stop="20231123092818 +0000" channel="WashingtonPost.us">
 <title lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20231120000000 +0000" stop="20231123092118 +0000" channel="StormChaserBradArnold.us">
+<programme start="20231120000000 +0000" stop="20231123092818 +0000" channel="StormChaserBradArnold.us">
 <title lang="en"> 🔴LIVE STORM CHASING Possible Tornado Outbreak Across Louisiana and Mississippi 11-20-2023 </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20231120000000 +0000" stop="20231123092118 +0000" channel="BabyFirstTV.us">
+<programme start="20231120000000 +0000" stop="20231123092818 +0000" channel="BabyFirstTV.us">
 <title lang="en"> Toddler Learning Video - COLOR CREW MAGIC - Nursery Rhymes - Songs - Games for Kids - BabyFirst TV </title>
 <desc lang="en"> Started: earlier
 Playing: idk
