@@ -22,12 +22,12 @@
 <display-name>franktactics</display-name>
 </channel>
 
-<channel id="defac3d.us">
-<display-name>defac3d</display-name>
-</channel>
-
 <channel id="justjamie.us">
 <display-name>justjamie</display-name>
+</channel>
+
+<channel id="defac3d.us">
+<display-name>defac3d</display-name>
 </channel>
 
 <channel id="simo.us">
@@ -42,8 +42,16 @@
 <display-name>bucketst</display-name>
 </channel>
 
+<channel id="phantomzz_ow.us">
+<display-name>phantomzz_ow</display-name>
+</channel>
+
 <channel id="msrachel.us">
 <display-name>msrachel</display-name>
+</channel>
+
+<channel id="BabyFirstTV.us">
+<display-name>BabyFirstTV</display-name>
 </channel>
 
 <channel id="LittleBabyBum.us">
@@ -54,64 +62,60 @@
 <display-name>WashingtonPost</display-name>
 </channel>
 
-<channel id="BabyFirstTV.us">
-<display-name>BabyFirstTV</display-name>
-</channel>
-
 <programme start="20231124104527 +0000" stop="20231127054527 +0000" channel="nidas.us">
 <title lang="en"> Gigantic concussion Monday - @nidas specs socials </title>
 <desc lang="en"> Started: 5:45AM
 Playing: Grand Theft Auto V
-Viewers: 272 </desc>
+Viewers: 327 </desc>
 </programme>
 
 <programme start="20231124063745 +0000" stop="20231127013745 +0000" channel="ferst711.us">
 <title lang="en"> Detective Churro - NoPixel WL - </title>
 <desc lang="en"> Started: 1:37AM
 Playing: Grand Theft Auto V
-Viewers: 50 </desc>
+Viewers: 56 </desc>
 </programme>
 
 <programme start="20231124085717 +0000" stop="20231127035717 +0000" channel="icymindracer.us">
 <title lang="en"> Iris Nivira - No Pixel - Chill Stream :) </title>
 <desc lang="en"> Started: 3:57AM
 Playing: Grand Theft Auto V
-Viewers: 88 </desc>
+Viewers: 91 </desc>
 </programme>
 
 <programme start="20231124090843 +0000" stop="20231127040843 +0000" channel="aaoki.us">
 <title lang="en"> Sgt Maddison Demoncroft - NoPixel RP twitter - Hope my internet is fixed preyege </title>
 <desc lang="en"> Started: 4:08AM
 Playing: Grand Theft Auto V
-Viewers: 185 </desc>
+Viewers: 183 </desc>
 </programme>
 
 <programme start="20231124063807 +0000" stop="20231127013807 +0000" channel="franktactics.us">
 <title lang="en"> your broken hero - Nomad - NoPixel - GTA RP </title>
 <desc lang="en"> Started: 1:38AM
 Playing: Grand Theft Auto V
-Viewers: 95 </desc>
-</programme>
-
-<programme start="20231124080123 +0000" stop="20231127030123 +0000" channel="defac3d.us">
-<title lang="en"> SHORT WAN - DENZEL - MDM - NOPIXEL WL - MANSCAPED CYBER G2A EXPRESSVPN #SPONSORED </title>
-<desc lang="en"> Started: 3:01AM
-Playing: Grand Theft Auto V
-Viewers: 853 </desc>
+Viewers: 96 </desc>
 </programme>
 
 <programme start="20231124083737 +0000" stop="20231127033737 +0000" channel="justjamie.us">
 <title lang="en"> 💎Muscle Car Cruizer💎 Mandem 💎 NoPixel 💎 discord </title>
 <desc lang="en"> Started: 3:37AM
 Playing: Grand Theft Auto V
-Viewers: 282 </desc>
+Viewers: 315 </desc>
+</programme>
+
+<programme start="20231124080123 +0000" stop="20231127030123 +0000" channel="defac3d.us">
+<title lang="en"> SHORT WAN - DENZEL - MDM - NOPIXEL WL - MANSCAPED CYBER G2A EXPRESSVPN #SPONSORED </title>
+<desc lang="en"> Started: 3:01AM
+Playing: Grand Theft Auto V
+Viewers: 868 </desc>
 </programme>
 
 <programme start="20231124060021 +0000" stop="20231127010021 +0000" channel="simo.us">
 <title lang="en"> Reggie Might - ANZSubFest - DayBreak RP - Daybreak subfest </title>
 <desc lang="en"> Started: 1:00AM
 Playing: Grand Theft Auto V
-Viewers: 143 </desc>
+Viewers: 140 </desc>
 </programme>
 
 <programme start="20231124102731 +0000" stop="20231127052731 +0000" channel="ceevi.us">
@@ -125,32 +129,39 @@ Viewers: 4 </desc>
 <title lang="en"> NEW EMOTE Gheto Kaiba - BBMC-Redline - NoPixel WL - gfuel </title>
 <desc lang="en"> Started: 12:01AM
 Playing: Grand Theft Auto V
-Viewers: 486 </desc>
+Viewers: 487 </desc>
 </programme>
 
-<programme start="20231124000000 +0000" stop="20231127064315 +0000" channel="msrachel.us">
+<programme start="20231124114919 +0000" stop="20231127064919 +0000" channel="phantomzz_ow.us">
+<title lang="en"> Connell MacGregor - NoPixel WL - Diamond Dogs 💎🐶 - Diamante Cartel arc </title>
+<desc lang="en"> Started: 6:49AM
+Playing: Grand Theft Auto V
+Viewers: 6 </desc>
+</programme>
+
+<programme start="20231124000000 +0000" stop="20231127065116 +0000" channel="msrachel.us">
 <title lang="en"> 🔴 Wheels on the Bus - Nursery Rhymes and Kids Songs - Toddler Learning Video - Ms Rachel </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20231124000000 +0000" stop="20231127064315 +0000" channel="LittleBabyBum.us">
+<programme start="20231124000000 +0000" stop="20231127065116 +0000" channel="BabyFirstTV.us">
+<title lang="en"> Toddler Learning Video - COLOR CREW MAGIC - Nursery Rhymes - Songs - Games for Kids - BabyFirst TV </title>
+<desc lang="en"> Started: earlier
+Playing: idk
+Viewers: 200 </desc>
+</programme>
+
+<programme start="20231124000000 +0000" stop="20231127065116 +0000" channel="LittleBabyBum.us">
 <title lang="en"> 🔴LBB Live: Baby Nursery Rhyme - Wheels on The Bus, Six Little Ducks More </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20231124000000 +0000" stop="20231127064315 +0000" channel="WashingtonPost.us">
+<programme start="20231124000000 +0000" stop="20231127065116 +0000" channel="WashingtonPost.us">
 <title lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD </title>
-<desc lang="en"> Started: earlier
-Playing: idk
-Viewers: 200 </desc>
-</programme>
-
-<programme start="20231124000000 +0000" stop="20231127064315 +0000" channel="BabyFirstTV.us">
-<title lang="en"> Toddler Learning Video - COLOR CREW MAGIC - Nursery Rhymes - Songs - Games for Kids - BabyFirst TV </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
