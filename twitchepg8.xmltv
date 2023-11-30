@@ -2,12 +2,12 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="myles_away.us">
-<display-name>myles_away</display-name>
-</channel>
-
 <channel id="comrademolly.us">
 <display-name>comrademolly</display-name>
+</channel>
+
+<channel id="myles_away.us">
+<display-name>myles_away</display-name>
 </channel>
 
 <channel id="ladyhope.us">
@@ -90,20 +90,13 @@
 <display-name>LittleBabyBum</display-name>
 </channel>
 
-<channel id="BabyFirstTV.us">
-<display-name>BabyFirstTV</display-name>
-</channel>
-
 <channel id="WashingtonPost.us">
 <display-name>WashingtonPost</display-name>
 </channel>
 
-<programme start="20231130061833 +0000" stop="20231203011833 +0000" channel="myles_away.us">
-<title lang="en"> Charity stream - Undersheriff Stubble - NoPixel - 3.0 - #TogetherForGood Charity </title>
-<desc lang="en"> Started: 1:18AM
-Playing: Grand Theft Auto V
-Viewers: 540 </desc>
-</programme>
+<channel id="BabyFirstTV.us">
+<display-name>BabyFirstTV</display-name>
+</channel>
 
 <programme start="20231130032432 +0000" stop="20231202222432 +0000" channel="comrademolly.us">
 <title lang="en"> NoPixel - 333 Lucy - detect this, pt 3 </title>
@@ -112,155 +105,162 @@ Playing: Grand Theft Auto V
 Viewers: 101 </desc>
 </programme>
 
+<programme start="20231130061833 +0000" stop="20231203011833 +0000" channel="myles_away.us">
+<title lang="en"> Charity stream - Undersheriff Stubble - NoPixel - 3.0 - #TogetherForGood Charity </title>
+<desc lang="en"> Started: 1:18AM
+Playing: Grand Theft Auto V
+Viewers: 548 </desc>
+</programme>
+
 <programme start="20231129220005 +0000" stop="20231202170005 +0000" channel="ladyhope.us">
 <title lang="en"> 313 Sgt Lily Pond - PBSO - HSPU - K9 - NoPixel WL 3.0 - socials </title>
 <desc lang="en"> Started: 5:00PM
 Playing: Grand Theft Auto V
-Viewers: 379 </desc>
+Viewers: 386 </desc>
 </programme>
 
 <programme start="20231130041400 +0000" stop="20231202231400 +0000" channel="chodie.us">
 <title lang="en"> Chodie 🚨Chang Gang 🚨 Prodigy RP 🚨 ttslabs cg </title>
 <desc lang="en"> Started: 11:14PM
 Playing: Grand Theft Auto V
-Viewers: 425 </desc>
+Viewers: 464 </desc>
 </programme>
 
 <programme start="20231130084017 +0000" stop="20231203034017 +0000" channel="dripp.us">
 <title lang="en"> future hendrix np wl </title>
 <desc lang="en"> Started: 3:40AM
 Playing: Grand Theft Auto V
-Viewers: 111 </desc>
+Viewers: 109 </desc>
 </programme>
 
 <programme start="20231130090217 +0000" stop="20231203040217 +0000" channel="chelb.us">
 <title lang="en"> 🐍 ALAN KYLES 🐍 - 🚨 JOSH KADE 🚨- HYDRA - NOPIXEL WL - gamersupps #ad discord socials tts </title>
 <desc lang="en"> Started: 4:02AM
 Playing: Grand Theft Auto V
-Viewers: 72 </desc>
+Viewers: 94 </desc>
 </programme>
 
 <programme start="20231129215819 +0000" stop="20231202165819 +0000" channel="franktactics.us">
 <title lang="en"> Nomad - NoPixel WL </title>
 <desc lang="en"> Started: 4:58PM
 Playing: Grand Theft Auto V
-Viewers: 42 </desc>
+Viewers: 45 </desc>
 </programme>
 
 <programme start="20231130073415 +0000" stop="20231203023415 +0000" channel="ikitty.us">
 <title lang="en"> 🌷Kitty🌷Comfy vibes - Cerberus - Redline - Nopixel WL </title>
 <desc lang="en"> Started: 2:34AM
 Playing: Grand Theft Auto V
-Viewers: 236 </desc>
+Viewers: 233 </desc>
 </programme>
 
 <programme start="20231130045849 +0000" stop="20231202235849 +0000" channel="yuukidav.us">
 <title lang="en"> lukas lavender 𓆩♡𓆪 lspd-hspu - nopixel green 💚 - @yuukidav </title>
 <desc lang="en"> Started: 11:58PM
 Playing: Grand Theft Auto V
-Viewers: 156 </desc>
+Viewers: 151 </desc>
 </programme>
 
 <programme start="20231130075916 +0000" stop="20231203025916 +0000" channel="defac3d.us">
 <title lang="en"> STILL SICK - DENZEL - MDM - NOPIXEL WL - CYBER G2A </title>
 <desc lang="en"> Started: 2:59AM
 Playing: Grand Theft Auto V
-Viewers: 566 </desc>
+Viewers: 578 </desc>
 </programme>
 
 <programme start="20231130053745 +0000" stop="20231203003745 +0000" channel="reklez.us">
 <title lang="en"> Chico Guzman - DaybreakRP - waddup discord </title>
 <desc lang="en"> Started: 12:37AM
 Playing: Grand Theft Auto V
-Viewers: 21 </desc>
+Viewers: 24 </desc>
 </programme>
 
 <programme start="20231130000605 +0000" stop="20231202190605 +0000" channel="ms_star.us">
 <title lang="en"> Subathon day 38 - Officer Cora Star - NoPixel Green - @ms_star - https:--discord.gg-G634rysvbB </title>
 <desc lang="en"> Started: 7:06PM
 Playing: Grand Theft Auto V
-Viewers: 188 </desc>
+Viewers: 179 </desc>
 </programme>
 
 <programme start="20231130080908 +0000" stop="20231203030908 +0000" channel="ladydima.us">
 <title lang="en"> 🟪EMILY JONES 🟪NOPIXEL WL🟪discord awards socials 🟪 </title>
 <desc lang="en"> Started: 3:09AM
 Playing: Grand Theft Auto V
-Viewers: 60 </desc>
+Viewers: 73 </desc>
 </programme>
 
 <programme start="20231130060122 +0000" stop="20231203010122 +0000" channel="simo.us">
 <title lang="en"> Reggie Might - Fake plate fun - DayBreak RP - Daybreak </title>
 <desc lang="en"> Started: 1:01AM
 Playing: Grand Theft Auto V
-Viewers: 111 </desc>
+Viewers: 119 </desc>
 </programme>
 
 <programme start="20231130085920 +0000" stop="20231203035920 +0000" channel="vtechas.us">
 <title lang="en"> Metagaming, many feelings and hunches, W only Cop on duty - Cameron Everly - NoPixel WL </title>
 <desc lang="en"> Started: 3:59AM
 Playing: Grand Theft Auto V
-Viewers: 58 </desc>
+Viewers: 54 </desc>
 </programme>
 
 <programme start="20231130004606 +0000" stop="20231202194606 +0000" channel="bucketst.us">
 <title lang="en"> Gheto Kaiba - BBMC-Redline - NoPixel WL - gfuel </title>
 <desc lang="en"> Started: 7:46PM
 Playing: Grand Theft Auto V
-Viewers: 382 </desc>
+Viewers: 432 </desc>
 </programme>
 
 <programme start="20231130073536 +0000" stop="20231203023536 +0000" channel="uhzabo.us">
 <title lang="en"> 🔷 Randy Cox 🔷 Paranoia 🔷 Prodigy RP🔷 Discord 🔷 Tiktok 🔷 </title>
 <desc lang="en"> Started: 2:35AM
 Playing: Grand Theft Auto V
-Viewers: 5 </desc>
+Viewers: 4 </desc>
 </programme>
 
 <programme start="20231130085012 +0000" stop="20231203035012 +0000" channel="roxmiral.us">
 <title lang="en"> Sherry Paie - Civ stuff OmegaLUL - Nopixel WL </title>
 <desc lang="en"> Started: 3:50AM
 Playing: Grand Theft Auto V
-Viewers: 47 </desc>
+Viewers: 52 </desc>
 </programme>
 
 <programme start="20231129211537 +0000" stop="20231202161537 +0000" channel="summit1g.us">
 <title lang="en"> pubg chillin - @summit1g </title>
 <desc lang="en"> Started: 4:15PM
 Playing: PUBG: BATTLEGROUNDS
-Viewers: 13439 </desc>
+Viewers: 12903 </desc>
 </programme>
 
-<programme start="20231130000000 +0000" stop="20231203042817 +0000" channel="liveonpatrol.us">
+<programme start="20231130000000 +0000" stop="20231203043616 +0000" channel="liveonpatrol.us">
 <title lang="en"> Live on Patrol </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20231130000000 +0000" stop="20231203042817 +0000" channel="msrachel.us">
+<programme start="20231130000000 +0000" stop="20231203043616 +0000" channel="msrachel.us">
 <title lang="en"> 🔴 Wheels on the Bus - Nursery Rhymes and Kids Songs - Toddler Learning Video - Ms Rachel </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20231130000000 +0000" stop="20231203042817 +0000" channel="LittleBabyBum.us">
+<programme start="20231130000000 +0000" stop="20231203043616 +0000" channel="LittleBabyBum.us">
 <title lang="en"> 🔴LBB Live: Baby Nursery Rhyme - Wheels on The Bus, Six Little Ducks More </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20231130000000 +0000" stop="20231203042817 +0000" channel="BabyFirstTV.us">
-<title lang="en"> Toddler Learning Video - COLOR CREW MAGIC - Nursery Rhymes - Songs - Games for Kids - BabyFirst TV </title>
+<programme start="20231130000000 +0000" stop="20231203043616 +0000" channel="WashingtonPost.us">
+<title lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20231130000000 +0000" stop="20231203042817 +0000" channel="WashingtonPost.us">
-<title lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD </title>
+<programme start="20231130000000 +0000" stop="20231203043616 +0000" channel="BabyFirstTV.us">
+<title lang="en"> Toddler Learning Video - COLOR CREW MAGIC - Nursery Rhymes - Songs - Games for Kids - BabyFirst TV </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
