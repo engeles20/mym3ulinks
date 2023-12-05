@@ -2,24 +2,24 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="nidas.us">
-<display-name>nidas</display-name>
-</channel>
-
-<channel id="timmac.us">
-<display-name>timmac</display-name>
+<channel id="uhsnow.us">
+<display-name>uhsnow</display-name>
 </channel>
 
 <channel id="myles_away.us">
 <display-name>myles_away</display-name>
 </channel>
 
-<channel id="tinyspark.us">
-<display-name>tinyspark</display-name>
+<channel id="timmac.us">
+<display-name>timmac</display-name>
 </channel>
 
-<channel id="uhsnow.us">
-<display-name>uhsnow</display-name>
+<channel id="nidas.us">
+<display-name>nidas</display-name>
+</channel>
+
+<channel id="tinyspark.us">
+<display-name>tinyspark</display-name>
 </channel>
 
 <channel id="ziggy.us">
@@ -30,16 +30,20 @@
 <display-name>bigskenger</display-name>
 </channel>
 
-<channel id="dripp.us">
-<display-name>dripp</display-name>
-</channel>
-
 <channel id="kemony.us">
 <display-name>kemony</display-name>
 </channel>
 
+<channel id="dripp.us">
+<display-name>dripp</display-name>
+</channel>
+
 <channel id="arnie.us">
 <display-name>arnie</display-name>
+</channel>
+
+<channel id="julian.us">
+<display-name>julian</display-name>
 </channel>
 
 <channel id="neutren.us">
@@ -86,6 +90,10 @@
 <display-name>msrachel</display-name>
 </channel>
 
+<channel id="WashingtonPost.us">
+<display-name>WashingtonPost</display-name>
+</channel>
+
 <channel id="LittleBabyBum.us">
 <display-name>LittleBabyBum</display-name>
 </channel>
@@ -94,103 +102,106 @@
 <display-name>BabyFirstTV</display-name>
 </channel>
 
-<channel id="WashingtonPost.us">
-<display-name>WashingtonPost</display-name>
-</channel>
-
 <channel id="omie.us">
 <display-name>omie</display-name>
 </channel>
 
-<programme start="20231205103040 +0000" stop="20231208053040 +0000" channel="nidas.us">
-<title lang="en"> GTA TRAILER, WOWIN - Mage @ Crusader Strike NA - @nidas specs socials </title>
-<desc lang="en"> Started: 5:30AM
-Playing: World of Warcraft
-Viewers: 385 </desc>
-</programme>
-
-<programme start="20231205043853 +0000" stop="20231207233853 +0000" channel="timmac.us">
-<title lang="en"> GTA 6 TRAILER WAITING ROOM - Prodigy RP - phynix - Socials: @timmac </title>
-<desc lang="en"> Started: 11:38PM
+<programme start="20231205103212 +0000" stop="20231208053212 +0000" channel="uhsnow.us">
+<title lang="en"> Snow - NoPixel - discord.gg-Snow </title>
+<desc lang="en"> Started: 5:32AM
 Playing: Grand Theft Auto V
-Viewers: 2031 </desc>
+Viewers: 1780 </desc>
 </programme>
 
 <programme start="20231205114310 +0000" stop="20231208064310 +0000" channel="myles_away.us">
 <title lang="en"> Undersheriff Stubble - NoPixel - Streamathon Subbing </title>
 <desc lang="en"> Started: 6:43AM
 Playing: Grand Theft Auto V
-Viewers: 316 </desc>
+Viewers: 329 </desc>
+</programme>
+
+<programme start="20231205043853 +0000" stop="20231207233853 +0000" channel="timmac.us">
+<title lang="en"> GTA 6 TRAILER WAITING ROOM - Prodigy RP - phynix - Socials: @timmac </title>
+<desc lang="en"> Started: 11:38PM
+Playing: Grand Theft Auto V
+Viewers: 1880 </desc>
+</programme>
+
+<programme start="20231205103040 +0000" stop="20231208053040 +0000" channel="nidas.us">
+<title lang="en"> GTA TRAILER, WOWIN - Mage @ Crusader Strike NA - @nidas specs socials </title>
+<desc lang="en"> Started: 5:30AM
+Playing: World of Warcraft
+Viewers: 387 </desc>
 </programme>
 
 <programme start="20231205100215 +0000" stop="20231208050215 +0000" channel="tinyspark.us">
 <title lang="en"> Kassandra Kage - NoPixel - wraith </title>
 <desc lang="en"> Started: 5:02AM
 Playing: Grand Theft Auto V
-Viewers: 118 </desc>
-</programme>
-
-<programme start="20231205103212 +0000" stop="20231208053212 +0000" channel="uhsnow.us">
-<title lang="en"> Snow - NoPixel - discord.gg-Snow </title>
-<desc lang="en"> Started: 5:32AM
-Playing: Grand Theft Auto V
-Viewers: 1704 </desc>
+Viewers: 113 </desc>
 </programme>
 
 <programme start="20231205120439 +0000" stop="20231208070439 +0000" channel="ziggy.us">
 <title lang="en"> 1ST TYME SEEING GTA6 TRAILER LIVE WERE BACK BABY -- @ziggyjg on socials </title>
 <desc lang="en"> Started: 7:04AM
 Playing: Grand Theft Auto V
-Viewers: 1066 </desc>
+Viewers: 1122 </desc>
 </programme>
 
 <programme start="20231205125818 +0000" stop="20231208075818 +0000" channel="bigskenger.us">
 <title lang="en"> A New Era OR THE END OF TYMES Zaceed Skengerton - NOPIXEL WL - SOCIALS - discord </title>
 <desc lang="en"> Started: 7:58AM
 Playing: Grand Theft Auto V
-Viewers: 126 </desc>
-</programme>
-
-<programme start="20231205082249 +0000" stop="20231208032249 +0000" channel="dripp.us">
-<title lang="en"> future hendrix np wl </title>
-<desc lang="en"> Started: 3:22AM
-Playing: Grand Theft Auto V
-Viewers: 190 </desc>
+Viewers: 161 </desc>
 </programme>
 
 <programme start="20231205102337 +0000" stop="20231208052337 +0000" channel="kemony.us">
 <title lang="en"> LSPD ALICE - NoPixel - Gamersupps, Hydra, Honorary Angel, .30% CG Socials Reddit Meth Awards - #ad </title>
 <desc lang="en"> Started: 5:23AM
 Playing: Grand Theft Auto V
-Viewers: 157 </desc>
+Viewers: 162 </desc>
+</programme>
+
+<programme start="20231205082249 +0000" stop="20231208032249 +0000" channel="dripp.us">
+<title lang="en"> future hendrix np wl </title>
+<desc lang="en"> Started: 3:22AM
+Playing: Grand Theft Auto V
+Viewers: 196 </desc>
 </programme>
 
 <programme start="20231205070018 +0000" stop="20231208020018 +0000" channel="arnie.us">
 <title lang="en"> OG ARNIEDOG 🌭 - Hydra Gang 🐍 - nopixel WL gamersupps ggs awards youtube </title>
 <desc lang="en"> Started: 2:00AM
 Playing: Grand Theft Auto V
-Viewers: 373 </desc>
+Viewers: 367 </desc>
+</programme>
+
+<programme start="20231205130721 +0000" stop="20231208080721 +0000" channel="julian.us">
+<title lang="en"> Julian - MSR - ProdigyRP - RP Event @ 11:30 EST - 17:30 CET </title>
+<desc lang="en"> Started: 8:07AM
+Playing: Grand Theft Auto V
+Viewers: 90 </desc>
 </programme>
 
 <programme start="20231205083532 +0000" stop="20231208033532 +0000" channel="neutren.us">
 <title lang="en"> 🎮David Senna 🔵 NoPixel WL </title>
 <desc lang="en"> Started: 3:35AM
 Playing: Grand Theft Auto V
-Viewers: 794 </desc>
+Viewers: 789 </desc>
 </programme>
 
 <programme start="20231205120611 +0000" stop="20231208070611 +0000" channel="moosetaffy.us">
 <title lang="en"> Patar Deadwood Bellosh - Just A Dead Man Walking... - GTA 6 Trailer - GTA RP #AD HelloFresh #hellofreshpartner </title>
 <desc lang="en"> Started: 7:06AM
 Playing: Grand Theft Auto V
-Viewers: 802 </desc>
+Viewers: 914 </desc>
 </programme>
 
 <programme start="20231205073336 +0000" stop="20231208023336 +0000" channel="defac3d.us">
 <title lang="en"> LOST ME JOB.... AGAIN - DENZEL - MDM - NOPIXEL WL - CYBER G2A </title>
 <desc lang="en"> Started: 2:33AM
 Playing: Grand Theft Auto V
-Viewers: 1101 </desc>
+Viewers: 1113 </desc>
 </programme>
 
 <programme start="20231205060007 +0000" stop="20231208010007 +0000" channel="simo.us">
@@ -204,46 +215,53 @@ Viewers: 70 </desc>
 <title lang="en"> Deputy turns SGT (REAL) - Cameron Everly - NoPixel WL </title>
 <desc lang="en"> Started: 5:10AM
 Playing: Grand Theft Auto V
-Viewers: 91 </desc>
+Viewers: 108 </desc>
 </programme>
 
 <programme start="20231205001534 +0000" stop="20231207191534 +0000" channel="bucketst.us">
 <title lang="en"> SUBATHON DAY 3 - Gheto Kaiba - BBMC-Redline - NoPixel WL - gfuel </title>
 <desc lang="en"> Started: 7:15PM
 Playing: Grand Theft Auto V
-Viewers: 307 </desc>
+Viewers: 296 </desc>
 </programme>
 
 <programme start="20231205070144 +0000" stop="20231208020144 +0000" channel="josesantanna.us">
 <title lang="en"> TRAILER Jose Santanna - ProdigyRP prime diced </title>
 <desc lang="en"> Started: 2:01AM
 Playing: Grand Theft Auto V
-Viewers: 49 </desc>
+Viewers: 52 </desc>
 </programme>
 
 <programme start="20231205121035 +0000" stop="20231208071035 +0000" channel="phantomzz_ow.us">
 <title lang="en"> Connell MacGregor - NoPixel WL - Diamond Dogs 💎🐶 - Man i sure hope the GTA 6 trailer is today </title>
 <desc lang="en"> Started: 7:10AM
 Playing: Grand Theft Auto V
-Viewers: 59 </desc>
+Viewers: 55 </desc>
 </programme>
 
 <programme start="20231205130122 +0000" stop="20231208080122 +0000" channel="farmhouse78.us">
 <title lang="en"> Steven Hayes - BurgerShot Owner - GTARP NoPixel WL - discord meta </title>
 <desc lang="en"> Started: 8:01AM
 Playing: Grand Theft Auto V
-Viewers: 49 </desc>
+Viewers: 78 </desc>
 </programme>
 
 <programme start="20231205122009 +0000" stop="20231208072009 +0000" channel="roxmiral.us">
 <title lang="en"> Sherry Paie - great Asset - Nopixel WL - LETHAL COMPANY LATER </title>
 <desc lang="en"> Started: 7:20AM
 Playing: Grand Theft Auto V
-Viewers: 77 </desc>
+Viewers: 81 </desc>
 </programme>
 
 <programme start="" stop="" channel="msrachel.us">
 <title lang="en"> 🔴 Wheels on the Bus - Nursery Rhymes and Kids Songs - Toddler Learning Video - Ms Rachel </title>
+<desc lang="en"> Started: earlier
+Playing: idk
+Viewers: 200 </desc>
+</programme>
+
+<programme start="" stop="" channel="WashingtonPost.us">
+<title lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
@@ -263,14 +281,7 @@ Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="" stop="" channel="WashingtonPost.us">
-<title lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD </title>
-<desc lang="en"> Started: earlier
-Playing: idk
-Viewers: 200 </desc>
-</programme>
-
-<programme start="20231205000000 +0000" stop="20231208080624 +0000" channel="omie.us">
+<programme start="20231205000000 +0000" stop="20231208081323 +0000" channel="omie.us">
 <title lang="en"> 🟢Kick Stream </title>
 <desc lang="en"> Started: earlier
 Playing: gta prob
