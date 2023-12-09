@@ -2,12 +2,20 @@
 <display-name>clearepg</display-name>
 </channel>
 
+<channel id="remdogg.us">
+<display-name>remdogg</display-name>
+</channel>
+
 <channel id="dasmehdi.us">
 <display-name>dasmehdi</display-name>
 </channel>
 
-<channel id="remdogg.us">
-<display-name>remdogg</display-name>
+<channel id="nikkisariot.us">
+<display-name>nikkisariot</display-name>
+</channel>
+
+<channel id="dyoti.us">
+<display-name>dyoti</display-name>
 </channel>
 
 <channel id="myles_away.us">
@@ -16,14 +24,6 @@
 
 <channel id="traumz.us">
 <display-name>traumz</display-name>
-</channel>
-
-<channel id="dyoti.us">
-<display-name>dyoti</display-name>
-</channel>
-
-<channel id="nikkisariot.us">
-<display-name>nikkisariot</display-name>
 </channel>
 
 <channel id="fiendota.us">
@@ -38,10 +38,6 @@
 <display-name>shotz</display-name>
 </channel>
 
-<channel id="kemony.us">
-<display-name>kemony</display-name>
-</channel>
-
 <channel id="elochai.us">
 <display-name>elochai</display-name>
 </channel>
@@ -52,10 +48,6 @@
 
 <channel id="kyliebitkin.us">
 <display-name>kyliebitkin</display-name>
-</channel>
-
-<channel id="ikitty.us">
-<display-name>ikitty</display-name>
 </channel>
 
 <channel id="hutchmf.us">
@@ -86,6 +78,10 @@
 <display-name>neverossa</display-name>
 </channel>
 
+<channel id="juggs.us">
+<display-name>juggs</display-name>
+</channel>
+
 <channel id="charlthemisfit.us">
 <display-name>charlthemisfit</display-name>
 </channel>
@@ -110,14 +106,6 @@
 <display-name>ReedTimmerWx</display-name>
 </channel>
 
-<channel id="WashingtonPost.us">
-<display-name>WashingtonPost</display-name>
-</channel>
-
-<channel id="StormChaserVinceWaelti.us">
-<display-name>StormChaserVinceWaelti</display-name>
-</channel>
-
 <channel id="IShowSpeed.us">
 <display-name>IShowSpeed</display-name>
 </channel>
@@ -130,208 +118,195 @@
 <display-name>msrachel</display-name>
 </channel>
 
+<channel id="WashingtonPost.us">
+<display-name>WashingtonPost</display-name>
+</channel>
+
+<channel id="StormChaserVinceWaelti.us">
+<display-name>StormChaserVinceWaelti</display-name>
+</channel>
+
 <channel id="BabyFirstTV.us">
 <display-name>BabyFirstTV</display-name>
 </channel>
-
-<programme start="20231209140843 +0000" stop="20231212090843 +0000" channel="dasmehdi.us">
-<title lang="en"> Lil Tuggz - ProdigyRP - socials:@dasmehdi </title>
-<desc lang="en"> Started: 9:08AM
-Playing: Grand Theft Auto V
-Viewers: 3669 </desc>
-</programme>
 
 <programme start="20231209164939 +0000" stop="20231212114939 +0000" channel="remdogg.us">
 <title lang="en"> 🎄 Trooper Suarez 🎄 l NoPixel WL l 2,019 Days Consecutively Streaming Proof </title>
 <desc lang="en"> Started: 11:49AM
 Playing: Grand Theft Auto V
-Viewers: 145 </desc>
+Viewers: 342 </desc>
 </programme>
 
-<programme start="20231209133139 +0000" stop="20231212083139 +0000" channel="myles_away.us">
-<title lang="en"> Undersheriff Stubble - ONX SOON - NoPixel 3.0 Streamathon Subbing - </title>
-<desc lang="en"> Started: 8:31AM
+<programme start="20231209140843 +0000" stop="20231212090843 +0000" channel="dasmehdi.us">
+<title lang="en"> Lil Tuggz - ProdigyRP - socials:@dasmehdi </title>
+<desc lang="en"> Started: 9:08AM
 Playing: Grand Theft Auto V
-Viewers: 600 </desc>
-</programme>
-
-<programme start="20231209163926 +0000" stop="20231212113926 +0000" channel="traumz.us">
-<title lang="en"> PARTNER-VERSARY SUBATHON [DAY 17] - Adam Nesciac - NoPixel WL - @traumz subathon </title>
-<desc lang="en"> Started: 11:39AM
-Playing: Grand Theft Auto V
-Viewers: 149 </desc>
-</programme>
-
-<programme start="20231209160702 +0000" stop="20231212110702 +0000" channel="dyoti.us">
-<title lang="en"> Onx 🔴 Winston Walker - BBMC - NoPixel - @dyoti 🔴 </title>
-<desc lang="en"> Started: 11:07AM
-Playing: Grand Theft Auto V
-Viewers: 323 </desc>
+Viewers: 3684 </desc>
 </programme>
 
 <programme start="20231209134032 +0000" stop="20231212084032 +0000" channel="nikkisariot.us">
 <title lang="en"> • Jenny • Bittersweet PD Goodbyes • Griefmas Day 9 • NoPixel WL • </title>
 <desc lang="en"> Started: 8:40AM
 Playing: Grand Theft Auto V
-Viewers: 488 </desc>
+Viewers: 498 </desc>
+</programme>
+
+<programme start="20231209160702 +0000" stop="20231212110702 +0000" channel="dyoti.us">
+<title lang="en"> Onx 🔴 Winston Walker - BBMC - NoPixel - @dyoti 🔴 </title>
+<desc lang="en"> Started: 11:07AM
+Playing: Grand Theft Auto V
+Viewers: 341 </desc>
+</programme>
+
+<programme start="20231209133139 +0000" stop="20231212083139 +0000" channel="myles_away.us">
+<title lang="en"> Undersheriff Stubble - ONX SOON - NoPixel 3.0 Streamathon Subbing - </title>
+<desc lang="en"> Started: 8:31AM
+Playing: Grand Theft Auto V
+Viewers: 715 </desc>
+</programme>
+
+<programme start="20231209163926 +0000" stop="20231212113926 +0000" channel="traumz.us">
+<title lang="en"> PARTNER-VERSARY SUBATHON [DAY 17] - Adam Nesciac - NoPixel WL - @traumz subathon </title>
+<desc lang="en"> Started: 11:39AM
+Playing: Grand Theft Auto V
+Viewers: 200 </desc>
 </programme>
 
 <programme start="20231209135524 +0000" stop="20231212085524 +0000" channel="fiendota.us">
 <title lang="en"> IMPROMTU SUBATHON - 24 HOUR STREAM MINIMUM 🎉 ONX WAITING ROOM 🎉 NEW CHARACTERS 🎉QUEUE SIMULATOR 🎉 </title>
 <desc lang="en"> Started: 8:55AM
 Playing: Grand Theft Auto V
-Viewers: 145 </desc>
+Viewers: 147 </desc>
 </programme>
 
 <programme start="20231209161458 +0000" stop="20231212111458 +0000" channel="malcolmglass.us">
 <title lang="en"> Trooper Nekoda - SASP - NoPixel WL </title>
 <desc lang="en"> Started: 11:14AM
 Playing: Grand Theft Auto V
-Viewers: 197 </desc>
+Viewers: 167 </desc>
 </programme>
 
 <programme start="20231209141732 +0000" stop="20231212091732 +0000" channel="shotz.us">
 <title lang="en"> Boomerthon 💥Vinny Future Mayor Pistone💥Chang 🐉 Gang💥Prodigy RP💥Subgoals Discord Coffee TTS 💥 @shotz </title>
 <desc lang="en"> Started: 9:17AM
 Playing: Grand Theft Auto V
-Viewers: 1355 </desc>
-</programme>
-
-<programme start="20231209140559 +0000" stop="20231212090559 +0000" channel="kemony.us">
-<title lang="en"> ALICE - NoPixel - Gamersupps, Hydra, Honorary Angel, .30% CG Socials Reddit Meth Awards - #ad </title>
-<desc lang="en"> Started: 9:05AM
-Playing: Grand Theft Auto V
-Viewers: 141 </desc>
+Viewers: 1432 </desc>
 </programme>
 
 <programme start="20231209160845 +0000" stop="20231212110845 +0000" channel="elochai.us">
 <title lang="en"> Teaching Tony how to Dougie - NoPixel 3D Dev - @elochai - click f0r socials </title>
 <desc lang="en"> Started: 11:08AM
 Playing: Grand Theft Auto V
-Viewers: 355 </desc>
+Viewers: 352 </desc>
 </programme>
 
 <programme start="20231209160335 +0000" stop="20231212110335 +0000" channel="myladyballs.us">
 <title lang="en"> NoPixel WL - Juantia Gonzalez - Selling Refurbished Stop Signs (CASH ONLY)- Vibin - POKECATCH - 18 </title>
 <desc lang="en"> Started: 11:03AM
 Playing: Grand Theft Auto V
-Viewers: 7 </desc>
+Viewers: 5 </desc>
 </programme>
 
 <programme start="20231209151621 +0000" stop="20231212101621 +0000" channel="kyliebitkin.us">
 <title lang="en"> NoPixel WL - Mary and Angel discord links </title>
 <desc lang="en"> Started: 10:16AM
 Playing: Grand Theft Auto V
-Viewers: 1424 </desc>
-</programme>
-
-<programme start="20231209133335 +0000" stop="20231212083335 +0000" channel="ikitty.us">
-<title lang="en"> 🌷Kitty🌷 </title>
-<desc lang="en"> Started: 8:33AM
-Playing: Grand Theft Auto V
-Viewers: 673 </desc>
+Viewers: 1405 </desc>
 </programme>
 
 <programme start="20231209152201 +0000" stop="20231212102201 +0000" channel="hutchmf.us">
 <title lang="en"> Here we go -youtube twitter tiktok -@HutchMF </title>
 <desc lang="en"> Started: 10:22AM
 Playing: Grand Theft Auto V
-Viewers: 4196 </desc>
+Viewers: 3891 </desc>
 </programme>
 
 <programme start="20231209152159 +0000" stop="20231212102159 +0000" channel="boogie.us">
 <title lang="en"> 🔴 XAVIER VALENTINE 🔴 ANGELS 🔴 IG @BOOGIEETD 🔴 </title>
 <desc lang="en"> Started: 10:21AM
 Playing: Grand Theft Auto V
-Viewers: 346 </desc>
+Viewers: 303 </desc>
 </programme>
 
 <programme start="20231209163027 +0000" stop="20231212113027 +0000" channel="bbyruthless.us">
 <title lang="en"> award • Saint Gomez → Variety • MDM • NoPixel </title>
 <desc lang="en"> Started: 11:30AM
 Playing: Grand Theft Auto V
-Viewers: 1075 </desc>
+Viewers: 1180 </desc>
 </programme>
 
 <programme start="20231209162650 +0000" stop="20231212112650 +0000" channel="enevun.us">
 <title lang="en"> Maximillian Angel is in Prison - NoPixel WL - Liquid Library - Cerberus - Prison Mayor </title>
 <desc lang="en"> Started: 11:26AM
 Playing: Grand Theft Auto V
-Viewers: 116 </desc>
+Viewers: 146 </desc>
 </programme>
 
 <programme start="20231209125336 +0000" stop="20231212075336 +0000" channel="noelusionz.us">
 <title lang="en"> ⚠🔴 Pulserp ZAMBIES ATTACK- youtube </title>
 <desc lang="en"> Started: 7:53AM
 Playing: Grand Theft Auto V
-Viewers: 14 </desc>
+Viewers: 20 </desc>
 </programme>
 
 <programme start="20231209120117 +0000" stop="20231212070117 +0000" channel="phantomzz_ow.us">
 <title lang="en"> Connell MacGregor - NoPixel WL - Diamond Dogs 💎🐶- LAST DAYS OF 3.0 - 6 DAYS TIL 4.0 </title>
 <desc lang="en"> Started: 7:01AM
 Playing: Grand Theft Auto V
-Viewers: 65 </desc>
+Viewers: 70 </desc>
 </programme>
 
 <programme start="20231209164731 +0000" stop="20231212114731 +0000" channel="neverossa.us">
 <title lang="en"> ✨ NEW EMOTES ✨ newemotes - Dawn - NoPixel WL </title>
 <desc lang="en"> Started: 11:47AM
 Playing: Grand Theft Auto V
-Viewers: 27 </desc>
+Viewers: 47 </desc>
+</programme>
+
+<programme start="20231209170009 +0000" stop="20231212120009 +0000" channel="juggs.us">
+<title lang="en"> 🎩Orders🎩 Tommy Soloman - The Mob - ProdigyRP - plus - song - media - Patreon - Fractal - Rules </title>
+<desc lang="en"> Started: 12:00PM
+Playing: Grand Theft Auto V
+Viewers: 12 </desc>
 </programme>
 
 <programme start="20231209150038 +0000" stop="20231212100038 +0000" channel="charlthemisfit.us">
 <title lang="en"> Charlotte Spade - Chill Stream - Nopixel WL </title>
 <desc lang="en"> Started: 10:00AM
 Playing: Grand Theft Auto V
-Viewers: 35 </desc>
+Viewers: 44 </desc>
 </programme>
 
 <programme start="20231209164328 +0000" stop="20231212114328 +0000" channel="letterjaye.us">
 <title lang="en"> Dahlia Fey - Onx later - NoPixel WL- subgoal - newvideo </title>
 <desc lang="en"> Started: 11:43AM
 Playing: Grand Theft Auto V
-Viewers: 99 </desc>
+Viewers: 125 </desc>
 </programme>
 
 <programme start="20231209153134 +0000" stop="20231212103134 +0000" channel="livberri.us">
 <title lang="en"> Onx GTA RP </title>
 <desc lang="en"> Started: 10:31AM
 Playing: Grand Theft Auto V
-Viewers: 8 </desc>
+Viewers: 10 </desc>
 </programme>
 
 <programme start="20231209160419 +0000" stop="20231212110419 +0000" channel="lirik.us">
 <title lang="en"> Ranked Racing </title>
 <desc lang="en"> Started: 11:04AM
 Playing: Fortnite
-Viewers: 15080 </desc>
+Viewers: 15880 </desc>
 </programme>
 
 <programme start="20231209145317 +0000" stop="20231212095317 +0000" channel="esfandtv.us">
 <title lang="en"> 📰 REDDIT RECAP ⚔️SEALTWIST VIDEO ⚡🧺 ATOMIC PICNIC LATER merch zygor @starf0rgesystems </title>
 <desc lang="en"> Started: 9:53AM
 Playing: World of Warcraft
-Viewers: 7498 </desc>
+Viewers: 7290 </desc>
 </programme>
 
 <programme start="" stop="" channel="ReedTimmerWx.us">
 <title lang="en"> LIVE Storm Chase w Severe Weather Outbreak Tornado Threat </title>
-<desc lang="en"> Started: earlier
-Playing: idk
-Viewers: 200 </desc>
-</programme>
-
-<programme start="" stop="" channel="WashingtonPost.us">
-<title lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD </title>
-<desc lang="en"> Started: earlier
-Playing: idk
-Viewers: 200 </desc>
-</programme>
-
-<programme start="" stop="" channel="StormChaserVinceWaelti.us">
-<title lang="en"> 🟥 TORNADOES 🌪️ Could Form Today Live Storm Chaser Weather Coverage </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
@@ -353,6 +328,20 @@ Viewers: 200 </desc>
 
 <programme start="" stop="" channel="msrachel.us">
 <title lang="en"> 🔴 Wheels on the Bus - Nursery Rhymes and Kids Songs - Toddler Learning Video - Ms Rachel </title>
+<desc lang="en"> Started: earlier
+Playing: idk
+Viewers: 200 </desc>
+</programme>
+
+<programme start="" stop="" channel="WashingtonPost.us">
+<title lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD </title>
+<desc lang="en"> Started: earlier
+Playing: idk
+Viewers: 200 </desc>
+</programme>
+
+<programme start="" stop="" channel="StormChaserVinceWaelti.us">
+<title lang="en"> 🟥 TORNADOES 🌪️ Could Form Today Live Storm Chaser Weather Coverage </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
