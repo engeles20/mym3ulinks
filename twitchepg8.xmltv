@@ -2,16 +2,16 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="harry.us">
-<display-name>harry</display-name>
-</channel>
-
 <channel id="anthonyz.us">
 <display-name>anthonyz</display-name>
 </channel>
 
 <channel id="traumz.us">
 <display-name>traumz</display-name>
+</channel>
+
+<channel id="harry.us">
+<display-name>harry</display-name>
 </channel>
 
 <channel id="comrademolly.us">
@@ -34,12 +34,12 @@
 <display-name>eagleaye</display-name>
 </channel>
 
-<channel id="zetark.us">
-<display-name>zetark</display-name>
-</channel>
-
 <channel id="crocc.us">
 <display-name>crocc</display-name>
+</channel>
+
+<channel id="zetark.us">
+<display-name>zetark</display-name>
 </channel>
 
 <channel id="chodie.us">
@@ -50,12 +50,12 @@
 <display-name>ming</display-name>
 </channel>
 
-<channel id="zolo.us">
-<display-name>zolo</display-name>
-</channel>
-
 <channel id="yuukidav.us">
 <display-name>yuukidav</display-name>
+</channel>
+
+<channel id="zolo.us">
+<display-name>zolo</display-name>
 </channel>
 
 <channel id="ray__c.us">
@@ -86,28 +86,21 @@
 <display-name>WashingtonPost</display-name>
 </channel>
 
-<channel id="liveonpatrol.us">
-<display-name>liveonpatrol</display-name>
-</channel>
-
 <channel id="msrachel.us">
 <display-name>msrachel</display-name>
-</channel>
-
-<channel id="LittleBabyBum.us">
-<display-name>LittleBabyBum</display-name>
 </channel>
 
 <channel id="BabyFirstTV.us">
 <display-name>BabyFirstTV</display-name>
 </channel>
 
-<programme start="20231208181807 +0000" stop="20231211131807 +0000" channel="harry.us">
-<title lang="en"> CLASSIC COBRA KAI 25 WARRIOR 😎- CRUSADER STRIKE </title>
-<desc lang="en"> Started: 1:18PM
-Playing: World of Warcraft
-Viewers: 597 </desc>
-</programme>
+<channel id="LittleBabyBum.us">
+<display-name>LittleBabyBum</display-name>
+</channel>
+
+<channel id="liveonpatrol.us">
+<display-name>liveonpatrol</display-name>
+</channel>
 
 <programme start="20231209024442 +0000" stop="20231211214442 +0000" channel="anthonyz.us">
 <title lang="en"> TYME TO DEGEN BABY LETHAL COMPANY WITH RAYC AND FRIENDS GTA RP AFTER - LIVE MON-FRI - </title>
@@ -120,21 +113,28 @@ Viewers: 1730 </desc>
 <title lang="en"> PARTNER-VERSARY SUBATHON [DAY 16] - Trooper Moosebeard - NoPixel WL - @traumz subathon </title>
 <desc lang="en"> Started: 11:12AM
 Playing: Grand Theft Auto V
-Viewers: 315 </desc>
+Viewers: 301 </desc>
+</programme>
+
+<programme start="20231208181807 +0000" stop="20231211131807 +0000" channel="harry.us">
+<title lang="en"> CLASSIC COBRA KAI 25 WARRIOR 😎- CRUSADER STRIKE </title>
+<desc lang="en"> Started: 1:18PM
+Playing: World of Warcraft
+Viewers: 483 </desc>
 </programme>
 
 <programme start="20231209032427 +0000" stop="20231211222427 +0000" channel="comrademolly.us">
 <title lang="en"> NoPixel - 333 Lucy - hello i am police </title>
 <desc lang="en"> Started: 10:24PM
 Playing: Grand Theft Auto V
-Viewers: 61 </desc>
+Viewers: 50 </desc>
 </programme>
 
 <programme start="20231209003815 +0000" stop="20231211193815 +0000" channel="nakkida.us">
 <title lang="en"> Tessa Lamb - unravel - NoPixel RP WL </title>
 <desc lang="en"> Started: 7:38PM
 Playing: Grand Theft Auto V
-Viewers: 627 </desc>
+Viewers: 636 </desc>
 </programme>
 
 <programme start="20231209020310 +0000" stop="20231211210310 +0000" channel="ohheyitsfunk.us">
@@ -148,109 +148,102 @@ Viewers: 8 </desc>
 <title lang="en"> 🔴UNCAPPED subathon Day 8 - Sgt Beric Johnson - NoPixel WL - goals discord twitter wheel spin at 72hours </title>
 <desc lang="en"> Started: 9:33PM
 Playing: Grand Theft Auto V
-Viewers: 209 </desc>
+Viewers: 218 </desc>
 </programme>
 
 <programme start="20231208180313 +0000" stop="20231211130313 +0000" channel="eagleaye.us">
 <title lang="en"> 🌱Eve DiCenzo-Summers🌱- Wedding of the Century - NoPixel WL - Cerberus - AEGIS youtube </title>
 <desc lang="en"> Started: 1:03PM
 Playing: Grand Theft Auto V
-Viewers: 475 </desc>
-</programme>
-
-<programme start="20231208180928 +0000" stop="20231211130928 +0000" channel="zetark.us">
-<title lang="en"> Luciano DiCenzo · The Great Italian Wedding - NoPixel WL - 🔥 SUBATHON DAY 7 🔥 - 🚨4.0 Trailer TODAY🚨 - DC merch AVAILABLE - DC awards </title>
-<desc lang="en"> Started: 1:09PM
-Playing: Grand Theft Auto V
-Viewers: 1036 </desc>
+Viewers: 397 </desc>
 </programme>
 
 <programme start="20231209061425 +0000" stop="20231212011425 +0000" channel="crocc.us">
 <title lang="en"> Vito DiCenzo -- NoPixel WL -- The Wedding -- awards merch discord </title>
 <desc lang="en"> Started: 1:14AM
 Playing: Grand Theft Auto V
-Viewers: 293 </desc>
+Viewers: 370 </desc>
+</programme>
+
+<programme start="20231208180928 +0000" stop="20231211130928 +0000" channel="zetark.us">
+<title lang="en"> Luciano DiCenzo · The Great Italian Wedding - NoPixel WL - 🔥 SUBATHON DAY 7 🔥 - 🚨4.0 Trailer TODAY🚨 - DC merch AVAILABLE - DC awards </title>
+<desc lang="en"> Started: 1:09PM
+Playing: Grand Theft Auto V
+Viewers: 998 </desc>
 </programme>
 
 <programme start="20231208232946 +0000" stop="20231211182946 +0000" channel="chodie.us">
 <title lang="en"> Chodie 🚨Chang Gang 🚨 Prodigy RP 🚨 REP PUMPER ttslabs cg </title>
 <desc lang="en"> Started: 6:29PM
 Playing: Grand Theft Auto V
-Viewers: 326 </desc>
+Viewers: 360 </desc>
 </programme>
 
 <programme start="20231209001806 +0000" stop="20231211191806 +0000" channel="ming.us">
 <title lang="en"> Ming Jingtai - ProdigyRP - Late night gaming - @ MrMing011 </title>
 <desc lang="en"> Started: 7:18PM
 Playing: Grand Theft Auto V
-Viewers: 531 </desc>
-</programme>
-
-<programme start="20231208230652 +0000" stop="20231211180652 +0000" channel="zolo.us">
-<title lang="en"> New Char New Cop  🎈 Evan Grant Cleaning These Streets 🎈 ProdigyRP 🎈clips </title>
-<desc lang="en"> Started: 6:06PM
-Playing: Grand Theft Auto V
-Viewers: 893 </desc>
+Viewers: 572 </desc>
 </programme>
 
 <programme start="20231209050259 +0000" stop="20231212000259 +0000" channel="yuukidav.us">
 <title lang="en"> lukas lavender 𓆩♡𓆪 lspd-hspu - nopixel wl - @yuukidav </title>
 <desc lang="en"> Started: 12:02AM
 Playing: Grand Theft Auto V
-Viewers: 181 </desc>
+Viewers: 186 </desc>
+</programme>
+
+<programme start="20231208230652 +0000" stop="20231211180652 +0000" channel="zolo.us">
+<title lang="en"> New Char New Cop  🎈 Evan Grant Cleaning These Streets 🎈 ProdigyRP 🎈clips </title>
+<desc lang="en"> Started: 6:06PM
+Playing: Grand Theft Auto V
+Viewers: 846 </desc>
 </programme>
 
 <programme start="20231209044959 +0000" stop="20231211234959 +0000" channel="ray__c.us">
 <title lang="en"> 🔴 🔥 Lethal Company w- @Anthonyz and Friends 🔴 MORE NoPixel 4.0 REACT AFTER 🔥 socials </title>
 <desc lang="en"> Started: 11:49PM
 Playing: Lethal Company
-Viewers: 867 </desc>
+Viewers: 781 </desc>
 </programme>
 
 <programme start="20231209060249 +0000" stop="20231212010249 +0000" channel="simo.us">
 <title lang="en"> Reggie Might - Chaos magnet - DayBreak RP - Daybreak </title>
 <desc lang="en"> Started: 1:02AM
 Playing: Grand Theft Auto V
-Viewers: 72 </desc>
+Viewers: 74 </desc>
 </programme>
 
 <programme start="20231209002813 +0000" stop="20231211192813 +0000" channel="raye.us">
 <title lang="en"> WINTER SUBATHON ❄️ 🤍 Aubrey Adams ・ BBMC ・ NoPixel WL discord twitter </title>
 <desc lang="en"> Started: 7:28PM
 Playing: Grand Theft Auto V
-Viewers: 202 </desc>
+Viewers: 161 </desc>
 </programme>
 
 <programme start="20231209055311 +0000" stop="20231212005311 +0000" channel="jayaitch.us">
 <title lang="en"> 🔥 ONE FINAL MOMENT WITH LIL CAP AND THE BBMC rogue newvid 🔥 </title>
 <desc lang="en"> Started: 12:53AM
 Playing: Grand Theft Auto V
-Viewers: 150 </desc>
+Viewers: 131 </desc>
 </programme>
 
 <programme start="20231209010152 +0000" stop="20231211200152 +0000" channel="fatonirp.us">
 <title lang="en"> 🛑🛑Its Fatoni Time🛑🛑 Sarduchi at Law Uh Ohhh Better Call Fatoni - Prodigy RP </title>
 <desc lang="en"> Started: 8:01PM
 Playing: Grand Theft Auto V
-Viewers: 16 </desc>
+Viewers: 11 </desc>
 </programme>
 
 <programme start="20231208221521 +0000" stop="20231211171521 +0000" channel="summit1g.us">
 <title lang="en"> chillin on The Finals - @summit1g </title>
 <desc lang="en"> Started: 5:15PM
 Playing: THE FINALS
-Viewers: 17100 </desc>
+Viewers: 17161 </desc>
 </programme>
 
 <programme start="" stop="" channel="WashingtonPost.us">
 <title lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD </title>
-<desc lang="en"> Started: earlier
-Playing: idk
-Viewers: 200 </desc>
-</programme>
-
-<programme start="" stop="" channel="liveonpatrol.us">
-<title lang="en"> Live on Patrol </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
@@ -263,6 +256,13 @@ Playing: idk
 Viewers: 200 </desc>
 </programme>
 
+<programme start="" stop="" channel="BabyFirstTV.us">
+<title lang="en"> 🎅🎄 Happy Holidays 2023 - Christmas Videos for Kids w Color Crew, GooGoo, Larry and more - BabyFirst TV </title>
+<desc lang="en"> Started: earlier
+Playing: idk
+Viewers: 200 </desc>
+</programme>
+
 <programme start="" stop="" channel="LittleBabyBum.us">
 <title lang="en"> 🔴LBB Live: Baby Nursery Rhyme - Wheels on The Bus, Six Little Ducks More </title>
 <desc lang="en"> Started: earlier
@@ -270,8 +270,8 @@ Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="" stop="" channel="BabyFirstTV.us">
-<title lang="en"> 🎅🎄 Happy Holidays 2023 - Christmas Videos for Kids w Color Crew, GooGoo, Larry and more - BabyFirst TV </title>
+<programme start="" stop="" channel="liveonpatrol.us">
+<title lang="en"> Live on Patrol </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
