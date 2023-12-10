@@ -2,12 +2,8 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="kristoferyee.us">
-<display-name>kristoferyee</display-name>
-</channel>
-
-<channel id="timmac.us">
-<display-name>timmac</display-name>
+<channel id="myles_away.us">
+<display-name>myles_away</display-name>
 </channel>
 
 <channel id="luka_aus.us">
@@ -18,6 +14,10 @@
 <display-name>clammy</display-name>
 </channel>
 
+<channel id="timmac.us">
+<display-name>timmac</display-name>
+</channel>
+
 <channel id="rerolldota.us">
 <display-name>rerolldota</display-name>
 </channel>
@@ -26,12 +26,12 @@
 <display-name>moosebrother</display-name>
 </channel>
 
-<channel id="arckon.us">
-<display-name>arckon</display-name>
-</channel>
-
 <channel id="ladyhope.us">
 <display-name>ladyhope</display-name>
+</channel>
+
+<channel id="arckon.us">
+<display-name>arckon</display-name>
 </channel>
 
 <channel id="icymindracer.us">
@@ -86,10 +86,6 @@
 <display-name>WashingtonPost</display-name>
 </channel>
 
-<channel id="LittleBabyBum.us">
-<display-name>LittleBabyBum</display-name>
-</channel>
-
 <channel id="msrachel.us">
 <display-name>msrachel</display-name>
 </channel>
@@ -98,68 +94,72 @@
 <display-name>BabyFirstTV</display-name>
 </channel>
 
-<channel id="adinross.us">
-<display-name>adinross</display-name>
+<channel id="LittleBabyBum.us">
+<display-name>LittleBabyBum</display-name>
 </channel>
 
 <channel id="omie.us">
 <display-name>omie</display-name>
 </channel>
 
-<programme start="20231210022821 +0000" stop="20231212212821 +0000" channel="kristoferyee.us">
-<title lang="en"> Juan Tap - ONX GTA RP - yeeboards - @KristoferYee on socials </title>
-<desc lang="en"> Started: 9:28PM
-Playing: Grand Theft Auto V
-Viewers: 1185 </desc>
-</programme>
+<channel id="adinross.us">
+<display-name>adinross</display-name>
+</channel>
 
-<programme start="20231209235950 +0000" stop="20231212185950 +0000" channel="timmac.us">
-<title lang="en"> TJ Mack - ONX First Look - phynix - Socials: @timmac </title>
-<desc lang="en"> Started: 6:59PM
+<programme start="20231210113838 +0000" stop="20231213063838 +0000" channel="myles_away.us">
+<title lang="en"> Harold StockHerd Well POLICE - ONX 1.0 RELEASE DAY Streamathon Subbing - </title>
+<desc lang="en"> Started: 6:38AM
 Playing: Grand Theft Auto V
-Viewers: 5364 </desc>
+Viewers: 19 </desc>
 </programme>
 
 <programme start="20231210092703 +0000" stop="20231213042703 +0000" channel="luka_aus.us">
 <title lang="en"> Nopixel 3.0 - Sgt Kozlov - The Last Of SDSO - Holding It Down </title>
 <desc lang="en"> Started: 4:27AM
 Playing: Grand Theft Auto V
-Viewers: 78 </desc>
+Viewers: 70 </desc>
 </programme>
 
 <programme start="20231210112946 +0000" stop="20231213062946 +0000" channel="clammy.us">
 <title lang="en"> Your Monthly Streamer =) - discord socials </title>
 <desc lang="en"> Started: 6:29AM
 Playing: Grand Theft Auto V
-Viewers: 16 </desc>
+Viewers: 17 </desc>
+</programme>
+
+<programme start="20231209235950 +0000" stop="20231212185950 +0000" channel="timmac.us">
+<title lang="en"> TJ Mack - ONX First Look - phynix - Socials: @timmac </title>
+<desc lang="en"> Started: 6:59PM
+Playing: Grand Theft Auto V
+Viewers: 5561 </desc>
 </programme>
 
 <programme start="20231209232313 +0000" stop="20231212182313 +0000" channel="rerolldota.us">
 <title lang="en"> Onx Waiting Room - Finally Here - Jessie Nova Gallagah </title>
 <desc lang="en"> Started: 6:23PM
 Playing: Grand Theft Auto V
-Viewers: 252 </desc>
+Viewers: 260 </desc>
 </programme>
 
 <programme start="20231209233827 +0000" stop="20231212183827 +0000" channel="moosebrother.us">
 <title lang="en"> ONX RP - To The Future </title>
 <desc lang="en"> Started: 6:38PM
 Playing: Grand Theft Auto V
-Viewers: 1102 </desc>
-</programme>
-
-<programme start="20231210052217 +0000" stop="20231213002217 +0000" channel="arckon.us">
-<title lang="en"> 🔴UNCAPPED subathon Day 9 - Sgt Beric Johnson - goals discord twitter wheel spin at 72hours </title>
-<desc lang="en"> Started: 12:22AM
-Playing: Grand Theft Auto V
-Viewers: 285 </desc>
+Viewers: 1191 </desc>
 </programme>
 
 <programme start="20231209200616 +0000" stop="20231212150616 +0000" channel="ladyhope.us">
 <title lang="en"> Lily Pond - Onx - socials </title>
 <desc lang="en"> Started: 3:06PM
 Playing: Grand Theft Auto V
-Viewers: 819 </desc>
+Viewers: 909 </desc>
+</programme>
+
+<programme start="20231210052217 +0000" stop="20231213002217 +0000" channel="arckon.us">
+<title lang="en"> 🔴UNCAPPED subathon Day 9 - Sgt Beric Johnson - goals discord twitter wheel spin at 72hours </title>
+<desc lang="en"> Started: 12:22AM
+Playing: Grand Theft Auto V
+Viewers: 280 </desc>
 </programme>
 
 <programme start="20231210095552 +0000" stop="20231213045552 +0000" channel="icymindracer.us">
@@ -173,88 +173,81 @@ Viewers: 30 </desc>
 <title lang="en"> arniedog into games 🌭 - Hydra Gang 🐍 - nopixel WL gamersupps ggs awards youtube </title>
 <desc lang="en"> Started: 2:58AM
 Playing: Grand Theft Auto V
-Viewers: 515 </desc>
+Viewers: 538 </desc>
 </programme>
 
 <programme start="20231210040658 +0000" stop="20231212230658 +0000" channel="ripoozi.us">
 <title lang="en"> larry knox - nopixelwl. </title>
 <desc lang="en"> Started: 11:06PM
 Playing: Grand Theft Auto V
-Viewers: 192 </desc>
+Viewers: 170 </desc>
 </programme>
 
 <programme start="20231210074929 +0000" stop="20231213024929 +0000" channel="defac3d.us">
 <title lang="en"> IVE GOT N0THING LEFT - DENZEL - MDM - NOPIXEL WL - CYBER G2A </title>
 <desc lang="en"> Started: 2:49AM
 Playing: Grand Theft Auto V
-Viewers: 705 </desc>
+Viewers: 751 </desc>
 </programme>
 
 <programme start="20231210074122 +0000" stop="20231213024122 +0000" channel="strikingcontact.us">
 <title lang="en"> The Chemist - RUST 2IC - Late Stage Capitalist City POV - NP WL and 4.0 Waiting Room </title>
 <desc lang="en"> Started: 2:41AM
 Playing: Grand Theft Auto V
-Viewers: 66 </desc>
+Viewers: 80 </desc>
 </programme>
 
 <programme start="20231210110000 +0000" stop="20231213060000 +0000" channel="ms_star.us">
 <title lang="en"> Cpl. Skye Faye 322 - PBSO - HSPU - NoPixel WL - @ms_star - https:--discord.gg-G634rysvbB </title>
 <desc lang="en"> Started: 6:00AM
 Playing: Grand Theft Auto V
-Viewers: 103 </desc>
+Viewers: 75 </desc>
 </programme>
 
 <programme start="20231210060217 +0000" stop="20231213010217 +0000" channel="simo.us">
 <title lang="en"> Jake Jones - DayBreak RP - Daybreak </title>
 <desc lang="en"> Started: 1:02AM
 Playing: Grand Theft Auto V
-Viewers: 70 </desc>
+Viewers: 63 </desc>
 </programme>
 
 <programme start="20231210000059 +0000" stop="20231212190059 +0000" channel="bucketst.us">
 <title lang="en"> SUBATHON DAY 8 - Gheto Kaiba - BBMC-Redline - NoPixel WL - gfuel </title>
 <desc lang="en"> Started: 7:00PM
 Playing: Grand Theft Auto V
-Viewers: 443 </desc>
+Viewers: 437 </desc>
 </programme>
 
 <programme start="20231210030053 +0000" stop="20231212220053 +0000" channel="knotty.us">
 <title lang="en"> ⛔Guy Jones⛔MSR⛔ONX I Kick Discord socials </title>
 <desc lang="en"> Started: 10:00PM
 Playing: Grand Theft Auto V
-Viewers: 3303 </desc>
+Viewers: 3131 </desc>
 </programme>
 
 <programme start="20231210110554 +0000" stop="20231213060554 +0000" channel="cyter.us">
 <title lang="en"> DRACO - ONX DAY 1 FRESH START </title>
 <desc lang="en"> Started: 6:05AM
 Playing: Grand Theft Auto V
-Viewers: 110 </desc>
+Viewers: 105 </desc>
 </programme>
 
 <programme start="20231210094537 +0000" stop="20231213044537 +0000" channel="letterjaye.us">
 <title lang="en"> Periwinkle Blue - Onx RP - subgoal - newvideo </title>
 <desc lang="en"> Started: 4:45AM
 Playing: Grand Theft Auto V
-Viewers: 180 </desc>
+Viewers: 169 </desc>
 </programme>
 
 <programme start="20231210000350 +0000" stop="20231212190350 +0000" channel="kaicenat.us">
 <title lang="en"> 🟩MINECRAFT🟩UNTIL🟩THE🟩END🟩CLICK🟩HERE🟩FOCUS🟩BIGGEST🟩CRAFTER🟩ELITE🟩GAMER🟩ATHLETE🟩OF🟩THE🟩YEAR🟩 </title>
 <desc lang="en"> Started: 7:03PM
 Playing: I'm Only Sleeping
-Viewers: 37285 </desc>
+Viewers: 36892 </desc>
 </programme>
 
 <programme start="" stop="" channel="WashingtonPost.us">
 <title lang="en"> LIVE on 8-25 at 12 p.m.ET: A conversation with The Honorable Ben Carson, MD </title>
-<desc lang="en"> Started: earlier
-Playing: idk
-Viewers: 200 </desc>
-</programme>
-
-<programme start="" stop="" channel="LittleBabyBum.us">
-<title lang="en"> 🔴LBB Live: Baby Nursery Rhyme - Wheels on The Bus, Six Little Ducks More </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
@@ -274,17 +267,24 @@ Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20231210000000 +0000" stop="20231213063623 +0000" channel="adinross.us">
-<title lang="en"> 🟢Kick Stream </title>
+<programme start="" stop="" channel="LittleBabyBum.us">
+<title lang="en"> 🔴LBB Live: Baby Nursery Rhyme - Wheels on The Bus, Six Little Ducks More </title>
 <desc lang="en"> Started: earlier
-Playing: Just Chatting
-Viewers: alot </desc>
+Playing: idk
+Viewers: 200 </desc>
 </programme>
 
-<programme start="20231210000000 +0000" stop="20231213063623 +0000" channel="omie.us">
+<programme start="20231210000000 +0000" stop="20231213064323 +0000" channel="omie.us">
 <title lang="en"> 🟢Kick Stream </title>
 <desc lang="en"> Started: earlier
 Playing: gta prob
+Viewers: alot </desc>
+</programme>
+
+<programme start="20231210000000 +0000" stop="20231213064323 +0000" channel="adinross.us">
+<title lang="en"> 🟢Kick Stream </title>
+<desc lang="en"> Started: earlier
+Playing: Just Chatting
 Viewers: alot </desc>
 </programme>
 
