@@ -1,0 +1,42 @@
+from flask import Flask, jsonify, request
+import streamlink
+
+app = Flask(__name__)
+
+@app.route('get_twitch_stream_url', methods=['GET'])
+def get_twitch_stream_url()
+    try
+        channel_name = request.args.get('channel')
+        if not channel_name
+            return jsonify({error Channel name is required.})
+
+        # Custom headers you want to pass
+        headers = {
+            Authorization OAuth ft0dy05za1etfltmpmci8ras6ppjdr,
+            Client-Id ue6666qo983tsx6so1t0vnawi233wa,
+            # Add any other headers you need here
+        }
+
+        # Set the custom headers
+        session = streamlink.Streamlink()
+        session.set_option(http-headers, headers)
+
+        streams = session.streams(fhttpswww.twitch.tv{channel_name})
+
+        if streams
+            # Get the best quality stream available (change 'best' to 'worst' for the lowest quality)
+            stream_url = streams[best].url
+            return jsonify({url stream_url})
+        else
+            return jsonify({error No streams available for the channel.})
+
+    except streamlink.NoPluginError
+        return jsonify({error No plugin available for the URL.})
+    except streamlink.PluginError as e
+        return jsonify({error fPlugin error {e}})
+    except Exception as e
+        return jsonify({error fAn unexpected error occurred {e}})
+
+
+if __name__ == '__main__'
+    app.run(host='0.0.0.0', debug=True)
