@@ -58,3 +58,18 @@ error: No playable streams found on this URL: https://www.youtube.com/watch?v=K3
 error: No playable streams found on this URL: https://www.youtube.com/watch?v=apam0X32RNk
  
 #EXTINF:-1 group-title="Youtube_Cams",Beach Bar St John Webcam 
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1707755871/ei/__TJZcTEJJ-ulu8PgICZyAs/ip/76.184.6.50/id/2wqpy036z24.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-q4fl6nds.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f4axmXTnVw2bUvjGYm9lDda02h6xNs8jwf5BoWMib9c/vprv/1/playlist_type/DVR/initcwndbps/1306250/mh/-f/mm/44/mn/sn-q4fl6nds/ms/lva/mv/m/mvi/1/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1707733957/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgS0UpG6lw91RUANGE1hu9c5jJT4Z7H-Y4rm71gHQQGY0CIAZm4EFk3hcs5L70XaUFdphXhDTPDdfAgUey5GHLEu7c/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRgIhAOpaai9HDo0zANswPwFV5mTCo8UBm39BpchlZ1dsIJwkAiEArWfPQXlgh7TA94h9Q90A9HlqhIaCAERhqhan3y0aHvU%3D/playlist/index.m3u8
+ 
+#EXTINF:-1 group-title="Earth_Cams",Chicago 
+https://videos-3.earthcam.com/fecnetwork/15649.flv/chunklist_w1010502463.m3u8?t=jqJYH9BFynXi2RBezQLo6W7YcDStAZbIN7FnUM%2Fx15a6eyKm2qdZUTXuqwPadiT4
+ 
+#EXTINF:-1 group-title="Earth_Cams",Wrigley Field 
+https://videos-3.earthcam.com/fecnetwork/13661.flv/chunklist_w2128816068.m3u8?t=RLwfbNlAu1quBC9DjUbOPrroBvBHA7%2F5h3FXIwkQhFyO8iQ3IVojJJxGdgZ1mUsD
+ 
+#EXTINF:-1 group-title="Earth_Cams",Wrigley Field 2 
+https://videos-3.earthcam.com/fecnetwork/13220.flv/chunklist_w525367228.m3u8?t=dozUV5dEz3ELcI496XY3cn%2FO8TWx9XMgpk5pPoSqU%2FFvikWGSeJK3AoYrfpzsabA
+ 
+#EXTINF:-1 group-title="Earth_Cams",Seattle Space Needle 
+error: No playable streams found on this URL: https://www.earthcam.com/usa/washington/seattle/?cam=seattlespaceneedle
+ 
+#EXTINF:-1 group-title="Earth_Cams",Seattle Space Needle 2 
