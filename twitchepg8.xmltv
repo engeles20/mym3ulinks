@@ -6,12 +6,12 @@
 <display-name>shotz</display-name>
 </channel>
 
-<channel id="maximusblack.us">
-<display-name>maximusblack</display-name>
-</channel>
-
 <channel id="client.us">
 <display-name>client</display-name>
+</channel>
+
+<channel id="maximusblack.us">
+<display-name>maximusblack</display-name>
 </channel>
 
 <channel id="xqc.us">
@@ -22,12 +22,12 @@
 <display-name>esfandtv</display-name>
 </channel>
 
-<channel id="remdogg.us">
-<display-name>remdogg</display-name>
-</channel>
-
 <channel id="dasmehdi.us">
 <display-name>dasmehdi</display-name>
+</channel>
+
+<channel id="remdogg.us">
+<display-name>remdogg</display-name>
 </channel>
 
 <channel id="katec.us">
@@ -38,12 +38,12 @@
 <display-name>eagleaye</display-name>
 </channel>
 
-<channel id="nikez.us">
-<display-name>nikez</display-name>
-</channel>
-
 <channel id="emoussy.us">
 <display-name>emoussy</display-name>
+</channel>
+
+<channel id="nikez.us">
+<display-name>nikez</display-name>
 </channel>
 
 <channel id="ripoozi.us">
@@ -70,12 +70,12 @@
 <display-name>msrachel</display-name>
 </channel>
 
-<channel id="thewiggles.us">
-<display-name>thewiggles</display-name>
-</channel>
-
 <channel id="SuperSimpleSongs.us">
 <display-name>SuperSimpleSongs</display-name>
+</channel>
+
+<channel id="thewiggles.us">
+<display-name>thewiggles</display-name>
 </channel>
 
 <channel id="buddha.us">
@@ -89,18 +89,18 @@ Playing: Grand Theft Auto V
 Viewers: 2519 </desc>
 </programme>
 
+<programme start="20240217180059 +0000" stop="20240220130059 +0000" channel="client.us">
+<title lang="en"> Peanut - NoPixel - Socials Prizes </title>
+<desc lang="en"> Started: 1:00PM
+Playing: Grand Theft Auto V
+Viewers: 916 </desc>
+</programme>
+
 <programme start="20240217151702 +0000" stop="20240220101702 +0000" channel="maximusblack.us">
 <title lang="en"> OTT - Company Making Moves Babbel #ad - Nopixel WL 4.0 - NordVPN </title>
 <desc lang="en"> Started: 10:17AM
 Playing: Grand Theft Auto V
 Viewers: 2227 </desc>
-</programme>
-
-<programme start="20240217180059 +0000" stop="20240220130059 +0000" channel="client.us">
-<title lang="en"> Peanut - NoPixel - Socials Prizes </title>
-<desc lang="en"> Started: 1:00PM
-Playing: Grand Theft Auto V
-Viewers: 797 </desc>
 </programme>
 
 <programme start="20240217154756 +0000" stop="20240220104756 +0000" channel="xqc.us">
@@ -117,18 +117,18 @@ Playing: Grand Theft Auto V
 Viewers: 7938 </desc>
 </programme>
 
-<programme start="20240217153705 +0000" stop="20240220103705 +0000" channel="remdogg.us">
-<title lang="en"> 🚔 Prob. Officer Suarez 🚔 - NoPixel 4.0 l 2,087 Days Consecutively Streaming l HelloFresh PD Proof </title>
-<desc lang="en"> Started: 10:37AM
-Playing: Grand Theft Auto V
-Viewers: 771 </desc>
-</programme>
-
 <programme start="20240217141658 +0000" stop="20240220091658 +0000" channel="dasmehdi.us">
 <title lang="en"> Lil Tuggz - NoPixel - ExpressVPN - socials: @dasmehdi </title>
 <desc lang="en"> Started: 9:16AM
 Playing: Grand Theft Auto V
-Viewers: 3402 </desc>
+Viewers: 3411 </desc>
+</programme>
+
+<programme start="20240217153705 +0000" stop="20240220103705 +0000" channel="remdogg.us">
+<title lang="en"> 🚔 Prob. Officer Suarez 🚔 - NoPixel 4.0 l 2,087 Days Consecutively Streaming l HelloFresh PD Proof </title>
+<desc lang="en"> Started: 10:37AM
+Playing: Grand Theft Auto V
+Viewers: 794 </desc>
 </programme>
 
 <programme start="20240217165520 +0000" stop="20240220115520 +0000" channel="katec.us">
@@ -145,13 +145,6 @@ Playing: Grand Theft Auto V
 Viewers: 336 </desc>
 </programme>
 
-<programme start="20240217180252 +0000" stop="20240220130252 +0000" channel="nikez.us">
-<title lang="en"> Nicholas - NoPixel Dev - Socials @Nikez - merch </title>
-<desc lang="en"> Started: 1:02PM
-Playing: Grand Theft Auto V
-Viewers: 408 </desc>
-</programme>
-
 <programme start="20240217135531 +0000" stop="20240220085531 +0000" channel="emoussy.us">
 <title lang="en"> Emeka Rose - NoPixel 4.0 - Hydra 🐍 - GS (10% off orders) 🥤discord youtube </title>
 <desc lang="en"> Started: 8:55AM
@@ -159,11 +152,18 @@ Playing: Grand Theft Auto V
 Viewers: 303 </desc>
 </programme>
 
+<programme start="20240217180252 +0000" stop="20240220130252 +0000" channel="nikez.us">
+<title lang="en"> Nicholas - NoPixel Dev - Socials @Nikez - merch </title>
+<desc lang="en"> Started: 1:02PM
+Playing: Grand Theft Auto V
+Viewers: 369 </desc>
+</programme>
+
 <programme start="20240217180346 +0000" stop="20240220130346 +0000" channel="ripoozi.us">
 <title lang="en"> solo larry :- - nopixelwl 4.0 </title>
 <desc lang="en"> Started: 1:03PM
 Playing: Grand Theft Auto V
-Viewers: 373 </desc>
+Viewers: 440 </desc>
 </programme>
 
 <programme start="20240217142828 +0000" stop="20240220092828 +0000" channel="cydrose.us">
@@ -177,14 +177,14 @@ Viewers: 145 </desc>
 <title lang="en"> NoPixel WL - Mary Domino-Mushkin c: - discord links </title>
 <desc lang="en"> Started: 10:45AM
 Playing: Grand Theft Auto V
-Viewers: 1343 </desc>
+Viewers: 1329 </desc>
 </programme>
 
 <programme start="20240217114255 +0000" stop="20240220064255 +0000" channel="moosetaffy.us">
 <title lang="en"> Patar Bellosh - Selfish Noob Season - No Pixel WL - Discord </title>
 <desc lang="en"> Started: 6:42AM
 Playing: Grand Theft Auto V
-Viewers: 887 </desc>
+Viewers: 740 </desc>
 </programme>
 
 <programme start="20240217180058 +0000" stop="20240220130058 +0000" channel="crystalst.us">
@@ -194,28 +194,28 @@ Playing: Grand Theft Auto V
 Viewers: 169 </desc>
 </programme>
 
-<programme start="20240217000000 +0000" stop="20240220133318 +0000" channel="msrachel.us">
+<programme start="20240217000000 +0000" stop="20240220133427 +0000" channel="msrachel.us">
 <title lang="en"> 🔴 Wheels on the Bus - Nursery Rhymes and Kids Songs - Toddler Learning Video - Ms Rachel </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20240217000000 +0000" stop="20240220133318 +0000" channel="thewiggles.us">
-<title lang="en"> Nursery Rhymes and Toddler Songs 🎶 24-7 Live Stream 📺 The Wiggles </title>
-<desc lang="en"> Started: earlier
-Playing: idk
-Viewers: 200 </desc>
-</programme>
-
-<programme start="20240217000000 +0000" stop="20240220133318 +0000" channel="SuperSimpleSongs.us">
+<programme start="20240217000000 +0000" stop="20240220133428 +0000" channel="SuperSimpleSongs.us">
 <title lang="en"> 🔴  Super Simple Songs Bedtyme Livestream 🌟🦉💤 - Kids Nap Songs - Super Simple Songs </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20240217000000 +0000" stop="20240220133323 +0000" channel="buddha.us">
+<programme start="20240217000000 +0000" stop="20240220133428 +0000" channel="thewiggles.us">
+<title lang="en"> Nursery Rhymes and Toddler Songs 🎶 24-7 Live Stream 📺 The Wiggles </title>
+<desc lang="en"> Started: earlier
+Playing: idk
+Viewers: 200 </desc>
+</programme>
+
+<programme start="20240217000000 +0000" stop="20240220133433 +0000" channel="buddha.us">
 <title lang="en"> 🟢Kick Stream </title>
 <desc lang="en"> Started: earlier
 Playing: gta
