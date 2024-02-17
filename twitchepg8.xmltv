@@ -2,6 +2,10 @@
 <display-name>clearepg</display-name>
 </channel>
 
+<channel id="lord_kebun.us">
+<display-name>lord_kebun</display-name>
+</channel>
+
 <channel id="shotz.us">
 <display-name>shotz</display-name>
 </channel>
@@ -46,12 +50,12 @@
 <display-name>nikez</display-name>
 </channel>
 
-<channel id="ripoozi.us">
-<display-name>ripoozi</display-name>
-</channel>
-
 <channel id="cydrose.us">
 <display-name>cydrose</display-name>
+</channel>
+
+<channel id="ripoozi.us">
+<display-name>ripoozi</display-name>
 </channel>
 
 <channel id="kyliebitkin.us">
@@ -81,6 +85,13 @@
 <channel id="buddha.us">
 <display-name>buddha</display-name>
 </channel>
+
+<programme start="20240217183404 +0000" stop="20240220133404 +0000" channel="lord_kebun.us">
+<title lang="en"> MR. K CRIMINAL MASTERMIND 🚨 NoPixel 4.0 🚨 </title>
+<desc lang="en"> Started: 1:34PM
+Playing: Grand Theft Auto V
+Viewers: 0 </desc>
+</programme>
 
 <programme start="20240217142834 +0000" stop="20240220092834 +0000" channel="shotz.us">
 <title lang="en"> Cosplay 🌈 Vinny Out of Retirement Pistone 🌈 NoPixel 4.0 🌈 Chang 🐉 Gang🌈 VBI Discord Coffee TTS 🌈 @shotz </title>
@@ -149,7 +160,7 @@ Viewers: 336 </desc>
 <title lang="en"> Emeka Rose - NoPixel 4.0 - Hydra 🐍 - GS (10% off orders) 🥤discord youtube </title>
 <desc lang="en"> Started: 8:55AM
 Playing: Grand Theft Auto V
-Viewers: 303 </desc>
+Viewers: 245 </desc>
 </programme>
 
 <programme start="20240217180252 +0000" stop="20240220130252 +0000" channel="nikez.us">
@@ -159,18 +170,18 @@ Playing: Grand Theft Auto V
 Viewers: 369 </desc>
 </programme>
 
-<programme start="20240217180346 +0000" stop="20240220130346 +0000" channel="ripoozi.us">
-<title lang="en"> solo larry :- - nopixelwl 4.0 </title>
-<desc lang="en"> Started: 1:03PM
-Playing: Grand Theft Auto V
-Viewers: 440 </desc>
-</programme>
-
 <programme start="20240217142828 +0000" stop="20240220092828 +0000" channel="cydrose.us">
 <title lang="en"> 🟢trying to feel better🟢 Clementine LeFebvre🐀 Sewer Council 🟢 Nopixel 4.0 WL 🥐 socials discord 🟢 </title>
 <desc lang="en"> Started: 9:28AM
 Playing: Grand Theft Auto V
 Viewers: 145 </desc>
+</programme>
+
+<programme start="20240217180346 +0000" stop="20240220130346 +0000" channel="ripoozi.us">
+<title lang="en"> solo larry :- - nopixelwl 4.0 </title>
+<desc lang="en"> Started: 1:03PM
+Playing: Grand Theft Auto V
+Viewers: 440 </desc>
 </programme>
 
 <programme start="20240217154555 +0000" stop="20240220104555 +0000" channel="kyliebitkin.us">
@@ -194,28 +205,28 @@ Playing: Grand Theft Auto V
 Viewers: 169 </desc>
 </programme>
 
-<programme start="20240217000000 +0000" stop="20240220133427 +0000" channel="msrachel.us">
+<programme start="20240217000000 +0000" stop="20240220133522 +0000" channel="msrachel.us">
 <title lang="en"> 🔴 Wheels on the Bus - Nursery Rhymes and Kids Songs - Toddler Learning Video - Ms Rachel </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20240217000000 +0000" stop="20240220133428 +0000" channel="SuperSimpleSongs.us">
+<programme start="20240217000000 +0000" stop="20240220133523 +0000" channel="SuperSimpleSongs.us">
 <title lang="en"> 🔴  Super Simple Songs Bedtyme Livestream 🌟🦉💤 - Kids Nap Songs - Super Simple Songs </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20240217000000 +0000" stop="20240220133428 +0000" channel="thewiggles.us">
+<programme start="20240217000000 +0000" stop="20240220133523 +0000" channel="thewiggles.us">
 <title lang="en"> Nursery Rhymes and Toddler Songs 🎶 24-7 Live Stream 📺 The Wiggles </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20240217000000 +0000" stop="20240220133433 +0000" channel="buddha.us">
+<programme start="20240217000000 +0000" stop="20240220133528 +0000" channel="buddha.us">
 <title lang="en"> 🟢Kick Stream </title>
 <desc lang="en"> Started: earlier
 Playing: gta
