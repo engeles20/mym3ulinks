@@ -2,16 +2,20 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="maximusblack.us">
-<display-name>maximusblack</display-name>
-</channel>
-
 <channel id="timmac.us">
 <display-name>timmac</display-name>
 </channel>
 
+<channel id="maximusblack.us">
+<display-name>maximusblack</display-name>
+</channel>
+
 <channel id="dasmehdi.us">
 <display-name>dasmehdi</display-name>
+</channel>
+
+<channel id="emoussy.us">
+<display-name>emoussy</display-name>
 </channel>
 
 <channel id="silent.us">
@@ -26,16 +30,8 @@
 <display-name>jack</display-name>
 </channel>
 
-<channel id="emoussy.us">
-<display-name>emoussy</display-name>
-</channel>
-
 <channel id="4head.us">
 <display-name>4head</display-name>
-</channel>
-
-<channel id="moosetaffy.us">
-<display-name>moosetaffy</display-name>
 </channel>
 
 <channel id="hotted89.us">
@@ -50,118 +46,122 @@
 <display-name>phantomzz_ow</display-name>
 </channel>
 
-<channel id="thewiggles.us">
-<display-name>thewiggles</display-name>
-</channel>
-
-<channel id="SuperSimpleSongs.us">
-<display-name>SuperSimpleSongs</display-name>
+<channel id="moosetaffy.us">
+<display-name>moosetaffy</display-name>
 </channel>
 
 <channel id="msrachel.us">
 <display-name>msrachel</display-name>
 </channel>
 
-<programme start="20240217135907 +0000" stop="20240220085907 +0000" channel="maximusblack.us">
-<title lang="en"> OTT - Company Making Moves Babbel #ad - Nopixel WL 4.0 - NordVPN </title>
-<desc lang="en"> Started: 8:59AM
-Playing: Grand Theft Auto V
-Viewers: 1141 </desc>
-</programme>
+<channel id="SuperSimpleSongs.us">
+<display-name>SuperSimpleSongs</display-name>
+</channel>
+
+<channel id="thewiggles.us">
+<display-name>thewiggles</display-name>
+</channel>
 
 <programme start="20240217062151 +0000" stop="20240220012151 +0000" channel="timmac.us">
 <title lang="en"> Liam MacMahon - NoPixel - Socials: @timmac </title>
 <desc lang="en"> Started: 1:21AM
 Playing: Grand Theft Auto V
-Viewers: 1804 </desc>
+Viewers: 1887 </desc>
+</programme>
+
+<programme start="20240217135907 +0000" stop="20240220085907 +0000" channel="maximusblack.us">
+<title lang="en"> OTT - Company Making Moves Babbel #ad - Nopixel WL 4.0 - NordVPN </title>
+<desc lang="en"> Started: 8:59AM
+Playing: Grand Theft Auto V
+Viewers: 1405 </desc>
 </programme>
 
 <programme start="20240217141658 +0000" stop="20240220091658 +0000" channel="dasmehdi.us">
 <title lang="en"> Lil Tuggz - NoPixel - ExpressVPN - socials: @dasmehdi </title>
 <desc lang="en"> Started: 9:16AM
 Playing: Grand Theft Auto V
-Viewers: 137 </desc>
-</programme>
-
-<programme start="20240217083309 +0000" stop="20240220033309 +0000" channel="silent.us">
-<title lang="en"> Flippy restarts the mat empire - merchcontest GS - SileNt Live on youtube </title>
-<desc lang="en"> Started: 3:33AM
-Playing: Grand Theft Auto V
-Viewers: 1972 </desc>
-</programme>
-
-<programme start="20240217140457 +0000" stop="20240220090457 +0000" channel="biotox.us">
-<title lang="en"> NEW EMOTES - BJORN [LSPD] - Nopixel 4.0 plushie lore lspd </title>
-<desc lang="en"> Started: 9:04AM
-Playing: Grand Theft Auto V
-Viewers: 246 </desc>
-</programme>
-
-<programme start="20240217064610 +0000" stop="20240220014610 +0000" channel="jack.us">
-<title lang="en"> DEZMOND - jack later - youtube tiktok @jack </title>
-<desc lang="en"> Started: 1:46AM
-Playing: Grand Theft Auto V
-Viewers: 436 </desc>
+Viewers: 741 </desc>
 </programme>
 
 <programme start="20240217135531 +0000" stop="20240220085531 +0000" channel="emoussy.us">
 <title lang="en"> Emeka Rose - NoPixel 4.0 - Hydra 🐍 - GS (10% off orders) 🥤discord youtube </title>
 <desc lang="en"> Started: 8:55AM
 Playing: Grand Theft Auto V
-Viewers: 35 </desc>
+Viewers: 44 </desc>
+</programme>
+
+<programme start="20240217083309 +0000" stop="20240220033309 +0000" channel="silent.us">
+<title lang="en"> Flippy restarts the mat empire - merchcontest GS - SileNt Live on youtube </title>
+<desc lang="en"> Started: 3:33AM
+Playing: Grand Theft Auto V
+Viewers: 2034 </desc>
+</programme>
+
+<programme start="20240217140457 +0000" stop="20240220090457 +0000" channel="biotox.us">
+<title lang="en"> NEW EMOTES - BJORN [LSPD] - Nopixel 4.0 plushie lore lspd </title>
+<desc lang="en"> Started: 9:04AM
+Playing: Grand Theft Auto V
+Viewers: 339 </desc>
+</programme>
+
+<programme start="20240217064610 +0000" stop="20240220014610 +0000" channel="jack.us">
+<title lang="en"> DEZMOND - jack later - youtube tiktok @jack </title>
+<desc lang="en"> Started: 1:46AM
+Playing: Grand Theft Auto V
+Viewers: 364 </desc>
 </programme>
 
 <programme start="20240217085130 +0000" stop="20240220035130 +0000" channel="4head.us">
 <title lang="en"> 4HEAD - NOPIXEL 4.0 - TTS </title>
 <desc lang="en"> Started: 3:51AM
 Playing: Grand Theft Auto V
-Viewers: 3567 </desc>
-</programme>
-
-<programme start="20240217114255 +0000" stop="20240220064255 +0000" channel="moosetaffy.us">
-<title lang="en"> Patar Bellosh - Selfish Noob Season - No Pixel WL - Discord </title>
-<desc lang="en"> Started: 6:42AM
-Playing: Grand Theft Auto V
-Viewers: 264 </desc>
+Viewers: 4004 </desc>
 </programme>
 
 <programme start="20240217115809 +0000" stop="20240220065809 +0000" channel="hotted89.us">
 <title lang="en"> JJ - Kaneshiro - Nopixel 4.0 pc </title>
 <desc lang="en"> Started: 6:58AM
 Playing: Grand Theft Auto V
-Viewers: 99 </desc>
+Viewers: 112 </desc>
 </programme>
 
 <programme start="20240217125818 +0000" stop="20240220075818 +0000" channel="vader.us">
 <title lang="en"> Be nice to chat challenge, impossible difficulty - Eugene - NoPixel 4.0 </title>
 <desc lang="en"> Started: 7:58AM
 Playing: Grand Theft Auto V
-Viewers: 2543 </desc>
+Viewers: 2558 </desc>
 </programme>
 
 <programme start="20240217113944 +0000" stop="20240220063944 +0000" channel="phantomzz_ow.us">
 <title lang="en"> Connell MacGregor 🔵 NoPixel 4.0 WL 🔵 GUN PARTS ACQUIRED 🔵 House drama </title>
 <desc lang="en"> Started: 6:39AM
 Playing: Grand Theft Auto V
-Viewers: 99 </desc>
+Viewers: 107 </desc>
 </programme>
 
-<programme start="20240217000000 +0000" stop="20240220092113 +0000" channel="thewiggles.us">
-<title lang="en"> Nursery Rhymes and Toddler Songs 🎶 24-7 Live Stream 📺 The Wiggles </title>
+<programme start="20240217114255 +0000" stop="20240220064255 +0000" channel="moosetaffy.us">
+<title lang="en"> Patar Bellosh - Selfish Noob Season - No Pixel WL - Discord </title>
+<desc lang="en"> Started: 6:42AM
+Playing: Grand Theft Auto V
+Viewers: 251 </desc>
+</programme>
+
+<programme start="20240217000000 +0000" stop="20240220092813 +0000" channel="msrachel.us">
+<title lang="en"> 🔴 Wheels on the Bus - Nursery Rhymes and Kids Songs - Toddler Learning Video - Ms Rachel </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20240217000000 +0000" stop="20240220092113 +0000" channel="SuperSimpleSongs.us">
+<programme start="20240217000000 +0000" stop="20240220092813 +0000" channel="SuperSimpleSongs.us">
 <title lang="en"> 🔴  Super Simple Songs Bedtyme Livestream 🌟🦉💤 - Kids Nap Songs - Super Simple Songs </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20240217000000 +0000" stop="20240220092113 +0000" channel="msrachel.us">
-<title lang="en"> 🔴 Wheels on the Bus - Nursery Rhymes and Kids Songs - Toddler Learning Video - Ms Rachel </title>
+<programme start="20240217000000 +0000" stop="20240220092813 +0000" channel="thewiggles.us">
+<title lang="en"> Nursery Rhymes and Toddler Songs 🎶 24-7 Live Stream 📺 The Wiggles </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
