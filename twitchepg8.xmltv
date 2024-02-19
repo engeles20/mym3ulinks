@@ -2,36 +2,40 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="harry.us">
-<display-name>harry</display-name>
-</channel>
-
 <channel id="zetark.us">
 <display-name>zetark</display-name>
+</channel>
+
+<channel id="harry.us">
+<display-name>harry</display-name>
 </channel>
 
 <channel id="ramee.us">
 <display-name>ramee</display-name>
 </channel>
 
-<channel id="shotz.us">
-<display-name>shotz</display-name>
-</channel>
-
 <channel id="lord_kebun.us">
 <display-name>lord_kebun</display-name>
 </channel>
 
-<channel id="jonthebroski.us">
-<display-name>jonthebroski</display-name>
+<channel id="shotz.us">
+<display-name>shotz</display-name>
+</channel>
+
+<channel id="maximusblack.us">
+<display-name>maximusblack</display-name>
 </channel>
 
 <channel id="client.us">
 <display-name>client</display-name>
 </channel>
 
-<channel id="remdogg.us">
-<display-name>remdogg</display-name>
+<channel id="ray__c.us">
+<display-name>ray__c</display-name>
+</channel>
+
+<channel id="jonthebroski.us">
+<display-name>jonthebroski</display-name>
 </channel>
 
 <channel id="esfandtv.us">
@@ -42,16 +46,12 @@
 <display-name>dasmehdi</display-name>
 </channel>
 
+<channel id="remdogg.us">
+<display-name>remdogg</display-name>
+</channel>
+
 <channel id="deansocool.us">
 <display-name>deansocool</display-name>
-</channel>
-
-<channel id="maximusblack.us">
-<display-name>maximusblack</display-name>
-</channel>
-
-<channel id="ray__c.us">
-<display-name>ray__c</display-name>
 </channel>
 
 <channel id="malcolmglass.us">
@@ -74,10 +74,6 @@
 <display-name>cydrose</display-name>
 </channel>
 
-<channel id="ikitty.us">
-<display-name>ikitty</display-name>
-</channel>
-
 <channel id="kyliebitkin.us">
 <display-name>kyliebitkin</display-name>
 </channel>
@@ -86,12 +82,16 @@
 <display-name>moosetaffy</display-name>
 </channel>
 
-<channel id="nikkisariot.us">
-<display-name>nikkisariot</display-name>
+<channel id="ikitty.us">
+<display-name>ikitty</display-name>
 </channel>
 
 <channel id="masonshortland.us">
 <display-name>masonshortland</display-name>
+</channel>
+
+<channel id="nikkisariot.us">
+<display-name>nikkisariot</display-name>
 </channel>
 
 <channel id="HasanAbi.us">
@@ -110,6 +110,10 @@
 <display-name>msrachel</display-name>
 </channel>
 
+<channel id="SuperSimpleSongs.us">
+<display-name>SuperSimpleSongs</display-name>
+</channel>
+
 <channel id="thewiggles.us">
 <display-name>thewiggles</display-name>
 </channel>
@@ -118,9 +122,12 @@
 <display-name>DrDisrespect</display-name>
 </channel>
 
-<channel id="SuperSimpleSongs.us">
-<display-name>SuperSimpleSongs</display-name>
-</channel>
+<programme start="20240219180344 +0000" stop="20240222130344 +0000" channel="zetark.us">
+<title lang="en"> Luciano DiCenzo · Ahead of the Game - NoPixel 4.0 WL - PURCH your DC merch❤️ twitter discord </title>
+<desc lang="en"> Started: 1:03PM
+Playing: Grand Theft Auto V
+Viewers: 3404 </desc>
+</programme>
 
 <programme start="20240219182515 +0000" stop="20240222132515 +0000" channel="harry.us">
 <title lang="en"> HARRY BROWN 🐀 - NOPIXEL 4.0 👏 </title>
@@ -129,25 +136,11 @@ Playing: Grand Theft Auto V
 Viewers: 2143 </desc>
 </programme>
 
-<programme start="20240219180344 +0000" stop="20240222130344 +0000" channel="zetark.us">
-<title lang="en"> Luciano DiCenzo · Ahead of the Game - NoPixel 4.0 WL - PURCH your DC merch❤️ twitter discord </title>
-<desc lang="en"> Started: 1:03PM
-Playing: Grand Theft Auto V
-Viewers: 3404 </desc>
-</programme>
-
 <programme start="20240219185532 +0000" stop="20240222135532 +0000" channel="ramee.us">
 <title lang="en"> Ramee - NoPixel 4.0 </title>
 <desc lang="en"> Started: 1:55PM
 Playing: Grand Theft Auto V
-Viewers: 378 </desc>
-</programme>
-
-<programme start="20240219142839 +0000" stop="20240222092839 +0000" channel="shotz.us">
-<title lang="en"> Cosplay 🌑 Vinny NEW Pistone 🌑 NoPixel 4.0 🌑 Chang 🐉 Gang🌑 VBI Discord Coffee TTS 🌑 @shotz </title>
-<desc lang="en"> Started: 9:28AM
-Playing: Grand Theft Auto V
-Viewers: 3395 </desc>
+Viewers: 4604 </desc>
 </programme>
 
 <programme start="20240219190227 +0000" stop="20240222140227 +0000" channel="lord_kebun.us">
@@ -157,11 +150,18 @@ Playing: Grand Theft Auto V
 Viewers: 196 </desc>
 </programme>
 
-<programme start="20240219151315 +0000" stop="20240222101315 +0000" channel="jonthebroski.us">
-<title lang="en"> Aldo Jackson - NoPixel 4.0 </title>
-<desc lang="en"> Started: 10:13AM
+<programme start="20240219142839 +0000" stop="20240222092839 +0000" channel="shotz.us">
+<title lang="en"> Cosplay 🌑 Vinny NEW Pistone 🌑 NoPixel 4.0 🌑 Chang 🐉 Gang🌑 VBI Discord Coffee TTS 🌑 @shotz </title>
+<desc lang="en"> Started: 9:28AM
 Playing: Grand Theft Auto V
-Viewers: 287 </desc>
+Viewers: 3135 </desc>
+</programme>
+
+<programme start="20240219120010 +0000" stop="20240222070010 +0000" channel="maximusblack.us">
+<title lang="en"> OTT - Company Man 5-6 USBs Collected Babbel #ad - Nopixel WL 4.0 - NordVPN </title>
+<desc lang="en"> Started: 7:00AM
+Playing: Grand Theft Auto V
+Viewers: 3631 </desc>
 </programme>
 
 <programme start="20240219161500 +0000" stop="20240222111500 +0000" channel="client.us">
@@ -171,11 +171,18 @@ Playing: Grand Theft Auto V
 Viewers: 1806 </desc>
 </programme>
 
-<programme start="20240219180632 +0000" stop="20240222130632 +0000" channel="remdogg.us">
-<title lang="en"> 🚔 Prob. Officer Suarez 🚔 - NoPixel 4.0 l 2,089 Days Consecutively Streaming l HelloFresh PD Proof </title>
-<desc lang="en"> Started: 1:06PM
+<programme start="20240219185844 +0000" stop="20240222135844 +0000" channel="ray__c.us">
+<title lang="en"> 🔴🔥 BACK FROM STREAMER AWARDS 🔴🔥RECAP  NOPIXEL 4.0: DAY 48 🔥 🔴 Raymond Romanov 🔥 🔴 socials </title>
+<desc lang="en"> Started: 1:58PM
 Playing: Grand Theft Auto V
-Viewers: 202 </desc>
+Viewers: 163 </desc>
+</programme>
+
+<programme start="20240219151315 +0000" stop="20240222101315 +0000" channel="jonthebroski.us">
+<title lang="en"> Aldo Jackson - NoPixel 4.0 </title>
+<desc lang="en"> Started: 10:13AM
+Playing: Grand Theft Auto V
+Viewers: 281 </desc>
 </programme>
 
 <programme start="20240219173432 +0000" stop="20240222123432 +0000" channel="esfandtv.us">
@@ -189,28 +196,21 @@ Viewers: 9339 </desc>
 <title lang="en"> Lil Tuggz - NoPixel - ExpressVPN - socials: @dasmehdi </title>
 <desc lang="en"> Started: 9:23AM
 Playing: Grand Theft Auto V
-Viewers: 3772 </desc>
+Viewers: 3660 </desc>
+</programme>
+
+<programme start="20240219180632 +0000" stop="20240222130632 +0000" channel="remdogg.us">
+<title lang="en"> 🚔 Prob. Officer Suarez 🚔 - NoPixel 4.0 l 2,089 Days Consecutively Streaming l HelloFresh PD Proof </title>
+<desc lang="en"> Started: 1:06PM
+Playing: Grand Theft Auto V
+Viewers: 202 </desc>
 </programme>
 
 <programme start="20240219144555 +0000" stop="20240222094555 +0000" channel="deansocool.us">
 <title lang="en"> Den Zel Shiesty - @deansocool all socials - @G2Esports </title>
 <desc lang="en"> Started: 9:45AM
 Playing: Grand Theft Auto V
-Viewers: 4421 </desc>
-</programme>
-
-<programme start="20240219120010 +0000" stop="20240222070010 +0000" channel="maximusblack.us">
-<title lang="en"> OTT - Company Man 5-6 USBs Collected Babbel #ad - Nopixel WL 4.0 - NordVPN </title>
-<desc lang="en"> Started: 7:00AM
-Playing: Grand Theft Auto V
-Viewers: 4071 </desc>
-</programme>
-
-<programme start="20240219185844 +0000" stop="20240222135844 +0000" channel="ray__c.us">
-<title lang="en"> 🔴🔥 BACK FROM STREAMER AWARDS 🔴🔥RECAP  NOPIXEL 4.0: DAY 48 🔥 🔴 Raymond Romanov 🔥 🔴 socials </title>
-<desc lang="en"> Started: 1:58PM
-Playing: Grand Theft Auto V
-Viewers: 163 </desc>
+Viewers: 3855 </desc>
 </programme>
 
 <programme start="20240219170713 +0000" stop="20240222120713 +0000" channel="malcolmglass.us">
@@ -224,7 +224,7 @@ Viewers: 91 </desc>
 <title lang="en"> FLIPPPY - GS - Hydra Gang hydra - SileNt Live on youtube </title>
 <desc lang="en"> Started: 3:18AM
 Playing: Grand Theft Auto V
-Viewers: 1434 </desc>
+Viewers: 1360 </desc>
 </programme>
 
 <programme start="20240219180418 +0000" stop="20240222130418 +0000" channel="nikez.us">
@@ -238,28 +238,21 @@ Viewers: 371 </desc>
 <title lang="en"> 4HEAD - NOPIXEL 4.0 - TTS </title>
 <desc lang="en"> Started: 4:22AM
 Playing: Grand Theft Auto V
-Viewers: 3825 </desc>
+Viewers: 4187 </desc>
 </programme>
 
 <programme start="20240219150112 +0000" stop="20240222100112 +0000" channel="cydrose.us">
 <title lang="en"> 🟢jesse.. we need to brew🟢 Clementine LeFebvre🐀 Sewer Council 🟢 Nopixel 4.0 WL 🥐 socials discord 🟢 </title>
 <desc lang="en"> Started: 10:01AM
 Playing: Grand Theft Auto V
-Viewers: 61 </desc>
-</programme>
-
-<programme start="20240219184339 +0000" stop="20240222134339 +0000" channel="ikitty.us">
-<title lang="en"> 🌷Kitty🌷 Aunty tries to tell the kids that Uncle Octo is N0T marrying Yuno - Nopixel WL </title>
-<desc lang="en"> Started: 1:43PM
-Playing: Grand Theft Auto V
-Viewers: 1272 </desc>
+Viewers: 67 </desc>
 </programme>
 
 <programme start="20240219143414 +0000" stop="20240222093414 +0000" channel="kyliebitkin.us">
 <title lang="en"> NoPixel WL - Mary Domino-Mushkin c: - discord links </title>
 <desc lang="en"> Started: 9:34AM
 Playing: Grand Theft Auto V
-Viewers: 1162 </desc>
+Viewers: 914 </desc>
 </programme>
 
 <programme start="20240219105932 +0000" stop="20240222055932 +0000" channel="moosetaffy.us">
@@ -269,18 +262,25 @@ Playing: Grand Theft Auto V
 Viewers: 157 </desc>
 </programme>
 
-<programme start="20240219103325 +0000" stop="20240222053325 +0000" channel="nikkisariot.us">
-<title lang="en"> • Jenny • NoPixel WL • </title>
-<desc lang="en"> Started: 5:33AM
+<programme start="20240219184339 +0000" stop="20240222134339 +0000" channel="ikitty.us">
+<title lang="en"> 🌷Kitty🌷 Aunty tries to tell the kids that Uncle Octo is N0T marrying Yuno - Nopixel WL </title>
+<desc lang="en"> Started: 1:43PM
 Playing: Grand Theft Auto V
-Viewers: 286 </desc>
+Viewers: 1477 </desc>
 </programme>
 
 <programme start="20240219171342 +0000" stop="20240222121342 +0000" channel="masonshortland.us">
 <title lang="en"> ⚡ FLASH - 💸 MOONSHINE MOGUL 💸 - Cypress Pusher - NOPIXEL 4.0 socials </title>
 <desc lang="en"> Started: 12:13PM
 Playing: Grand Theft Auto V
-Viewers: 68 </desc>
+Viewers: 72 </desc>
+</programme>
+
+<programme start="20240219103325 +0000" stop="20240222053325 +0000" channel="nikkisariot.us">
+<title lang="en"> • Jenny • NoPixel WL • </title>
+<desc lang="en"> Started: 5:33AM
+Playing: Grand Theft Auto V
+Viewers: 286 </desc>
 </programme>
 
 <programme start="20240219182506 +0000" stop="20240222132506 +0000" channel="HasanAbi.us">
@@ -297,36 +297,36 @@ Playing: EA Sports FC 24
 Viewers: 4170 </desc>
 </programme>
 
-<programme start="20240219000000 +0000" stop="20240222140341 +0000" channel="Sykkuno.us">
+<programme start="20240219000000 +0000" stop="20240222140622 +0000" channel="Sykkuno.us">
 <title lang="en"> 【GTA V】YUNO SYKK </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20240219000000 +0000" stop="20240222140341 +0000" channel="msrachel.us">
+<programme start="20240219000000 +0000" stop="20240222140622 +0000" channel="msrachel.us">
 <title lang="en"> 🔴 Wheels on the Bus - Nursery Rhymes and Kids Songs - Toddler Learning Video - Ms Rachel </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20240219000000 +0000" stop="20240222140342 +0000" channel="thewiggles.us">
+<programme start="20240219000000 +0000" stop="20240222140622 +0000" channel="SuperSimpleSongs.us">
+<title lang="en"> 🔴  Super Simple Songs Bedtyme Livestream 🌟🦉💤 - Kids Nap Songs - Super Simple Songs </title>
+<desc lang="en"> Started: earlier
+Playing: idk
+Viewers: 200 </desc>
+</programme>
+
+<programme start="20240219000000 +0000" stop="20240222140622 +0000" channel="thewiggles.us">
 <title lang="en"> Nursery Rhymes and Toddler Songs 🎶 24-7 Live Stream 📺 The Wiggles </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20240219000000 +0000" stop="20240222140342 +0000" channel="DrDisrespect.us">
+<programme start="20240219000000 +0000" stop="20240222140622 +0000" channel="DrDisrespect.us">
 <title lang="en"> 🔴LIVE - TARKOV - PSYCHOTIC SOLO TASKIN - LEVEL 20 </title>
-<desc lang="en"> Started: earlier
-Playing: idk
-Viewers: 200 </desc>
-</programme>
-
-<programme start="20240219000000 +0000" stop="20240222140342 +0000" channel="SuperSimpleSongs.us">
-<title lang="en"> 🔴  Super Simple Songs Bedtyme Livestream 🌟🦉💤 - Kids Nap Songs - Super Simple Songs </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
