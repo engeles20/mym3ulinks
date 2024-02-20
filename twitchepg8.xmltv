@@ -2,40 +2,40 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="omie.us">
-<display-name>omie</display-name>
-</channel>
-
 <channel id="anthonyz.us">
 <display-name>anthonyz</display-name>
+</channel>
+
+<channel id="omie.us">
+<display-name>omie</display-name>
 </channel>
 
 <channel id="shotz.us">
 <display-name>shotz</display-name>
 </channel>
 
-<channel id="maximusblack.us">
-<display-name>maximusblack</display-name>
-</channel>
-
-<channel id="timmac.us">
-<display-name>timmac</display-name>
-</channel>
-
 <channel id="jonthebroski.us">
 <display-name>jonthebroski</display-name>
-</channel>
-
-<channel id="Cheever7.us">
-<display-name>Cheever7</display-name>
 </channel>
 
 <channel id="dasmehdi.us">
 <display-name>dasmehdi</display-name>
 </channel>
 
+<channel id="maximusblack.us">
+<display-name>maximusblack</display-name>
+</channel>
+
+<channel id="Cheever7.us">
+<display-name>Cheever7</display-name>
+</channel>
+
 <channel id="silent.us">
 <display-name>silent</display-name>
+</channel>
+
+<channel id="fanfan.us">
+<display-name>fanfan</display-name>
 </channel>
 
 <channel id="nidas.us">
@@ -46,10 +46,6 @@
 <display-name>4head</display-name>
 </channel>
 
-<channel id="fanfan.us">
-<display-name>fanfan</display-name>
-</channel>
-
 <channel id="ming.us">
 <display-name>ming</display-name>
 </channel>
@@ -58,12 +54,12 @@
 <display-name>moosetaffy</display-name>
 </channel>
 
-<channel id="crystalst.us">
-<display-name>crystalst</display-name>
-</channel>
-
 <channel id="nikkisariot.us">
 <display-name>nikkisariot</display-name>
+</channel>
+
+<channel id="crystalst.us">
+<display-name>crystalst</display-name>
 </channel>
 
 <channel id="msrachel.us">
@@ -82,18 +78,18 @@
 <display-name>xqc</display-name>
 </channel>
 
-<programme start="20240220054059 +0000" stop="20240223004059 +0000" channel="omie.us">
-<title lang="en"> marty banks - nopixel 4.0 - vpn </title>
-<desc lang="en"> Started: 12:40AM
-Playing: Grand Theft Auto V
-Viewers: 3019 </desc>
-</programme>
-
 <programme start="20240220140348 +0000" stop="20240223090348 +0000" channel="anthonyz.us">
 <title lang="en"> ITS CHEWSDAY MATE NOPIXEL 4.0 - LIVE MON-FRI </title>
 <desc lang="en"> Started: 9:03AM
 Playing: Grand Theft Auto V
 Viewers: 2066 </desc>
+</programme>
+
+<programme start="20240220054059 +0000" stop="20240223004059 +0000" channel="omie.us">
+<title lang="en"> marty banks - nopixel 4.0 - vpn </title>
+<desc lang="en"> Started: 12:40AM
+Playing: Grand Theft Auto V
+Viewers: 3019 </desc>
 </programme>
 
 <programme start="20240220141053 +0000" stop="20240223091053 +0000" channel="shotz.us">
@@ -103,32 +99,11 @@ Playing: Grand Theft Auto V
 Viewers: 1050 </desc>
 </programme>
 
-<programme start="20240220133909 +0000" stop="20240223083909 +0000" channel="maximusblack.us">
-<title lang="en"> OTT - The EU Company POV lol Babbel #ad - Nopixel WL 4.0 - NordVPN </title>
-<desc lang="en"> Started: 8:39AM
-Playing: Grand Theft Auto V
-Viewers: 1753 </desc>
-</programme>
-
-<programme start="20240220060527 +0000" stop="20240223010527 +0000" channel="timmac.us">
-<title lang="en"> Liam MacMahon - NoPixel - Socials: @timmac </title>
-<desc lang="en"> Started: 1:05AM
-Playing: Grand Theft Auto V
-Viewers: 898 </desc>
-</programme>
-
 <programme start="20240220150242 +0000" stop="20240223100242 +0000" channel="jonthebroski.us">
 <title lang="en"> Aldo Jackson - NoPixel 4.0 </title>
 <desc lang="en"> Started: 10:02AM
 Playing: Grand Theft Auto V
 Viewers: 2 </desc>
-</programme>
-
-<programme start="20240220144121 +0000" stop="20240223094121 +0000" channel="Cheever7.us">
-<title lang="en"> NoPixel 4.0 - Captain Ruth - Consequences </title>
-<desc lang="en"> Started: 9:41AM
-Playing: Grand Theft Auto V
-Viewers: 434 </desc>
 </programme>
 
 <programme start="20240220141752 +0000" stop="20240223091752 +0000" channel="dasmehdi.us">
@@ -138,11 +113,32 @@ Playing: Grand Theft Auto V
 Viewers: 1279 </desc>
 </programme>
 
+<programme start="20240220133909 +0000" stop="20240223083909 +0000" channel="maximusblack.us">
+<title lang="en"> OTT - The EU Company POV lol Babbel #ad - Nopixel WL 4.0 - NordVPN </title>
+<desc lang="en"> Started: 8:39AM
+Playing: Grand Theft Auto V
+Viewers: 1777 </desc>
+</programme>
+
+<programme start="20240220144121 +0000" stop="20240223094121 +0000" channel="Cheever7.us">
+<title lang="en"> NoPixel 4.0 - Captain Ruth - Consequences </title>
+<desc lang="en"> Started: 9:41AM
+Playing: Grand Theft Auto V
+Viewers: 586 </desc>
+</programme>
+
 <programme start="20240220081321 +0000" stop="20240223031321 +0000" channel="silent.us">
 <title lang="en"> FLIPPPY - GS - Hydra Gang hydra - SileNt Live on youtube </title>
 <desc lang="en"> Started: 3:13AM
 Playing: Grand Theft Auto V
 Viewers: 1453 </desc>
+</programme>
+
+<programme start="20240220091128 +0000" stop="20240223041128 +0000" channel="fanfan.us">
+<title lang="en"> fanny fan nopixel 4.0 mic socials </title>
+<desc lang="en"> Started: 4:11AM
+Playing: Grand Theft Auto V
+Viewers: 5490 </desc>
 </programme>
 
 <programme start="20240220121932 +0000" stop="20240223071932 +0000" channel="nidas.us">
@@ -156,14 +152,7 @@ Viewers: 692 </desc>
 <title lang="en"> 4HEAD - NOPIXEL 4.0 - TTS </title>
 <desc lang="en"> Started: 4:02AM
 Playing: Grand Theft Auto V
-Viewers: 2453 </desc>
-</programme>
-
-<programme start="20240220091128 +0000" stop="20240223041128 +0000" channel="fanfan.us">
-<title lang="en"> fanny fan nopixel 4.0 mic socials </title>
-<desc lang="en"> Started: 4:11AM
-Playing: Grand Theft Auto V
-Viewers: 5490 </desc>
+Viewers: 2498 </desc>
 </programme>
 
 <programme start="20240220095356 +0000" stop="20240223045356 +0000" channel="ming.us">
@@ -180,13 +169,6 @@ Playing: Grand Theft Auto V
 Viewers: 250 </desc>
 </programme>
 
-<programme start="20240219210051 +0000" stop="20240222160051 +0000" channel="crystalst.us">
-<title lang="en"> ¿black swan white swan🦢 </title>
-<desc lang="en"> Started: 4:00PM
-Playing: Grand Theft Auto V
-Viewers: 346 </desc>
-</programme>
-
 <programme start="20240220111543 +0000" stop="20240223061543 +0000" channel="nikkisariot.us">
 <title lang="en"> • Jenny • Mayhem (Pending) • NoPixel WL • </title>
 <desc lang="en"> Started: 6:15AM
@@ -194,32 +176,39 @@ Playing: Grand Theft Auto V
 Viewers: 403 </desc>
 </programme>
 
-<programme start="20240220000000 +0000" stop="20240223100338 +0000" channel="msrachel.us">
+<programme start="20240219210051 +0000" stop="20240222160051 +0000" channel="crystalst.us">
+<title lang="en"> ¿black swan white swan🦢 </title>
+<desc lang="en"> Started: 4:00PM
+Playing: Grand Theft Auto V
+Viewers: 352 </desc>
+</programme>
+
+<programme start="20240220000000 +0000" stop="20240223100617 +0000" channel="msrachel.us">
 <title lang="en"> 🔴 Wheels on the Bus - Nursery Rhymes and Kids Songs - Toddler Learning Video - Ms Rachel </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20240220000000 +0000" stop="20240223100338 +0000" channel="SuperSimpleSongs.us">
+<programme start="20240220000000 +0000" stop="20240223100617 +0000" channel="SuperSimpleSongs.us">
 <title lang="en"> 🔴  Super Simple Songs Bedtyme Livestream 🌟🦉💤 - Kids Nap Songs - Super Simple Songs </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20240220000000 +0000" stop="20240223100338 +0000" channel="thewiggles.us">
+<programme start="20240220000000 +0000" stop="20240223100617 +0000" channel="thewiggles.us">
 <title lang="en"> Nursery Rhymes and Toddler Songs 🎶 24-7 Live Stream 📺 The Wiggles </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20240220000000 +0000" stop="20240223100343 +0000" channel="xqc.us">
+<programme start="20240220000000 +0000" stop="20240223100622 +0000" channel="xqc.us">
 <title lang="en"> 🟢🛑LIVE🛑GTA🛑RP🛑DONT MISS IT🛑BEST🛑PRETENDER🛑OF🛑ALL🛑TIME🛑 </title>
 <desc lang="en"> Started: earlier
 Playing: 
-Viewers: 26030 </desc>
+Viewers: 26280 </desc>
 </programme>
 
 
