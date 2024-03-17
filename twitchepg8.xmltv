@@ -2,24 +2,28 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="timmac.us">
-<display-name>timmac</display-name>
+<channel id="anthonyz.us">
+<display-name>anthonyz</display-name>
 </channel>
 
-<channel id="ashi.us">
-<display-name>ashi</display-name>
+<channel id="timmac.us">
+<display-name>timmac</display-name>
 </channel>
 
 <channel id="versa.us">
 <display-name>versa</display-name>
 </channel>
 
-<channel id="rexsair.us">
-<display-name>rexsair</display-name>
+<channel id="ashi.us">
+<display-name>ashi</display-name>
 </channel>
 
 <channel id="kemony.us">
 <display-name>kemony</display-name>
+</channel>
+
+<channel id="rexsair.us">
+<display-name>rexsair</display-name>
 </channel>
 
 <channel id="fanfan.us">
@@ -30,16 +34,16 @@
 <display-name>zuck</display-name>
 </channel>
 
+<channel id="ambush.us">
+<display-name>ambush</display-name>
+</channel>
+
 <channel id="cloakrp.us">
 <display-name>cloakrp</display-name>
 </channel>
 
 <channel id="kokobananaman.us">
 <display-name>kokobananaman</display-name>
-</channel>
-
-<channel id="ambush.us">
-<display-name>ambush</display-name>
 </channel>
 
 <channel id="kingjayclouted.us">
@@ -50,10 +54,6 @@
 <display-name>divajilly</display-name>
 </channel>
 
-<channel id="3piccsauce.us">
-<display-name>3piccsauce</display-name>
-</channel>
-
 <channel id="chandraviperdae.us">
 <display-name>chandraviperdae</display-name>
 </channel>
@@ -62,12 +62,16 @@
 <display-name>acezproduction</display-name>
 </channel>
 
-<channel id="Hauwnted.us">
-<display-name>Hauwnted</display-name>
-</channel>
-
 <channel id="crystalst.us">
 <display-name>crystalst</display-name>
+</channel>
+
+<channel id="3piccsauce.us">
+<display-name>3piccsauce</display-name>
+</channel>
+
+<channel id="Hauwnted.us">
+<display-name>Hauwnted</display-name>
 </channel>
 
 <channel id="klutch.us">
@@ -78,8 +82,8 @@
 <display-name>simo</display-name>
 </channel>
 
-<channel id="bucketst.us">
-<display-name>bucketst</display-name>
+<channel id="cutieno.us">
+<display-name>cutieno</display-name>
 </channel>
 
 <channel id="itsjustasummerjob.us">
@@ -90,8 +94,8 @@
 <display-name>ms_star</display-name>
 </channel>
 
-<channel id="cutieno.us">
-<display-name>cutieno</display-name>
+<channel id="bucketst.us">
+<display-name>bucketst</display-name>
 </channel>
 
 <channel id="kataudeo.us">
@@ -102,26 +106,26 @@
 <display-name>royalcreates</display-name>
 </channel>
 
+<channel id="thewiggles.us">
+<display-name>thewiggles</display-name>
+</channel>
+
 <channel id="SuperSimpleSongs.us">
 <display-name>SuperSimpleSongs</display-name>
 </channel>
 
-<channel id="thewiggles.us">
-<display-name>thewiggles</display-name>
-</channel>
+<programme start="20240317090612 +0000" stop="20240320040612 +0000" channel="anthonyz.us">
+<title lang="en"> AJ COP CORLEONE BABY NOPIXEL 4.0 - LIVE MON-FRI 10:30AM PST </title>
+<desc lang="en"> Started: 4:06AM
+Playing: Grand Theft Auto V
+Viewers: 86 </desc>
+</programme>
 
 <programme start="20240317023620 +0000" stop="20240319213620 +0000" channel="timmac.us">
 <title lang="en"> MAC MAHON- NoPixel - Socials: @timmac </title>
 <desc lang="en"> Started: 9:36PM
 Playing: Grand Theft Auto V
 Viewers: 1716 </desc>
-</programme>
-
-<programme start="20240316202335 +0000" stop="20240319152335 +0000" channel="ashi.us">
-<title lang="en"> [SUBATHON] FIONA-FIFI - THE COMPANY - NOPIXEL WL RP </title>
-<desc lang="en"> Started: 3:23PM
-Playing: Grand Theft Auto V
-Viewers: 627 </desc>
 </programme>
 
 <programme start="20240317072225 +0000" stop="20240320022225 +0000" channel="versa.us">
@@ -131,11 +135,11 @@ Playing: Grand Theft Auto V
 Viewers: 74 </desc>
 </programme>
 
-<programme start="20240317075338 +0000" stop="20240320025338 +0000" channel="rexsair.us">
-<title lang="en"> Levi (Rex) Archer - 🐍 HYDRA 🐍 - NoPixel 4.0 </title>
-<desc lang="en"> Started: 2:53AM
+<programme start="20240316202335 +0000" stop="20240319152335 +0000" channel="ashi.us">
+<title lang="en"> [SUBATHON] FIONA-FIFI - THE COMPANY - NOPIXEL WL RP </title>
+<desc lang="en"> Started: 3:23PM
 Playing: Grand Theft Auto V
-Viewers: 151 </desc>
+Viewers: 669 </desc>
 </programme>
 
 <programme start="20240317064317 +0000" stop="20240320014317 +0000" channel="kemony.us">
@@ -145,18 +149,32 @@ Playing: Grand Theft Auto V
 Viewers: 406 </desc>
 </programme>
 
+<programme start="20240317075338 +0000" stop="20240320025338 +0000" channel="rexsair.us">
+<title lang="en"> Levi (Rex) Archer - 🐍 HYDRA 🐍 - NoPixel 4.0 </title>
+<desc lang="en"> Started: 2:53AM
+Playing: Grand Theft Auto V
+Viewers: 151 </desc>
+</programme>
+
 <programme start="20240317081928 +0000" stop="20240320031928 +0000" channel="fanfan.us">
 <title lang="en"> fanny - SLEEPY mic socials vid @starf0rgesystems </title>
 <desc lang="en"> Started: 3:19AM
 Playing: Grand Theft Auto V
-Viewers: 2612 </desc>
+Viewers: 2575 </desc>
 </programme>
 
 <programme start="20240317073303 +0000" stop="20240320023303 +0000" channel="zuck.us">
 <title lang="en"> ❤️ Zuck - NoPixel 4.0 - Follow @zuck_ttv socials </title>
 <desc lang="en"> Started: 2:33AM
 Playing: Grand Theft Auto V
-Viewers: 185 </desc>
+Viewers: 190 </desc>
+</programme>
+
+<programme start="20240316183850 +0000" stop="20240319133850 +0000" channel="ambush.us">
+<title lang="en"> Freya Pepperwoods - NOPIXEL 4.0 - Socials Vods IG YT </title>
+<desc lang="en"> Started: 1:38PM
+Playing: Grand Theft Auto V
+Viewers: 1091 </desc>
 </programme>
 
 <programme start="20240317034515 +0000" stop="20240319224515 +0000" channel="cloakrp.us">
@@ -173,13 +191,6 @@ Playing: Grand Theft Auto V
 Viewers: 40 </desc>
 </programme>
 
-<programme start="20240316183850 +0000" stop="20240319133850 +0000" channel="ambush.us">
-<title lang="en"> Freya Pepperwoods - NOPIXEL 4.0 - Socials Vods IG YT </title>
-<desc lang="en"> Started: 1:38PM
-Playing: Grand Theft Auto V
-Viewers: 1091 </desc>
-</programme>
-
 <programme start="20240317041855 +0000" stop="20240319231855 +0000" channel="kingjayclouted.us">
 <title lang="en"> 👮🚨🚓 New PD - True Story RP - Ofc. J.Stone - GTA6 Ultra Realistic Graphics Mod - Police RP - Cop Roleplay - commands </title>
 <desc lang="en"> Started: 11:18PM
@@ -192,13 +203,6 @@ Viewers: 67 </desc>
 <desc lang="en"> Started: 4:48PM
 Playing: Grand Theft Auto V
 Viewers: 1321 </desc>
-</programme>
-
-<programme start="20240317073652 +0000" stop="20240320023652 +0000" channel="3piccsauce.us">
-<title lang="en"> 👑Sly👑 -~- 💲The Company💲-~- Nopixel WL 4.0 </title>
-<desc lang="en"> Started: 2:36AM
-Playing: Grand Theft Auto V
-Viewers: 88 </desc>
 </programme>
 
 <programme start="20240317051041 +0000" stop="20240320001041 +0000" channel="chandraviperdae.us">
@@ -215,18 +219,25 @@ Playing: Grand Theft Auto V
 Viewers: 185 </desc>
 </programme>
 
-<programme start="20240316190229 +0000" stop="20240319140229 +0000" channel="Hauwnted.us">
-<title lang="en"> Cau Mau - NoPixel 4.0 - The Company D.E.A.D.A.S.S - @hauwnted prio car house Cal Cow </title>
-<desc lang="en"> Started: 2:02PM
-Playing: Grand Theft Auto V
-Viewers: 80 </desc>
-</programme>
-
 <programme start="20240316230029 +0000" stop="20240319180029 +0000" channel="crystalst.us">
 <title lang="en"> Swan DeLeur 🦢 </title>
 <desc lang="en"> Started: 6:00PM
 Playing: Grand Theft Auto V
 Viewers: 440 </desc>
+</programme>
+
+<programme start="20240317073652 +0000" stop="20240320023652 +0000" channel="3piccsauce.us">
+<title lang="en"> 👑Sly👑 -~- 💲The Company💲-~- Nopixel WL 4.0 </title>
+<desc lang="en"> Started: 2:36AM
+Playing: Grand Theft Auto V
+Viewers: 88 </desc>
+</programme>
+
+<programme start="20240316190229 +0000" stop="20240319140229 +0000" channel="Hauwnted.us">
+<title lang="en"> Cau Mau - NoPixel 4.0 - The Company D.E.A.D.A.S.S - @hauwnted prio car house Cal Cow </title>
+<desc lang="en"> Started: 2:02PM
+Playing: Grand Theft Auto V
+Viewers: 80 </desc>
 </programme>
 
 <programme start="20240317081905 +0000" stop="20240320031905 +0000" channel="klutch.us">
@@ -240,14 +251,14 @@ Viewers: 89 </desc>
 <title lang="en"> Reggie Might - Numbers nerd-Daycare Manager - NoPixel WL </title>
 <desc lang="en"> Started: 2:00AM
 Playing: Grand Theft Auto V
-Viewers: 117 </desc>
+Viewers: 126 </desc>
 </programme>
 
-<programme start="20240317010131 +0000" stop="20240319200131 +0000" channel="bucketst.us">
-<title lang="en"> Gheto Kaiba - BBMC - NoPixel 4.0 WL partnerplus </title>
-<desc lang="en"> Started: 8:01PM
+<programme start="20240317084846 +0000" stop="20240320034846 +0000" channel="cutieno.us">
+<title lang="en"> Rue Minmi - ADMC - Nopixel 4.0 - Rue and her bad hair day </title>
+<desc lang="en"> Started: 3:48AM
 Playing: Grand Theft Auto V
-Viewers: 257 </desc>
+Viewers: 60 </desc>
 </programme>
 
 <programme start="20240317043914 +0000" stop="20240319233914 +0000" channel="itsjustasummerjob.us">
@@ -261,14 +272,14 @@ Viewers: 159 </desc>
 <title lang="en"> Sgt. Skye Faye - LSPD - 62-100 Partner (2-3) - NoPixel WL - @ms_star </title>
 <desc lang="en"> Started: 2:04AM
 Playing: Grand Theft Auto V
-Viewers: 608 </desc>
+Viewers: 554 </desc>
 </programme>
 
-<programme start="20240317084846 +0000" stop="20240320034846 +0000" channel="cutieno.us">
-<title lang="en"> Rue Minmi - ADMC - Nopixel 4.0 - Rue and her bad hair day </title>
-<desc lang="en"> Started: 3:48AM
+<programme start="20240317010131 +0000" stop="20240319200131 +0000" channel="bucketst.us">
+<title lang="en"> Gheto Kaiba - BBMC - NoPixel 4.0 WL partnerplus </title>
+<desc lang="en"> Started: 8:01PM
 Playing: Grand Theft Auto V
-Viewers: 60 </desc>
+Viewers: 257 </desc>
 </programme>
 
 <programme start="20240317074703 +0000" stop="20240320024703 +0000" channel="kataudeo.us">
@@ -285,15 +296,15 @@ Playing: Grand Theft Auto V
 Viewers: 11 </desc>
 </programme>
 
-<programme start="20240317000000 +0000" stop="20240320040616 +0000" channel="SuperSimpleSongs.us">
-<title lang="en"> 🔴  Super Simple Songs Bedtyme Livestream 🌟🦉💤 - Kids Nap Songs - Super Simple Songs </title>
+<programme start="20240317000000 +0000" stop="20240320040733 +0000" channel="thewiggles.us">
+<title lang="en"> Kids Dance Party 💃🕺 The Wiggles 24-7 Live Stream 🎉 Learn to Dance </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
 </programme>
 
-<programme start="20240317000000 +0000" stop="20240320040616 +0000" channel="thewiggles.us">
-<title lang="en"> Kids Dance Party 💃🕺 The Wiggles 24-7 Live Stream 🎉 Learn to Dance </title>
+<programme start="20240317000000 +0000" stop="20240320040733 +0000" channel="SuperSimpleSongs.us">
+<title lang="en"> 🔴  Super Simple Songs Bedtyme Livestream 🌟🦉💤 - Kids Nap Songs - Super Simple Songs </title>
 <desc lang="en"> Started: earlier
 Playing: idk
 Viewers: 200 </desc>
