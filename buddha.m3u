@@ -1,10 +1,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/engeles20/others/main/newtwitchepg.xmltv" 
  
 #EXTINF:-1 tvg-name="buddha_audio",buddha_audio 
-error: No playable streams found on this URL: twitch.tv/buddha
+https://video-weaver.dfw56.hls.ttvnw.net/v1/playlist/Cr0EkSGrNgaK28leQvYT9jPa_I3VTdLJAp0XPki3EIw9zUdKiH9Zc9Ov-qrB4rzmN6_drgXiUc1QOrYlQzyz-cH9uMbwh1G3gLAWxsdMRKomhdwEelCHAZjYSEa68n95wG4_sMaSSXPN2arB8brs0PnU-ydRPAuvpblzfPGclYH4bR6PW4BSIjAajKx5axBbOtWtxBl3OQ9kmIVh2lz6WSn0vwaCWbsDvctwzAkqCwfk6Nql6jXAzWaUPkWVNAUfACCGo6EMaAvy6cSagnVandYCBxgp241Ib_B8T_VvGPAQNyGvo87DNLCWaLbtjM5zAy_bf0SN5XGX_kUDWmGrKZAouky5wsBsueze2oA8HlkCAQ2zK3fxeE0c7ZwXEeSYn_UPhYBtar-RGA40PtgSd6-YJkZdRXCn_22uQ1TwoS4vWqKM-PmqNHb_yaMsg9ZpagpeUcsXYCkzqox0AHGgJ8g5p_8cckDFDdjVxuzzV-ZizOsz-1oxJrqx3GQ0rHAWpxWFYIczyZ6R6dB5TGD6zbTB-tn_30lb7T84K8r_gRZTrimpfbfBNea8tGRFGHpqBiRNOZ79uzg1iHINdUX2Z3W3JKUpsQtPB4zIDGZDY5xCU0V3QCBv2q0n54Yi_xzY4mbcKpFb41jm7hlDfAF40uXYn1xy-36FL8nA8RYzjdH4l8wczupaLpIZx0BYpjr7ll2fUCDIG1ZNEPZRMd-SbXX3b53MnRceyU5fxuPzhP6dzjtruIfYqNj2N4WRc0jwGgxDNuMExxgS6PF2lacgASoJdXMtZWFzdC0yMIwJ.m3u8
  
 #EXTINF:-1 tvg-name="buddha_160p",buddha_160p 
-error: No playable streams found on this URL: twitch.tv/buddha
+error: The specified stream(s) '160p' could not be found.
+       Available streams: audio_only, 360p30 (worst), 720p60, 1080p60 (best)
  
 #EXTINF:-1 tvg-name="buddha_360p",buddha_360p 
-error: No playable streams found on this URL: twitch.tv/buddha
+error: The specified stream(s) '360p' could not be found.
+       Available streams: audio_only, 360p30 (worst), 720p60, 1080p60 (best)
