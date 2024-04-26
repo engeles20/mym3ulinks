@@ -2,28 +2,24 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="reconmalfunction.us">
-<display-name>reconmalfunction</display-name>
+<channel id="SayeedBlack.us">
+<display-name>SayeedBlack</display-name>
 </channel>
 
 <channel id="christombstone.us">
 <display-name>christombstone</display-name>
 </channel>
 
-<channel id="ferst711.us">
-<display-name>ferst711</display-name>
-</channel>
-
 <channel id="kinamazing.us">
 <display-name>kinamazing</display-name>
 </channel>
 
-<channel id="sock22.us">
-<display-name>sock22</display-name>
+<channel id="ferst711.us">
+<display-name>ferst711</display-name>
 </channel>
 
-<channel id="rexsair.us">
-<display-name>rexsair</display-name>
+<channel id="sock22.us">
+<display-name>sock22</display-name>
 </channel>
 
 <channel id="kemony.us">
@@ -36,6 +32,10 @@
 
 <channel id="yuukidav.us">
 <display-name>yuukidav</display-name>
+</channel>
+
+<channel id="rexsair.us">
+<display-name>rexsair</display-name>
 </channel>
 
 <channel id="4head.us">
@@ -58,6 +58,10 @@
 <display-name>tinyspark</display-name>
 </channel>
 
+<channel id="jozukai.us">
+<display-name>jozukai</display-name>
+</channel>
+
 <channel id="ambush.us">
 <display-name>ambush</display-name>
 </channel>
@@ -68,10 +72,6 @@
 
 <channel id="acezproduction.us">
 <display-name>acezproduction</display-name>
-</channel>
-
-<channel id="jozukai.us">
-<display-name>jozukai</display-name>
 </channel>
 
 <channel id="defac3d.us">
@@ -102,18 +102,25 @@
 <display-name>thewiggles</display-name>
 </channel>
 
-<programme start="20240426030122 +0000" stop="20240428220122 +0000" channel="reconmalfunction.us">
-<title lang="en"> NoPixel 4.0 WL -- Richard Woytkiw - 24HR @ 20k -- Discord sr PPlus TTS -- 300-300 Partner (1-3) -- </title>
-<desc lang="en"> Started: 10:01PM
+<programme start="20240426101424 +0000" stop="20240429051424 +0000" channel="SayeedBlack.us">
+<title lang="en"> Speedy-Friday Goodtime stream- Nopixel 4.0 social </title>
+<desc lang="en"> Started: 5:14AM
 Playing: Grand Theft Auto V
-Viewers: 1652 </desc>
+Viewers: 13 </desc>
 </programme>
 
 <programme start="20240426031133 +0000" stop="20240428221133 +0000" channel="christombstone.us">
 <title lang="en"> 125 Snr. Officer Flop Dugong -- NoPixel 4.0 -- @ChrisTombstone_ on socials </title>
 <desc lang="en"> Started: 10:11PM
 Playing: Grand Theft Auto V
-Viewers: 626 </desc>
+Viewers: 619 </desc>
+</programme>
+
+<programme start="20240426100606 +0000" stop="20240429050606 +0000" channel="kinamazing.us">
+<title lang="en"> GTA RP - Charlie - Nopixel </title>
+<desc lang="en"> Started: 5:06AM
+Playing: Grand Theft Auto V
+Viewers: 72 </desc>
 </programme>
 
 <programme start="20240426084052 +0000" stop="20240429034052 +0000" channel="ferst711.us">
@@ -123,25 +130,11 @@ Playing: Grand Theft Auto V
 Viewers: 24 </desc>
 </programme>
 
-<programme start="20240426100606 +0000" stop="20240429050606 +0000" channel="kinamazing.us">
-<title lang="en"> GTA RP - Charlie - Nopixel </title>
-<desc lang="en"> Started: 5:06AM
-Playing: Grand Theft Auto V
-Viewers: 44 </desc>
-</programme>
-
 <programme start="20240426094600 +0000" stop="20240429044600 +0000" channel="sock22.us">
 <title lang="en"> Richard Dark - NoPixel WL - PartnerPlus: 93-100 - Ant #ad </title>
 <desc lang="en"> Started: 4:46AM
 Playing: Grand Theft Auto V
 Viewers: 167 </desc>
-</programme>
-
-<programme start="20240426092904 +0000" stop="20240429042904 +0000" channel="rexsair.us">
-<title lang="en"> Levi Rex Archer - 🐍 Hydra 🐍 - NoPixel WL </title>
-<desc lang="en"> Started: 4:29AM
-Playing: Grand Theft Auto V
-Viewers: 17 </desc>
 </programme>
 
 <programme start="20240426064836 +0000" stop="20240429014836 +0000" channel="kemony.us">
@@ -162,35 +155,42 @@ Viewers: 411 </desc>
 <title lang="en"> snr officer lukas lavender 🎀 lspd - nopixel wl - @yuukidav </title>
 <desc lang="en"> Started: 12:02AM
 Playing: Grand Theft Auto V
-Viewers: 309 </desc>
+Viewers: 322 </desc>
+</programme>
+
+<programme start="20240426092904 +0000" stop="20240429042904 +0000" channel="rexsair.us">
+<title lang="en"> Levi Rex Archer - 🐍 Hydra 🐍 - NoPixel WL </title>
+<desc lang="en"> Started: 4:29AM
+Playing: Grand Theft Auto V
+Viewers: 18 </desc>
 </programme>
 
 <programme start="20240426093025 +0000" stop="20240429043025 +0000" channel="4head.us">
 <title lang="en"> 4HEAD - NOPIXEL 4.0 - TTS </title>
 <desc lang="en"> Started: 4:30AM
 Playing: Grand Theft Auto V
-Viewers: 1852 </desc>
+Viewers: 1886 </desc>
 </programme>
 
 <programme start="20240426082411 +0000" stop="20240429032411 +0000" channel="dripp.us">
 <title lang="en"> Future - No Pixel 4.0 </title>
 <desc lang="en"> Started: 3:24AM
 Playing: Grand Theft Auto V
-Viewers: 501 </desc>
+Viewers: 431 </desc>
 </programme>
 
 <programme start="20240425214719 +0000" stop="20240428164719 +0000" channel="divajilly.us">
 <title lang="en"> Siobhan Thoroughbred - NoPixel 4.0 WL - Something Wicked this Way Comes </title>
 <desc lang="en"> Started: 4:47PM
 Playing: Grand Theft Auto V
-Viewers: 1118 </desc>
+Viewers: 1103 </desc>
 </programme>
 
 <programme start="20240426081756 +0000" stop="20240429031756 +0000" channel="hotted89.us">
 <title lang="en"> JJ - Maze Bank Prep - Kaneshiro - Nopixel 4.0 </title>
 <desc lang="en"> Started: 3:17AM
 Playing: Grand Theft Auto V
-Viewers: 80 </desc>
+Viewers: 73 </desc>
 </programme>
 
 <programme start="20240426072354 +0000" stop="20240429022354 +0000" channel="tinyspark.us">
@@ -198,6 +198,13 @@ Viewers: 80 </desc>
 <desc lang="en"> Started: 2:23AM
 Playing: Grand Theft Auto V
 Viewers: 119 </desc>
+</programme>
+
+<programme start="20240426073018 +0000" stop="20240429023018 +0000" channel="jozukai.us">
+<title lang="en"> Maxine Company Man Archer-Ro... - The Company - Uncapped: Day 45 - NoPixel 4.0 - socials </title>
+<desc lang="en"> Started: 2:30AM
+Playing: Grand Theft Auto V
+Viewers: 73 </desc>
 </programme>
 
 <programme start="20240426000536 +0000" stop="20240428190536 +0000" channel="ambush.us">
@@ -211,21 +218,14 @@ Viewers: 760 </desc>
 <title lang="en"> Eli Porter 🐀 Elz Chapo 🐀 marvel reacts socials 🐀 NoPixel WL 4.0 🐀 The Manor 🐀 #ad </title>
 <desc lang="en"> Started: 3:18AM
 Playing: Grand Theft Auto V
-Viewers: 137 </desc>
+Viewers: 147 </desc>
 </programme>
 
 <programme start="20240426051714 +0000" stop="20240429001714 +0000" channel="acezproduction.us">
 <title lang="en"> SUBATHON😈ACHEZ PEREZ😈THE COMPANY🔥PROJECT MANAGER - 4.0 NOPIXEL 👀 - GTA RP - AcezProduction </title>
 <desc lang="en"> Started: 12:17AM
 Playing: Grand Theft Auto V
-Viewers: 200 </desc>
-</programme>
-
-<programme start="20240426073018 +0000" stop="20240429023018 +0000" channel="jozukai.us">
-<title lang="en"> Maxine Company Man Archer-Ro... - The Company - Uncapped: Day 45 - NoPixel 4.0 - socials </title>
-<desc lang="en"> Started: 2:30AM
-Playing: Grand Theft Auto V
-Viewers: 83 </desc>
+Viewers: 213 </desc>
 </programme>
 
 <programme start="20240426091139 +0000" stop="20240429041139 +0000" channel="defac3d.us">
@@ -239,7 +239,7 @@ Viewers: 790 </desc>
 <title lang="en"> Officer Tadhg McQuillen - LSPD - NoPixel 4.0 - discord - short cop stream </title>
 <desc lang="en"> Started: 2:20AM
 Playing: Grand Theft Auto V
-Viewers: 156 </desc>
+Viewers: 138 </desc>
 </programme>
 
 <programme start="20240426050045 +0000" stop="20240429000045 +0000" channel="ms_star.us">
@@ -260,17 +260,17 @@ Viewers: 227 </desc>
 <title lang="en"> Bozo the Clown - NoPixel 4.0 WL - Late Stream partner emotes twitter discord </title>
 <desc lang="en"> Started: 10:01PM
 Playing: Grand Theft Auto V
-Viewers: 85 </desc>
+Viewers: 80 </desc>
 </programme>
 
 <programme start="20240426035516 +0000" stop="20240428225516 +0000" channel="royalcreates.us">
 <title lang="en"> Aphrodite - PD Newbie - NOPIXEL WL 4.0 </title>
 <desc lang="en"> Started: 10:55PM
 Playing: Grand Theft Auto V
-Viewers: 19 </desc>
+Viewers: 20 </desc>
 </programme>
 
-<programme start="20240426000000 +0000" stop="20240429051314 +0000" channel="thewiggles.us">
+<programme start="20240426000000 +0000" stop="20240429051519 +0000" channel="thewiggles.us">
 <title lang="en"> EDM Techno for Kids 🪩 Rave Soundtrack Visualiser 🔊 The Wiggles Sound System: Rave of Innocence </title>
 <desc lang="en"> Started: earlier
 Playing: idk
