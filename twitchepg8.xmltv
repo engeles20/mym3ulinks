@@ -2,12 +2,12 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="dasmehdi.us">
-<display-name>dasmehdi</display-name>
-</channel>
-
 <channel id="esfandtv.us">
 <display-name>esfandtv</display-name>
+</channel>
+
+<channel id="dasmehdi.us">
+<display-name>dasmehdi</display-name>
 </channel>
 
 <channel id="crocc.us">
@@ -38,6 +38,10 @@
 <display-name>divajilly</display-name>
 </channel>
 
+<channel id="hotted89.us">
+<display-name>hotted89</display-name>
+</channel>
+
 <channel id="tobii.us">
 <display-name>tobii</display-name>
 </channel>
@@ -46,12 +50,12 @@
 <display-name>acezproduction</display-name>
 </channel>
 
-<channel id="defac3d.us">
-<display-name>defac3d</display-name>
-</channel>
-
 <channel id="angelina.us">
 <display-name>angelina</display-name>
+</channel>
+
+<channel id="defac3d.us">
+<display-name>defac3d</display-name>
 </channel>
 
 <channel id="ms_star.us">
@@ -66,12 +70,12 @@
 <display-name>kataudeo</display-name>
 </channel>
 
-<channel id="justanotherbro.us">
-<display-name>justanotherbro</display-name>
-</channel>
-
 <channel id="aintitadam.us">
 <display-name>aintitadam</display-name>
+</channel>
+
+<channel id="justanotherbro.us">
+<display-name>justanotherbro</display-name>
 </channel>
 
 <channel id="royalcreates.us">
@@ -82,13 +86,6 @@
 <display-name>thewiggles</display-name>
 </channel>
 
-<programme start="20240428182435 +0000" stop="20240501132435 +0000" channel="dasmehdi.us">
-<title lang="en"> Ofc Brian Knight - NoPixel 4.0 - ExpressVPN - socials: @dasmehdi </title>
-<desc lang="en"> Started: 1:24PM
-Playing: Grand Theft Auto V
-Viewers: 3329 </desc>
-</programme>
-
 <programme start="20240428184351 +0000" stop="20240501134351 +0000" channel="esfandtv.us">
 <title lang="en"> Cornwood GTA RP - @esfandtv all socials </title>
 <desc lang="en"> Started: 1:43PM
@@ -96,39 +93,46 @@ Playing: Grand Theft Auto V
 Viewers: 5983 </desc>
 </programme>
 
+<programme start="20240428182435 +0000" stop="20240501132435 +0000" channel="dasmehdi.us">
+<title lang="en"> Ofc Brian Knight - NoPixel 4.0 - ExpressVPN - socials: @dasmehdi </title>
+<desc lang="en"> Started: 1:24PM
+Playing: Grand Theft Auto V
+Viewers: 2953 </desc>
+</programme>
+
 <programme start="20240428205732 +0000" stop="20240501155732 +0000" channel="crocc.us">
 <title lang="en"> Vito DiCenzo -- SUBATHON DAY 7 -- NoPixel 4.0 WL -- subathon goals </title>
 <desc lang="en"> Started: 3:57PM
 Playing: Grand Theft Auto V
-Viewers: 486 </desc>
+Viewers: 476 </desc>
 </programme>
 
 <programme start="20240429080043 +0000" stop="20240502030043 +0000" channel="swizzmb.us">
 <title lang="en"> REACT  Miguel Almerion - GLOCKATRON - Hydra Gang - youtube discord </title>
 <desc lang="en"> Started: 3:00AM
 Playing: Grand Theft Auto V
-Viewers: 633 </desc>
+Viewers: 691 </desc>
 </programme>
 
 <programme start="20240429062109 +0000" stop="20240502012109 +0000" channel="kemony.us">
 <title lang="en"> SGT ALICE WATSON - NoPixel WL 4.0 🐍 HYDRA 🐍 - Gamersupps #ad </title>
 <desc lang="en"> Started: 1:21AM
 Playing: Grand Theft Auto V
-Viewers: 166 </desc>
+Viewers: 145 </desc>
 </programme>
 
 <programme start="20240429050530 +0000" stop="20240502000530 +0000" channel="yuukidav.us">
 <title lang="en"> snr officer lukas lavender 🎀 lspd - nopixel wl - @yuukidav </title>
 <desc lang="en"> Started: 12:05AM
 Playing: Grand Theft Auto V
-Viewers: 311 </desc>
+Viewers: 295 </desc>
 </programme>
 
 <programme start="20240429065944 +0000" stop="20240502015944 +0000" channel="dripp.us">
 <title lang="en"> Future - No Pixel 4.0 </title>
 <desc lang="en"> Started: 1:59AM
 Playing: Grand Theft Auto V
-Viewers: 867 </desc>
+Viewers: 856 </desc>
 </programme>
 
 <programme start="20240429062732 +0000" stop="20240502012732 +0000" channel="theeazylife.us">
@@ -142,80 +146,87 @@ Viewers: 23 </desc>
 <title lang="en"> Siobhan Thoroughbred - NoPixel 4.0 WL - Cheaters Never Prosper </title>
 <desc lang="en"> Started: 10:35PM
 Playing: Grand Theft Auto V
-Viewers: 2086 </desc>
+Viewers: 2343 </desc>
+</programme>
+
+<programme start="20240429084849 +0000" stop="20240502034849 +0000" channel="hotted89.us">
+<title lang="en"> JJ - Kaneshiro - Nopixel 4.0 </title>
+<desc lang="en"> Started: 3:48AM
+Playing: Grand Theft Auto V
+Viewers: 8 </desc>
 </programme>
 
 <programme start="20240428215947 +0000" stop="20240501165947 +0000" channel="tobii.us">
 <title lang="en"> Dev and RP - ⸸BD - NoPixel Dev - socials discord </title>
 <desc lang="en"> Started: 4:59PM
 Playing: Grand Theft Auto V
-Viewers: 672 </desc>
+Viewers: 685 </desc>
 </programme>
 
 <programme start="20240429062436 +0000" stop="20240502012436 +0000" channel="acezproduction.us">
 <title lang="en"> 😈ACHEZ PEREZ😈THE COMPANY🔥PROJECT MANAGER - 4.0 NOPIXEL 👀 - GTA RP - AcezProduction </title>
 <desc lang="en"> Started: 1:24AM
 Playing: Grand Theft Auto V
-Viewers: 316 </desc>
-</programme>
-
-<programme start="20240429080554 +0000" stop="20240502030554 +0000" channel="defac3d.us">
-<title lang="en"> DENZEL - CIV GANG - NOPIXEL 4.0 - G2A #AD </title>
-<desc lang="en"> Started: 3:05AM
-Playing: Grand Theft Auto V
-Viewers: 561 </desc>
+Viewers: 332 </desc>
 </programme>
 
 <programme start="20240429083750 +0000" stop="20240502033750 +0000" channel="angelina.us">
 <title lang="en"> ⋆｡°✩ pplus 🚨 BRANDI LYNN🚨CADET IN THE FIELD🚨 NOPIXEL 4.0 WL 🚨 discord socials ⋆｡°✩ </title>
 <desc lang="en"> Started: 3:37AM
 Playing: Grand Theft Auto V
-Viewers: 37 </desc>
+Viewers: 59 </desc>
+</programme>
+
+<programme start="20240429080554 +0000" stop="20240502030554 +0000" channel="defac3d.us">
+<title lang="en"> DENZEL - CIV GANG - NOPIXEL 4.0 - G2A #AD </title>
+<desc lang="en"> Started: 3:05AM
+Playing: Grand Theft Auto V
+Viewers: 603 </desc>
 </programme>
 
 <programme start="20240429062021 +0000" stop="20240502012021 +0000" channel="ms_star.us">
 <title lang="en"> Subathon day 10 - Sgt. Skye Faye - LSPD - Partner (3-3) DONE WAOWWWW - NoPixel WL - @ms_star </title>
 <desc lang="en"> Started: 1:20AM
 Playing: Grand Theft Auto V
-Viewers: 192 </desc>
+Viewers: 187 </desc>
 </programme>
 
 <programme start="20240429063513 +0000" stop="20240502013513 +0000" channel="cutieno.us">
 <title lang="en"> Rue Minmi - ADMC - Nopixel WL - Rue doing Rue things </title>
 <desc lang="en"> Started: 1:35AM
 Playing: Grand Theft Auto V
-Viewers: 202 </desc>
+Viewers: 197 </desc>
 </programme>
 
 <programme start="20240429080656 +0000" stop="20240502030656 +0000" channel="kataudeo.us">
 <title lang="en"> Lottie 🦅 Lost MC - NoPixel 4.0 WL - commands \o- </title>
 <desc lang="en"> Started: 3:06AM
 Playing: Grand Theft Auto V
-Viewers: 6 </desc>
-</programme>
-
-<programme start="20240429082119 +0000" stop="20240502032119 +0000" channel="justanotherbro.us">
-<title lang="en"> Bozo the Clown - NoPixel 4.0 WL - Late Stream partner emotes twitter discord </title>
-<desc lang="en"> Started: 3:21AM
-Playing: Grand Theft Auto V
-Viewers: 70 </desc>
+Viewers: 10 </desc>
 </programme>
 
 <programme start="20240429054201 +0000" stop="20240502004201 +0000" channel="aintitadam.us">
 <title lang="en"> scruffy Prince of Clowns doodle - nopixel wl </title>
 <desc lang="en"> Started: 12:42AM
 Playing: Grand Theft Auto V
-Viewers: 52 </desc>
+Viewers: 87 </desc>
+</programme>
+
+<programme start="20240429082119 +0000" stop="20240502032119 +0000" channel="justanotherbro.us">
+<title lang="en"> Bozo the Clown - NoPixel 4.0 WL - Late Stream partner emotes twitter discord </title>
+<desc lang="en"> Started: 3:21AM
+Playing: Grand Theft Auto V
+Viewers: 68 </desc>
 </programme>
 
 <programme start="20240429030037 +0000" stop="20240501220037 +0000" channel="royalcreates.us">
 <title lang="en"> Aphrodite - PD Cadet - NOPIXEL WL 4.0 </title>
 <desc lang="en"> Started: 10:00PM
 Playing: Grand Theft Auto V
-Viewers: 182 </desc>
+Viewers: 183 </desc>
 </programme>
 
-<programme start="20240429000000 +0000" stop="20240502034313 +0000" channel="thewiggles.us">
+<programme start="20240429000000 +0000" stop="20240502035113 +0000" channel="thewiggles.us">
 <title lang="en"> EDM Techno for Kids 🪩 Rave Soundtrack Visualiser 🔊 The Wiggles Sound System: Rave of Innocence </title>
 <desc lang="en"> Started: earlier
 Playing: idk
