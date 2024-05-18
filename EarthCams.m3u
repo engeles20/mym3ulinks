@@ -58,3 +58,31 @@ error: No playable streams found on this URL: https://www.youtube.com/watch?v=K3
 error: No playable streams found on this URL: https://www.youtube.com/watch?v=apam0X32RNk
  
 #EXTINF:-1 group-title="Youtube_Cams",Beach Bar St John Webcam 
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716058839/ei/d6ZIZujYJdvKybgPj8qcgA8/ip/2603:8080:901:aa20:69f1:bd0d:4c7c:e940/id/2wqpy036z24.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-q4fl6nds.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/1428750/mh/-f/mm/44/mn/sn-q4fl6nds/ms/lva/mv/m/mvi/1/pl/37/dover/11/pacing/0/keepalive/yes/mt/1716036752/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhAOUwsATZrEizOiyRHsTPoKJuxXIF9iakOZpndqXaZPGRAiA4RGhOJ8Q84MYusFBVFU0MEub71BkfETT5qgtUMJ63og%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAKtTWEyhYtmIzOmzaWgMtPaJT-xgVXuOEK6kUmEqoO-sAiEAv3Dlqw7qxhGuNKpsdjJ6IsW1tla8FWuNFvsv5nWezdo%3D/playlist/index.m3u8
+ 
+#EXTINF:-1 group-title="Earth_Cams",Chicago 
+https://videos-3.earthcam.com/fecnetwork/15649.flv/chunklist_w900448713.m3u8?t=jqJYH9BFynXi2RBezQLo6W7YcDStAZbIN7FnUM%2Fx15YzRuORhUleflaQenSx%2FjTZ
+ 
+#EXTINF:-1 group-title="Earth_Cams",Wrigley Field 
+https://videos-3.earthcam.com/fecnetwork/13661.flv/chunklist_w114582740.m3u8?t=RLwfbNlAu1quBC9DjUbOPrroBvBHA7%2F5h3FXIwkQhFyXq96NV3UOCshjrfkxn1Kn
+ 
+#EXTINF:-1 group-title="Earth_Cams",Wrigley Field 2 
+https://videos-3.earthcam.com/fecnetwork/13220.flv/chunklist_w716499643.m3u8?t=dozUV5dEz3ELcI496XY3cn%2FO8TWx9XMgpk5pPoSqU%2FGlYsI7airqlYkpuEWfyMw6
+ 
+#EXTINF:-1 group-title="Earth_Cams",Seattle Space Needle 
+https://videos-3.earthcam.com/fecnetwork/17833.flv/chunklist_w899946796.m3u8?t=4PeNUfw2GDMFS9pyzZVgcX1EVv49or3battKTtryHjYg3sC43fiAzfgmr3y%2FaWny
+ 
+#EXTINF:-1 group-title="Earth_Cams",Seattle Space Needle 2 
+https://videos-3.earthcam.com/fecnetwork/17629.flv/chunklist_w82103004.m3u8?t=9ynBk4j4e18rx4RX%2BqfLePZyC2No1njAzFeeGCeyKt%2BJDAk3XNVyvPFg%2FZx7yQGk
+ 
+#EXTINF:-1 group-title="Earth_Cams",Brooklyn Bridge 
+https://videos-3.earthcam.com/fecnetwork/3983.flv/chunklist_w1654338858.m3u8?t=%2FKzbgFbsHqNP8Rjew823weJ8t%2BxtZ7JJEXw8%2BD1%2BUudxLJZC8HIs1Jun6fFlY5T4
+ 
+#EXTINF:-1 group-title="Earth_Cams",Dallas 
+https://videos-3.earthcam.com/fecnetwork/17605.flv/chunklist_w1391641257.m3u8?t=23jxc0NY2NykHVBnLtBGraLAtytvoT25HjcKowakxdiqEUrPv5jUo8UjhZwrIrOt
+ 
+#EXTINF:-1 group-title="Earth_Cams",Dallas Reunion Tower 
+https://videos-3.earthcam.com/fecnetwork/27172.flv/chunklist_w129034653.m3u8?t=1pOoLu4rUkReYqfPyoSRfM9kuxr3Mzs1fDIQ5GpbW4oekxlY7puLyi5KOOUf52Cv
+ 
+#EXTINF:-1 group-title="Earth_Cams",waikoloa 
+https://videos-3.earthcam.com/fecnetwork/18095.flv/chunklist_w1914670922.m3u8?t=1TMvOEq%2Fs32yjVI5tuR3HfanDdp0yGvJ5OK9Vf7Th%2FF66WiL1XpwzKaK6%2BTLPF9O
