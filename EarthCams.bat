@@ -18,63 +18,59 @@ streamlink https://www.youtube.com/watch?v=OhdY3Pfuyg0 best --stream-url >> C:\U
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",Santa Monica Beach Cam powered by EXPLORE >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/watch?v=qmE7U1YZPQA best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-
-@echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-@echo #EXTINF:-1 group-title="Youtube_Cams",Florida Live Beach Cam on Fort Myers Beach Pier at Pierside Bar and Grill >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/watch?v=BOl-NDKAkM4 best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/watch?v=qmE7U1YZPQA best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",🐳 LIVE 24/7 🌴 Kaanapali Beach HD Maui Cam >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/channel/UCIQVWkOilfxoQSFcban_d-A/live best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/channel/UCIQVWkOilfxoQSFcban_d-A/live best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",Big Bear Bald Eagle Cam >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/channel/UCsFgbVuhRrPV5FqyN7kOD8g/live best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/channel/UCsFgbVuhRrPV5FqyN7kOD8g/live best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",Live Cam Central Memorial Park Calgary Alberta >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/watch?v=xsRDTfuksyI best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/watch?v=xsRDTfuksyI best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",Live NYC Brooklyn Bridge Manhattan cam >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/watch?v=KGuCGd726RA best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/watch?v=y1b1yrCSjFE best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",Live NYC Lower Manhattan New York Harbor Cam >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/watch?v=Vj0XKu6AoOw best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/watch?v=r1uv8YPUT90 best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",The University of Tampa Live Webcam >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/watch?v=j2tiJ5evopQ best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/watch?v=qYs-SMoyH_k best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",4K Live Cam of Ponte delle Guglie Venice >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/watch?v=HpZAez2oYsA best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/watch?v=HpZAez2oYsA best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",Dania Beach Pier and Beach Cam >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/watch?v=bEoNVd3spEM best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/watch?v=o1eTLR7Degs best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",Las Vegas AE View Live >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/watch?v=ug5UA1MsQ3A best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/watch?v=861gPCiCgoE best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",Las Vegas NYNY View Live >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/watch?v=bgsE-LRplIg best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-
-@echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-@echo #EXTINF:-1 group-title="Youtube_Cams",Venice Beach LIVE Los Angeles >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/watch?v=vvOjJoSEFM0 best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/watch?v=T7yUb4BL0ik best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",San Francisco Skyline >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/watch?v=K3vjVPiXq5g best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/watch?v=17L1ahq27ro best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+
+@echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+@echo #EXTINF:-1 group-title="Youtube_Cams",Venice Beach Live Camera Los Angeles >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/watch?v=3LXQWU67Ufk best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",Beach Live Stream Thailand Koh Phangan House of Sanskara on Haad Rin beach >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/watch?v=apam0X32RNk best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/watch?v=1nVFCfRlqRo best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",Beach Bar St John Webcam >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
