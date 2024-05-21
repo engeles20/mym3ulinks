@@ -2,23 +2,23 @@
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",Galveston Texas 24/7 Live Beach Camera >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/watch?v=BbILbeRIOs4 best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/watch?v=BbILbeRIOs4 best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",Houston Texas 24/7 Live City Camera >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/watch?v=z-VVLWWvAEU best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/watch?v=z-VVLWWvAEU best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",Houston Texas 24/7 Live City Camera 2 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/watch?v=fix2LD9onS0 best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/watch?v=fix2LD9onS0 best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",Times Square Duffy Square 4K View Live >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/watch?v=mNawBricEYw best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/watch?v=OhdY3Pfuyg0 best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",Santa Monica Beach Cam powered by EXPLORE >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/watch?v=OWbI6WtlI-k best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/watch?v=qmE7U1YZPQA best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",Florida Live Beach Cam on Fort Myers Beach Pier at Pierside Bar and Grill >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
