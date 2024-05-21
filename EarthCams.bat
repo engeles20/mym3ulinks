@@ -74,40 +74,40 @@ streamlink https://www.youtube.com/watch?v=1nVFCfRlqRo best --stream-url >> C:\U
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Youtube_Cams",Beach Bar St John Webcam >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.youtube.com/watch?v=2wqpy036z24 best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.youtube.com/watch?v=2wqpy036z24 best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Earth_Cams",Chicago >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.earthcam.com/usa/illinois/chicago/field/?cam=fieldmuseum best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.earthcam.com/usa/illinois/chicago/field/?cam=fieldmuseum best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Earth_Cams",Wrigley Field >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.earthcam.com/usa/illinois/chicago/wrigleyfield/?cam=wrigleyfield_hd best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.earthcam.com/usa/illinois/chicago/wrigleyfield/?cam=wrigleyfield_hd best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Earth_Cams",Wrigley Field 2 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.earthcam.com/usa/illinois/chicago/wrigleyville/?cam=wrigleyville best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.earthcam.com/usa/illinois/chicago/wrigleyville/?cam=wrigleyville best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Earth_Cams",Seattle Space Needle >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.earthcam.com/usa/washington/seattle/?cam=seattlespaceneedle best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.earthcam.com/usa/washington/seattle/?cam=seattlespaceneedle best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Earth_Cams",Seattle Space Needle 2 >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.earthcam.com/usa/washington/seattle/?cam=seattleskyline best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.earthcam.com/usa/washington/seattle/?cam=seattleskyline best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Earth_Cams",Brooklyn Bridge >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.earthcam.com/usa/newyork/brooklynbridge/?cam=gzcchd best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.earthcam.com/usa/newyork/brooklynbridge/?cam=gzcchd best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Earth_Cams",Dallas >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.earthcam.com/usa/texas/dallas/?cam=dallas best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.earthcam.com/usa/texas/dallas/?cam=dallas best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Earth_Cams",Dallas Reunion Tower >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.earthcam.com/usa/texas/dallas/reuniontower/?cam=reuniontower best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.earthcam.com/usa/texas/dallas/reuniontower/?cam=reuniontower best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 
 @echo, >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
 @echo #EXTINF:-1 group-title="Earth_Cams",waikoloa >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
-streamlink https://www.earthcam.com/usa/hawaii/bigisland/waikoloa/?cam=waikoloa best >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u
+streamlink https://www.earthcam.com/usa/hawaii/bigisland/waikoloa/?cam=waikoloa best --stream-url >> C:\Users\erickkkk\Documents\GitHub\mym3ulinks\EarthCams.m3u

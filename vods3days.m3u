@@ -1,307 +1,55 @@
 #EXTM3U 
  
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c02fd1f5-a521-4649-982b-e86f6f10bc23-profile_image-300x300.png" group-title="buddha",Lang Buddha - Nopixel 4.0-2024-04-09T17:15:47Z 
-[cli][info] Found matching plugin twitch for URL https://www.twitch.tv/videos/2115299681
-[cli][info] Available streams: audio, 360p (worst), 720p60, 1080p60 (best)
-[cli][info] Opening stream: 1080p60 (hls)
-[cli][info] Starting player: "P:\Programs\VLC\vlc.exe"
-[plugins.twitch][info] Will skip ad segments
-[plugins.twitch][info] Low latency streaming (HLS live edge: 1)
-[plugins.twitch][info] This is not a low latency stream
-[warnings][streamlinkwarning] The --player argument has been changed and now only takes player path values:
-  Player paths must not be wrapped in additional quotation marks
-  and custom player arguments need to be set via --player-args.
-  This is most likely caused by using an old config file from an ealier Streamlink version.
-  Please see the migration guides in Streamlink's documentation:
-  https://streamlink.github.io/migrations.html#player-path-only-player-cli-argument
-[cli][info] Closing currently open stream...
-error: Failed to start player: "P:\Programs\VLC\vlc.exe" (Player executable not found)
- 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c02fd1f5-a521-4649-982b-e86f6f10bc23-profile_image-300x300.png" group-title="buddha",Lang Buddha - Nopixel 4.0-2024-04-08T17:06:44Z 
-[cli][info] Found matching plugin twitch for URL https://www.twitch.tv/videos/2114423420
-[cli][info] Available streams: audio, 360p (worst), 720p60, 1080p60 (best)
-[cli][info] Opening stream: 1080p60 (hls)
-[cli][info] Starting player: "P:\Programs\VLC\vlc.exe"
-[plugins.twitch][info] Will skip ad segments
-[plugins.twitch][info] Low latency streaming (HLS live edge: 1)
-[plugins.twitch][info] This is not a low latency stream
-[warnings][streamlinkwarning] The --player argument has been changed and now only takes player path values:
-  Player paths must not be wrapped in additional quotation marks
-  and custom player arguments need to be set via --player-args.
-  This is most likely caused by using an old config file from an ealier Streamlink version.
-  Please see the migration guides in Streamlink's documentation:
-  https://streamlink.github.io/migrations.html#player-path-only-player-cli-argument
-[cli][info] Closing currently open stream...
-error: Failed to start player: "P:\Programs\VLC\vlc.exe" (Player executable not found)
- 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c02fd1f5-a521-4649-982b-e86f6f10bc23-profile_image-300x300.png" group-title="buddha",LeBronze - RP-2024-04-05T17:01:33Z 
-[cli][info] Found matching plugin twitch for URL https://www.twitch.tv/videos/2111584725
-[cli][info] Available streams: audio, 360p (worst), 720p60, 1080p60 (best)
-[cli][info] Opening stream: 1080p60 (hls)
-[cli][info] Starting player: "P:\Programs\VLC\vlc.exe"
-[plugins.twitch][info] Will skip ad segments
-[plugins.twitch][info] Low latency streaming (HLS live edge: 1)
-[plugins.twitch][info] This is not a low latency stream
-[warnings][streamlinkwarning] The --player argument has been changed and now only takes player path values:
-  Player paths must not be wrapped in additional quotation marks
-  and custom player arguments need to be set via --player-args.
-  This is most likely caused by using an old config file from an ealier Streamlink version.
-  Please see the migration guides in Streamlink's documentation:
-  https://streamlink.github.io/migrations.html#player-path-only-player-cli-argument
-[cli][info] Closing currently open stream...
-error: Failed to start player: "P:\Programs\VLC\vlc.exe" (Player executable not found)
- 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/249fb3a7-486e-427f-a8d4-8fb0650132ea-profile_image-300x300.png" group-title="blau",🎙️ ROLEPLAY PODCAST 🎙️ Noobs of NoPixel with @geega and @ssaab 🎙️ !podcast-2024-05-16T18:42:20Z 
-[cli][info] Found matching plugin twitch for URL https://www.twitch.tv/videos/2147357288
-[cli][info] Available streams: audio, 160p (worst), 360p, 480p, 720p60, source (best)
-[cli][info] Opening stream: source (hls)
-[cli][info] Starting player: "P:\Programs\VLC\vlc.exe"
-[plugins.twitch][info] Will skip ad segments
-[plugins.twitch][info] Low latency streaming (HLS live edge: 1)
-[plugins.twitch][info] This is not a low latency stream
-[warnings][streamlinkwarning] The --player argument has been changed and now only takes player path values:
-  Player paths must not be wrapped in additional quotation marks
-  and custom player arguments need to be set via --player-args.
-  This is most likely caused by using an old config file from an ealier Streamlink version.
-  Please see the migration guides in Streamlink's documentation:
-  https://streamlink.github.io/migrations.html#player-path-only-player-cli-argument
-[cli][info] Closing currently open stream...
-error: Failed to start player: "P:\Programs\VLC\vlc.exe" (Player executable not found)
- 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/249fb3a7-486e-427f-a8d4-8fb0650132ea-profile_image-300x300.png" group-title="blau",🪆 Nico Romanov 🪆 ищу двоюродного брата 🪆 NoPixel 4.0-2024-05-15T00:15:30Z 
-[cli][info] Found matching plugin twitch for URL https://www.twitch.tv/videos/2145954028
-[cli][info] Available streams: audio, 160p (worst), 360p, 480p, 720p, 720p60, 1080p60 (best)
-[cli][info] Opening stream: 1080p60 (hls)
-[cli][info] Starting player: "P:\Programs\VLC\vlc.exe"
-[plugins.twitch][info] Will skip ad segments
-[plugins.twitch][info] Low latency streaming (HLS live edge: 1)
-[plugins.twitch][info] This is not a low latency stream
-[warnings][streamlinkwarning] The --player argument has been changed and now only takes player path values:
-  Player paths must not be wrapped in additional quotation marks
-  and custom player arguments need to be set via --player-args.
-  This is most likely caused by using an old config file from an ealier Streamlink version.
-  Please see the migration guides in Streamlink's documentation:
-  https://streamlink.github.io/migrations.html#player-path-only-player-cli-argument
-[cli][info] Closing currently open stream...
-error: Failed to start player: "P:\Programs\VLC\vlc.exe" (Player executable not found)
- 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/249fb3a7-486e-427f-a8d4-8fb0650132ea-profile_image-300x300.png" group-title="blau",🌎 Mickey 🌎 What comes after The Company... ? 🌎 !NOTASUBATHON-2024-05-13T22:44:42Z 
-[cli][info] Found matching plugin twitch for URL https://www.twitch.tv/videos/2145059089
-[cli][info] Available streams: audio, 160p (worst), 360p, 480p, 720p, 720p60, 1080p60 (best)
-[cli][info] Opening stream: 1080p60 (hls)
-[cli][info] Starting player: "P:\Programs\VLC\vlc.exe"
-[plugins.twitch][info] Will skip ad segments
-[plugins.twitch][info] Low latency streaming (HLS live edge: 1)
-[plugins.twitch][info] This is not a low latency stream
-[warnings][streamlinkwarning] The --player argument has been changed and now only takes player path values:
-  Player paths must not be wrapped in additional quotation marks
-  and custom player arguments need to be set via --player-args.
-  This is most likely caused by using an old config file from an ealier Streamlink version.
-  Please see the migration guides in Streamlink's documentation:
-  https://streamlink.github.io/migrations.html#player-path-only-player-cli-argument
-[cli][info] Closing currently open stream...
-error: Failed to start player: "P:\Programs\VLC\vlc.exe" (Player executable not found)
- 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/5d575a04-5fb8-412f-b8d0-6b6e33c75e39-profile_image-300x300.png" group-title="harry",BIG H - NOPIXEL 4.0 - #hellofreshpartner-2024-05-18T20:41:03Z 
-[cli][info] Found matching plugin twitch for URL https://www.twitch.tv/videos/2149190307
-[cli][info] Available streams: audio, 160p30 (worst), 360p30, 480p30, 720p60, source (best)
-[cli][info] Opening stream: source (hls)
-[cli][info] Starting player: "P:\Programs\VLC\vlc.exe"
-[plugins.twitch][info] Will skip ad segments
-[plugins.twitch][info] Low latency streaming (HLS live edge: 1)
-[plugins.twitch][info] This is not a low latency stream
-[warnings][streamlinkwarning] The --player argument has been changed and now only takes player path values:
-  Player paths must not be wrapped in additional quotation marks
-  and custom player arguments need to be set via --player-args.
-  This is most likely caused by using an old config file from an ealier Streamlink version.
-  Please see the migration guides in Streamlink's documentation:
-  https://streamlink.github.io/migrations.html#player-path-only-player-cli-argument
-[cli][info] Closing currently open stream...
-error: Failed to start player: "P:\Programs\VLC\vlc.exe" (Player executable not found)
+https://dqrpb9wgowsf5.cloudfront.net/7f7797eb4a104113fd74_harry_44214311371_1716064858/chunked/index-dvr.m3u8
  
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/5d575a04-5fb8-412f-b8d0-6b6e33c75e39-profile_image-300x300.png" group-title="harry",BIG H - NOPIXEL 4.0 - #hellofreshpartner-2024-05-18T02:31:06Z 
-[cli][info] Found matching plugin twitch for URL https://www.twitch.tv/videos/2148550458
-[cli][info] Available streams: audio, 160p30 (worst), 360p30, 480p30, 720p60, source (best)
-[cli][info] Opening stream: source (hls)
-[cli][info] Starting player: "P:\Programs\VLC\vlc.exe"
-[plugins.twitch][info] Will skip ad segments
-[plugins.twitch][info] Low latency streaming (HLS live edge: 1)
-[plugins.twitch][info] This is not a low latency stream
-[warnings][streamlinkwarning] The --player argument has been changed and now only takes player path values:
-  Player paths must not be wrapped in additional quotation marks
-  and custom player arguments need to be set via --player-args.
-  This is most likely caused by using an old config file from an ealier Streamlink version.
-  Please see the migration guides in Streamlink's documentation:
-  https://streamlink.github.io/migrations.html#player-path-only-player-cli-argument
-[cli][info] Closing currently open stream...
-error: Failed to start player: "P:\Programs\VLC\vlc.exe" (Player executable not found)
+https://d2vjef5jvl6bfs.cloudfront.net/73ce2aacced72c1c3409_harry_51115588573_1715999461/chunked/index-dvr.m3u8
  
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/5d575a04-5fb8-412f-b8d0-6b6e33c75e39-profile_image-300x300.png" group-title="harry",BIG H - NOPIXEL 4.0 - #hellofreshpartner-2024-05-17T18:09:37Z 
-[cli][info] Found matching plugin twitch for URL https://www.twitch.tv/videos/2148156044
-[cli][info] Available streams: audio, 160p30 (worst), 360p30, 480p30, 720p60, source (best)
-[cli][info] Opening stream: source (hls)
-[cli][info] Starting player: "P:\Programs\VLC\vlc.exe"
-[plugins.twitch][info] Will skip ad segments
-[plugins.twitch][info] Low latency streaming (HLS live edge: 1)
-[plugins.twitch][info] This is not a low latency stream
-[warnings][streamlinkwarning] The --player argument has been changed and now only takes player path values:
-  Player paths must not be wrapped in additional quotation marks
-  and custom player arguments need to be set via --player-args.
-  This is most likely caused by using an old config file from an ealier Streamlink version.
-  Please see the migration guides in Streamlink's documentation:
-  https://streamlink.github.io/migrations.html#player-path-only-player-cli-argument
-[cli][info] Closing currently open stream...
-error: Failed to start player: "P:\Programs\VLC\vlc.exe" (Player executable not found)
+https://dqrpb9wgowsf5.cloudfront.net/638bce2df1a44fede71e_harry_44208094555_1715969373/chunked/index-dvr.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c02fd1f5-a521-4649-982b-e86f6f10bc23-profile_image-300x300.png" group-title="buddha",Lang Buddha - Nopixel 4.0-2024-04-09T17:15:47Z 
+https://dqrpb9wgowsf5.cloudfront.net/8db628a4f08eb7486e0c_buddha_43992974411_1712682940/chunked/index-dvr.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c02fd1f5-a521-4649-982b-e86f6f10bc23-profile_image-300x300.png" group-title="buddha",Lang Buddha - Nopixel 4.0-2024-04-08T17:06:44Z 
+https://dqrpb9wgowsf5.cloudfront.net/88775100e9653d35abc3_buddha_43987547115_1712595997/chunked/index-dvr.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c02fd1f5-a521-4649-982b-e86f6f10bc23-profile_image-300x300.png" group-title="buddha",LeBronze - RP-2024-04-05T17:01:33Z 
+https://dqrpb9wgowsf5.cloudfront.net/ac209c0204ffd3ddf556_buddha_43968745947_1712336487/chunked/index-dvr.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/249fb3a7-486e-427f-a8d4-8fb0650132ea-profile_image-300x300.png" group-title="blau",🎙️ ROLEPLAY PODCAST 🎙️ Noobs of NoPixel with @geega and @ssaab 🎙️ !podcast-2024-05-16T18:42:20Z 
+https://dqrpb9wgowsf5.cloudfront.net/2eb53ed5289a2433863e_blau_44203452939_1715884935/chunked/index-dvr.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/249fb3a7-486e-427f-a8d4-8fb0650132ea-profile_image-300x300.png" group-title="blau",🪆 Nico Romanov 🪆 ищу двоюродного брата 🪆 NoPixel 4.0-2024-05-15T00:15:30Z 
+https://d2vjef5jvl6bfs.cloudfront.net/19439cc876a0dd238d12_blau_42613934105_1715732124/chunked/index-dvr.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/249fb3a7-486e-427f-a8d4-8fb0650132ea-profile_image-300x300.png" group-title="blau",🌎 Mickey 🌎 What comes after The Company... ? 🌎 !NOTASUBATHON-2024-05-13T22:44:42Z 
+https://dqrpb9wgowsf5.cloudfront.net/25afcce722990244662b_blau_44189691563_1715640276/chunked/index-dvr.m3u8
  
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/be4e8251-2cd7-453c-8a83-41412cfa48dc-profile_image-300x300.png" group-title="lord_kebun",MR. K CRIMINAL MASTERMIND 🚨 NoPixel 4.0 🚨-2024-05-20T19:02:03Z 
-[cli][info] Found matching plugin twitch for URL https://www.twitch.tv/videos/2150806429
-[cli][info] Available streams: audio, 160p (worst), 360p, 480p, 720p60, 1080p60 (best)
-[cli][info] Opening stream: 1080p60 (hls)
-[cli][info] Starting player: "P:\Programs\VLC\vlc.exe"
-[plugins.twitch][info] Will skip ad segments
-[plugins.twitch][info] Low latency streaming (HLS live edge: 1)
-[plugins.twitch][info] This is not a low latency stream
-[warnings][streamlinkwarning] The --player argument has been changed and now only takes player path values:
-  Player paths must not be wrapped in additional quotation marks
-  and custom player arguments need to be set via --player-args.
-  This is most likely caused by using an old config file from an ealier Streamlink version.
-  Please see the migration guides in Streamlink's documentation:
-  https://streamlink.github.io/migrations.html#player-path-only-player-cli-argument
-[cli][info] Closing currently open stream...
-error: Failed to start player: "P:\Programs\VLC\vlc.exe" (Player executable not found)
+https://dqrpb9wgowsf5.cloudfront.net/1d781bafdf872b65aba5_lord_kebun_44223723371_1716231714/chunked/index-dvr.m3u8
  
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/be4e8251-2cd7-453c-8a83-41412cfa48dc-profile_image-300x300.png" group-title="lord_kebun",MR. K CRIMINAL MASTERMIND 🚨 NoPixel 4.0 🚨-2024-05-17T19:18:19Z 
-[cli][info] Found matching plugin twitch for URL https://www.twitch.tv/videos/2148212436
-[cli][info] Available streams: audio, 160p (worst), 360p, 480p, 720p60, 1080p60 (best)
-[cli][info] Opening stream: 1080p60 (hls)
-[cli][info] Starting player: "P:\Programs\VLC\vlc.exe"
-[plugins.twitch][info] Will skip ad segments
-[plugins.twitch][info] Low latency streaming (HLS live edge: 1)
-[plugins.twitch][info] This is not a low latency stream
-[warnings][streamlinkwarning] The --player argument has been changed and now only takes player path values:
-  Player paths must not be wrapped in additional quotation marks
-  and custom player arguments need to be set via --player-args.
-  This is most likely caused by using an old config file from an ealier Streamlink version.
-  Please see the migration guides in Streamlink's documentation:
-  https://streamlink.github.io/migrations.html#player-path-only-player-cli-argument
-[cli][info] Closing currently open stream...
-error: Failed to start player: "P:\Programs\VLC\vlc.exe" (Player executable not found)
+https://d1ymi26ma8va5x.cloudfront.net/3f0f58e5b7f9db09d30a_lord_kebun_42348661864_1715973490/chunked/index-dvr.m3u8
  
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/be4e8251-2cd7-453c-8a83-41412cfa48dc-profile_image-300x300.png" group-title="lord_kebun",MR. K CRIMINAL MASTERMIND 🚨 NoPixel 4.0 🚨-2024-05-16T19:10:30Z 
-[cli][info] Found matching plugin twitch for URL https://www.twitch.tv/videos/2147381230
-[cli][info] Available streams: audio, 160p30 (worst), 360p30, 480p30, 720p30, 720p60, source (best)
-[cli][info] Opening stream: source (hls)
-[cli][info] Starting player: "P:\Programs\VLC\vlc.exe"
-[plugins.twitch][info] Will skip ad segments
-[plugins.twitch][info] Low latency streaming (HLS live edge: 1)
-[plugins.twitch][info] This is not a low latency stream
-[warnings][streamlinkwarning] The --player argument has been changed and now only takes player path values:
-  Player paths must not be wrapped in additional quotation marks
-  and custom player arguments need to be set via --player-args.
-  This is most likely caused by using an old config file from an ealier Streamlink version.
-  Please see the migration guides in Streamlink's documentation:
-  https://streamlink.github.io/migrations.html#player-path-only-player-cli-argument
-[cli][info] Closing currently open stream...
-error: Failed to start player: "P:\Programs\VLC\vlc.exe" (Player executable not found)
+https://d2vjef5jvl6bfs.cloudfront.net/0750a629755642c21d1f_lord_kebun_42619145705_1715886620/chunked/index-dvr.m3u8
  
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c77578ad-30c0-47dd-b3a5-d0a51bc1a3ea-profile_image-300x300.png" group-title="ramee",Ramee - NoPixel 4.0-2024-05-20T18:22:01Z 
-[cli][info] Found matching plugin twitch for URL https://www.twitch.tv/videos/2150774037
-[cli][info] Available streams: audio, 160p (worst), 360p, 480p, 720p, 720p60, 1080p60 (best)
-[cli][info] Opening stream: 1080p60 (hls)
-[cli][info] Starting player: "P:\Programs\VLC\vlc.exe"
-[plugins.twitch][info] Will skip ad segments
-[plugins.twitch][info] Low latency streaming (HLS live edge: 1)
-[plugins.twitch][info] This is not a low latency stream
-[warnings][streamlinkwarning] The --player argument has been changed and now only takes player path values:
-  Player paths must not be wrapped in additional quotation marks
-  and custom player arguments need to be set via --player-args.
-  This is most likely caused by using an old config file from an ealier Streamlink version.
-  Please see the migration guides in Streamlink's documentation:
-  https://streamlink.github.io/migrations.html#player-path-only-player-cli-argument
-[cli][info] Closing currently open stream...
-error: Failed to start player: "P:\Programs\VLC\vlc.exe" (Player executable not found)
+https://d2vjef5jvl6bfs.cloudfront.net/2414ded5c7a45a9e46e0_ramee_42632431929_1716229316/chunked/index-dvr.m3u8
  
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c77578ad-30c0-47dd-b3a5-d0a51bc1a3ea-profile_image-300x300.png" group-title="ramee",Ramee - NoPixel 4.0-2024-05-19T20:48:56Z 
-[cli][info] Found matching plugin twitch for URL https://www.twitch.tv/videos/2150086905
-[cli][info] Available streams: audio, 160p (worst), 360p, 480p, 720p, 720p60, 1080p60 (best)
-[cli][info] Opening stream: 1080p60 (hls)
-[cli][info] Starting player: "P:\Programs\VLC\vlc.exe"
-[plugins.twitch][info] Will skip ad segments
-[plugins.twitch][info] Low latency streaming (HLS live edge: 1)
-[plugins.twitch][info] This is not a low latency stream
-[warnings][streamlinkwarning] The --player argument has been changed and now only takes player path values:
-  Player paths must not be wrapped in additional quotation marks
-  and custom player arguments need to be set via --player-args.
-  This is most likely caused by using an old config file from an ealier Streamlink version.
-  Please see the migration guides in Streamlink's documentation:
-  https://streamlink.github.io/migrations.html#player-path-only-player-cli-argument
-[cli][info] Closing currently open stream...
-error: Failed to start player: "P:\Programs\VLC\vlc.exe" (Player executable not found)
+https://d2vjef5jvl6bfs.cloudfront.net/351bb9181633f5c10f64_ramee_42629742953_1716151730/chunked/index-dvr.m3u8
  
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c77578ad-30c0-47dd-b3a5-d0a51bc1a3ea-profile_image-300x300.png" group-title="ramee",Ramee - NoPixel 4.0-2024-05-17T19:01:04Z 
-[cli][info] Found matching plugin twitch for URL https://www.twitch.tv/videos/2148197363
-[cli][info] Available streams: audio, 160p (worst), 360p, 480p, 720p60, source (best)
-[cli][info] Opening stream: source (hls)
-[cli][info] Starting player: "P:\Programs\VLC\vlc.exe"
-[plugins.twitch][info] Will skip ad segments
-[plugins.twitch][info] Low latency streaming (HLS live edge: 1)
-[plugins.twitch][info] This is not a low latency stream
-[warnings][streamlinkwarning] The --player argument has been changed and now only takes player path values:
-  Player paths must not be wrapped in additional quotation marks
-  and custom player arguments need to be set via --player-args.
-  This is most likely caused by using an old config file from an ealier Streamlink version.
-  Please see the migration guides in Streamlink's documentation:
-  https://streamlink.github.io/migrations.html#player-path-only-player-cli-argument
-[cli][info] Closing currently open stream...
-error: Failed to start player: "P:\Programs\VLC\vlc.exe" (Player executable not found)
+https://dqrpb9wgowsf5.cloudfront.net/0660d6a0a9a1d769eef1_ramee_44208395339_1715972459/chunked/index-dvr.m3u8
  
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/941b4ebc-23c9-4bee-893c-ac636a11ef4f-profile_image-300x300.png" group-title="dasmehdi",Lil Tuggz - Moonshine - NoPixel 4.0  - !ExpressVPN - socials: @dasmehdi-2024-05-19T15:54:16Z 
-[cli][info] Found matching plugin twitch for URL https://www.twitch.tv/videos/2149847157
-[cli][info] Available streams: audio, 160p (worst), 360p, 480p, 720p60, 1080p60 (best)
-[cli][info] Opening stream: 1080p60 (hls)
-[cli][info] Starting player: "P:\Programs\VLC\vlc.exe"
-[plugins.twitch][info] Will skip ad segments
-[plugins.twitch][info] Low latency streaming (HLS live edge: 1)
-[plugins.twitch][info] This is not a low latency stream
-[warnings][streamlinkwarning] The --player argument has been changed and now only takes player path values:
-  Player paths must not be wrapped in additional quotation marks
-  and custom player arguments need to be set via --player-args.
-  This is most likely caused by using an old config file from an ealier Streamlink version.
-  Please see the migration guides in Streamlink's documentation:
-  https://streamlink.github.io/migrations.html#player-path-only-player-cli-argument
-[cli][info] Closing currently open stream...
-error: Failed to start player: "P:\Programs\VLC\vlc.exe" (Player executable not found)
+https://d2vjef5jvl6bfs.cloudfront.net/80a96f8237dc079aabf0_dasmehdi_42628737305_1716134052/chunked/index-dvr.m3u8
  
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/941b4ebc-23c9-4bee-893c-ac636a11ef4f-profile_image-300x300.png" group-title="dasmehdi",Lil Tuggz - Moonshine - NoPixel 4.0  - !ExpressVPN - socials: @dasmehdi-2024-05-18T14:13:33Z 
-[cli][info] Found matching plugin twitch for URL https://www.twitch.tv/videos/2148892533
-[cli][info] Available streams: audio, 160p (worst), 360p, 480p, 720p, 720p60, 1080p60 (best)
-[cli][info] Opening stream: 1080p60 (hls)
-[cli][info] Starting player: "P:\Programs\VLC\vlc.exe"
-[plugins.twitch][info] Will skip ad segments
-[plugins.twitch][info] Low latency streaming (HLS live edge: 1)
-[plugins.twitch][info] This is not a low latency stream
-[warnings][streamlinkwarning] The --player argument has been changed and now only takes player path values:
-  Player paths must not be wrapped in additional quotation marks
-  and custom player arguments need to be set via --player-args.
-  This is most likely caused by using an old config file from an ealier Streamlink version.
-  Please see the migration guides in Streamlink's documentation:
-  https://streamlink.github.io/migrations.html#player-path-only-player-cli-argument
-[cli][info] Closing currently open stream...
-error: Failed to start player: "P:\Programs\VLC\vlc.exe" (Player executable not found)
+https://d2vjef5jvl6bfs.cloudfront.net/8249a9f84c083fe4b436_dasmehdi_42624547145_1716041608/chunked/index-dvr.m3u8
  
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/941b4ebc-23c9-4bee-893c-ac636a11ef4f-profile_image-300x300.png" group-title="dasmehdi",Lil Tuggz - Moonshine - NoPixel 4.0  - !ExpressVPN - socials: @dasmehdi-2024-05-17T14:13:42Z 
-[cli][info] Found matching plugin twitch for URL https://www.twitch.tv/videos/2147997810
-[cli][info] Available streams: audio, 160p (worst), 360p, 480p, 720p60, 1080p60 (best)
-[cli][info] Opening stream: 1080p60 (hls)
-[cli][info] Starting player: "P:\Programs\VLC\vlc.exe"
-[plugins.twitch][info] Will skip ad segments
-[plugins.twitch][info] Low latency streaming (HLS live edge: 1)
-[plugins.twitch][info] This is not a low latency stream
-[warnings][streamlinkwarning] The --player argument has been changed and now only takes player path values:
-  Player paths must not be wrapped in additional quotation marks
-  and custom player arguments need to be set via --player-args.
-  This is most likely caused by using an old config file from an ealier Streamlink version.
-  Please see the migration guides in Streamlink's documentation:
-  https://streamlink.github.io/migrations.html#player-path-only-player-cli-argument
-[cli][info] Closing currently open stream...
-error: Failed to start player: "P:\Programs\VLC\vlc.exe" (Player executable not found)
+https://d2vjef5jvl6bfs.cloudfront.net/ccc3d9e2268ad2d0b88e_dasmehdi_42621450761_1715955218/chunked/index-dvr.m3u8
