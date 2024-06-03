@@ -22,12 +22,12 @@
 <display-name>theeazylife</display-name>
 </channel>
 
-<channel id="kemony.us">
-<display-name>kemony</display-name>
-</channel>
-
 <channel id="yuukidav.us">
 <display-name>yuukidav</display-name>
+</channel>
+
+<channel id="kemony.us">
+<display-name>kemony</display-name>
 </channel>
 
 <channel id="bbyruthless.us">
@@ -70,16 +70,16 @@
 <display-name>bucketst</display-name>
 </channel>
 
-<channel id="joblessgarrett.us">
-<display-name>joblessgarrett</display-name>
-</channel>
-
 <channel id="mactothegow.us">
 <display-name>mactothegow</display-name>
 </channel>
 
 <channel id="penta.us">
 <display-name>penta</display-name>
+</channel>
+
+<channel id="joblessgarrett.us">
+<display-name>joblessgarrett</display-name>
 </channel>
 
 <channel id="novellusdea.us">
@@ -90,12 +90,12 @@
 <display-name>comfygift</display-name>
 </channel>
 
-<channel id="xarisher.us">
-<display-name>xarisher</display-name>
-</channel>
-
 <channel id="kappatalmoose.us">
 <display-name>kappatalmoose</display-name>
+</channel>
+
+<channel id="xarisher.us">
+<display-name>xarisher</display-name>
 </channel>
 
 <channel id="kyc151.us">
@@ -114,12 +114,12 @@
 <display-name>jjfried</display-name>
 </channel>
 
-<channel id="wetbow.us">
-<display-name>wetbow</display-name>
-</channel>
-
 <channel id="thedastony.us">
 <display-name>thedastony</display-name>
+</channel>
+
+<channel id="wetbow.us">
+<display-name>wetbow</display-name>
 </channel>
 
 <channel id="drulktv.us">
@@ -138,24 +138,28 @@
 <display-name>miekestar</display-name>
 </channel>
 
-<channel id="twd_wenz.us">
-<display-name>twd_wenz</display-name>
-</channel>
-
 <channel id="kaelea_.us">
 <display-name>kaelea_</display-name>
 </channel>
 
-<channel id="gregsstory.us">
-<display-name>gregsstory</display-name>
+<channel id="twd_wenz.us">
+<display-name>twd_wenz</display-name>
 </channel>
 
 <channel id="sethbowdengaming.us">
 <display-name>sethbowdengaming</display-name>
 </channel>
 
+<channel id="gregsstory.us">
+<display-name>gregsstory</display-name>
+</channel>
+
 <channel id="garyswizzzle.us">
 <display-name>garyswizzzle</display-name>
+</channel>
+
+<channel id="tacos_terps.us">
+<display-name>tacos_terps</display-name>
 </channel>
 
 <channel id="icyseazn.us">
@@ -164,10 +168,6 @@
 
 <channel id="learning_pr0cess.us">
 <display-name>learning_pr0cess</display-name>
-</channel>
-
-<channel id="tacos_terps.us">
-<display-name>tacos_terps</display-name>
 </channel>
 
 <channel id="oldmanhowler.us">
@@ -229,18 +229,18 @@ Playing: Grand Theft Auto V
 Viewers: 13 </desc>
 </programme>
 
-<programme start="20240603000637 +0000" stop="20240605190637 +0000" channel="kemony.us">
-<title lang="en"> SGT 2 CHAINZ ALICE WATSON - 🐍 HYDRA 🐍 - NoPixel WL 4.0 - Gamersupps #ad </title>
-<desc lang="en"> Started: 7:06PM
-Playing: Grand Theft Auto V
-Viewers: 877 </desc>
-</programme>
-
 <programme start="20240603050208 +0000" stop="20240606000208 +0000" channel="yuukidav.us">
 <title lang="en"> deputy lukas lavender 🎀 bcso - nopixel wl - @yuukidav </title>
 <desc lang="en"> Started: 12:02AM
 Playing: Grand Theft Auto V
 Viewers: 164 </desc>
+</programme>
+
+<programme start="20240603000637 +0000" stop="20240605190637 +0000" channel="kemony.us">
+<title lang="en"> SGT 2 CHAINZ ALICE WATSON - 🐍 HYDRA 🐍 - NoPixel WL 4.0 - Gamersupps #ad </title>
+<desc lang="en"> Started: 7:06PM
+Playing: Grand Theft Auto V
+Viewers: 877 </desc>
 </programme>
 
 <programme start="20240603043650 +0000" stop="20240605233650 +0000" channel="bbyruthless.us">
@@ -303,7 +303,7 @@ Viewers: 72 </desc>
 <title lang="en"> HEIST DAY 👮 - James Kelly - BBMC 🌊 - NoPixel 4.0 </title>
 <desc lang="en"> Started: 6:13PM
 Playing: Grand Theft Auto V
-Viewers: 153 </desc>
+Viewers: 157 </desc>
 </programme>
 
 <programme start="20240603022226 +0000" stop="20240605212226 +0000" channel="bucketst.us">
@@ -311,13 +311,6 @@ Viewers: 153 </desc>
 <desc lang="en"> Started: 9:22PM
 Playing: Grand Theft Auto V
 Viewers: 287 </desc>
-</programme>
-
-<programme start="20240602233855 +0000" stop="20240605183855 +0000" channel="joblessgarrett.us">
-<title lang="en"> The Adventures of Garrett Jobless - ChangGang - Nopixel 4.0 </title>
-<desc lang="en"> Started: 6:38PM
-Playing: Grand Theft Auto V
-Viewers: 949 </desc>
 </programme>
 
 <programme start="20240602222903 +0000" stop="20240605172903 +0000" channel="mactothegow.us">
@@ -331,7 +324,14 @@ Viewers: 12 </desc>
 <title lang="en"> PurpleRP - Mike block but im sleepy </title>
 <desc lang="en"> Started: 4:18PM
 Playing: Grand Theft Auto V
-Viewers: 5069 </desc>
+Viewers: 4342 </desc>
+</programme>
+
+<programme start="20240602233855 +0000" stop="20240605183855 +0000" channel="joblessgarrett.us">
+<title lang="en"> The Adventures of Garrett Jobless - ChangGang - Nopixel 4.0 </title>
+<desc lang="en"> Started: 6:38PM
+Playing: Grand Theft Auto V
+Viewers: 949 </desc>
 </programme>
 
 <programme start="20240603005906 +0000" stop="20240605195906 +0000" channel="novellusdea.us">
@@ -348,18 +348,18 @@ Playing: Grand Theft Auto V
 Viewers: 127 </desc>
 </programme>
 
-<programme start="20240603015204 +0000" stop="20240605205204 +0000" channel="xarisher.us">
-<title lang="en"> - DJ Dawkings NoPixel 4.0 - SUBATHON SOON :) - </title>
-<desc lang="en"> Started: 8:52PM
-Playing: Grand Theft Auto V
-Viewers: 119 </desc>
-</programme>
-
 <programme start="20240603005651 +0000" stop="20240605195651 +0000" channel="kappatalmoose.us">
 <title lang="en"> Miniphone- the other clown --NP WL </title>
 <desc lang="en"> Started: 7:56PM
 Playing: Grand Theft Auto V
 Viewers: 126 </desc>
+</programme>
+
+<programme start="20240603015204 +0000" stop="20240605205204 +0000" channel="xarisher.us">
+<title lang="en"> - DJ Dawkings NoPixel 4.0 - SUBATHON SOON :) - </title>
+<desc lang="en"> Started: 8:52PM
+Playing: Grand Theft Auto V
+Viewers: 117 </desc>
 </programme>
 
 <programme start="20240603002555 +0000" stop="20240605192555 +0000" channel="kyc151.us">
@@ -387,14 +387,7 @@ Viewers: 90 </desc>
 <title lang="en"> wor FTO Senior Jace Neph 1 Chain Barter -- Ace☠️🐍HYDRA🐍☠️PPLUS MONTH 3 - NP WL - plus gamersupps discord☠️ </title>
 <desc lang="en"> Started: 12:08AM
 Playing: Grand Theft Auto V
-Viewers: 78 </desc>
-</programme>
-
-<programme start="20240603035443 +0000" stop="20240605225443 +0000" channel="wetbow.us">
-<title lang="en"> 🤡 Party Hardy - The KING... - NoPixel 4.0 WL - socials </title>
-<desc lang="en"> Started: 10:54PM
-Playing: Grand Theft Auto V
-Viewers: 50 </desc>
+Viewers: 77 </desc>
 </programme>
 
 <programme start="20240603010432 +0000" stop="20240605200432 +0000" channel="thedastony.us">
@@ -402,6 +395,13 @@ Viewers: 50 </desc>
 <desc lang="en"> Started: 8:04PM
 Playing: Grand Theft Auto V
 Viewers: 61 </desc>
+</programme>
+
+<programme start="20240603035443 +0000" stop="20240605225443 +0000" channel="wetbow.us">
+<title lang="en"> 🤡 Party Hardy - The KING... - NoPixel 4.0 WL - socials </title>
+<desc lang="en"> Started: 10:54PM
+Playing: Grand Theft Auto V
+Viewers: 50 </desc>
 </programme>
 
 <programme start="20240603014718 +0000" stop="20240605204718 +0000" channel="drulktv.us">
@@ -432,13 +432,6 @@ Playing: Grand Theft Auto V
 Viewers: 21 </desc>
 </programme>
 
-<programme start="20240603040551 +0000" stop="20240605230551 +0000" channel="twd_wenz.us">
-<title lang="en"> Tony Wednesday - 45Gz - NoPixel WL </title>
-<desc lang="en"> Started: 11:05PM
-Playing: Grand Theft Auto V
-Viewers: 9 </desc>
-</programme>
-
 <programme start="20240602230704 +0000" stop="20240605180704 +0000" channel="kaelea_.us">
 <title lang="en"> ChastityMarie - mindset - NoPixel </title>
 <desc lang="en"> Started: 6:07PM
@@ -446,11 +439,11 @@ Playing: Grand Theft Auto V
 Viewers: 9 </desc>
 </programme>
 
-<programme start="20240603052338 +0000" stop="20240606002338 +0000" channel="gregsstory.us">
-<title lang="en"> 161 Officer ORIN DAFT 👮 NoPixel 4.0 </title>
-<desc lang="en"> Started: 12:23AM
+<programme start="20240603040551 +0000" stop="20240605230551 +0000" channel="twd_wenz.us">
+<title lang="en"> Tony Wednesday - 45Gz - NoPixel WL </title>
+<desc lang="en"> Started: 11:05PM
 Playing: Grand Theft Auto V
-Viewers: 5 </desc>
+Viewers: 9 </desc>
 </programme>
 
 <programme start="20240603012955 +0000" stop="20240605202955 +0000" channel="sethbowdengaming.us">
@@ -460,23 +453,16 @@ Playing: Grand Theft Auto V
 Viewers: 6 </desc>
 </programme>
 
+<programme start="20240603052338 +0000" stop="20240606002338 +0000" channel="gregsstory.us">
+<title lang="en"> 161 Officer ORIN DAFT 👮 NoPixel 4.0 </title>
+<desc lang="en"> Started: 12:23AM
+Playing: Grand Theft Auto V
+Viewers: 5 </desc>
+</programme>
+
 <programme start="20240603004102 +0000" stop="20240605194102 +0000" channel="garyswizzzle.us">
 <title lang="en"> NoPixel WL - Perry Tau - Gang - discord lurk </title>
 <desc lang="en"> Started: 7:41PM
-Playing: Grand Theft Auto V
-Viewers: 4 </desc>
-</programme>
-
-<programme start="20240602181928 +0000" stop="20240605131928 +0000" channel="icyseazn.us">
-<title lang="en"> ❇️DAY29❇️SPIN TILL THEY DIZZY😈❇️LORENZO “ENZO” VENA❇️-RPandREACTS-❇️NoPixel 4.0🔹❇️ discord </title>
-<desc lang="en"> Started: 1:19PM
-Playing: Grand Theft Auto V
-Viewers: 4 </desc>
-</programme>
-
-<programme start="20240603014216 +0000" stop="20240605204216 +0000" channel="learning_pr0cess.us">
-<title lang="en"> Ben Sillysigh becomes a LICENSED THERAPIST - Only Friends - BC Boys - Copium  - </title>
-<desc lang="en"> Started: 8:42PM
 Playing: Grand Theft Auto V
 Viewers: 3 </desc>
 </programme>
@@ -486,6 +472,20 @@ Viewers: 3 </desc>
 <desc lang="en"> Started: 12:07AM
 Playing: Grand Theft Auto V
 Viewers: 4 </desc>
+</programme>
+
+<programme start="20240602181928 +0000" stop="20240605131928 +0000" channel="icyseazn.us">
+<title lang="en"> ❇️DAY29❇️SPIN TILL THEY DIZZY😈❇️LORENZO “ENZO” VENA❇️-RPandREACTS-❇️NoPixel 4.0🔹❇️ discord </title>
+<desc lang="en"> Started: 1:19PM
+Playing: Grand Theft Auto V
+Viewers: 3 </desc>
+</programme>
+
+<programme start="20240603014216 +0000" stop="20240605204216 +0000" channel="learning_pr0cess.us">
+<title lang="en"> Ben Sillysigh becomes a LICENSED THERAPIST - Only Friends - BC Boys - Copium  - </title>
+<desc lang="en"> Started: 8:42PM
+Playing: Grand Theft Auto V
+Viewers: 3 </desc>
 </programme>
 
 <programme start="20240603003818 +0000" stop="20240605193818 +0000" channel="oldmanhowler.us">
