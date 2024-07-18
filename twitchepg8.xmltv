@@ -2,6 +2,10 @@
 <display-name>clearepg</display-name>
 </channel>
 
+<channel id="locco_rp.us">
+<display-name>locco_rp</display-name>
+</channel>
+
 <channel id="dasmehdi.us">
 <display-name>dasmehdi</display-name>
 </channel>
@@ -24,6 +28,10 @@
 
 <channel id="4head.us">
 <display-name>4head</display-name>
+</channel>
+
+<channel id="travpiper.us">
+<display-name>travpiper</display-name>
 </channel>
 
 <channel id="caramel.us">
@@ -50,8 +58,8 @@
 <display-name>vader</display-name>
 </channel>
 
-<channel id="travpiper.us">
-<display-name>travpiper</display-name>
+<channel id="Zaitohro.us">
+<display-name>Zaitohro</display-name>
 </channel>
 
 <channel id="luka_aus.us">
@@ -66,18 +74,25 @@
 <display-name>xqc</display-name>
 </channel>
 
+<programme start="20240718112119 +0000" stop="20240721062119 +0000" channel="locco_rp.us">
+<title lang="en"> SUB-A-THON DAY 10 - UNCAPPED - Chumito Locco 🩸 - NoPixel 4.0 WL - socials discord subathon </title>
+<desc lang="en"> Started: 6:21AM
+Playing: Grand Theft Auto V
+Viewers: 174 </desc>
+</programme>
+
 <programme start="20240718033131 +0000" stop="20240720223131 +0000" channel="dasmehdi.us">
 <title lang="en"> Nino Chavez - LAST DAY TO VOTE - NoPixel - ExpressVPN - socials: @dasmehdi </title>
 <desc lang="en"> Started: 10:31PM
 Playing: Grand Theft Auto V
-Viewers: 3112 </desc>
+Viewers: 2882 </desc>
 </programme>
 
 <programme start="20240718121919 +0000" stop="20240721071919 +0000" channel="Shlomi.us">
 <title lang="en"> Shlomi Specter 🌊 VALORANT until nopixel is fixed 🌊 Nopixel 4.0 </title>
 <desc lang="en"> Started: 07:19 am
 Playing: Grand Theft Auto V
-Viewers: 82 </desc>
+Viewers: 79 </desc>
 </programme>
 
 <programme start="20240718084548 +0000" stop="20240721034548 +0000" channel="Fayttt.us">
@@ -98,84 +113,91 @@ Viewers: 5 </desc>
 <title lang="en"> POLSKI STRUMYK Z POLSKIEJ POLICJI #2 - bo3 - farmskins insta dc twt #ad </title>
 <desc lang="en"> Started: 6:29AM
 Playing: Grand Theft Auto V
-Viewers: 177 </desc>
+Viewers: 148 </desc>
 </programme>
 
 <programme start="20240718104728 +0000" stop="20240721054728 +0000" channel="4head.us">
 <title lang="en"> 4HEAD - NOPIXEL 4.0 - TTS </title>
 <desc lang="en"> Started: 5:47AM
 Playing: Grand Theft Auto V
-Viewers: 2271 </desc>
-</programme>
-
-<programme start="20240718083806 +0000" stop="20240721033806 +0000" channel="caramel.us">
-<title lang="en"> Lovemore - NoPixel 4.0 </title>
-<desc lang="en"> Started: 3:38AM
-Playing: Grand Theft Auto V
-Viewers: 75 </desc>
-</programme>
-
-<programme start="20240718104653 +0000" stop="20240721054653 +0000" channel="JayPlays.us">
-<title lang="en"> CHOPPING IT UP - Jay Scuffed AF Martin - The Manor - NoPixel 4.0 </title>
-<desc lang="en"> Started: 5:46AM
-Playing: Grand Theft Auto V
-Viewers: 54 </desc>
-</programme>
-
-<programme start="20240718124326 +0000" stop="20240721074326 +0000" channel="cheez.us">
-<title lang="en"> Terry Linkston - Unique Roleplay </title>
-<desc lang="en"> Started: 7:43AM
-Playing: Grand Theft Auto V
-Viewers: 92 </desc>
-</programme>
-
-<programme start="20240718120342 +0000" stop="20240721070342 +0000" channel="abdulhd.us">
-<title lang="en"> ABDUL - TAXI COMMANDER - YouTube Discord instagram NoPixel </title>
-<desc lang="en"> Started: 7:03AM
-Playing: Grand Theft Auto V
-Viewers: 919 </desc>
-</programme>
-
-<programme start="20240718090813 +0000" stop="20240721040813 +0000" channel="elochai.us">
-<title lang="en"> How do you stream again Day4 - NoPixel 3D Dev - @elochai - click f0r socials </title>
-<desc lang="en"> Started: 4:08AM
-Playing: Grand Theft Auto V
-Viewers: 62 </desc>
-</programme>
-
-<programme start="20240718120210 +0000" stop="20240721070210 +0000" channel="vader.us">
-<title lang="en"> POSITIVE RP STREAMER (REAL) - Eugene - NP is broken, PRUPLERP </title>
-<desc lang="en"> Started: 7:02AM
-Playing: Grand Theft Auto V
-Viewers: 1585 </desc>
+Viewers: 2366 </desc>
 </programme>
 
 <programme start="20240718142034 +0000" stop="20240721092034 +0000" channel="travpiper.us">
 <title lang="en"> BCSO PETERS - NOPIXEL </title>
 <desc lang="en"> Started: 9:20AM
 Playing: Grand Theft Auto V
-Viewers: 455 </desc>
+Viewers: 192 </desc>
+</programme>
+
+<programme start="20240718083806 +0000" stop="20240721033806 +0000" channel="caramel.us">
+<title lang="en"> Lovemore - NoPixel 4.0 </title>
+<desc lang="en"> Started: 3:38AM
+Playing: Grand Theft Auto V
+Viewers: 83 </desc>
+</programme>
+
+<programme start="20240718104653 +0000" stop="20240721054653 +0000" channel="JayPlays.us">
+<title lang="en"> CHOPPING IT UP - Jay Scuffed AF Martin - The Manor - NoPixel 4.0 </title>
+<desc lang="en"> Started: 5:46AM
+Playing: Grand Theft Auto V
+Viewers: 64 </desc>
+</programme>
+
+<programme start="20240718124326 +0000" stop="20240721074326 +0000" channel="cheez.us">
+<title lang="en"> Terry Linkston - Unique Roleplay </title>
+<desc lang="en"> Started: 7:43AM
+Playing: Grand Theft Auto V
+Viewers: 142 </desc>
+</programme>
+
+<programme start="20240718120342 +0000" stop="20240721070342 +0000" channel="abdulhd.us">
+<title lang="en"> ABDUL - TAXI COMMANDER - YouTube Discord instagram NoPixel </title>
+<desc lang="en"> Started: 7:03AM
+Playing: Grand Theft Auto V
+Viewers: 958 </desc>
+</programme>
+
+<programme start="20240718090813 +0000" stop="20240721040813 +0000" channel="elochai.us">
+<title lang="en"> How do you stream again Day4 - NoPixel 3D Dev - @elochai - click f0r socials </title>
+<desc lang="en"> Started: 4:08AM
+Playing: Grand Theft Auto V
+Viewers: 69 </desc>
+</programme>
+
+<programme start="20240718120210 +0000" stop="20240721070210 +0000" channel="vader.us">
+<title lang="en"> POSITIVE RP STREAMER (REAL) - Eugene - NP is broken, PRUPLERP </title>
+<desc lang="en"> Started: 7:02AM
+Playing: Grand Theft Auto V
+Viewers: 1635 </desc>
+</programme>
+
+<programme start="20240718142106 +0000" stop="20240721092106 +0000" channel="Zaitohro.us">
+<title lang="en"> New adventures l DAMIEN TINKERMAN SHAKER CUP l AdvancedGG </title>
+<desc lang="en"> Started: 09:21 am
+Playing: Grand Theft Auto V
+Viewers: 6 </desc>
 </programme>
 
 <programme start="20240718105913 +0000" stop="20240721055913 +0000" channel="luka_aus.us">
 <title lang="en"> LSSD Deputy Chapman - ONX - Short Strum Am Sick </title>
 <desc lang="en"> Started: 5:59AM
 Playing: Grand Theft Auto V
-Viewers: 80 </desc>
+Viewers: 78 </desc>
 </programme>
 
 <programme start="20240718130116 +0000" stop="20240721080116 +0000" channel="farmhouse78.us">
 <title lang="en"> Steven Hayes - Just a Dream - ONXRP - GTARP - discord merch meta </title>
 <desc lang="en"> Started: 8:01AM
 Playing: Grand Theft Auto V
-Viewers: 115 </desc>
+Viewers: 123 </desc>
 </programme>
 
 <programme start="202407172319 +0000" stop="202407202319 +0000" channel="xqc.us">
 <title lang="en"> 👊CLICK THIS👊DRAMA👊LIVE NEWS👊THINGS👊IMPORTANT TO CLICK👊DONT MISS IT👊WOAH👊WERE HERE👊WHERE ARE U👊 👊BING BONG👊 </title>
 <desc lang="en"> Started: 11:19 pm
 Playing: iRacing
-Viewers: 13703 </desc>
+Viewers: 13783 </desc>
 </programme>
 
 
