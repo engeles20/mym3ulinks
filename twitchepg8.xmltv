@@ -2,12 +2,12 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="Silbullet.us">
-<display-name>Silbullet</display-name>
-</channel>
-
 <channel id="Ssaab.us">
 <display-name>Ssaab</display-name>
+</channel>
+
+<channel id="Silbullet.us">
+<display-name>Silbullet</display-name>
 </channel>
 
 <channel id="ashi.us">
@@ -28,10 +28,6 @@
 
 <channel id="bucketst.us">
 <display-name>bucketst</display-name>
-</channel>
-
-<channel id="charlieblossom.us">
-<display-name>charlieblossom</display-name>
 </channel>
 
 <channel id="bledorable.us">
@@ -74,6 +70,10 @@
 <display-name>KittenQG</display-name>
 </channel>
 
+<channel id="charlieblossom.us">
+<display-name>charlieblossom</display-name>
+</channel>
+
 <channel id="tinyspark.us">
 <display-name>tinyspark</display-name>
 </channel>
@@ -102,6 +102,10 @@
 <display-name>royalcreates</display-name>
 </channel>
 
+<channel id="basHYYEE.us">
+<display-name>basHYYEE</display-name>
+</channel>
+
 <channel id="penta.us">
 <display-name>penta</display-name>
 </channel>
@@ -110,6 +114,13 @@
 <display-name>xqc</display-name>
 </channel>
 
+<programme start="20240926220625 +0000" stop="20240929170625 +0000" channel="Ssaab.us">
+<title lang="en"> [DROPS ON] PLEASE BE A GOOD MMO WITH BUDDHA and HARRY - Kaleston East Coast Shoe Shiners - 30% OFF SUBS - TTS pogly </title>
+<desc lang="en"> Started: 5:06PM
+Playing: Throne and Liberty
+Viewers: 504 </desc>
+</programme>
+
 <programme start="20240927014255 +0000" stop="20240929204255 +0000" channel="Silbullet.us">
 <title lang="en"> Snr. Ofc. Maple 297 - LSPD - NoPixel WL 4.0 - Starf0rge sub2024 gtarecap clip giveaway </title>
 <desc lang="en"> Started: 8:42PM
@@ -117,88 +128,74 @@ Playing: Grand Theft Auto V
 Viewers: 28 </desc>
 </programme>
 
-<programme start="20240926220625 +0000" stop="20240929170625 +0000" channel="Ssaab.us">
-<title lang="en"> [DROPS ON] PLEASE BE A GOOD MMO WITH BUDDHA and HARRY - Kaleston East Coast Shoe Shiners - 30% OFF SUBS - TTS pogly </title>
-<desc lang="en"> Started: 5:06PM
-Playing: Throne and Liberty
-Viewers: 482 </desc>
-</programme>
-
 <programme start="20240926214947 +0000" stop="20240929164947 +0000" channel="ashi.us">
 <title lang="en"> [SUBATHON TOMORROW] FIONA RETURNS - HADES LIEUTENANT - NP GTA RP - ANT #AD </title>
 <desc lang="en"> Started: 4:49PM
 Playing: Grand Theft Auto V
-Viewers: 457 </desc>
+Viewers: 538 </desc>
 </programme>
 
 <programme start="20240927025022 +0000" stop="20240929215022 +0000" channel="simo.us">
 <title lang="en"> Reggie Might - Making money - Hades - NoPixel WL </title>
 <desc lang="en"> Started: 9:50PM
 Playing: Grand Theft Auto V
-Viewers: 152 </desc>
+Viewers: 149 </desc>
 </programme>
 
 <programme start="20240926221807 +0000" stop="20240929171807 +0000" channel="tinystunt.us">
 <title lang="en"> ✨NVL COP REAL ✨ - Snr Officer Avery LSPD 219 - NoPixel </title>
 <desc lang="en"> Started: 5:18PM
 Playing: Grand Theft Auto V
-Viewers: 88 </desc>
+Viewers: 108 </desc>
 </programme>
 
 <programme start="20240927050504 +0000" stop="20240930000504 +0000" channel="yuukidav.us">
 <title lang="en"> lt lukas lavender 🎀 bcso - nopixel wl - @yuukidav </title>
 <desc lang="en"> Started: 12:05AM
 Playing: Grand Theft Auto V
-Viewers: 318 </desc>
+Viewers: 443 </desc>
 </programme>
 
 <programme start="20240927064837 +0000" stop="20240930014837 +0000" channel="bucketst.us">
 <title lang="en"> SUBATHON DAY 1 daily - Jito Kaiba - Prodigy RP 2.0 SUBtember </title>
 <desc lang="en"> Started: 1:48AM
 Playing: Grand Theft Auto V
-Viewers: 57 </desc>
-</programme>
-
-<programme start="20240927025245 +0000" stop="20240929215245 +0000" channel="charlieblossom.us">
-<title lang="en"> 🌈 WindSong ✌️ NoPixel softperma </title>
-<desc lang="en"> Started: 9:52PM
-Playing: Grand Theft Auto V
-Viewers: 238 </desc>
+Viewers: 64 </desc>
 </programme>
 
 <programme start="20240927015219 +0000" stop="20240929205219 +0000" channel="bledorable.us">
 <title lang="en"> Tripas WARRRRR - Billy Thorne - NoPixel WL - Ex - Project - Hades - Vagos - TBD - C4 </title>
 <desc lang="en"> Started: 08:52 pm
 Playing: Grand Theft Auto V
-Viewers: 61 </desc>
+Viewers: 53 </desc>
 </programme>
 
 <programme start="20240927043604 +0000" stop="20240929233604 +0000" channel="GregsStory.us">
 <title lang="en"> ONLY COP ON DUTY 282 Ofc. Orin Daft - Bicycle Lead Clown Cop 🚴🤡🚔 - NoPixel 4.0 - discord - prime - </title>
 <desc lang="en"> Started: 11:36 pm
 Playing: Grand Theft Auto V
-Viewers: 52 </desc>
+Viewers: 56 </desc>
 </programme>
 
 <programme start="20240927013004 +0000" stop="20240929203004 +0000" channel="arro2k.us">
 <title lang="en"> Rico - Hades - Lemon Pov -Nopixel Whitelist </title>
 <desc lang="en"> Started: 08:30 pm
 Playing: Grand Theft Auto V
-Viewers: 419 </desc>
+Viewers: 405 </desc>
 </programme>
 
 <programme start="20240926205200 +0000" stop="20240929155200 +0000" channel="Hazan_N.us">
 <title lang="en"> ZAHN ZIAS🎯ALBU....🎯GAMING GAMES🎯HELLO🎯CLICK HERE🎯NOPIXEL 4.0🎯 </title>
 <desc lang="en"> Started: 03:52 pm
 Playing: Grand Theft Auto V
-Viewers: 314 </desc>
+Viewers: 289 </desc>
 </programme>
 
 <programme start="20240926225829 +0000" stop="20240929175829 +0000" channel="NapoleonsLive.us">
 <title lang="en"> SUBATHON DAY 14 - Ricky LaFleur - NoPixel WL - ALL CRASHING DOWN </title>
 <desc lang="en"> Started: 05:58 pm
 Playing: Grand Theft Auto V
-Viewers: 219 </desc>
+Viewers: 202 </desc>
 </programme>
 
 <programme start="20240927061054 +0000" stop="20240930011054 +0000" channel="NismoDOMA.us">
@@ -233,42 +230,49 @@ Viewers: 1 </desc>
 <title lang="en"> Lily is back - NoPixel WL - Lily Night-Sky - Clowncil - 18 </title>
 <desc lang="en"> Started: 09:11 pm
 Playing: Grand Theft Auto V
-Viewers: 24 </desc>
+Viewers: 27 </desc>
+</programme>
+
+<programme start="20240927025245 +0000" stop="20240929215245 +0000" channel="charlieblossom.us">
+<title lang="en"> 🌈 WindSong ✌️ NoPixel softperma </title>
+<desc lang="en"> Started: 9:52PM
+Playing: Grand Theft Auto V
+Viewers: 263 </desc>
 </programme>
 
 <programme start="20240927060908 +0000" stop="20240930010908 +0000" channel="tinyspark.us">
 <title lang="en"> Field Director Daisy Dukakis - NoPixel - wraith </title>
 <desc lang="en"> Started: 1:09AM
 Playing: Grand Theft Auto V
-Viewers: 198 </desc>
+Viewers: 209 </desc>
 </programme>
 
 <programme start="20240927034425 +0000" stop="20240929224425 +0000" channel="raided.us">
 <title lang="en"> Partnerversay Draider - Nopixel Dev </title>
 <desc lang="en"> Started: 10:44PM
 Playing: Grand Theft Auto V
-Viewers: 231 </desc>
+Viewers: 197 </desc>
 </programme>
 
 <programme start="20240927003925 +0000" stop="20240929193925 +0000" channel="beetle.us">
 <title lang="en"> ROD LONG - ONX - ROD </title>
 <desc lang="en"> Started: 7:39PM
 Playing: Grand Theft Auto V
-Viewers: 258 </desc>
+Viewers: 248 </desc>
 </programme>
 
 <programme start="20240927060334 +0000" stop="20240930010334 +0000" channel="ms_star.us">
 <title lang="en"> Captain Skye - LSPD - NoPixel 4.0 - @ms_star </title>
 <desc lang="en"> Started: 1:03AM
 Playing: Grand Theft Auto V
-Viewers: 254 </desc>
+Viewers: 298 </desc>
 </programme>
 
 <programme start="20240927021404 +0000" stop="20240929211404 +0000" channel="heyimzed.us">
 <title lang="en"> SUBATHON DAY 1 - DISCOUNTED GIFTED SUBS -✅ FIRST FIVE ✅- Edbert - ✅ ADMC ✅ - NoPixel WL </title>
 <desc lang="en"> Started: 9:14PM
 Playing: Grand Theft Auto V
-Viewers: 574 </desc>
+Viewers: 577 </desc>
 </programme>
 
 <programme start="20240927042921 +0000" stop="20240929232921 +0000" channel="jacksonsfaded.us">
@@ -282,21 +286,28 @@ Viewers: 21 </desc>
 <title lang="en"> Aphrodite - LSPD 269 - SUBtember - NoPixel WL 4.0 </title>
 <desc lang="en"> Started: 8:59PM
 Playing: Grand Theft Auto V
-Viewers: 78 </desc>
+Viewers: 96 </desc>
+</programme>
+
+<programme start="20240927070505 +0000" stop="20240930020505 +0000" channel="basHYYEE.us">
+<title lang="en"> NoPixel 4.0 WL🔧 Terry The Manager Adams 🔧 Miltons Mods 🔧 @bashyyee on socials. </title>
+<desc lang="en"> Started: 02:05 am
+Playing: Grand Theft Auto V
+Viewers: 1 </desc>
 </programme>
 
 <programme start="20240925092335 +0000" stop="20240928042335 +0000" channel="penta.us">
 <title lang="en"> CHAOS MOD </title>
 <desc lang="en"> Started: 4:23AM
 Playing: Grand Theft Auto: San Andreas
-Viewers: 3515 </desc>
+Viewers: 3849 </desc>
 </programme>
 
 <programme start="202409262008 +0000" stop="202409292008 +0000" channel="xqc.us">
 <title lang="en"> -- CLICK -- LIVE -- andamp;andamp;andamp;uifhiurefhjkhrkfjhjkfhqkjfhqwjlkfjkwlqfhqwkjfhqwjklfhwqjklfhqwefwqhjkfqwhefHFIOUFGYH437089Y5980347Y </title>
 <desc lang="en"> Started: 08:08 pm
 Playing: Frostpunk 2
-Viewers: 14332 </desc>
+Viewers: 14170 </desc>
 </programme>
 
 
