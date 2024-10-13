@@ -2,16 +2,16 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="summit1g.us">
-<display-name>summit1g</display-name>
-</channel>
-
 <channel id="Ssaab.us">
 <display-name>Ssaab</display-name>
 </channel>
 
 <channel id="rexsair.us">
 <display-name>rexsair</display-name>
+</channel>
+
+<channel id="timmac.us">
+<display-name>timmac</display-name>
 </channel>
 
 <channel id="alyssajeanaf.us">
@@ -22,12 +22,12 @@
 <display-name>bledorable</display-name>
 </channel>
 
-<channel id="StankXO.us">
-<display-name>StankXO</display-name>
-</channel>
-
 <channel id="NismoDOMA.us">
 <display-name>NismoDOMA</display-name>
+</channel>
+
+<channel id="StankXO.us">
+<display-name>StankXO</display-name>
 </channel>
 
 <channel id="qift.us">
@@ -50,8 +50,8 @@
 <display-name>TWD_Wenz</display-name>
 </channel>
 
-<channel id="Unicornfrapp.us">
-<display-name>Unicornfrapp</display-name>
+<channel id="chloewoie.us">
+<display-name>chloewoie</display-name>
 </channel>
 
 <channel id="chloewoie.us">
@@ -78,10 +78,6 @@
 <display-name>jacksonsfaded</display-name>
 </channel>
 
-<channel id="royalcreates.us">
-<display-name>royalcreates</display-name>
-</channel>
-
 <channel id="givemeuhminute.us">
 <display-name>givemeuhminute</display-name>
 </channel>
@@ -90,78 +86,82 @@
 <display-name>ferst711</display-name>
 </channel>
 
+<channel id="royalcreates.us">
+<display-name>royalcreates</display-name>
+</channel>
+
 <channel id="xqc.us">
 <display-name>xqc</display-name>
 </channel>
-
-<programme start="20241012212330 +0000" stop="20241015162330 +0000" channel="summit1g.us">
-<title lang="en"> gta stuff </title>
-<desc lang="en"> Started: 4:23PM
-Playing: Grand Theft Auto V
-Viewers: 11201 </desc>
-</programme>
 
 <programme start="20241012213814 +0000" stop="20241015163814 +0000" channel="Ssaab.us">
 <title lang="en"> [DROPS ON] #1 GUILD COBRA KAI CANT BEAT THE DOPEMASTER - GUILD VS GUILD - UNCAPPED SUBATHON DAY 13 - WITH GONE BE BACK </title>
 <desc lang="en"> Started: 4:38PM
 Playing: Throne and Liberty
-Viewers: 391 </desc>
+Viewers: 455 </desc>
 </programme>
 
 <programme start="20241013070052 +0000" stop="20241016020052 +0000" channel="rexsair.us">
 <title lang="en"> REX - 🐍 HYDRA GANG 🐍 - FEATHER PARTY PROFESSIONAL - NOPIXEL WL </title>
 <desc lang="en"> Started: 2:00AM
 Playing: Grand Theft Auto V
-Viewers: 70 </desc>
+Viewers: 78 </desc>
+</programme>
+
+<programme start="20241013072243 +0000" stop="20241016022243 +0000" channel="timmac.us">
+<title lang="en"> GOMEY - Prodigy RP - Socials: @timmac </title>
+<desc lang="en"> Started: 2:22AM
+Playing: Grand Theft Auto V
+Viewers: 115 </desc>
 </programme>
 
 <programme start="20241013035156 +0000" stop="20241015225156 +0000" channel="alyssajeanaf.us">
 <title lang="en"> Daphne Malone. NoPixel WL. Feeling Unhinged⭐️petcommands vods spotify </title>
 <desc lang="en"> Started: 10:51PM
 Playing: Grand Theft Auto V
-Viewers: 44 </desc>
+Viewers: 35 </desc>
 </programme>
 
 <programme start="20241013011814 +0000" stop="20241015201814 +0000" channel="bledorable.us">
 <title lang="en"> Tripas - 3Pas jobs - Billy Thorne - NoPixel WL - Ex - Project - Hades - Vagos - Company - TBD - C4 </title>
 <desc lang="en"> Started: 08:18 pm
 Playing: Grand Theft Auto V
-Viewers: 22 </desc>
-</programme>
-
-<programme start="20241013030709 +0000" stop="20241015220709 +0000" channel="StankXO.us">
-<title lang="en"> hydras bottom frag raccoon *short stream* - nopixel 4.0 </title>
-<desc lang="en"> Started: 10:07 pm
-Playing: Grand Theft Auto V
-Viewers: 296 </desc>
+Viewers: 17 </desc>
 </programme>
 
 <programme start="20241013031153 +0000" stop="20241015221153 +0000" channel="NismoDOMA.us">
 <title lang="en"> 207 Yilong Ma - short one - NoPixel WL </title>
 <desc lang="en"> Started: 10:11 pm
 Playing: Grand Theft Auto V
-Viewers: 264 </desc>
+Viewers: 263 </desc>
+</programme>
+
+<programme start="20241013030709 +0000" stop="20241015220709 +0000" channel="StankXO.us">
+<title lang="en"> hydras bottom frag raccoon *short stream* - nopixel 4.0 </title>
+<desc lang="en"> Started: 10:07 pm
+Playing: Grand Theft Auto V
+Viewers: 261 </desc>
 </programme>
 
 <programme start="20241013031725 +0000" stop="20241015221725 +0000" channel="qift.us">
 <title lang="en"> WINTER ₊ ˚ ♡ ⋆ HADES ♰ - NP WL 4.0 ♡ [ENG-PH] </title>
 <desc lang="en"> Started: 10:17 pm
 Playing: Grand Theft Auto V
-Viewers: 133 </desc>
+Viewers: 142 </desc>
 </programme>
 
 <programme start="20241013062252 +0000" stop="20241016012252 +0000" channel="arro2k.us">
 <title lang="en"> Rico - Hades - Blue cheese -MG cartel leader- number 1 drug supplier -Nopixel Whitelist </title>
 <desc lang="en"> Started: 01:22 am
 Playing: Grand Theft Auto V
-Viewers: 86 </desc>
+Viewers: 116 </desc>
 </programme>
 
 <programme start="20241012193335 +0000" stop="20241015143335 +0000" channel="4hBunger.us">
 <title lang="en"> Fred White - 3PAS - NoPixel 4.0 WL - Final Prep Day </title>
 <desc lang="en"> Started: 02:33 pm
 Playing: Grand Theft Auto V
-Viewers: 3 </desc>
+Viewers: 2 </desc>
 </programme>
 
 <programme start="20241013012405 +0000" stop="20241015202405 +0000" channel="GregsStory.us">
@@ -175,54 +175,68 @@ Viewers: 51 </desc>
 <title lang="en"> Tony Wednesday - Guerrilla - WCA - NoPixel 4.0 WL </title>
 <desc lang="en"> Started: 05:31 pm
 Playing: Grand Theft Auto V
-Viewers: 19 </desc>
-</programme>
-
-<programme start="20241013021845 +0000" stop="20241015211845 +0000" channel="Unicornfrapp.us">
-<title lang="en"> Anya Burke - Nopixel WL - Criminininal </title>
-<desc lang="en"> Started: 09:18 pm
-Playing: Grand Theft Auto V
-Viewers: 15 </desc>
+Viewers: 22 </desc>
 </programme>
 
 <programme start="20241013020017 +0000" stop="20241015210017 +0000" channel="chloewoie.us">
 <title lang="en"> ✨ Chloe DeVill - NoPixelWL 4.0 - ୨୧ Finleys Release Party ୨୧ ✨ discord socials spotify </title>
 <desc lang="en"> Started: 09:00 pm
 Playing: Grand Theft Auto V
-Viewers: 10 </desc>
+Viewers: 7 </desc>
+</programme>
+
+<programme start="20241013020017 +0000" stop="20241015210017 +0000" channel="chloewoie.us">
+<title lang="en"> ✨ Chloe DeVill - NoPixelWL 4.0 - ୨୧ Finleys Release Party ୨୧ ✨ discord socials spotify </title>
+<desc lang="en"> Started: 09:00 pm
+Playing: Grand Theft Auto V
+Viewers: 7 </desc>
 </programme>
 
 <programme start="20241012204608 +0000" stop="20241015154608 +0000" channel="TheRedBeardedFury.us">
 <title lang="en"> drops on GTA V RP Nopixel 4.0. Red. Lurkers Needed Come hang out and chat </title>
 <desc lang="en"> Started: 03:46 pm
 Playing: Grand Theft Auto V
-Viewers: 5 </desc>
+Viewers: 3 </desc>
 </programme>
 
 <programme start="20241012174309 +0000" stop="20241015124309 +0000" channel="roxmiral.us">
 <title lang="en"> AN0THER DAY AN0THER PEACEFUL RESOLUTION </title>
 <desc lang="en"> Started: 12:43PM
 Playing: Grand Theft Auto V
-Viewers: 388 </desc>
+Viewers: 377 </desc>
 </programme>
 
 <programme start="20241013020702 +0000" stop="20241015210702 +0000" channel="peppo.us">
 <title lang="en"> EDGAR - night bef0re the pas pas pas - NOPIXEL 4.0 </title>
 <desc lang="en"> Started: 9:07PM
 Playing: Grand Theft Auto V
-Viewers: 319 </desc>
+Viewers: 310 </desc>
 </programme>
 
 <programme start="20241012175333 +0000" stop="20241015125333 +0000" channel="beetle.us">
 <title lang="en"> ROD LONG - ONX - LONG WEEKEND STREAM LOL </title>
 <desc lang="en"> Started: 12:53PM
 Playing: Grand Theft Auto V
-Viewers: 212 </desc>
+Viewers: 207 </desc>
 </programme>
 
 <programme start="20241013064348 +0000" stop="20241016014348 +0000" channel="jacksonsfaded.us">
 <title lang="en"> SMALLS - TRIPAS - Day 21-30 - NoPixel WL </title>
 <desc lang="en"> Started: 1:43AM
+Playing: Grand Theft Auto V
+Viewers: 9 </desc>
+</programme>
+
+<programme start="20241013031447 +0000" stop="20241015221447 +0000" channel="givemeuhminute.us">
+<title lang="en"> BENNY ON TYME OUT - NoPixel WL </title>
+<desc lang="en"> Started: 10:14PM
+Playing: Grand Theft Auto V
+Viewers: 46 </desc>
+</programme>
+
+<programme start="20241013060159 +0000" stop="20241016010159 +0000" channel="ferst711.us">
+<title lang="en"> Ferst - NoPixel - C4 Director - Paleto Pitstop </title>
+<desc lang="en"> Started: 1:01AM
 Playing: Grand Theft Auto V
 Viewers: 7 </desc>
 </programme>
@@ -231,28 +245,14 @@ Viewers: 7 </desc>
 <title lang="en"> Aphrodite - LSPD 269 - NoPixel WL 4.0 </title>
 <desc lang="en"> Started: 10:57PM
 Playing: Grand Theft Auto V
-Viewers: 52 </desc>
-</programme>
-
-<programme start="20241013031447 +0000" stop="20241015221447 +0000" channel="givemeuhminute.us">
-<title lang="en"> BENNY ON TYME OUT - NoPixel WL </title>
-<desc lang="en"> Started: 10:14PM
-Playing: Grand Theft Auto V
-Viewers: 45 </desc>
-</programme>
-
-<programme start="20241013060159 +0000" stop="20241016010159 +0000" channel="ferst711.us">
-<title lang="en"> Ferst - NoPixel - C4 Director - Paleto Pitstop </title>
-<desc lang="en"> Started: 1:01AM
-Playing: Grand Theft Auto V
-Viewers: 8 </desc>
+Viewers: 55 </desc>
 </programme>
 
 <programme start="202410121939 +0000" stop="202410151939 +0000" channel="xqc.us">
 <title lang="en"> 🛑CLICK🛑LIVE🛑STUFF🛑GAMES🛑REACT🛑VIDEOS🛑WOOOOOOO🛑WOOOO🛑 </title>
 <desc lang="en"> Started: 07:39 pm
 Playing: Five Hearts Under One Roof
-Viewers: 20820 </desc>
+Viewers: 15477 </desc>
 </programme>
 
 
