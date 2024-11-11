@@ -2,6 +2,10 @@
 <display-name>clearepg</display-name>
 </channel>
 
+<channel id="novazfov.us">
+<display-name>novazfov</display-name>
+</channel>
+
 <channel id="timmac.us">
 <display-name>timmac</display-name>
 </channel>
@@ -20,6 +24,10 @@
 
 <channel id="NismoDOMA.us">
 <display-name>NismoDOMA</display-name>
+</channel>
+
+<channel id="Unicornfrapp.us">
+<display-name>Unicornfrapp</display-name>
 </channel>
 
 <channel id="MargoTheSnail.us">
@@ -54,8 +62,8 @@
 <display-name>ashi</display-name>
 </channel>
 
-<channel id="novazfov.us">
-<display-name>novazfov</display-name>
+<channel id="Reina.us">
+<display-name>Reina</display-name>
 </channel>
 
 <channel id="curvyelephant.us">
@@ -66,10 +74,6 @@
 <display-name>beetle</display-name>
 </channel>
 
-<channel id="ms_star.us">
-<display-name>ms_star</display-name>
-</channel>
-
 <channel id="heyimzed.us">
 <display-name>heyimzed</display-name>
 </channel>
@@ -78,12 +82,12 @@
 <display-name>cutieno</display-name>
 </channel>
 
-<channel id="royalcreates.us">
-<display-name>royalcreates</display-name>
+<channel id="ms_star.us">
+<display-name>ms_star</display-name>
 </channel>
 
-<channel id="Unicornfrapp.us">
-<display-name>Unicornfrapp</display-name>
+<channel id="royalcreates.us">
+<display-name>royalcreates</display-name>
 </channel>
 
 <channel id="kaicenat.us">
@@ -98,53 +102,67 @@
 <display-name>xqc</display-name>
 </channel>
 
+<programme start="20241111075435 +0000" stop="20241114025435 +0000" channel="novazfov.us">
+<title lang="en"> Short </title>
+<desc lang="en"> Started: 2:54AM
+Playing: Grand Theft Auto V
+Viewers: 132 </desc>
+</programme>
+
 <programme start="20241111055620 +0000" stop="20241114005620 +0000" channel="timmac.us">
 <title lang="en"> Officer Mack - Prodigy RP - Socials: @timmac </title>
 <desc lang="en"> Started: 12:56AM
 Playing: Grand Theft Auto V
-Viewers: 643 </desc>
+Viewers: 667 </desc>
 </programme>
 
 <programme start="20241110215456 +0000" stop="20241113165456 +0000" channel="Ssaab.us">
 <title lang="en"> #1 GUILD ON US EAST - 3730 GS SNS-WAND - BEST PVPER OUT THERE - - UNCAPPED SUBATHON 38 - </title>
 <desc lang="en"> Started: 4:54PM
 Playing: Throne and Liberty
-Viewers: 448 </desc>
+Viewers: 419 </desc>
 </programme>
 
 <programme start="20241111061725 +0000" stop="20241114011725 +0000" channel="bledorable.us">
 <title lang="en"> Why am I up this late - Billy Thorne - NoPixel WL #AD raid </title>
 <desc lang="en"> Started: 01:17 am
 Playing: Grand Theft Auto V
-Viewers: 48 </desc>
+Viewers: 45 </desc>
 </programme>
 
 <programme start="20241111050305 +0000" stop="20241114000305 +0000" channel="Harmless.us">
 <title lang="en"> MY BIRTHDAY :) Maynard Idiot Schmidt - Besties - Nopixel 4.0 </title>
 <desc lang="en"> Started: 12:03 am
 Playing: Grand Theft Auto V
-Viewers: 278 </desc>
+Viewers: 320 </desc>
 </programme>
 
 <programme start="20241110215706 +0000" stop="20241113165706 +0000" channel="NismoDOMA.us">
 <title lang="en"> 454 Yilong Ma - midnight croc session - NoPixel WL </title>
 <desc lang="en"> Started: 04:57 pm
 Playing: Grand Theft Auto V
-Viewers: 214 </desc>
+Viewers: 151 </desc>
+</programme>
+
+<programme start="20241111074838 +0000" stop="20241114024838 +0000" channel="Unicornfrapp.us">
+<title lang="en"> Anya Burke - Oxy - Nopixel WL </title>
+<desc lang="en"> Started: 02:48 am
+Playing: Grand Theft Auto V
+Viewers: 6 </desc>
 </programme>
 
 <programme start="20241111021608 +0000" stop="20241113211608 +0000" channel="MargoTheSnail.us">
 <title lang="en"> MARGO ESCARGOT ~ NoPixel WL ~ I Told You Mus Alive </title>
 <desc lang="en"> Started: 09:16 pm
 Playing: Grand Theft Auto V
-Viewers: 4 </desc>
+Viewers: 5 </desc>
 </programme>
 
 <programme start="20241111065524 +0000" stop="20241114015524 +0000" channel="basHYYEE.us">
 <title lang="en"> NoPixel 4.0 WL🔧 Terry The Manager Adams 🔧 Miltons Mods 🔧 @bashyyee on socials. </title>
 <desc lang="en"> Started: 01:55 am
 Playing: Grand Theft Auto V
-Viewers: 2 </desc>
+Viewers: 1 </desc>
 </programme>
 
 <programme start="20241111064846 +0000" stop="20241114014846 +0000" channel="kostigan44.us">
@@ -165,56 +183,49 @@ Viewers: 33 </desc>
 <title lang="en"> lt lukas lavender 🎀 bcso - nopixel wl - @yuukidav royal #ad </title>
 <desc lang="en"> Started: 12:06AM
 Playing: Grand Theft Auto V
-Viewers: 290 </desc>
+Viewers: 281 </desc>
 </programme>
 
 <programme start="20241111033648 +0000" stop="20241113223648 +0000" channel="zuck.us">
 <title lang="en"> 🐸 Zuck - Besties - NoPixel - Follow Twitter @zuck_ttv farmskins #ad </title>
 <desc lang="en"> Started: 10:36PM
 Playing: Grand Theft Auto V
-Viewers: 97 </desc>
+Viewers: 74 </desc>
 </programme>
 
 <programme start="20241111052339 +0000" stop="20241114002339 +0000" channel="thatguygp.us">
 <title lang="en"> Jamal -Peep-Nopixel 4.0-Besties </title>
 <desc lang="en"> Started: 12:23AM
 Playing: Grand Theft Auto V
-Viewers: 567 </desc>
+Viewers: 510 </desc>
 </programme>
 
 <programme start="20241111073336 +0000" stop="20241114023336 +0000" channel="ashi.us">
 <title lang="en"> FIFI-FIONA - RETIRED MANSION OWNER #POACHINGSEASON - NOPIXEL WL RP </title>
 <desc lang="en"> Started: 2:33AM
 Playing: Grand Theft Auto V
-Viewers: 244 </desc>
+Viewers: 275 </desc>
 </programme>
 
-<programme start="20241111075435 +0000" stop="20241114025435 +0000" channel="novazfov.us">
-<title lang="en"> Short </title>
-<desc lang="en"> Started: 2:54AM
+<programme start="20241111075508 +0000" stop="20241114025508 +0000" channel="Reina.us">
+<title lang="en"> Itz me Mona Sanchez of big Hades in Nopixel WL discord tiktok </title>
+<desc lang="en"> Started: 02:55 am
 Playing: Grand Theft Auto V
-Viewers: 19 </desc>
+Viewers: 49 </desc>
 </programme>
 
 <programme start="20241111064445 +0000" stop="20241114014445 +0000" channel="curvyelephant.us">
 <title lang="en"> matt rhodes, no sleep, prolly short strum - nopixel - </title>
 <desc lang="en"> Started: 1:44AM
 Playing: Grand Theft Auto V
-Viewers: 276 </desc>
+Viewers: 295 </desc>
 </programme>
 
 <programme start="20241110184226 +0000" stop="20241113134226 +0000" channel="beetle.us">
 <title lang="en"> LOKI SKYLIZARD - NOPIXEL - SUPERCOP </title>
 <desc lang="en"> Started: 1:42PM
 Playing: Grand Theft Auto V
-Viewers: 316 </desc>
-</programme>
-
-<programme start="20241111065303 +0000" stop="20241114015303 +0000" channel="ms_star.us">
-<title lang="en"> Skye - LSPD - NoPixel 4.0 - @ms_star - monopolygo #Ad </title>
-<desc lang="en"> Started: 1:53AM
-Playing: Grand Theft Auto V
-Viewers: 135 </desc>
+Viewers: 313 </desc>
 </programme>
 
 <programme start="20241111001745 +0000" stop="20241113191745 +0000" channel="heyimzed.us">
@@ -228,42 +239,42 @@ Viewers: 384 </desc>
 <title lang="en"> Rue Minmi - ADMC SecRUEtary - Nopixel WL - Rue things and stuffs </title>
 <desc lang="en"> Started: 12:01AM
 Playing: Grand Theft Auto V
-Viewers: 115 </desc>
+Viewers: 122 </desc>
+</programme>
+
+<programme start="20241111065303 +0000" stop="20241114015303 +0000" channel="ms_star.us">
+<title lang="en"> Skye - LSPD - NoPixel 4.0 - @ms_star - monopolygo #Ad </title>
+<desc lang="en"> Started: 1:53AM
+Playing: Grand Theft Auto V
+Viewers: 141 </desc>
 </programme>
 
 <programme start="20241111025645 +0000" stop="20241113215645 +0000" channel="royalcreates.us">
 <title lang="en"> Aphrodite - LSPD 269 - NoPixel WL 4.0 </title>
 <desc lang="en"> Started: 9:56PM
 Playing: Grand Theft Auto V
-Viewers: 26 </desc>
-</programme>
-
-<programme start="20241111074838 +0000" stop="20241114024838 +0000" channel="Unicornfrapp.us">
-<title lang="en"> Anya Burke - Oxy - Nopixel WL </title>
-<desc lang="en"> Started: 02:48 am
-Playing: Grand Theft Auto V
-Viewers: 2 </desc>
+Viewers: 34 </desc>
 </programme>
 
 <programme start="20241110233124 +0000" stop="20241113183124 +0000" channel="kaicenat.us">
 <title lang="en"> ◻️ MAFIATHON 2 ◻️DAY 10◻️KAI X DENZEL CURRY◻️20% OF REVENUE GOING TO SCHOOL IN NIGERIA ◻️ ALL MONTH CLICK HERE ◻️ BIGGEST DWARF ◻️ Subathon </title>
 <desc lang="en"> Started: 6:31PM
 Playing: Just Chatting
-Viewers: 113035 </desc>
+Viewers: 109692 </desc>
 </programme>
 
 <programme start="202411110354 +0000" stop="202411140354 +0000" channel="locco-rp.us">
 <title lang="en"> RUST then GTA </title>
 <desc lang="en"> Started: 02:54 am
 Playing: Rust
-Viewers: 73 </desc>
+Viewers: 128 </desc>
 </programme>
 
 <programme start="202411102024 +0000" stop="202411132024 +0000" channel="xqc.us">
 <title lang="en"> ad 18 4324324^^   ttgrehgzegerfgwekjnhnkhjklhkljhkjhkjlhgr </title>
 <desc lang="en"> Started: 07:24 pm
 Playing: Slots &amp; Casino
-Viewers: 20428 </desc>
+Viewers: 20337 </desc>
 </programme>
 
 
