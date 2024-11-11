@@ -2,6 +2,10 @@
 <display-name>clearepg</display-name>
 </channel>
 
+<channel id="niccorazi.us">
+<display-name>niccorazi</display-name>
+</channel>
+
 <channel id="timmac.us">
 <display-name>timmac</display-name>
 </channel>
@@ -18,10 +22,6 @@
 <display-name>rerolldota</display-name>
 </channel>
 
-<channel id="niccorazi.us">
-<display-name>niccorazi</display-name>
-</channel>
-
 <channel id="Harmless.us">
 <display-name>Harmless</display-name>
 </channel>
@@ -30,12 +30,12 @@
 <display-name>Reina</display-name>
 </channel>
 
-<channel id="RissahBear.us">
-<display-name>RissahBear</display-name>
-</channel>
-
 <channel id="Frank_Ladd.us">
 <display-name>Frank_Ladd</display-name>
+</channel>
+
+<channel id="RissahBear.us">
+<display-name>RissahBear</display-name>
 </channel>
 
 <channel id="GoufBam.us">
@@ -62,16 +62,16 @@
 <display-name>NokticTV</display-name>
 </channel>
 
-<channel id="kostigan44.us">
-<display-name>kostigan44</display-name>
-</channel>
-
 <channel id="aus24.us">
 <display-name>aus24</display-name>
 </channel>
 
 <channel id="yuukidav.us">
 <display-name>yuukidav</display-name>
+</channel>
+
+<channel id="4head.us">
+<display-name>4head</display-name>
 </channel>
 
 <channel id="ming.us">
@@ -84,10 +84,6 @@
 
 <channel id="ashi.us">
 <display-name>ashi</display-name>
-</channel>
-
-<channel id="4head.us">
-<display-name>4head</display-name>
 </channel>
 
 <channel id="ms_star.us">
@@ -106,34 +102,6 @@
 <display-name>xqc</display-name>
 </channel>
 
-<programme start="20241111055620 +0000" stop="20241114005620 +0000" channel="timmac.us">
-<title lang="en"> Officer Mack - Prodigy RP - Socials: @timmac </title>
-<desc lang="en"> Started: 12:56AM
-Playing: Grand Theft Auto V
-Viewers: 800 </desc>
-</programme>
-
-<programme start="20241110215456 +0000" stop="20241113165456 +0000" channel="Ssaab.us">
-<title lang="en"> Sleep Stream - UNCAPPED SUBATHON - </title>
-<desc lang="en"> Started: 4:54PM
-Playing: I'm Only Sleeping
-Viewers: 194 </desc>
-</programme>
-
-<programme start="20241111061725 +0000" stop="20241114011725 +0000" channel="bledorable.us">
-<title lang="en"> Why am I up this late - Billy Thorne - NoPixel WL #AD raid </title>
-<desc lang="en"> Started: 01:17 am
-Playing: Grand Theft Auto V
-Viewers: 40 </desc>
-</programme>
-
-<programme start="20241111091006 +0000" stop="20241114041006 +0000" channel="rerolldota.us">
-<title lang="en"> Nopixel WL - Officer Mara - Relaxing Factorio is a vibe thou </title>
-<desc lang="en"> Started: 04:10 am
-Playing: Grand Theft Auto V
-Viewers: 47 </desc>
-</programme>
-
 <programme start="20241111100034 +0000" stop="20241114050034 +0000" channel="niccorazi.us">
 <title lang="en"> Chill Monday - Donnie Jones - Cypress - a-thon day 144😂 - NoPixel 4.0 </title>
 <desc lang="en"> Started: 5:00AM
@@ -141,32 +109,60 @@ Playing: Grand Theft Auto V
 Viewers: 17 </desc>
 </programme>
 
+<programme start="20241111055620 +0000" stop="20241114005620 +0000" channel="timmac.us">
+<title lang="en"> Officer Mack - Prodigy RP - Socials: @timmac </title>
+<desc lang="en"> Started: 12:56AM
+Playing: Grand Theft Auto V
+Viewers: 890 </desc>
+</programme>
+
+<programme start="20241110215456 +0000" stop="20241113165456 +0000" channel="Ssaab.us">
+<title lang="en"> Sleep Stream - UNCAPPED SUBATHON - </title>
+<desc lang="en"> Started: 4:54PM
+Playing: I'm Only Sleeping
+Viewers: 189 </desc>
+</programme>
+
+<programme start="20241111061725 +0000" stop="20241114011725 +0000" channel="bledorable.us">
+<title lang="en"> Why am I up this late - Billy Thorne - NoPixel WL #AD raid </title>
+<desc lang="en"> Started: 01:17 am
+Playing: Grand Theft Auto V
+Viewers: 37 </desc>
+</programme>
+
+<programme start="20241111091006 +0000" stop="20241114041006 +0000" channel="rerolldota.us">
+<title lang="en"> Nopixel WL - Officer Mara - Relaxing Factorio is a vibe thou </title>
+<desc lang="en"> Started: 04:10 am
+Playing: Grand Theft Auto V
+Viewers: 52 </desc>
+</programme>
+
 <programme start="20241111050305 +0000" stop="20241114000305 +0000" channel="Harmless.us">
 <title lang="en"> MY BIRTHDAY :) Maynard Idiot Schmidt - Besties - Nopixel 4.0 </title>
 <desc lang="en"> Started: 12:03 am
 Playing: Grand Theft Auto V
-Viewers: 263 </desc>
+Viewers: 200 </desc>
 </programme>
 
 <programme start="20241111075508 +0000" stop="20241114025508 +0000" channel="Reina.us">
 <title lang="en"> Itz me Mona Sanchez of big Hades in Nopixel WL discord tiktok </title>
 <desc lang="en"> Started: 02:55 am
 Playing: Grand Theft Auto V
-Viewers: 162 </desc>
-</programme>
-
-<programme start="20241111091133 +0000" stop="20241114041133 +0000" channel="RissahBear.us">
-<title lang="en"> Rissa Berry - BESTIES - No Pixel 4.0 - GTA RP </title>
-<desc lang="en"> Started: 04:11 am
-Playing: Grand Theft Auto V
-Viewers: 160 </desc>
+Viewers: 152 </desc>
 </programme>
 
 <programme start="20241111090140 +0000" stop="20241114040140 +0000" channel="Frank_Ladd.us">
 <title lang="en"> Cargo going crazy - Frank N0t 2IC Scaletta - The Manor - NoPixel WL - Discord </title>
 <desc lang="en"> Started: 04:01 am
 Playing: Grand Theft Auto V
-Viewers: 138 </desc>
+Viewers: 144 </desc>
+</programme>
+
+<programme start="20241111091133 +0000" stop="20241114041133 +0000" channel="RissahBear.us">
+<title lang="en"> Rissa Berry - BESTIES - No Pixel 4.0 - GTA RP </title>
+<desc lang="en"> Started: 04:11 am
+Playing: Grand Theft Auto V
+Viewers: 91 </desc>
 </programme>
 
 <programme start="20241111050252 +0000" stop="20241114000252 +0000" channel="GoufBam.us">
@@ -180,7 +176,7 @@ Viewers: 33 </desc>
 <title lang="en"> Scuffed short  Stream #12 Jasper Johns awards discord - Hydra - NoPixel WL 4.0 - </title>
 <desc lang="en"> Started: 04:31 am
 Playing: Grand Theft Auto V
-Viewers: 14 </desc>
+Viewers: 17 </desc>
 </programme>
 
 <programme start="20241111074838 +0000" stop="20241114024838 +0000" channel="Unicornfrapp.us">
@@ -194,7 +190,7 @@ Viewers: 25 </desc>
 <title lang="en"> [18][UK][50] Martha Schniffly n schneezy - NoPixel 4.0 NP WL </title>
 <desc lang="en"> Started: 04:26 am
 Playing: Grand Theft Auto V
-Viewers: 15 </desc>
+Viewers: 14 </desc>
 </programme>
 
 <programme start="20241111092627 +0000" stop="20241114042627 +0000" channel="CARTY_tck.us">
@@ -211,81 +207,74 @@ Playing: Grand Theft Auto V
 Viewers: 1 </desc>
 </programme>
 
-<programme start="20241111064846 +0000" stop="20241114014846 +0000" channel="kostigan44.us">
-<title lang="en"> Jonathan Cane - Canes Creamy Cabs - NoPixel 4.0 </title>
-<desc lang="en"> Started: 01:48 am
-Playing: Grand Theft Auto V
-Viewers: 1 </desc>
-</programme>
-
 <programme start="20241111072310 +0000" stop="20241114022310 +0000" channel="aus24.us">
 <title lang="en"> DAVENPORT - LSPD - HYDRA - gs - NoPixel 4.0 </title>
 <desc lang="en"> Started: 2:23AM
 Playing: Grand Theft Auto V
-Viewers: 67 </desc>
+Viewers: 71 </desc>
 </programme>
 
 <programme start="20241111050627 +0000" stop="20241114000627 +0000" channel="yuukidav.us">
 <title lang="en"> lt lukas lavender 🎀 bcso - nopixel wl - @yuukidav royal #ad </title>
 <desc lang="en"> Started: 12:06AM
 Playing: Grand Theft Auto V
-Viewers: 381 </desc>
-</programme>
-
-<programme start="20241111093516 +0000" stop="20241114043516 +0000" channel="ming.us">
-<title lang="en"> Ming Jingtai - 👉Click Bait title 👈 - NoPixel - @ MrMing011 </title>
-<desc lang="en"> Started: 4:35AM
-Playing: Grand Theft Auto V
-Viewers: 698 </desc>
-</programme>
-
-<programme start="20241111052339 +0000" stop="20241114002339 +0000" channel="thatguygp.us">
-<title lang="en"> Jamal -Peep-Nopixel 4.0-Besties </title>
-<desc lang="en"> Started: 12:23AM
-Playing: Grand Theft Auto V
-Viewers: 592 </desc>
-</programme>
-
-<programme start="20241111073336 +0000" stop="20241114023336 +0000" channel="ashi.us">
-<title lang="en"> FIFI-FIONA - RETIRED MANSION OWNER #POACHINGSEASON - NOPIXEL WL RP </title>
-<desc lang="en"> Started: 2:33AM
-Playing: Grand Theft Auto V
-Viewers: 378 </desc>
+Viewers: 364 </desc>
 </programme>
 
 <programme start="20241111100201 +0000" stop="20241114050201 +0000" channel="4head.us">
 <title lang="en"> 4HEAD - NOPIXEL 4.0 - TTS </title>
 <desc lang="en"> Started: 5:02AM
 Playing: Grand Theft Auto V
-Viewers: 348 </desc>
+Viewers: 466 </desc>
+</programme>
+
+<programme start="20241111093516 +0000" stop="20241114043516 +0000" channel="ming.us">
+<title lang="en"> Ming Jingtai - 👉Click Bait title 👈 - NoPixel - @ MrMing011 </title>
+<desc lang="en"> Started: 4:35AM
+Playing: Grand Theft Auto V
+Viewers: 637 </desc>
+</programme>
+
+<programme start="20241111052339 +0000" stop="20241114002339 +0000" channel="thatguygp.us">
+<title lang="en"> Jamal -Peep-Nopixel 4.0-Besties </title>
+<desc lang="en"> Started: 12:23AM
+Playing: Grand Theft Auto V
+Viewers: 427 </desc>
+</programme>
+
+<programme start="20241111073336 +0000" stop="20241114023336 +0000" channel="ashi.us">
+<title lang="en"> FIFI-FIONA - RETIRED MANSION OWNER #POACHINGSEASON - NOPIXEL WL RP </title>
+<desc lang="en"> Started: 2:33AM
+Playing: Grand Theft Auto V
+Viewers: 363 </desc>
 </programme>
 
 <programme start="20241111065303 +0000" stop="20241114015303 +0000" channel="ms_star.us">
 <title lang="en"> Skye - LSPD - NoPixel 4.0 - @ms_star - monopolygo #Ad </title>
 <desc lang="en"> Started: 1:53AM
 Playing: Grand Theft Auto V
-Viewers: 288 </desc>
+Viewers: 296 </desc>
 </programme>
 
 <programme start="20241110233124 +0000" stop="20241113183124 +0000" channel="kaicenat.us">
 <title lang="en"> ◻️ MAFIATHON 2 ◻️DAY 10◻️20% OF REVENUE GOING TO SCHOOL IN NIGERIA ◻️ ALL MONTH CLICK HERE ◻️ BIGGEST DWARF ◻️ Subathon </title>
 <desc lang="en"> Started: 6:31PM
 Playing: Just Chatting
-Viewers: 92878 </desc>
+Viewers: 88097 </desc>
 </programme>
 
 <programme start="202411110354 +0000" stop="202411140354 +0000" channel="locco-rp.us">
 <title lang="en"> RUST then GTA </title>
 <desc lang="en"> Started: 02:54 am
 Playing: Rust
-Viewers: 149 </desc>
+Viewers: 203 </desc>
 </programme>
 
 <programme start="202411102024 +0000" stop="202411132024 +0000" channel="xqc.us">
 <title lang="en"> 18ad4324324^^   ttgrehgzegerfgwekjnhnkhjklhkljhkjhkjlhgr </title>
 <desc lang="en"> Started: 07:24 pm
 Playing: Slots &amp; Casino
-Viewers: 15082 </desc>
+Viewers: 14938 </desc>
 </programme>
 
 
