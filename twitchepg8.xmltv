@@ -2,16 +2,16 @@
 <display-name>clearepg</display-name>
 </channel>
 
+<channel id="Ssaab.us">
+<display-name>Ssaab</display-name>
+</channel>
+
 <channel id="uhsnow.us">
 <display-name>uhsnow</display-name>
 </channel>
 
 <channel id="Silbullet.us">
 <display-name>Silbullet</display-name>
-</channel>
-
-<channel id="Ssaab.us">
-<display-name>Ssaab</display-name>
 </channel>
 
 <channel id="bledorable.us">
@@ -34,12 +34,12 @@
 <display-name>CARTY_tck</display-name>
 </channel>
 
-<channel id="kritacul.us">
-<display-name>kritacul</display-name>
-</channel>
-
 <channel id="FearStare.us">
 <display-name>FearStare</display-name>
+</channel>
+
+<channel id="kritacul.us">
+<display-name>kritacul</display-name>
 </channel>
 
 <channel id="PurposeTTV_.us">
@@ -78,79 +78,72 @@
 <display-name>defac3d</display-name>
 </channel>
 
-<channel id="kaicenat.us">
-<display-name>kaicenat</display-name>
-</channel>
-
 <channel id="maximusblack.us">
 <display-name>maximusblack</display-name>
+</channel>
+
+<channel id="kaicenat.us">
+<display-name>kaicenat</display-name>
 </channel>
 
 <channel id="locco-rp.us">
 <display-name>locco-rp</display-name>
 </channel>
 
+<programme start="20241115210410 +0000" stop="20241118160410 +0000" channel="Ssaab.us">
+<title lang="en"> SLEEP STREAM UNTIL NEXT TYME - UNCAPPED SUBATHON 42 - </title>
+<desc lang="en"> Started: 4:04PM
+Playing: I'm Only Sleeping
+Viewers: 529 </desc>
+</programme>
+
 <programme start="20241116113819 +0000" stop="20241119063819 +0000" channel="uhsnow.us">
 <title lang="en"> ROLEPLAY - NoPixel - discord.gg-snow </title>
 <desc lang="en"> Started: 6:38AM
 Playing: Grand Theft Auto V
-Viewers: 432 </desc>
+Viewers: 571 </desc>
 </programme>
 
 <programme start="20241116050148 +0000" stop="20241119000148 +0000" channel="Silbullet.us">
 <title lang="en"> EVERYTHING MIGHT BE BROKEN - Sgt. Maple 297 - LSPD - NoPixel WL 4.0 - sub2024 gtarecap clip </title>
 <desc lang="en"> Started: 12:01AM
 Playing: Grand Theft Auto V
-Viewers: 81 </desc>
-</programme>
-
-<programme start="20241115210410 +0000" stop="20241118160410 +0000" channel="Ssaab.us">
-<title lang="en"> SLEEP STREAM UNTIL NEXT TYME - UNCAPPED SUBATHON 42 - </title>
-<desc lang="en"> Started: 4:04PM
-Playing: I'm Only Sleeping
-Viewers: 536 </desc>
+Viewers: 84 </desc>
 </programme>
 
 <programme start="20241116044650 +0000" stop="20241118234650 +0000" channel="bledorable.us">
 <title lang="en"> RP- Billy Thorne - NoPixel WL #AD raid </title>
 <desc lang="en"> Started: 11:46 pm
 Playing: Grand Theft Auto V
-Viewers: 34 </desc>
+Viewers: 30 </desc>
 </programme>
 
 <programme start="20241116065332 +0000" stop="20241119015332 +0000" channel="Harmless.us">
 <title lang="en"> Maynard Idiot Schmidt - Besties - Nopixel 4.0 </title>
 <desc lang="en"> Started: 01:53 am
 Playing: Grand Theft Auto V
-Viewers: 84 </desc>
+Viewers: 89 </desc>
 </programme>
 
 <programme start="20241116110217 +0000" stop="20241119060217 +0000" channel="ItsElnari.us">
 <title lang="en"> partner -- MMORPG - Lara VanDusk - 金城 Kaneshiro - Kyodai - NoPixel WL -- [18] </title>
 <desc lang="en"> Started: 06:02 am
 Playing: Grand Theft Auto V
-Viewers: 28 </desc>
+Viewers: 23 </desc>
 </programme>
 
 <programme start="20241116061900 +0000" stop="20241119011900 +0000" channel="GoufBam.us">
 <title lang="en"> Zee Bruh - :) - Nopixel WL </title>
 <desc lang="en"> Started: 01:19 am
 Playing: Grand Theft Auto V
-Viewers: 22 </desc>
+Viewers: 21 </desc>
 </programme>
 
 <programme start="20241116080238 +0000" stop="20241119030238 +0000" channel="CARTY_tck.us">
 <title lang="en"> Ted-Theodora Shredder 🐢 Nopixel 4.0 WL 💀 socials 💀 vods 💀 discord 💀 Prospect f0r Chaos Legion MC 💀 shenanigans </title>
 <desc lang="en"> Started: 03:02 am
 Playing: Grand Theft Auto V
-Viewers: 34 </desc>
-</programme>
-
-<programme start="20241116112452 +0000" stop="20241119062452 +0000" channel="kritacul.us">
-<title lang="en"> Dev Jones -NoPixel WL - Short Stream - help f0r details </title>
-<desc lang="en"> Started: 06:24 am
-Playing: Grand Theft Auto V
-Viewers: 6 </desc>
+Viewers: 33 </desc>
 </programme>
 
 <programme start="20241115235634 +0000" stop="20241118185634 +0000" channel="FearStare.us">
@@ -160,88 +153,95 @@ Playing: Grand Theft Auto V
 Viewers: 4 </desc>
 </programme>
 
+<programme start="20241116112452 +0000" stop="20241119062452 +0000" channel="kritacul.us">
+<title lang="en"> Dev Jones -NoPixel WL - Short Stream - help f0r details </title>
+<desc lang="en"> Started: 06:24 am
+Playing: Grand Theft Auto V
+Viewers: 3 </desc>
+</programme>
+
 <programme start="20241116093343 +0000" stop="20241119043343 +0000" channel="PurposeTTV_.us">
 <title lang="en"> TESTING NO PIXEL GRAPHICS PACK PMA RP🎮3.00 KD🎮 117-150 🎮Type Giveaway🎮 </title>
 <desc lang="en"> Started: 04:33 am
 Playing: Grand Theft Auto V
-Viewers: 1 </desc>
+Viewers: 2 </desc>
 </programme>
 
 <programme start="20241116105739 +0000" stop="20241119055739 +0000" channel="aus24.us">
 <title lang="en"> JORDAN WALKER - HYDRA - gs - NoPixel 4.0 </title>
 <desc lang="en"> Started: 5:57AM
 Playing: Grand Theft Auto V
-Viewers: 65 </desc>
+Viewers: 61 </desc>
 </programme>
 
 <programme start="20241116050131 +0000" stop="20241119000131 +0000" channel="yuukidav.us">
 <title lang="en"> oakley stallion 🎀 hydra - nopixel wl - @yuukidav royal #ad </title>
 <desc lang="en"> Started: 12:01AM
 Playing: Grand Theft Auto V
-Viewers: 286 </desc>
+Viewers: 264 </desc>
 </programme>
 
 <programme start="20241116101739 +0000" stop="20241119051739 +0000" channel="4head.us">
 <title lang="en"> 4HEAD - NOPIXEL 4.0 - TTS </title>
 <desc lang="en"> Started: 5:17AM
 Playing: Grand Theft Auto V
-Viewers: 2648 </desc>
+Viewers: 2516 </desc>
 </programme>
 
 <programme start="20241116053927 +0000" stop="20241119003927 +0000" channel="ming.us">
 <title lang="en"> Ming Jingtai - Nopixel - @ MrMing011 </title>
 <desc lang="en"> Started: 12:39AM
 Playing: Grand Theft Auto V
-Viewers: 949 </desc>
+Viewers: 1040 </desc>
 </programme>
 
 <programme start="20241116055312 +0000" stop="20241119005312 +0000" channel="thatguygp.us">
 <title lang="en"> Jamal -gone-Nopixel 4.0-Besties </title>
 <desc lang="en"> Started: 12:53AM
 Playing: Grand Theft Auto V
-Viewers: 207 </desc>
+Viewers: 229 </desc>
 </programme>
 
 <programme start="20241116025658 +0000" stop="20241118215658 +0000" channel="ashi.us">
 <title lang="en"> FIFI - NOPIXEL WL RP </title>
 <desc lang="en"> Started: 9:56PM
 Playing: Grand Theft Auto V
-Viewers: 395 </desc>
+Viewers: 390 </desc>
 </programme>
 
 <programme start="20241116091206 +0000" stop="20241119041206 +0000" channel="hotted89.us">
 <title lang="en"> JJ - Kaneshiro - Nopixel WL </title>
 <desc lang="en"> Started: 4:12AM
 Playing: Grand Theft Auto V
-Viewers: 194 </desc>
+Viewers: 152 </desc>
 </programme>
 
 <programme start="20241116083104 +0000" stop="20241119033104 +0000" channel="defac3d.us">
 <title lang="en"> DENZEL🔸CIV GANG🔸NOPIXEL 4.0🔸G2A </title>
 <desc lang="en"> Started: 3:31AM
 Playing: Grand Theft Auto V
-Viewers: 451 </desc>
-</programme>
-
-<programme start="20241115222057 +0000" stop="20241118172057 +0000" channel="kaicenat.us">
-<title lang="en"> ⬜ MAFIATHON 2 ⬜ DAY 16 ⬜ 20% OF REVENUE GOING TO SCHOOL IN NIGERIA ⬜ ALL MONTH ⬜ CLICK HERE ⬜ BIGGEST DWARF ⬜ Subathon </title>
-<desc lang="en"> Started: 5:20PM
-Playing: Just Chatting
-Viewers: 97235 </desc>
+Viewers: 457 </desc>
 </programme>
 
 <programme start="20241116114852 +0000" stop="20241119064852 +0000" channel="maximusblack.us">
 <title lang="en"> OTT - The King - SSK - First EU Gang HQ Down Prodigy 2.0 factor Nordvpn #ad </title>
 <desc lang="en"> Started: 6:48AM
 Playing: Grand Theft Auto V
-Viewers: 38 </desc>
+Viewers: 112 </desc>
+</programme>
+
+<programme start="20241115222057 +0000" stop="20241118172057 +0000" channel="kaicenat.us">
+<title lang="en"> ⬜ MAFIATHON 2 ⬜ DAY 16 ⬜ 20% OF REVENUE GOING TO SCHOOL IN NIGERIA ⬜ ALL MONTH ⬜ CLICK HERE ⬜ BIGGEST DWARF ⬜ Subathon </title>
+<desc lang="en"> Started: 5:20PM
+Playing: Just Chatting
+Viewers: 97878 </desc>
 </programme>
 
 <programme start="202411160627 +0000" stop="202411190627 +0000" channel="locco-rp.us">
 <title lang="en"> Roleplayer tries semi-serious public server </title>
 <desc lang="en"> Started: 05:27 am
 Playing: Grand Theft Auto V (GTA)
-Viewers: 349 </desc>
+Viewers: 340 </desc>
 </programme>
 
 
