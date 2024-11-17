@@ -6,12 +6,12 @@
 <display-name>Ssaab</display-name>
 </channel>
 
-<channel id="aus24.us">
-<display-name>aus24</display-name>
-</channel>
-
 <channel id="bledorable.us">
 <display-name>bledorable</display-name>
+</channel>
+
+<channel id="aus24.us">
+<display-name>aus24</display-name>
 </channel>
 
 <channel id="RissahBear.us">
@@ -38,20 +38,16 @@
 <display-name>cydeaa</display-name>
 </channel>
 
-<channel id="DeuceNasty.us">
-<display-name>DeuceNasty</display-name>
-</channel>
-
 <channel id="CARTY_tck.us">
 <display-name>CARTY_tck</display-name>
 </channel>
 
-<channel id="ming.us">
-<display-name>ming</display-name>
-</channel>
-
 <channel id="NinjaJessica.us">
 <display-name>NinjaJessica</display-name>
+</channel>
+
+<channel id="ming.us">
+<display-name>ming</display-name>
 </channel>
 
 <channel id="zuck.us">
@@ -74,32 +70,36 @@
 <display-name>kaicenat</display-name>
 </channel>
 
+<channel id="Bondii.us">
+<display-name>Bondii</display-name>
+</channel>
+
 <programme start="20241115210410 +0000" stop="20241118160410 +0000" channel="Ssaab.us">
 <title lang="en"> [DROPS] ON - COME GET YOUR ORNATE COINS HERE - TAX DELIVERY AND ARCHBOSS TODAY - UNCAPPED SUBATHON 43 - </title>
 <desc lang="en"> Started: 4:04PM
 Playing: Throne and Liberty
-Viewers: 625 </desc>
-</programme>
-
-<programme start="20241117074555 +0000" stop="20241120024555 +0000" channel="aus24.us">
-<title lang="en"> JORDAN - MECHANIC SHOP TYME - HYDRA - gs - NoPixel 4.0 </title>
-<desc lang="en"> Started: 2:45AM
-Playing: Grand Theft Auto V
-Viewers: 33 </desc>
+Viewers: 645 </desc>
 </programme>
 
 <programme start="20241117062157 +0000" stop="20241120012157 +0000" channel="bledorable.us">
 <title lang="en"> OXY KING - Billy Thorne - NoPixel WL #AD raid </title>
 <desc lang="en"> Started: 01:21 am
 Playing: Grand Theft Auto V
-Viewers: 25 </desc>
+Viewers: 27 </desc>
+</programme>
+
+<programme start="20241117074555 +0000" stop="20241120024555 +0000" channel="aus24.us">
+<title lang="en"> JORDAN - MECHANIC SHOP TYME - HYDRA - gs - NoPixel 4.0 </title>
+<desc lang="en"> Started: 2:45AM
+Playing: Grand Theft Auto V
+Viewers: 54 </desc>
 </programme>
 
 <programme start="20241117063226 +0000" stop="20241120013226 +0000" channel="RissahBear.us">
 <title lang="en"> Rissa Berry - BESTIES - No Pixel 4.0 - GTA RP </title>
 <desc lang="en"> Started: 01:32 am
 Playing: Grand Theft Auto V
-Viewers: 250 </desc>
+Viewers: 241 </desc>
 </programme>
 
 <programme start="20241116161252 +0000" stop="20241119111252 +0000" channel="NismoDOMA.us">
@@ -113,33 +113,26 @@ Viewers: 27 </desc>
 <title lang="en"> Sneaky-Nate Karama Nopixel 4.0 </title>
 <desc lang="en"> Started: 01:18 am
 Playing: Grand Theft Auto V
-Viewers: 17 </desc>
+Viewers: 15 </desc>
 </programme>
 
 <programme start="20241117062045 +0000" stop="20241120012045 +0000" channel="ealixer.us">
 <title lang="en"> Willy Robinson, the lone wolf - LSPD Nopixel WL </title>
 <desc lang="en"> Started: 01:20 am
 Playing: Grand Theft Auto V
-Viewers: 10 </desc>
+Viewers: 8 </desc>
 </programme>
 
 <programme start="20241117052758 +0000" stop="20241120002758 +0000" channel="kostigan44.us">
 <title lang="en"> Jonathan Cane - Canes Creamy Cabs - NoPixel 4.0 </title>
 <desc lang="en"> Started: 12:27 am
 Playing: Grand Theft Auto V
-Viewers: 5 </desc>
+Viewers: 4 </desc>
 </programme>
 
 <programme start="20241117061331 +0000" stop="20241120011331 +0000" channel="cydeaa.us">
 <title lang="en"> Jason McGrath - Nopixel Whitelist - Another Day dodging warrants </title>
 <desc lang="en"> Started: 01:13 am
-Playing: Grand Theft Auto V
-Viewers: 4 </desc>
-</programme>
-
-<programme start="20241117072716 +0000" stop="20241120022716 +0000" channel="DeuceNasty.us">
-<title lang="en"> Lifer Grind. NoPixel </title>
-<desc lang="en"> Started: 02:27 am
 Playing: Grand Theft Auto V
 Viewers: 2 </desc>
 </programme>
@@ -151,53 +144,60 @@ Playing: Grand Theft Auto V
 Viewers: 1 </desc>
 </programme>
 
-<programme start="20241117054759 +0000" stop="20241120004759 +0000" channel="ming.us">
-<title lang="en"> Ming Jingtai -👉Click Bait title👈 - Nopixel - @ MrMing011 </title>
-<desc lang="en"> Started: 12:47AM
-Playing: Grand Theft Auto V
-Viewers: 1174 </desc>
-</programme>
-
 <programme start="20241116235452 +0000" stop="20241119185452 +0000" channel="NinjaJessica.us">
 <title lang="en"> Ember Quinn - Clown - Fire Chief of Grapeseed - Nopixel 4.0 Whitelist - starf0rge rogue </title>
 <desc lang="en"> Started: 06:54 pm
 Playing: Grand Theft Auto V
-Viewers: 79 </desc>
+Viewers: 69 </desc>
+</programme>
+
+<programme start="20241117054759 +0000" stop="20241120004759 +0000" channel="ming.us">
+<title lang="en"> Ming Jingtai -👉Click Bait title👈 - Nopixel - @ MrMing011 </title>
+<desc lang="en"> Started: 12:47AM
+Playing: Grand Theft Auto V
+Viewers: 1183 </desc>
 </programme>
 
 <programme start="20241117033654 +0000" stop="20241119223654 +0000" channel="zuck.us">
 <title lang="en"> 🐸 Zuck - Besties - NoPixel 4.0 - Follow Twitter @zuck_ttv onlyfangs farmskins #ad </title>
 <desc lang="en"> Started: 10:36PM
 Playing: Grand Theft Auto V
-Viewers: 104 </desc>
+Viewers: 175 </desc>
 </programme>
 
 <programme start="20241117013031 +0000" stop="20241119203031 +0000" channel="ashi.us">
 <title lang="en"> FIFI -CLOSURE - NOPIXEL WL RP </title>
 <desc lang="en"> Started: 8:30PM
 Playing: Grand Theft Auto V
-Viewers: 422 </desc>
+Viewers: 404 </desc>
 </programme>
 
 <programme start="20241117011650 +0000" stop="20241119201650 +0000" channel="heyimzed.us">
 <title lang="en"> ✅ ILLEGAL WEEKEND STREAM ✅ - Edbert Ropeburn ADMC HC - NoPixel WL </title>
 <desc lang="en"> Started: 8:16PM
 Playing: Grand Theft Auto V
-Viewers: 333 </desc>
+Viewers: 309 </desc>
 </programme>
 
 <programme start="20241117051314 +0000" stop="20241120001314 +0000" channel="cutieno.us">
 <title lang="en"> Rue Minmi - ADMC SecRUEtary - Nopixel WL - I am cooked :) AND drinking </title>
 <desc lang="en"> Started: 12:13AM
 Playing: Grand Theft Auto V
-Viewers: 157 </desc>
+Viewers: 163 </desc>
 </programme>
 
 <programme start="20241116221747 +0000" stop="20241119171747 +0000" channel="kaicenat.us">
 <title lang="en"> 🎢 MAFIATHON 2 🎢 DAY 16 🎢 KAI X G HERBO 🎢 20% OF REVENUE GOING TO SCHOOL IN NIGERIA 🎢 ALL MONTH 🎢 CLICK HERE 🎢 BIGGEST DWARF 🎢Subathon </title>
 <desc lang="en"> Started: 5:17PM
 Playing: Just Chatting
-Viewers: 132601 </desc>
+Viewers: 134196 </desc>
+</programme>
+
+<programme start="20241117075504 +0000" stop="20241120025504 +0000" channel="Bondii.us">
+<title lang="en"> Randy Drug Mule Dalton - NoPixel WL </title>
+<desc lang="en"> Started: 02:55 am
+Playing: Grand Theft Auto V
+Viewers: 1 </desc>
 </programme>
 
 
