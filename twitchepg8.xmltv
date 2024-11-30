@@ -6,6 +6,10 @@
 <display-name>timmac</display-name>
 </channel>
 
+<channel id="capped.us">
+<display-name>capped</display-name>
+</channel>
+
 <channel id="reconmalfunction.us">
 <display-name>reconmalfunction</display-name>
 </channel>
@@ -42,76 +46,79 @@
 <display-name>4head</display-name>
 </channel>
 
-<channel id="capped.us">
-<display-name>capped</display-name>
-</channel>
-
 <channel id="jakson.us">
 <display-name>jakson</display-name>
-</channel>
-
-<channel id="kaicenat.us">
-<display-name>kaicenat</display-name>
 </channel>
 
 <channel id="nikkisariot.us">
 <display-name>nikkisariot</display-name>
 </channel>
 
+<channel id="kaicenat.us">
+<display-name>kaicenat</display-name>
+</channel>
+
 <programme start="20241130100833 +0000" stop="20241203050833 +0000" channel="timmac.us">
 <title lang="en"> Sgt Mack - Prodigy RP - Socials: @timmac </title>
 <desc lang="en"> Started: 5:08AM
 Playing: Grand Theft Auto V
-Viewers: 822 </desc>
+Viewers: 836 </desc>
+</programme>
+
+<programme start="20241130120147 +0000" stop="20241203070147 +0000" channel="capped.us">
+<title lang="en"> VARIETY DAY </title>
+<desc lang="en"> Started: 7:01AM
+Playing: Grand Theft Auto V
+Viewers: 93 </desc>
 </programme>
 
 <programme start="20241130033116 +0000" stop="20241202223116 +0000" channel="reconmalfunction.us">
 <title lang="en"> ProdigyRP 2.0 WL -- Dukey Duke - CG -- Discord Suck Sucktree -- </title>
 <desc lang="en"> Started: 10:31PM
 Playing: Grand Theft Auto V
-Viewers: 280 </desc>
+Viewers: 287 </desc>
 </programme>
 
 <programme start="20241128220647 +0000" stop="20241201170647 +0000" channel="Ssaab.us">
 <title lang="en"> Sleep Stream - UNCAPPED SUBATHON - </title>
 <desc lang="en"> Started: 5:06PM
 Playing: I'm Only Sleeping
-Viewers: 142 </desc>
+Viewers: 133 </desc>
 </programme>
 
 <programme start="20241130065502 +0000" stop="20241203015502 +0000" channel="Tacos_Terps.us">
 <title lang="en"> Patrick Russo - ProdigyRP public - NEW Tangia thingy - Bitbot [OFF] - All the  are there IYKYK </title>
 <desc lang="en"> Started: 01:55 am
 Playing: Grand Theft Auto V
-Viewers: 2 </desc>
+Viewers: 4 </desc>
 </programme>
 
 <programme start="20241130085202 +0000" stop="20241203035202 +0000" channel="Harmless.us">
 <title lang="en"> Maynard Idiot Schmidt - Nopixel 4.0 </title>
 <desc lang="en"> Started: 03:52 am
 Playing: Grand Theft Auto V
-Viewers: 505 </desc>
+Viewers: 522 </desc>
 </programme>
 
 <programme start="20241130082041 +0000" stop="20241203032041 +0000" channel="Scratch199.us">
 <title lang="en"> Scuffed Stream #27 Jasper Johns 🐍 Hydra 🐍 awards discord - Hydra - NoPixel WL 4.0 - </title>
 <desc lang="en"> Started: 03:20 am
 Playing: Grand Theft Auto V
-Viewers: 45 </desc>
+Viewers: 42 </desc>
 </programme>
 
 <programme start="20241129110951 +0000" stop="20241202060951 +0000" channel="arnie.us">
 <title lang="en"> uncapperoonie subathon day 2 - arniedog </title>
 <desc lang="en"> Started: 6:09AM
 Playing: Grand Theft Auto V
-Viewers: 399 </desc>
+Viewers: 512 </desc>
 </programme>
 
 <programme start="20241130050705 +0000" stop="20241203000705 +0000" channel="rexs.us">
 <title lang="en"> 🤠 Ricky Parallel Dallas 🤠 - Shift 3 BCSO - NoPixel WL </title>
 <desc lang="en"> Started: 12:07AM
 Playing: Grand Theft Auto V
-Viewers: 204 </desc>
+Viewers: 201 </desc>
 </programme>
 
 <programme start="20241130071451 +0000" stop="20241203021451 +0000" channel="umadbrahlive.us">
@@ -125,28 +132,14 @@ Viewers: 21 </desc>
 <title lang="en"> 4HEAD - NOPIXEL 4.0 - Stream - TTS </title>
 <desc lang="en"> Started: 6:10AM
 Playing: Grand Theft Auto V
-Viewers: 2293 </desc>
-</programme>
-
-<programme start="20241130120147 +0000" stop="20241203070147 +0000" channel="capped.us">
-<title lang="en"> VARIETY DAY </title>
-<desc lang="en"> Started: 7:01AM
-Playing: Grand Theft Auto V
-Viewers: 27 </desc>
+Viewers: 2399 </desc>
 </programme>
 
 <programme start="20241130115423 +0000" stop="20241203065423 +0000" channel="jakson.us">
 <title lang="en"> GIVING AWAY ALL THE GANGS STUFF  - JIM FROM THE GREAT MANOR - NOPIXEL WL </title>
 <desc lang="en"> Started: 6:54AM
 Playing: Grand Theft Auto V
-Viewers: 346 </desc>
-</programme>
-
-<programme start="20241129215608 +0000" stop="20241202165608 +0000" channel="kaicenat.us">
-<title lang="en"> ⬜ MAFIATHON 2 ⬜ DAY 29 ⬜20% OF REVENUE GOING TO SCHOOL IN NIGERIA ⬜ LAST 24 HOURS ⬜ CLICK HERE ⬜ BIGGEST DWARF ⬜ Subathon </title>
-<desc lang="en"> Started: 4:56PM
-Playing: Just Chatting
-Viewers: 110662 </desc>
+Viewers: 465 </desc>
 </programme>
 
 <programme start="20241130111308 +0000" stop="20241203061308 +0000" channel="nikkisariot.us">
@@ -154,6 +147,13 @@ Viewers: 110662 </desc>
 <desc lang="en"> Started: 6:13AM
 Playing: Grand Theft Auto V
 Viewers: 89 </desc>
+</programme>
+
+<programme start="20241129215608 +0000" stop="20241202165608 +0000" channel="kaicenat.us">
+<title lang="en"> ⬜ MAFIATHON 2 ⬜ DAY 29 ⬜20% OF REVENUE GOING TO SCHOOL IN NIGERIA ⬜ LAST 24 HOURS ⬜ CLICK HERE ⬜ BIGGEST DWARF ⬜ Subathon </title>
+<desc lang="en"> Started: 4:56PM
+Playing: Just Chatting
+Viewers: 104423 </desc>
 </programme>
 
 
