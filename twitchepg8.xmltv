@@ -2,6 +2,10 @@
 <display-name>clearepg</display-name>
 </channel>
 
+<channel id="novazfov.us">
+<display-name>novazfov</display-name>
+</channel>
+
 <channel id="Ssaab.us">
 <display-name>Ssaab</display-name>
 </channel>
@@ -10,12 +14,16 @@
 <display-name>Silbullet</display-name>
 </channel>
 
-<channel id="novazfov.us">
-<display-name>novazfov</display-name>
-</channel>
-
 <channel id="arnie.us">
 <display-name>arnie</display-name>
+</channel>
+
+<channel id="rexs.us">
+<display-name>rexs</display-name>
+</channel>
+
+<channel id="jack.us">
+<display-name>jack</display-name>
 </channel>
 
 <channel id="a2guapo.us">
@@ -26,10 +34,6 @@
 <display-name>Harmless</display-name>
 </channel>
 
-<channel id="rexs.us">
-<display-name>rexs</display-name>
-</channel>
-
 <channel id="MargoTheSnail.us">
 <display-name>MargoTheSnail</display-name>
 </channel>
@@ -38,12 +42,12 @@
 <display-name>alliumm</display-name>
 </channel>
 
-<channel id="NateKarama.us">
-<display-name>NateKarama</display-name>
-</channel>
-
 <channel id="Bondii.us">
 <display-name>Bondii</display-name>
+</channel>
+
+<channel id="NateKarama.us">
+<display-name>NateKarama</display-name>
 </channel>
 
 <channel id="blaisenit.us">
@@ -56,14 +60,6 @@
 
 <channel id="itsmeDeimo.us">
 <display-name>itsmeDeimo</display-name>
-</channel>
-
-<channel id="jack.us">
-<display-name>jack</display-name>
-</channel>
-
-<channel id="zaxx386.us">
-<display-name>zaxx386</display-name>
 </channel>
 
 <channel id="KittenQG.us">
@@ -90,67 +86,81 @@
 <display-name>xqc</display-name>
 </channel>
 
+<programme start="20241212073603 +0000" stop="20241215023603 +0000" channel="novazfov.us">
+<title lang="en"> Sad Failure Don Zeek </title>
+<desc lang="en"> Started: 2:36AM
+Playing: Grand Theft Auto V
+Viewers: 66 </desc>
+</programme>
+
 <programme start="20241211181438 +0000" stop="20241214131438 +0000" channel="Ssaab.us">
 <title lang="en"> [DROPS] ON - PoE 2 Harcore w- buddha - DAY 67 OF UNCAPPED SUBATHON - </title>
 <desc lang="en"> Started: 1:14PM
 Playing: Path of Exile 2
-Viewers: 301 </desc>
+Viewers: 292 </desc>
 </programme>
 
 <programme start="20241212051931 +0000" stop="20241215001931 +0000" channel="Silbullet.us">
 <title lang="en"> Sgt. Maple 297 - JINGLE JAM - LSPD - NoPixel WL 4.0 - sub2024 gtarecap clip </title>
 <desc lang="en"> Started: 12:19AM
 Playing: Grand Theft Auto V
-Viewers: 56 </desc>
-</programme>
-
-<programme start="20241212073603 +0000" stop="20241215023603 +0000" channel="novazfov.us">
-<title lang="en"> Sad Failure Don Zeek </title>
-<desc lang="en"> Started: 2:36AM
-Playing: Grand Theft Auto V
-Viewers: 44 </desc>
+Viewers: 54 </desc>
 </programme>
 
 <programme start="20241210130432 +0000" stop="20241213080432 +0000" channel="arnie.us">
 <title lang="en"> uncapperoonie subathon day 13 - arniedog </title>
 <desc lang="en"> Started: 8:04AM
 Playing: Grand Theft Auto V
-Viewers: 109 </desc>
-</programme>
-
-<programme start="20241211172338 +0000" stop="20241214122338 +0000" channel="a2guapo.us">
-<title lang="en"> Happy holidays Jay Hobbs - NoPIxel 4.0 </title>
-<desc lang="en"> Started: 12:23 pm
-Playing: Grand Theft Auto V
-Viewers: 1132 </desc>
-</programme>
-
-<programme start="20241212053212 +0000" stop="20241215003212 +0000" channel="Harmless.us">
-<title lang="en"> Maynard Idiot Schmidt - BESTIES - NoPixel 4.0 -- MMC GETTING N0THING BUT WS CAN THIS BE STOPPED MILLIONS TO BE MADE </title>
-<desc lang="en"> Started: 12:32 am
-Playing: Grand Theft Auto V
-Viewers: 388 </desc>
+Viewers: 110 </desc>
 </programme>
 
 <programme start="20241212051518 +0000" stop="20241215001518 +0000" channel="rexs.us">
 <title lang="en"> 🤠 Ricky Parallel Dallas 🤠 - Shift 3 BCSO - NoPixel WL </title>
 <desc lang="en"> Started: 12:15AM
 Playing: Grand Theft Auto V
-Viewers: 136 </desc>
+Viewers: 140 </desc>
+</programme>
+
+<programme start="20241212062939 +0000" stop="20241215012939 +0000" channel="jack.us">
+<title lang="en"> Jack Cortair 🍪 NoPixel 4.0 - tiktok @jack farmskins #ad </title>
+<desc lang="en"> Started: 1:29AM
+Playing: Grand Theft Auto V
+Viewers: 197 </desc>
+</programme>
+
+<programme start="20241211172338 +0000" stop="20241214122338 +0000" channel="a2guapo.us">
+<title lang="en"> Happy holidays Jay Hobbs - NoPIxel 4.0 </title>
+<desc lang="en"> Started: 12:23 pm
+Playing: Grand Theft Auto V
+Viewers: 1326 </desc>
+</programme>
+
+<programme start="20241212053212 +0000" stop="20241215003212 +0000" channel="Harmless.us">
+<title lang="en"> Maynard Idiot Schmidt - BESTIES - NoPixel 4.0 -- MMC GETTING N0THING BUT WS CAN THIS BE STOPPED MILLIONS TO BE MADE </title>
+<desc lang="en"> Started: 12:32 am
+Playing: Grand Theft Auto V
+Viewers: 339 </desc>
 </programme>
 
 <programme start="20241212010336 +0000" stop="20241214200336 +0000" channel="MargoTheSnail.us">
 <title lang="en"> MARGO ESCARGOT ~ NoPixel RP ~ Cursed Crackhead - I quit my job lets panic together - A FULL-TYME REAL STREAMER </title>
 <desc lang="en"> Started: 08:03 pm
 Playing: Grand Theft Auto V
-Viewers: 72 </desc>
+Viewers: 76 </desc>
 </programme>
 
 <programme start="20241212063852 +0000" stop="20241215013852 +0000" channel="alliumm.us">
 <title lang="en"> WEEWOO - EMS - Alice Liddell - NoPixel WL </title>
 <desc lang="en"> Started: 01:38 am
 Playing: Grand Theft Auto V
-Viewers: 14 </desc>
+Viewers: 11 </desc>
+</programme>
+
+<programme start="20241212022848 +0000" stop="20241214212848 +0000" channel="Bondii.us">
+<title lang="en"> Episode 20 - NoPixel WL - Randy Dalton - OXY ADDICT </title>
+<desc lang="en"> Started: 09:28 pm
+Playing: Grand Theft Auto V
+Viewers: 10 </desc>
 </programme>
 
 <programme start="20241212072720 +0000" stop="20241215022720 +0000" channel="NateKarama.us">
@@ -160,18 +170,11 @@ Playing: Grand Theft Auto V
 Viewers: 9 </desc>
 </programme>
 
-<programme start="20241212022848 +0000" stop="20241214212848 +0000" channel="Bondii.us">
-<title lang="en"> Episode 20 - NoPixel WL - Randy Dalton - OXY ADDICT </title>
-<desc lang="en"> Started: 09:28 pm
-Playing: Grand Theft Auto V
-Viewers: 8 </desc>
-</programme>
-
 <programme start="20241211210435 +0000" stop="20241214160435 +0000" channel="blaisenit.us">
 <title lang="en"> the return of RUSSEL MOTHERFKN HARRINGTON DAY 4 - Nopixel 4.0 WL finally unbanned </title>
 <desc lang="en"> Started: 04:04 pm
 Playing: Grand Theft Auto V
-Viewers: 5 </desc>
+Viewers: 3 </desc>
 </programme>
 
 <programme start="20241212060948 +0000" stop="20241215010948 +0000" channel="MrGlee.us">
@@ -188,60 +191,46 @@ Playing: Grand Theft Auto V
 Viewers: 1 </desc>
 </programme>
 
-<programme start="20241212062939 +0000" stop="20241215012939 +0000" channel="jack.us">
-<title lang="en"> Jack Cortair 🍪 NoPixel 4.0 - tiktok @jack farmskins #ad </title>
-<desc lang="en"> Started: 1:29AM
-Playing: Grand Theft Auto V
-Viewers: 212 </desc>
-</programme>
-
-<programme start="20241212024209 +0000" stop="20241214214209 +0000" channel="zaxx386.us">
-<title lang="en"> Moose Knuckles - Clown - Stansfeld Belany - NoPixel WL - Epic Creator Code: ZAXX386 </title>
-<desc lang="en"> Started: 09:42 pm
-Playing: Grand Theft Auto V
-Viewers: 35 </desc>
-</programme>
-
 <programme start="20241212024422 +0000" stop="20241214214422 +0000" channel="KittenQG.us">
 <title lang="en"> Lily Night-Sky - Nopixel WL - Clown - 18 </title>
 <desc lang="en"> Started: 09:44 pm
 Playing: Grand Theft Auto V
-Viewers: 28 </desc>
+Viewers: 30 </desc>
 </programme>
 
 <programme start="20241212035236 +0000" stop="20241214225236 +0000" channel="Hauwnted.us">
 <title lang="en"> Cau Mau ❤️‍🔥 CGs lil bro ❤️‍🔥 Prodigy 2.0 ❤️‍🔥 @hauwnted ❤️‍🔥 - deadass Cal Cow </title>
 <desc lang="en"> Started: 10:52PM
 Playing: Grand Theft Auto V
-Viewers: 224 </desc>
+Viewers: 211 </desc>
 </programme>
 
 <programme start="20241212012157 +0000" stop="20241214202157 +0000" channel="christombstone.us">
 <title lang="en"> Flop Dugong - ADMC Prospect - NoPixel WL - irl - @ChrisTombstone_ on </title>
 <desc lang="en"> Started: 8:21PM
 Playing: Grand Theft Auto V
-Viewers: 563 </desc>
+Viewers: 516 </desc>
 </programme>
 
 <programme start="20241212004705 +0000" stop="20241214194705 +0000" channel="nakkida.us">
 <title lang="en"> Tessa Lamb - limbo - NoPixel 4.0 RP WL - - holzkern #ad </title>
 <desc lang="en"> Started: 7:47PM
 Playing: Grand Theft Auto V
-Viewers: 280 </desc>
+Viewers: 274 </desc>
 </programme>
 
 <programme start="20241211210626 +0000" stop="20241214160626 +0000" channel="penta.us">
 <title lang="en"> huge dungeon night </title>
 <desc lang="en"> Started: 4:06PM
 Playing: World of Warcraft
-Viewers: 2554 </desc>
+Viewers: 2481 </desc>
 </programme>
 
 <programme start="202412111941 +0000" stop="202412141941 +0000" channel="xqc.us">
 <title lang="en"> 👋LIVE👋DRAMA👋CLICK👋STUFF👋VIDEOS👋GAMES👋VIDEOSGAMES👋WOAH WOAH👋COOL👋STRONG👋MUSCLE-BRAIN👋GUY👋STREAMING👋SAY HELLO IN CHAT👋 </title>
 <desc lang="en"> Started: 06:41 pm
 Playing: Baldur's Gate 3
-Viewers: 13351 </desc>
+Viewers: 13252 </desc>
 </programme>
 
 
