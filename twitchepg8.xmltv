@@ -2,20 +2,12 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="koil.us">
-<display-name>koil</display-name>
-</channel>
-
 <channel id="timmac.us">
 <display-name>timmac</display-name>
 </channel>
 
 <channel id="Ssaab.us">
 <display-name>Ssaab</display-name>
-</channel>
-
-<channel id="aus24.us">
-<display-name>aus24</display-name>
 </channel>
 
 <channel id="Harmless.us">
@@ -28,10 +20,6 @@
 
 <channel id="GoufBam.us">
 <display-name>GoufBam</display-name>
-</channel>
-
-<channel id="rexs.us">
-<display-name>rexs</display-name>
 </channel>
 
 <channel id="MargoTheSnail.us">
@@ -54,8 +42,20 @@
 <display-name>CARTY_tck</display-name>
 </channel>
 
+<channel id="aus24.us">
+<display-name>aus24</display-name>
+</channel>
+
+<channel id="rexs.us">
+<display-name>rexs</display-name>
+</channel>
+
 <channel id="jack.us">
 <display-name>jack</display-name>
+</channel>
+
+<channel id="caramel.us">
+<display-name>caramel</display-name>
 </channel>
 
 <channel id="curvyelephant.us">
@@ -66,138 +66,127 @@
 <display-name>peppo</display-name>
 </channel>
 
-<channel id="caramel.us">
-<display-name>caramel</display-name>
-</channel>
-
 <channel id="madgiiee.us">
 <display-name>madgiiee</display-name>
 </channel>
-
-<programme start="20241221063810 +0000" stop="20241224013810 +0000" channel="koil.us">
-<title lang="en"> balanced blood mage build </title>
-<desc lang="en"> Started: 1:38AM
-Playing: Path of Exile 2
-Viewers: 286 </desc>
-</programme>
 
 <programme start="20241221075640 +0000" stop="20241224025640 +0000" channel="timmac.us">
 <title lang="en"> Sgt TJ Mack - Prodigy RP - Socials: @timmac 5hourenergy </title>
 <desc lang="en"> Started: 2:56AM
 Playing: Grand Theft Auto V
-Viewers: 653 </desc>
+Viewers: 619 </desc>
 </programme>
 
 <programme start="20241219191359 +0000" stop="20241222141359 +0000" channel="Ssaab.us">
 <title lang="en"> SLEEP - DAY 75 OF UNCAPPED SUBATHON - </title>
 <desc lang="en"> Started: 2:13PM
 Playing: I'm Only Sleeping
-Viewers: 107 </desc>
-</programme>
-
-<programme start="20241221080209 +0000" stop="20241224030209 +0000" channel="aus24.us">
-<title lang="en"> DAVENPORT - LSPD - NoPixel 4.0 </title>
-<desc lang="en"> Started: 3:02AM
-Playing: Grand Theft Auto V
-Viewers: 68 </desc>
+Viewers: 109 </desc>
 </programme>
 
 <programme start="20241221071411 +0000" stop="20241224021411 +0000" channel="Harmless.us">
 <title lang="en"> Maynard Idiot Schmidt - BESTIES - NoPixel 4.0 </title>
 <desc lang="en"> Started: 02:14 am
 Playing: Grand Theft Auto V
-Viewers: 578 </desc>
+Viewers: 572 </desc>
 </programme>
 
 <programme start="20241221055019 +0000" stop="20241224005019 +0000" channel="imDEVYN.us">
 <title lang="en"> yo - Daniel  DeeK  Khol - The Manor - NoPixel WL - twitter discord </title>
 <desc lang="en"> Started: 12:50 am
 Playing: Grand Theft Auto V
-Viewers: 98 </desc>
+Viewers: 95 </desc>
 </programme>
 
 <programme start="20241221025920 +0000" stop="20241223215920 +0000" channel="GoufBam.us">
 <title lang="en"> Zee Bruh - Just a lil guy - Besties - Nopixel WL </title>
 <desc lang="en"> Started: 09:59 pm
 Playing: Grand Theft Auto V
-Viewers: 48 </desc>
-</programme>
-
-<programme start="20241221052245 +0000" stop="20241224002245 +0000" channel="rexs.us">
-<title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - Hydra - NoPixel WL </title>
-<desc lang="en"> Started: 12:22AM
-Playing: Grand Theft Auto V
-Viewers: 63 </desc>
+Viewers: 35 </desc>
 </programme>
 
 <programme start="20241221023606 +0000" stop="20241223213606 +0000" channel="MargoTheSnail.us">
 <title lang="en"> MARGO ESCARGOT ~ Nopixel RP ~ Crackhead - I quit my job lets panic together - A FULL-TYME REAL STREAMER </title>
 <desc lang="en"> Started: 09:36 pm
 Playing: Grand Theft Auto V
-Viewers: 97 </desc>
+Viewers: 104 </desc>
 </programme>
 
 <programme start="20241220200348 +0000" stop="20241223150348 +0000" channel="HAchubbyVODs.us">
 <title lang="en"> Rerun: HAchubby plays GTA RP on NoPixel - Part 1 to 4 [Nov 11th to Nov 23rd, 21] </title>
 <desc lang="en"> Started: 03:03 pm
 Playing: Grand Theft Auto V
-Viewers: 19 </desc>
+Viewers: 17 </desc>
 </programme>
 
 <programme start="20241221060423 +0000" stop="20241224010423 +0000" channel="kyrienolife.us">
 <title lang="en"> Coop - NoPixel </title>
 <desc lang="en"> Started: 01:04 am
 Playing: Grand Theft Auto V
-Viewers: 14 </desc>
+Viewers: 17 </desc>
 </programme>
 
 <programme start="20241221100447 +0000" stop="20241224050447 +0000" channel="ealixer.us">
 <title lang="en"> Cooked 698 Willy Robinson LSPD - Johnny Lane - Nopixel WL </title>
 <desc lang="en"> Started: 05:04 am
 Playing: Grand Theft Auto V
-Viewers: 8 </desc>
+Viewers: 10 </desc>
 </programme>
 
 <programme start="20241221100833 +0000" stop="20241224050833 +0000" channel="CARTY_tck.us">
 <title lang="en"> Ted-Theodora Shredder 🐢 Nopixel 4.0 WL 💀 socials 💀 vods 💀 discord 💀 Chaos Legion MC 💀 another day </title>
 <desc lang="en"> Started: 05:08 am
 Playing: Grand Theft Auto V
-Viewers: 3 </desc>
+Viewers: 1 </desc>
+</programme>
+
+<programme start="20241221080209 +0000" stop="20241224030209 +0000" channel="aus24.us">
+<title lang="en"> DAVENPORT - LSPD - NoPixel 4.0 </title>
+<desc lang="en"> Started: 3:02AM
+Playing: Grand Theft Auto V
+Viewers: 80 </desc>
+</programme>
+
+<programme start="20241221052245 +0000" stop="20241224002245 +0000" channel="rexs.us">
+<title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - Hydra - NoPixel WL </title>
+<desc lang="en"> Started: 12:22AM
+Playing: Grand Theft Auto V
+Viewers: 73 </desc>
 </programme>
 
 <programme start="20241221050413 +0000" stop="20241224000413 +0000" channel="jack.us">
 <title lang="en"> Jack Cortair 🍪 Nopixel 4.0 - tiktok @jack farmskins #ad </title>
 <desc lang="en"> Started: 12:04AM
 Playing: Grand Theft Auto V
-Viewers: 551 </desc>
-</programme>
-
-<programme start="20241221075720 +0000" stop="20241224025720 +0000" channel="curvyelephant.us">
-<title lang="en"> Matt Rhodes - nopixel - </title>
-<desc lang="en"> Started: 2:57AM
-Playing: Grand Theft Auto V
-Viewers: 435 </desc>
-</programme>
-
-<programme start="20241221064257 +0000" stop="20241224014257 +0000" channel="peppo.us">
-<title lang="en"> Edgar - late night - Nopixel 4.0 </title>
-<desc lang="en"> Started: 1:42AM
-Playing: Grand Theft Auto V
-Viewers: 550 </desc>
+Viewers: 489 </desc>
 </programme>
 
 <programme start="20241221111128 +0000" stop="20241224061128 +0000" channel="caramel.us">
 <title lang="en"> Lovemore - Besties - NoPixel 4.0 </title>
 <desc lang="en"> Started: 6:11AM
 Playing: Grand Theft Auto V
-Viewers: 1 </desc>
+Viewers: 40 </desc>
+</programme>
+
+<programme start="20241221075720 +0000" stop="20241224025720 +0000" channel="curvyelephant.us">
+<title lang="en"> Matt Rhodes - nopixel - </title>
+<desc lang="en"> Started: 2:57AM
+Playing: Grand Theft Auto V
+Viewers: 457 </desc>
+</programme>
+
+<programme start="20241221064257 +0000" stop="20241224014257 +0000" channel="peppo.us">
+<title lang="en"> Edgar - late night - Nopixel 4.0 </title>
+<desc lang="en"> Started: 1:42AM
+Playing: Grand Theft Auto V
+Viewers: 482 </desc>
 </programme>
 
 <programme start="20241221090943 +0000" stop="20241224040943 +0000" channel="madgiiee.us">
 <title lang="en"> 🌸Maggie Gunn🌸 NPWL 🌸 ⚫-⚫ ADMC - Prospect 🌸 what is happening .... 🌸 </title>
 <desc lang="en"> Started: 4:09AM
 Playing: Grand Theft Auto V
-Viewers: 49 </desc>
+Viewers: 47 </desc>
 </programme>
 
 
