@@ -2,10 +2,6 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="Sayeed.us">
-<display-name>Sayeed</display-name>
-</channel>
-
 <channel id="novazfov.us">
 <display-name>novazfov</display-name>
 </channel>
@@ -16,10 +12,6 @@
 
 <channel id="berryyboo.us">
 <display-name>berryyboo</display-name>
-</channel>
-
-<channel id="rexs.us">
-<display-name>rexs</display-name>
 </channel>
 
 <channel id="Harmless.us">
@@ -46,6 +38,10 @@
 <display-name>GoufBam</display-name>
 </channel>
 
+<channel id="rexs.us">
+<display-name>rexs</display-name>
+</channel>
+
 <channel id="HAchubbyVODs.us">
 <display-name>HAchubbyVODs</display-name>
 </channel>
@@ -58,16 +54,12 @@
 <display-name>ealixer</display-name>
 </channel>
 
-<channel id="jack.us">
-<display-name>jack</display-name>
-</channel>
-
 <channel id="OmicronzZz.us">
 <display-name>OmicronzZz</display-name>
 </channel>
 
-<channel id="matteu.us">
-<display-name>matteu</display-name>
+<channel id="jack.us">
+<display-name>jack</display-name>
 </channel>
 
 <channel id="spekel.us">
@@ -82,95 +74,88 @@
 <display-name>vader</display-name>
 </channel>
 
-<programme start="20241223120241 +0000" stop="20241226070241 +0000" channel="Sayeed.us">
-<title lang="en"> Speedy BIG News Day- Christmas Week Stream -Nopixel RP </title>
-<desc lang="en"> Started: 7:02AM
-Playing: Grand Theft Auto V
-Viewers: 465 </desc>
-</programme>
-
 <programme start="20241223112843 +0000" stop="20241226062843 +0000" channel="novazfov.us">
-<title lang="en"> Don Zeek subathon -_- </title>
+<title lang="en"> Don Zeek subathon -_- im cooked </title>
 <desc lang="en"> Started: 6:28AM
 Playing: Grand Theft Auto V
-Viewers: 148 </desc>
+Viewers: 173 </desc>
 </programme>
 
 <programme start="20241221233902 +0000" stop="20241224183902 +0000" channel="Ssaab.us">
 <title lang="en"> Sleep Stream - UNCAPPED SUBATHON - </title>
 <desc lang="en"> Started: 6:39PM
 Playing: I'm Only Sleeping
-Viewers: 107 </desc>
+Viewers: 100 </desc>
 </programme>
 
 <programme start="20241223115928 +0000" stop="20241226065928 +0000" channel="berryyboo.us">
 <title lang="en"> 🎄❄️ Sgt. Viv - Happy Holidays - NoPixel 4.0 - ❄️🎄 </title>
 <desc lang="en"> Started: 6:59AM
 Playing: Grand Theft Auto V
-Viewers: 227 </desc>
-</programme>
-
-<programme start="20241223072425 +0000" stop="20241226022425 +0000" channel="rexs.us">
-<title lang="en"> Rex - 🐍 Hydra Gang 🐍 - Nopixel WL </title>
-<desc lang="en"> Started: 2:24AM
-Playing: Grand Theft Auto V
-Viewers: 185 </desc>
+Viewers: 256 </desc>
 </programme>
 
 <programme start="20241223065802 +0000" stop="20241226015802 +0000" channel="Harmless.us">
 <title lang="en"> Maynard Idiot Schmidt - Besties - Nopixel 4.0 </title>
 <desc lang="en"> Started: 01:58 am
 Playing: Grand Theft Auto V
-Viewers: 692 </desc>
+Viewers: 676 </desc>
 </programme>
 
 <programme start="20241223112341 +0000" stop="20241226062341 +0000" channel="ScratchRP.us">
 <title lang="en"> Scuffed short stream #41 - Jasper Johns - No Pixel 4.0 🐍 Hydra 🐍 - awards discord </title>
 <desc lang="en"> Started: 06:23 am
 Playing: Grand Theft Auto V
-Viewers: 192 </desc>
+Viewers: 188 </desc>
 </programme>
 
 <programme start="20241223100402 +0000" stop="20241226050402 +0000" channel="qift.us">
 <title lang="en"> WINTER ₊ ˚ ♡ ⋆ HADES PRINCESS POV ♰ - NP WL 4.0 ♡ [ENG-PH] </title>
 <desc lang="en"> Started: 05:04 am
 Playing: Grand Theft Auto V
-Viewers: 144 </desc>
+Viewers: 135 </desc>
 </programme>
 
 <programme start="20241223082531 +0000" stop="20241226032531 +0000" channel="Hurnani.us">
 <title lang="en"> 248 Bruno Brown - ONE MORE DAY CLOSER TO KCD: 2 - NoPixel WL </title>
 <desc lang="en"> Started: 03:25 am
 Playing: Grand Theft Auto V
-Viewers: 45 </desc>
+Viewers: 52 </desc>
 </programme>
 
 <programme start="20241223104205 +0000" stop="20241226054205 +0000" channel="Papa_Capes.us">
 <title lang="en"> Dom Kavanagh - Racing, Boosting and Shine- Cypress - NoPixel WL - UNITY IN DIVERSITY - #LeaveYourMark </title>
 <desc lang="en"> Started: 05:42 am
 Playing: Grand Theft Auto V
-Viewers: 38 </desc>
+Viewers: 43 </desc>
 </programme>
 
 <programme start="20241223044324 +0000" stop="20241225234324 +0000" channel="GoufBam.us">
 <title lang="en"> Zee Bruh - Short Stream - Besties - Nopixel WL </title>
 <desc lang="en"> Started: 11:43 pm
 Playing: Grand Theft Auto V
-Viewers: 38 </desc>
+Viewers: 37 </desc>
+</programme>
+
+<programme start="20241223072425 +0000" stop="20241226022425 +0000" channel="rexs.us">
+<title lang="en"> Rex - 🐍 Hydra Gang 🐍 - Nopixel WL </title>
+<desc lang="en"> Started: 2:24AM
+Playing: Grand Theft Auto V
+Viewers: 177 </desc>
 </programme>
 
 <programme start="20241222190842 +0000" stop="20241225140842 +0000" channel="HAchubbyVODs.us">
 <title lang="en"> Rerun: HAchubby plays GTA RP on NoPixel - Part 7 and 8 [Jan 28th and 31st, 22] </title>
 <desc lang="en"> Started: 02:08 pm
 Playing: Grand Theft Auto V
-Viewers: 43 </desc>
+Viewers: 45 </desc>
 </programme>
 
 <programme start="20241223103643 +0000" stop="20241226053643 +0000" channel="Kerazane.us">
 <title lang="en"> Kol ( Coco ) Cascade - Dont f0rget us :( - Nopixel WL </title>
 <desc lang="en"> Started: 05:36 am
 Playing: Grand Theft Auto V
-Viewers: 13 </desc>
+Viewers: 12 </desc>
 </programme>
 
 <programme start="20241223121520 +0000" stop="20241226071520 +0000" channel="ealixer.us">
@@ -180,46 +165,39 @@ Playing: Grand Theft Auto V
 Viewers: 2 </desc>
 </programme>
 
-<programme start="20241223114657 +0000" stop="20241226064657 +0000" channel="jack.us">
-<title lang="en"> Jack Cortair 🍪 Nopixel 4.0 SHORTER 2ND STREAM - tiktok @jack farmskins #ad </title>
-<desc lang="en"> Started: 6:46AM
-Playing: Grand Theft Auto V
-Viewers: 240 </desc>
-</programme>
-
 <programme start="20241223083833 +0000" stop="20241226033833 +0000" channel="OmicronzZz.us">
 <title lang="en"> A-94 Bradley Halifax - EMS FTO - NoPixel WL </title>
 <desc lang="en"> Started: 03:38 am
 Playing: Grand Theft Auto V
-Viewers: 109 </desc>
+Viewers: 101 </desc>
 </programme>
 
-<programme start="20241223124348 +0000" stop="20241226074348 +0000" channel="matteu.us">
-<title lang="en"> ⋆˚࿔ MATTHEW ANTOV 🎄 BIG MANOR OG 🎄 NOPIXEL WL 🎄 hellofresh #AD ࿔˚⋆ </title>
-<desc lang="en"> Started: 7:43AM
+<programme start="20241223114657 +0000" stop="20241226064657 +0000" channel="jack.us">
+<title lang="en"> Jack Cortair 🍪 Nopixel 4.0 SHORTER 2ND STREAM - tiktok @jack farmskins #ad </title>
+<desc lang="en"> Started: 6:46AM
 Playing: Grand Theft Auto V
-Viewers: 250 </desc>
+Viewers: 286 </desc>
 </programme>
 
 <programme start="20241223115640 +0000" stop="20241226065640 +0000" channel="spekel.us">
 <title lang="en"> Sonya - checking out purple.. what is sleep </title>
 <desc lang="en"> Started: 6:56AM
 Playing: Grand Theft Auto V
-Viewers: 51 </desc>
+Viewers: 57 </desc>
 </programme>
 
 <programme start="20241223090636 +0000" stop="20241226040636 +0000" channel="tessquinn.us">
 <title lang="en"> Tess is baaaaaack - ProdigyRP - accent </title>
 <desc lang="en"> Started: 4:06AM
 Playing: Grand Theft Auto V
-Viewers: 27 </desc>
+Viewers: 35 </desc>
 </programme>
 
 <programme start="20241223120758 +0000" stop="20241226070758 +0000" channel="vader.us">
 <title lang="en"> EUGENE - ROLEPLAY </title>
 <desc lang="en"> Started: 7:07AM
 Playing: Grand Theft Auto V
-Viewers: 897 </desc>
+Viewers: 1009 </desc>
 </programme>
 
 
