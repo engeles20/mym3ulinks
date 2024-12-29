@@ -2,6 +2,10 @@
 <display-name>clearepg</display-name>
 </channel>
 
+<channel id="timmac.us">
+<display-name>timmac</display-name>
+</channel>
+
 <channel id="Ssaab.us">
 <display-name>Ssaab</display-name>
 </channel>
@@ -10,16 +14,8 @@
 <display-name>sock22</display-name>
 </channel>
 
-<channel id="aus24.us">
-<display-name>aus24</display-name>
-</channel>
-
 <channel id="bledorable.us">
 <display-name>bledorable</display-name>
-</channel>
-
-<channel id="timmac.us">
-<display-name>timmac</display-name>
 </channel>
 
 <channel id="Harmless.us">
@@ -34,10 +30,6 @@
 <display-name>TiffaJessi</display-name>
 </channel>
 
-<channel id="Questtk.us">
-<display-name>Questtk</display-name>
-</channel>
-
 <channel id="kyrienolife.us">
 <display-name>kyrienolife</display-name>
 </channel>
@@ -50,6 +42,14 @@
 <display-name>ealixer</display-name>
 </channel>
 
+<channel id="CARTY_tck.us">
+<display-name>CARTY_tck</display-name>
+</channel>
+
+<channel id="aus24.us">
+<display-name>aus24</display-name>
+</channel>
+
 <channel id="tessquinn.us">
 <display-name>tessquinn</display-name>
 </channel>
@@ -58,96 +58,92 @@
 <display-name>kaicenat</display-name>
 </channel>
 
-<channel id="CARTY_tck.us">
-<display-name>CARTY_tck</display-name>
-</channel>
-
 <channel id="xqc.us">
 <display-name>xqc</display-name>
 </channel>
+
+<programme start="20241229113009 +0000" stop="20250101063009 +0000" channel="timmac.us">
+<title lang="en"> Sgt. Mack - COP GOD - HAPPY NEW YEAR - Socials: @timmac 5hourenergy </title>
+<desc lang="en"> Started: 6:30AM
+Playing: Grand Theft Auto V
+Viewers: 173 </desc>
+</programme>
 
 <programme start="20241228203356 +0000" stop="20241231153356 +0000" channel="Ssaab.us">
 <title lang="en"> SLEEP STREAM - DAY 87 OF UNCAPPED SUBATHON - </title>
 <desc lang="en"> Started: 3:33PM
 Playing: I'm Only Sleeping
-Viewers: 102 </desc>
+Viewers: 89 </desc>
 </programme>
 
 <programme start="20241229102821 +0000" stop="20250101052821 +0000" channel="sock22.us">
 <title lang="en"> Richard Dark - NoPixel - 25% OFF SUBS BONUS - </title>
 <desc lang="en"> Started: 5:28AM
 Playing: Grand Theft Auto V
-Viewers: 350 </desc>
-</programme>
-
-<programme start="20241229062117 +0000" stop="20250101012117 +0000" channel="aus24.us">
-<title lang="en"> DAVENPORT - LSPD - NoPixel 4.0 </title>
-<desc lang="en"> Started: 1:21AM
-Playing: Grand Theft Auto V
-Viewers: 144 </desc>
+Viewers: 359 </desc>
 </programme>
 
 <programme start="20241229043235 +0000" stop="20241231233235 +0000" channel="bledorable.us">
 <title lang="en"> Billy Thorne - Billy Blanc - Hades Top Recruit - NoPixel WL </title>
 <desc lang="en"> Started: 11:32 pm
 Playing: Grand Theft Auto V
-Viewers: 78 </desc>
-</programme>
-
-<programme start="20241229113009 +0000" stop="20250101063009 +0000" channel="timmac.us">
-<title lang="en"> Sgt. Mack - COP GOD - HAPPY NEW YEAR - Socials: @timmac 5hourenergy </title>
-<desc lang="en"> Started: 6:30AM
-Playing: Grand Theft Auto V
-Viewers: 80 </desc>
+Viewers: 72 </desc>
 </programme>
 
 <programme start="20241229065338 +0000" stop="20250101015338 +0000" channel="Harmless.us">
 <title lang="en"> Maynard Idiot Schmidt - Besties - Nopixel 4.0 </title>
 <desc lang="en"> Started: 01:53 am
 Playing: Grand Theft Auto V
-Viewers: 531 </desc>
+Viewers: 644 </desc>
 </programme>
 
 <programme start="20241229104212 +0000" stop="20250101054212 +0000" channel="ScratchRP.us">
 <title lang="en"> Scuffed stream #46 - Jasper Johns - No Pixel 4.0 WL 🐍 Hydra 🐍 - discord </title>
 <desc lang="en"> Started: 05:42 am
 Playing: Grand Theft Auto V
-Viewers: 35 </desc>
+Viewers: 38 </desc>
 </programme>
 
 <programme start="20241228141734 +0000" stop="20241231091734 +0000" channel="TiffaJessi.us">
 <title lang="en"> ☃️HEY HI HELLOO☃️- Lennon Evans NP 4.0 - GAMBA W GIFTED SUBS - wishlist youtube paradox </title>
 <desc lang="en"> Started: 09:17 am
 Playing: Grand Theft Auto V
-Viewers: 179 </desc>
-</programme>
-
-<programme start="20241229065650 +0000" stop="20250101015650 +0000" channel="Questtk.us">
-<title lang="en"> ZIzo Zeezo Silva - NoPixel WL </title>
-<desc lang="en"> Started: 01:56 am
-Playing: Grand Theft Auto V
-Viewers: 52 </desc>
+Viewers: 171 </desc>
 </programme>
 
 <programme start="20241229071851 +0000" stop="20250101021851 +0000" channel="kyrienolife.us">
 <title lang="en"> Coop - NoPixel </title>
 <desc lang="en"> Started: 02:18 am
 Playing: Grand Theft Auto V
-Viewers: 43 </desc>
+Viewers: 62 </desc>
 </programme>
 
 <programme start="20241229052852 +0000" stop="20250101002852 +0000" channel="MaddAshhh.us">
 <title lang="en"> Emi UGHH Bella - NP WL EMI BELLA - Pre-rolls only socials discord </title>
 <desc lang="en"> Started: 12:28 am
 Playing: Grand Theft Auto V
-Viewers: 37 </desc>
+Viewers: 41 </desc>
 </programme>
 
 <programme start="20241229071319 +0000" stop="20250101021319 +0000" channel="ealixer.us">
 <title lang="en"> 698 Willy Robinson LSPD - Jonny Lane - Nopixel WL </title>
 <desc lang="en"> Started: 02:13 am
 Playing: Grand Theft Auto V
-Viewers: 23 </desc>
+Viewers: 19 </desc>
+</programme>
+
+<programme start="20241229112826 +0000" stop="20250101062826 +0000" channel="CARTY_tck.us">
+<title lang="en"> Ted-Theodora Shredder 🐢 Nopixel 4.0 WL 💀 socials 💀 vods 💀 discord 💀 Chaos Legion MC 💀table meeting day </title>
+<desc lang="en"> Started: 06:28 am
+Playing: Grand Theft Auto V
+Viewers: 1 </desc>
+</programme>
+
+<programme start="20241229062117 +0000" stop="20250101012117 +0000" channel="aus24.us">
+<title lang="en"> DAVENPORT - LSPD - NoPixel 4.0 </title>
+<desc lang="en"> Started: 1:21AM
+Playing: Grand Theft Auto V
+Viewers: 136 </desc>
 </programme>
 
 <programme start="20241229104606 +0000" stop="20250101054606 +0000" channel="tessquinn.us">
@@ -161,21 +157,14 @@ Viewers: 15 </desc>
 <title lang="en"> ⛏️🎮KAI X SPEED PLAYING F0RTNITE TILL WE GET A WIN⛏️🎮DAY 2 </title>
 <desc lang="en"> Started: 3:00PM
 Playing: I'm Only Sleeping
-Viewers: 34339 </desc>
-</programme>
-
-<programme start="20241229112826 +0000" stop="20250101062826 +0000" channel="CARTY_tck.us">
-<title lang="en"> Ted-Theodora Shredder 🐢 Nopixel 4.0 WL 💀 socials 💀 vods 💀 discord 💀 Chaos Legion MC 💀table meeting day </title>
-<desc lang="en"> Started: 06:28 am
-Playing: Grand Theft Auto V
-Viewers: 2 </desc>
+Viewers: 35667 </desc>
 </programme>
 
 <programme start="202412290327 +0000" stop="202501010327 +0000" channel="xqc.us">
 <title lang="en"> 🛑LIVE🛑CLICK🛑HERE🛑LIVE🛑DRAMA🛑GAMES🛑REACT🛑STUFF🛑STUFF🛑COOL🛑 </title>
 <desc lang="en"> Started: 02:27 am
 Playing: Marvel Rivals
-Viewers: 12433 </desc>
+Viewers: 12420 </desc>
 </programme>
 
 
