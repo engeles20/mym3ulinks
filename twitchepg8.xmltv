@@ -2,6 +2,10 @@
 <display-name>clearepg</display-name>
 </channel>
 
+<channel id="novazfov.us">
+<display-name>novazfov</display-name>
+</channel>
+
 <channel id="koil.us">
 <display-name>koil</display-name>
 </channel>
@@ -16,6 +20,10 @@
 
 <channel id="bledorable.us">
 <display-name>bledorable</display-name>
+</channel>
+
+<channel id="JonLaw_.us">
+<display-name>JonLaw_</display-name>
 </channel>
 
 <channel id="RissahBear.us">
@@ -42,10 +50,6 @@
 <display-name>rexs</display-name>
 </channel>
 
-<channel id="novazfov.us">
-<display-name>novazfov</display-name>
-</channel>
-
 <channel id="thatguygp.us">
 <display-name>thatguygp</display-name>
 </channel>
@@ -54,8 +58,8 @@
 <display-name>hotted89</display-name>
 </channel>
 
-<channel id="JonLaw_.us">
-<display-name>JonLaw_</display-name>
+<channel id="JustADT.us">
+<display-name>JustADT</display-name>
 </channel>
 
 <channel id="ms_star.us">
@@ -66,46 +70,60 @@
 <display-name>denis3d</display-name>
 </channel>
 
+<programme start="20250101104349 +0000" stop="20250104054349 +0000" channel="novazfov.us">
+<title lang="en"> Don Zeek o_o - nopixel wl - </title>
+<desc lang="en"> Started: 5:43AM
+Playing: Grand Theft Auto V
+Viewers: 57 </desc>
+</programme>
+
 <programme start="20250101084002 +0000" stop="20250104034002 +0000" channel="koil.us">
 <title lang="en"> yeh but poison </title>
 <desc lang="en"> Started: 3:40AM
 Playing: Path of Exile 2
-Viewers: 192 </desc>
+Viewers: 198 </desc>
 </programme>
 
 <programme start="20250101072328 +0000" stop="20250104022328 +0000" channel="timmac.us">
 <title lang="en"> Sgt Mack - HAPPY NEW YEAR - Prodigy RP - Socials: @timmac 5hourenergy </title>
 <desc lang="en"> Started: 2:23AM
 Playing: Grand Theft Auto V
-Viewers: 788 </desc>
+Viewers: 854 </desc>
 </programme>
 
 <programme start="20241231233024 +0000" stop="20250103183024 +0000" channel="Ssaab.us">
 <title lang="en"> Sleep Stream - UNCAPPED SUBATHON - </title>
 <desc lang="en"> Started: 6:30PM
 Playing: I'm Only Sleeping
-Viewers: 113 </desc>
+Viewers: 123 </desc>
 </programme>
 
 <programme start="20250101022620 +0000" stop="20250103212620 +0000" channel="bledorable.us">
 <title lang="en"> New Year, New Billy - Billy Thorne - Billy Blanc - Hades Top Recruit - NoPixel WL </title>
 <desc lang="en"> Started: 09:26 pm
 Playing: Grand Theft Auto V
-Viewers: 84 </desc>
+Viewers: 82 </desc>
+</programme>
+
+<programme start="20250101102948 +0000" stop="20250104052948 +0000" channel="JonLaw_.us">
+<title lang="en"> Jon Joyce - Manor - NoPixel WL - </title>
+<desc lang="en"> Started: 05:29 am
+Playing: Grand Theft Auto V
+Viewers: 159 </desc>
 </programme>
 
 <programme start="20250101080004 +0000" stop="20250104030004 +0000" channel="RissahBear.us">
 <title lang="en"> Rissa Berry - BESTIES - Wuchang Artist - NP 4.0 - GTA RP </title>
 <desc lang="en"> Started: 03:00 am
 Playing: Grand Theft Auto V
-Viewers: 138 </desc>
+Viewers: 128 </desc>
 </programme>
 
 <programme start="20250101101627 +0000" stop="20250104051627 +0000" channel="Shlomi.us">
 <title lang="en"> 🎇 NEW YEAR SHLOMI P2 🎇 Facecam vibes 🎇 NoPixel 🎇 discord 🎇 </title>
 <desc lang="en"> Started: 05:16 am
 Playing: Grand Theft Auto V
-Viewers: 251 </desc>
+Viewers: 278 </desc>
 </programme>
 
 <programme start="20250101071404 +0000" stop="20250104021404 +0000" channel="kyrienolife.us">
@@ -119,63 +137,56 @@ Viewers: 29 </desc>
 <title lang="en"> 🔥 HAPPY NEW YEAR 🔥 Ember Quinn 🔥 Nopixel 4.0 Whitelist 🔥 starf0rge GFUEL #GFUEL </title>
 <desc lang="en"> Started: 04:30 pm
 Playing: Grand Theft Auto V
-Viewers: 120 </desc>
+Viewers: 122 </desc>
 </programme>
 
 <programme start="20241231140801 +0000" stop="20250103090801 +0000" channel="arnie.us">
 <title lang="en"> uncapperoonie subathon day 32 - arniedog masters #AD </title>
 <desc lang="en"> Started: 9:08AM
 Playing: Grand Theft Auto V
-Viewers: 220 </desc>
+Viewers: 225 </desc>
 </programme>
 
 <programme start="20250101022417 +0000" stop="20250103212417 +0000" channel="rexs.us">
 <title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - Hydra - NoPixel WL </title>
 <desc lang="en"> Started: 9:24PM
 Playing: Grand Theft Auto V
-Viewers: 228 </desc>
-</programme>
-
-<programme start="20250101104349 +0000" stop="20250104054349 +0000" channel="novazfov.us">
-<title lang="en"> Don Zeek o_o - nopixel wl - </title>
-<desc lang="en"> Started: 5:43AM
-Playing: Grand Theft Auto V
-Viewers: 43 </desc>
+Viewers: 222 </desc>
 </programme>
 
 <programme start="20250101075344 +0000" stop="20250104025344 +0000" channel="thatguygp.us">
 <title lang="en"> Jamal -NewYear-Nopixel-Besties #hellofreshpartner </title>
 <desc lang="en"> Started: 2:53AM
 Playing: Grand Theft Auto V
-Viewers: 477 </desc>
+Viewers: 435 </desc>
 </programme>
 
 <programme start="20250101084754 +0000" stop="20250104034754 +0000" channel="hotted89.us">
 <title lang="en"> Happy New Year - Matthew Espinoz - Nopixel WL </title>
 <desc lang="en"> Started: 3:47AM
 Playing: Grand Theft Auto V
-Viewers: 196 </desc>
+Viewers: 201 </desc>
 </programme>
 
-<programme start="20250101102948 +0000" stop="20250104052948 +0000" channel="JonLaw_.us">
-<title lang="en"> Jon Joyce - Manor - NoPixel WL - </title>
-<desc lang="en"> Started: 05:29 am
+<programme start="20250101104504 +0000" stop="20250104054504 +0000" channel="JustADT.us">
+<title lang="en"> Ashley Marshal - Saints ⚜️- NoPixel WL - Happy New Year </title>
+<desc lang="en"> Started: 05:45 am
 Playing: Grand Theft Auto V
-Viewers: 167 </desc>
+Viewers: 1 </desc>
 </programme>
 
 <programme start="20250101050620 +0000" stop="20250104000620 +0000" channel="ms_star.us">
 <title lang="en"> Happy New Year ♡ Skye - LSPD - NoPixel WL - @ms_star </title>
 <desc lang="en"> Started: 12:06AM
 Playing: Grand Theft Auto V
-Viewers: 372 </desc>
+Viewers: 367 </desc>
 </programme>
 
 <programme start="20250101093759 +0000" stop="20250104043759 +0000" channel="denis3d.us">
 <title lang="en"> Welcome in 2025 - Fight Club Interior - Cooking👨‍🍳 - NoPixel Dev - links #blender </title>
 <desc lang="en"> Started: 4:37AM
 Playing: Grand Theft Auto V
-Viewers: 189 </desc>
+Viewers: 193 </desc>
 </programme>
 
 
