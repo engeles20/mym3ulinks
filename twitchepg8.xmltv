@@ -2,12 +2,12 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="mfwarlock.us">
-<display-name>mfwarlock</display-name>
-</channel>
-
 <channel id="novazfov.us">
 <display-name>novazfov</display-name>
+</channel>
+
+<channel id="mfwarlock.us">
+<display-name>mfwarlock</display-name>
 </channel>
 
 <channel id="binks.us">
@@ -34,6 +34,10 @@
 <display-name>jack</display-name>
 </channel>
 
+<channel id="timmac.us">
+<display-name>timmac</display-name>
+</channel>
+
 <channel id="Hauwnted.us">
 <display-name>Hauwnted</display-name>
 </channel>
@@ -58,8 +62,20 @@
 <display-name>alliumm</display-name>
 </channel>
 
+<channel id="kyrienolife.us">
+<display-name>kyrienolife</display-name>
+</channel>
+
+<channel id="itsmeDeimo.us">
+<display-name>itsmeDeimo</display-name>
+</channel>
+
 <channel id="DimplesEmily.us">
 <display-name>DimplesEmily</display-name>
+</channel>
+
+<channel id="itsmesaiga.us">
+<display-name>itsmesaiga</display-name>
 </channel>
 
 <channel id="NinjaJessica.us">
@@ -86,43 +102,39 @@
 <display-name>MadameGandalf</display-name>
 </channel>
 
-<channel id="kyrienolife.us">
-<display-name>kyrienolife</display-name>
-</channel>
+<programme start="20250101055848 +0000" stop="20250104005848 +0000" channel="novazfov.us">
+<title lang="en"> Don Zeek o_o - nopixel wl - </title>
+<desc lang="en"> Started: 12:58AM
+Playing: Grand Theft Auto V
+Viewers: 92 </desc>
+</programme>
 
 <programme start="20250101010023 +0000" stop="20250103200023 +0000" channel="mfwarlock.us">
 <title lang="en"> Skipper Jones - Yipper MARKED Yones - 🗡️Norf🗡️ </title>
 <desc lang="en"> Started: 8:00PM
 Playing: Grand Theft Auto V
-Viewers: 288 </desc>
-</programme>
-
-<programme start="20250101055848 +0000" stop="20250104005848 +0000" channel="novazfov.us">
-<title lang="en"> Don Zeek o_o - nopixel wl - </title>
-<desc lang="en"> Started: 12:58AM
-Playing: Grand Theft Auto V
-Viewers: 106 </desc>
+Viewers: 284 </desc>
 </programme>
 
 <programme start="20241231193704 +0000" stop="20250103143704 +0000" channel="binks.us">
 <title lang="en"> Day 5 - Ellie - CG Mom - ProdigyRP - gg </title>
 <desc lang="en"> Started: 2:37PM
 Playing: Grand Theft Auto V
-Viewers: 1142 </desc>
+Viewers: 1097 </desc>
 </programme>
 
 <programme start="20241231233024 +0000" stop="20250103183024 +0000" channel="Ssaab.us">
 <title lang="en"> HAPPY NEW YEAR - 30% OFF ON SUBS - DAY 89 OF UNCAPPED SUBATHON - </title>
 <desc lang="en"> Started: 6:30PM
 Playing: Marvel Rivals
-Viewers: 261 </desc>
+Viewers: 248 </desc>
 </programme>
 
 <programme start="20241231204923 +0000" stop="20250103154923 +0000" channel="jeimiru.us">
 <title lang="en"> 🐍 ITS OG BENZ FROM HYDRA GANG 🐍 - @jeimiru </title>
 <desc lang="en"> Started: 3:49PM
 Playing: Grand Theft Auto V
-Viewers: 668 </desc>
+Viewers: 698 </desc>
 </programme>
 
 <programme start="20241231140801 +0000" stop="20250103090801 +0000" channel="arnie.us">
@@ -136,61 +148,89 @@ Viewers: 164 </desc>
 <title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - Hydra - NoPixel WL </title>
 <desc lang="en"> Started: 9:24PM
 Playing: Grand Theft Auto V
-Viewers: 175 </desc>
+Viewers: 162 </desc>
 </programme>
 
 <programme start="20250101023837 +0000" stop="20250103213837 +0000" channel="jack.us">
 <title lang="en"> public JACK - farmskins #ad @jack </title>
 <desc lang="en"> Started: 9:38PM
 Playing: Grand Theft Auto V
-Viewers: 172 </desc>
+Viewers: 191 </desc>
+</programme>
+
+<programme start="20250101072328 +0000" stop="20250104022328 +0000" channel="timmac.us">
+<title lang="en"> Sgt Mack - HAPPY NEW YEAR - Prodigy RP - Socials: @timmac 5hourenergy </title>
+<desc lang="en"> Started: 2:23AM
+Playing: Grand Theft Auto V
+Viewers: 57 </desc>
 </programme>
 
 <programme start="20241231205127 +0000" stop="20250103155127 +0000" channel="Hauwnted.us">
 <title lang="en"> Cau Mau ❤️‍🔥 CGs lil bro ❤️‍🔥 Prodigy 2.0 ❤️‍🔥 @hauwnted ❤️‍🔥 - deadass Cal Cow </title>
 <desc lang="en"> Started: 3:51PM
 Playing: Grand Theft Auto V
-Viewers: 118 </desc>
+Viewers: 121 </desc>
 </programme>
 
 <programme start="20250101022620 +0000" stop="20250103212620 +0000" channel="bledorable.us">
 <title lang="en"> New Year, New Billy - Billy Thorne - Billy Blanc - Hades Top Recruit - NoPixel WL </title>
 <desc lang="en"> Started: 09:26 pm
 Playing: Grand Theft Auto V
-Viewers: 35 </desc>
+Viewers: 52 </desc>
 </programme>
 
 <programme start="20241231185639 +0000" stop="20250103135639 +0000" channel="tjnv.us">
 <title lang="en"> Charli Jones - a very good non chaotic day - cypress - NOPIXEL 4.0 </title>
 <desc lang="en"> Started: 01:56 pm
 Playing: Grand Theft Auto V
-Viewers: 624 </desc>
+Viewers: 620 </desc>
 </programme>
 
 <programme start="20250101050307 +0000" stop="20250104000307 +0000" channel="Harmless.us">
 <title lang="en"> Maynard Idiot Schmidt - Besties - NoPixel 4.0 </title>
 <desc lang="en"> Started: 12:03 am
 Playing: Grand Theft Auto V
-Viewers: 307 </desc>
+Viewers: 328 </desc>
 </programme>
 
 <programme start="20250101051751 +0000" stop="20250104001751 +0000" channel="aKartt.us">
 <title lang="en"> Harold H DAWG Bishop - HADES ASSOCIATE - NoPixel - HAPPY NEW YEARS </title>
 <desc lang="en"> Started: 12:17 am
 Playing: Grand Theft Auto V
-Viewers: 21 </desc>
+Viewers: 17 </desc>
 </programme>
 
 <programme start="20250101065755 +0000" stop="20250104015755 +0000" channel="alliumm.us">
 <title lang="en"> onboarding time - EMS - Alice Liddell - NoPixel WL ❄️ </title>
 <desc lang="en"> Started: 01:57 am
 Playing: Grand Theft Auto V
-Viewers: 10 </desc>
+Viewers: 18 </desc>
+</programme>
+
+<programme start="20250101071404 +0000" stop="20250104021404 +0000" channel="kyrienolife.us">
+<title lang="en"> Coop - NoPixel </title>
+<desc lang="en"> Started: 02:14 am
+Playing: Grand Theft Auto V
+Viewers: 3 </desc>
+</programme>
+
+<programme start="20250101052910 +0000" stop="20250104002910 +0000" channel="itsmeDeimo.us">
+<title lang="en"> Damian Greco - NoPixel 4.0 WL </title>
+<desc lang="en"> Started: 12:29 am
+Playing: Grand Theft Auto V
+Viewers: 2 </desc>
 </programme>
 
 <programme start="20250101053821 +0000" stop="20250104003821 +0000" channel="DimplesEmily.us">
 <title lang="en"> Dimples Helps Clean the Funhouse - GTA NoPixel 4.0 </title>
 <desc lang="en"> Started: 12:38 am
+Playing: Grand Theft Auto V
+Viewers: 2 </desc>
+</programme>
+
+<programme start="20250101065355 +0000" stop="20250104015355 +0000" channel="itsmesaiga.us">
+<title lang="en"> The Saga of Jeremy Saiga - Newbie Criminal - Nopixel WL - SOB - Doing devious shit </title>
+<desc lang="en"> Started: 01:53 am
 Playing: Grand Theft Auto V
 Viewers: 1 </desc>
 </programme>
@@ -199,60 +239,42 @@ Viewers: 1 </desc>
 <title lang="en"> 🔥 HAPPY NEW YEAR 🔥 Ember Quinn 🔥 Nopixel 4.0 Whitelist 🔥 starf0rge GFUEL #GFUEL </title>
 <desc lang="en"> Started: 04:30 pm
 Playing: Grand Theft Auto V
-Viewers: 80 </desc>
+Viewers: 79 </desc>
 </programme>
 
 <programme start="20250101070657 +0000" stop="20250104020657 +0000" channel="tinyspark.us">
 <title lang="en"> 217 Lola Lavender - NoPixel - Stray Gods later </title>
 <desc lang="en"> Started: 2:06AM
 Playing: Grand Theft Auto V
-Viewers: 24 </desc>
+Viewers: 21 </desc>
 </programme>
 
 <programme start="20241231223718 +0000" stop="20250103173718 +0000" channel="beetle.us">
 <title lang="en"> ROD LONG - ONX - N0T LOGGING ON NOPIXEL BECAUSE GEEGA HATES ME (happy new years) </title>
 <desc lang="en"> Started: 5:37PM
 Playing: Grand Theft Auto V
-Viewers: 125 </desc>
+Viewers: 132 </desc>
 </programme>
 
 <programme start="20250101050620 +0000" stop="20250104000620 +0000" channel="ms_star.us">
 <title lang="en"> Happy New Year ♡ Skye - LSPD - NoPixel WL - @ms_star </title>
 <desc lang="en"> Started: 12:06AM
 Playing: Grand Theft Auto V
-Viewers: 325 </desc>
+Viewers: 321 </desc>
 </programme>
 
 <programme start="20250101050307 +0000" stop="20250104000307 +0000" channel="royalcreates.us">
 <title lang="en"> Aphrodite Theos - LSPD 269 COP - NoPixel WL 4.0 </title>
 <desc lang="en"> Started: 12:03AM
 Playing: Grand Theft Auto V
-Viewers: 57 </desc>
+Viewers: 68 </desc>
 </programme>
 
 <programme start="20241231210448 +0000" stop="20250103160448 +0000" channel="MadameGandalf.us">
 <title lang="en"> Its my Birthday (New Years Eve) 🌈✨ SOOTY-BOOMBOOM THE CLOWN - 🌻 loveall - Thank you, everyone 💜 </title>
 <desc lang="en"> Started: 4:04PM
 Playing: Grand Theft Auto V
-Viewers: 193 </desc>
-</programme>
-
-<programme start="20250101071404 +0000" stop="20250104021404 +0000" channel="kyrienolife.us">
-<title lang="en"> Coop - NoPixel </title>
-<desc lang="en"> Started: 02:14 am
-Playing: Grand Theft Auto V
-Viewers: 7 </desc>
-</programme>
-
-<channel id="lysium.us">
-<display-name>lysium</display-name>
-</channel>
-
-<programme start="202412312204 +0000" stop="202501032204 +0000" channel="lysium.us">
-<title lang="en"> New Year Benji Hades - NoPixel 4.0 </title>
-<desc lang="en"> Started: 09:04 pm
-Playing: Grand Theft Auto V (GTA)
-Viewers: 1557 </desc>
+Viewers: 203 </desc>
 </programme>
 
 
