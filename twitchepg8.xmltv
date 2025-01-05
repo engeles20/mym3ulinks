@@ -18,12 +18,12 @@
 <display-name>Ssaab</display-name>
 </channel>
 
-<channel id="travpiper.us">
-<display-name>travpiper</display-name>
-</channel>
-
 <channel id="uhsnow.us">
 <display-name>uhsnow</display-name>
+</channel>
+
+<channel id="travpiper.us">
+<display-name>travpiper</display-name>
 </channel>
 
 <channel id="TheBigMeech.us">
@@ -32,6 +32,10 @@
 
 <channel id="berryyboo.us">
 <display-name>berryyboo</display-name>
+</channel>
+
+<channel id="rexs.us">
+<display-name>rexs</display-name>
 </channel>
 
 <channel id="Harmless.us">
@@ -54,10 +58,6 @@
 <display-name>TheDlinQuenT</display-name>
 </channel>
 
-<channel id="rexs.us">
-<display-name>rexs</display-name>
-</channel>
-
 <channel id="TiffaJessi.us">
 <display-name>TiffaJessi</display-name>
 </channel>
@@ -72,10 +72,6 @@
 
 <channel id="katecirrus.us">
 <display-name>katecirrus</display-name>
-</channel>
-
-<channel id="CARTY_tck.us">
-<display-name>CARTY_tck</display-name>
 </channel>
 
 <channel id="NinjaJessica.us">
@@ -106,6 +102,10 @@
 <display-name>curvyelephant</display-name>
 </channel>
 
+<channel id="ste_eire.us">
+<display-name>ste_eire</display-name>
+</channel>
+
 <channel id="denis3d.us">
 <display-name>denis3d</display-name>
 </channel>
@@ -114,70 +114,77 @@
 <title lang="en"> Captain Mack - Prodigy RP - Socials: @timmac </title>
 <desc lang="en"> Started: 5:54AM
 Playing: Grand Theft Auto V
-Viewers: 993 </desc>
+Viewers: 928 </desc>
 </programme>
 
 <programme start="20250105125345 +0000" stop="20250108075345 +0000" channel="moosetaffy.us">
 <title lang="en"> Patar Bellosh - GTA RP - Socials </title>
 <desc lang="en"> Started: 7:53AM
 Playing: Grand Theft Auto V
-Viewers: 290 </desc>
+Viewers: 268 </desc>
 </programme>
 
 <programme start="20250105141627 +0000" stop="20250108091627 +0000" channel="hutchmf.us">
 <title lang="en"> The Return. </title>
 <desc lang="en"> Started: 9:16AM
 Playing: Grand Theft Auto V
-Viewers: 945 </desc>
+Viewers: 1154 </desc>
 </programme>
 
 <programme start="20250103200025 +0000" stop="20250106150025 +0000" channel="Ssaab.us">
 <title lang="en"> Sleep Stream - UNCAPPED SUBATHON - </title>
 <desc lang="en"> Started: 3:00PM
 Playing: I'm Only Sleeping
-Viewers: 80 </desc>
-</programme>
-
-<programme start="20250105141841 +0000" stop="20250108091841 +0000" channel="travpiper.us">
-<title lang="en"> PD FAFO - nopixel </title>
-<desc lang="en"> Started: 9:18AM
-Playing: Grand Theft Auto V
-Viewers: 295 </desc>
+Viewers: 79 </desc>
 </programme>
 
 <programme start="20250105130334 +0000" stop="20250108080334 +0000" channel="uhsnow.us">
 <title lang="en"> ALBERT - NoPixel - discord.gg-snow </title>
 <desc lang="en"> Started: 8:03AM
 Playing: Grand Theft Auto V
-Viewers: 878 </desc>
+Viewers: 848 </desc>
+</programme>
+
+<programme start="20250105141841 +0000" stop="20250108091841 +0000" channel="travpiper.us">
+<title lang="en"> PD FAFO - nopixel </title>
+<desc lang="en"> Started: 9:18AM
+Playing: Grand Theft Auto V
+Viewers: 345 </desc>
 </programme>
 
 <programme start="20250105130727 +0000" stop="20250108080727 +0000" channel="TheBigMeech.us">
 <title lang="en"> Weekend Cassidy - Expressvpn </title>
 <desc lang="en"> Started: 8:07AM
 Playing: Grand Theft Auto V
-Viewers: 265 </desc>
+Viewers: 294 </desc>
 </programme>
 
 <programme start="20250105133054 +0000" stop="20250108083054 +0000" channel="berryyboo.us">
 <title lang="en"> Sgt. Viv - Sunday funday - NoPixel 4.0 - </title>
 <desc lang="en"> Started: 8:30AM
 Playing: Grand Theft Auto V
-Viewers: 247 </desc>
+Viewers: 221 </desc>
+</programme>
+
+<programme start="20250105074159 +0000" stop="20250108024159 +0000" channel="rexs.us">
+<title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - Hydra - NoPixel WL </title>
+<desc lang="en"> Started: 2:41AM
+Playing: Grand Theft Auto V
+Viewers: 120 </desc>
 </programme>
 
 <programme start="20250105053328 +0000" stop="20250108003328 +0000" channel="Harmless.us">
 <title lang="en"> Maynard Idiot Schmidt - Besties - NoPixel 4.0 </title>
 <desc lang="en"> Started: 12:33 am
 Playing: Grand Theft Auto V
-Viewers: 390 </desc>
+Viewers: 412 </desc>
 </programme>
 
 <programme start="20250105132617 +0000" stop="20250108082617 +0000" channel="Jaden.us">
 <title lang="en"> Jaden NEW YEAR NEW ME Christopher - Hydra Gang - NoPixel socials </title>
 <desc lang="en"> Started: 08:26 am
 Playing: Grand Theft Auto V
-Viewers: 88 </desc>
+Viewers: 89 </desc>
 </programme>
 
 <programme start="20250105122852 +0000" stop="20250108072852 +0000" channel="ScratchRP.us">
@@ -191,28 +198,21 @@ Viewers: 49 </desc>
 <title lang="en"> Mike - BESTIES - NoPixel - 2025 </title>
 <desc lang="en"> Started: 09:07 am
 Playing: Grand Theft Auto V
-Viewers: 25 </desc>
+Viewers: 33 </desc>
 </programme>
 
 <programme start="20250105115730 +0000" stop="20250108065730 +0000" channel="TheDlinQuenT.us">
 <title lang="en"> Dee LinQ- 455 - LSPDee - NoPixel 4.0 WL - GTA RP </title>
 <desc lang="en"> Started: 06:57 am
 Playing: Grand Theft Auto V
-Viewers: 21 </desc>
-</programme>
-
-<programme start="20250105074159 +0000" stop="20250108024159 +0000" channel="rexs.us">
-<title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - Hydra - NoPixel WL </title>
-<desc lang="en"> Started: 2:41AM
-Playing: Grand Theft Auto V
-Viewers: 117 </desc>
+Viewers: 20 </desc>
 </programme>
 
 <programme start="20250105055849 +0000" stop="20250108005849 +0000" channel="TiffaJessi.us">
 <title lang="en"> hey hi hello - Lennon Evans NP 4.0 - 449-500 sub goal - wishlist paradox giveaway </title>
 <desc lang="en"> Started: 12:58 am
 Playing: Grand Theft Auto V
-Viewers: 300 </desc>
+Viewers: 282 </desc>
 </programme>
 
 <programme start="20250105122201 +0000" stop="20250108072201 +0000" channel="YooshiiBear.us">
@@ -226,88 +226,77 @@ Viewers: 12 </desc>
 <title lang="en"> Danny Goomba 🔷Nopixel WL </title>
 <desc lang="en"> Started: 02:00 am
 Playing: Grand Theft Auto V
-Viewers: 6 </desc>
+Viewers: 4 </desc>
 </programme>
 
 <programme start="20250105104456 +0000" stop="20250108054456 +0000" channel="katecirrus.us">
 <title lang="en"> Phoebe Violet - PHEE BRUH - A Day in The Life - NoPixel WL 4.0 </title>
 <desc lang="en"> Started: 05:44 am
 Playing: Grand Theft Auto V
-Viewers: 3 </desc>
-</programme>
-
-<programme start="20250105120023 +0000" stop="20250108070023 +0000" channel="CARTY_tck.us">
-<title lang="en"> Ted Shredinker 💀 Nopixel 4.0 WL 💀 socials 💀 vods 💀 discord 💀 Chaos Legion MC 💀 Im back smile </title>
-<desc lang="en"> Started: 07:00 am
-Playing: Grand Theft Auto V
-Viewers: 1 </desc>
+Viewers: 4 </desc>
 </programme>
 
 <programme start="20250105075120 +0000" stop="20250108025120 +0000" channel="NinjaJessica.us">
 <title lang="en"> In pain so just chilling - Ember Quinn 🔥 Nopixel 4.0 Whitelist 🔥 starf0rge GFUEL #GFUEL </title>
 <desc lang="en"> Started: 02:51 am
 Playing: Grand Theft Auto V
-Viewers: 152 </desc>
+Viewers: 130 </desc>
 </programme>
 
 <programme start="20250105141110 +0000" stop="20250108091110 +0000" channel="matteu.us">
 <title lang="en"> ⋆˚࿔ LUCAS PURSUIT KITTEN MILLER 🔹 LSPD 🔹 NOPIXEL WL 🔹 hellofresh #AD ࿔˚⋆ </title>
 <desc lang="en"> Started: 9:11AM
 Playing: Grand Theft Auto V
-Viewers: 437 </desc>
+Viewers: 501 </desc>
 </programme>
 
 <programme start="20250105104637 +0000" stop="20250108054637 +0000" channel="tessquinn.us">
 <title lang="en"> Tess Quinn Crew growing and working better - Prodigy 2.0 WL - accent </title>
 <desc lang="en"> Started: 5:46AM
 Playing: Grand Theft Auto V
-Viewers: 21 </desc>
+Viewers: 20 </desc>
 </programme>
 
 <programme start="20250105134525 +0000" stop="20250108084525 +0000" channel="hotted89.us">
 <title lang="en"> Matthew Espinoz - LSPD - Nopixel </title>
 <desc lang="en"> Started: 8:45AM
 Playing: Grand Theft Auto V
-Viewers: 162 </desc>
+Viewers: 151 </desc>
 </programme>
 
 <programme start="20250105063045 +0000" stop="20250108013045 +0000" channel="roxmiral.us">
 <title lang="en"> I am still not hired in pd in PURPLERP - emergency </title>
 <desc lang="en"> Started: 1:30AM
 Playing: Grand Theft Auto V
-Viewers: 169 </desc>
+Viewers: 154 </desc>
 </programme>
 
 <programme start="20250105121642 +0000" stop="20250108071642 +0000" channel="nikkisariot.us">
 <title lang="en"> • Content • NoPixel WL • </title>
 <desc lang="en"> Started: 7:16AM
 Playing: Grand Theft Auto V
-Viewers: 134 </desc>
+Viewers: 135 </desc>
 </programme>
 
 <programme start="20250105133918 +0000" stop="20250108083918 +0000" channel="curvyelephant.us">
 <title lang="en"> Matt Rhodes - Nopixel - </title>
 <desc lang="en"> Started: 8:39AM
 Playing: Grand Theft Auto V
-Viewers: 250 </desc>
+Viewers: 276 </desc>
+</programme>
+
+<programme start="20250105143137 +0000" stop="20250108093137 +0000" channel="ste_eire.us">
+<title lang="en"> sunday chill vibes #ad masters </title>
+<desc lang="en"> Started: 9:31AM
+Playing: Grand Theft Auto V
+Viewers: 233 </desc>
 </programme>
 
 <programme start="20250105133039 +0000" stop="20250108083039 +0000" channel="denis3d.us">
 <title lang="en"> 🔴 A bit of Fight Club MLO - Later Bayonetta 🔴 - NoPixel Dev - links #blender </title>
 <desc lang="en"> Started: 8:30AM
 Playing: Grand Theft Auto V
-Viewers: 111 </desc>
-</programme>
-
-<channel id="ming.us">
-<display-name>ming</display-name>
-</channel>
-
-<programme start="202501050808 +0000" stop="202501080808 +0000" channel="ming.us">
-<title lang="en"> Ming Jingtai  Nopixel Roleplayer   MrMing011 </title>
-<desc lang="en"> Started: 07:08 am
-Playing: Grand Theft Auto V (GTA)
-Viewers: 474 </desc>
+Viewers: 124 </desc>
 </programme>
 
 
