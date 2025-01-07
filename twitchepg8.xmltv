@@ -6,6 +6,10 @@
 <display-name>timmac</display-name>
 </channel>
 
+<channel id="moosetaffy.us">
+<display-name>moosetaffy</display-name>
+</channel>
+
 <channel id="Ssaab.us">
 <display-name>Ssaab</display-name>
 </channel>
@@ -14,28 +18,24 @@
 <display-name>uhsnow</display-name>
 </channel>
 
-<channel id="Prof_Frosty.us">
-<display-name>Prof_Frosty</display-name>
+<channel id="kongfue.us">
+<display-name>kongfue</display-name>
 </channel>
 
-<channel id="moosetaffy.us">
-<display-name>moosetaffy</display-name>
+<channel id="Prof_Frosty.us">
+<display-name>Prof_Frosty</display-name>
 </channel>
 
 <channel id="Harmless.us">
 <display-name>Harmless</display-name>
 </channel>
 
-<channel id="kongfue.us">
-<display-name>kongfue</display-name>
-</channel>
-
 <channel id="Frank_Ladd.us">
 <display-name>Frank_Ladd</display-name>
 </channel>
 
-<channel id="ClayStehling.us">
-<display-name>ClayStehling</display-name>
+<channel id="CARTY_tck.us">
+<display-name>CARTY_tck</display-name>
 </channel>
 
 <channel id="ClayStehling.us">
@@ -46,20 +46,24 @@
 <display-name>aus24</display-name>
 </channel>
 
-<channel id="choponz.us">
-<display-name>choponz</display-name>
-</channel>
-
 <channel id="rexs.us">
 <display-name>rexs</display-name>
+</channel>
+
+<channel id="nidas.us">
+<display-name>nidas</display-name>
+</channel>
+
+<channel id="choponz.us">
+<display-name>choponz</display-name>
 </channel>
 
 <channel id="cheez.us">
 <display-name>cheez</display-name>
 </channel>
 
-<channel id="nidas.us">
-<display-name>nidas</display-name>
+<channel id="matteu.us">
+<display-name>matteu</display-name>
 </channel>
 
 <channel id="angelina.us">
@@ -70,42 +74,45 @@
 <display-name>tessquinn</display-name>
 </channel>
 
-<channel id="matteu.us">
-<display-name>matteu</display-name>
+<channel id="hotted89.us">
+<display-name>hotted89</display-name>
 </channel>
 
 <channel id="roxmiral.us">
 <display-name>roxmiral</display-name>
 </channel>
 
-<channel id="hotted89.us">
-<display-name>hotted89</display-name>
-</channel>
-
 <channel id="vader.us">
 <display-name>vader</display-name>
-</channel>
-
-<channel id="CARTY_tck.us">
-<display-name>CARTY_tck</display-name>
 </channel>
 
 <channel id="sayeed.us">
 <display-name>sayeed</display-name>
 </channel>
 
+<channel id="ming.us">
+<display-name>ming</display-name>
+</channel>
+
 <programme start="20250107093547 +0000" stop="20250110043547 +0000" channel="timmac.us">
 <title lang="en"> Captain Mack - Prodigy RP - Socials: @timmac </title>
 <desc lang="en"> Started: 4:35AM
 Playing: Grand Theft Auto V
-Viewers: 967 </desc>
+Viewers: 985 </desc>
+</programme>
+
+<programme start="20250107120944 +0000" stop="20250110070944 +0000" channel="moosetaffy.us">
+<title lang="en"> Patar Bellosh - Prodigy RP - Socials </title>
+<desc lang="en"> Started: 7:09AM
+Playing: Grand Theft Auto V
+Viewers: 162 </desc>
 </programme>
 
 <programme start="20250106230924 +0000" stop="20250109180924 +0000" channel="Ssaab.us">
 <title lang="en"> Sleep Stream - UNCAPPED SUBATHON - </title>
 <desc lang="en"> Started: 6:09PM
 Playing: I'm Only Sleeping
-Viewers: 85 </desc>
+Viewers: 90 </desc>
 </programme>
 
 <programme start="20250107115520 +0000" stop="20250110065520 +0000" channel="uhsnow.us">
@@ -115,27 +122,6 @@ Playing: Grand Theft Auto V
 Viewers: 876 </desc>
 </programme>
 
-<programme start="20250107120559 +0000" stop="20250110070559 +0000" channel="Prof_Frosty.us">
-<title lang="en"> 🔵New Year, New Clive🔵C2C🔵Clive “Focus Enf0rcer” Anderson🔵Manor🔵Nopixel WL🔵 </title>
-<desc lang="en"> Started: 07:05 am
-Playing: Grand Theft Auto V
-Viewers: 117 </desc>
-</programme>
-
-<programme start="20250107120944 +0000" stop="20250110070944 +0000" channel="moosetaffy.us">
-<title lang="en"> Patar Bellosh - Prodigy RP - Socials </title>
-<desc lang="en"> Started: 7:09AM
-Playing: Grand Theft Auto V
-Viewers: 157 </desc>
-</programme>
-
-<programme start="20250107070002 +0000" stop="20250110020002 +0000" channel="Harmless.us">
-<title lang="en"> Maynard Idiot Schmidt - Besties - NoPixel 4.0 </title>
-<desc lang="en"> Started: 02:00 am
-Playing: Grand Theft Auto V
-Viewers: 760 </desc>
-</programme>
-
 <programme start="20250107120117 +0000" stop="20250110070117 +0000" channel="kongfue.us">
 <title lang="en"> KARL JOHNNY KJ BLACK - HADES UNDERBOSS - NoPixel 4.0 - DOING THE MOVE Kick </title>
 <desc lang="en"> Started: 7:01AM
@@ -143,18 +129,32 @@ Playing: Grand Theft Auto V
 Viewers: 170 </desc>
 </programme>
 
+<programme start="20250107120559 +0000" stop="20250110070559 +0000" channel="Prof_Frosty.us">
+<title lang="en"> 🔵New Year, New Clive🔵C2C🔵Clive “Focus Enf0rcer” Anderson🔵Manor🔵Nopixel WL🔵 </title>
+<desc lang="en"> Started: 07:05 am
+Playing: Grand Theft Auto V
+Viewers: 117 </desc>
+</programme>
+
+<programme start="20250107070002 +0000" stop="20250110020002 +0000" channel="Harmless.us">
+<title lang="en"> Maynard Idiot Schmidt - Besties - NoPixel 4.0 </title>
+<desc lang="en"> Started: 02:00 am
+Playing: Grand Theft Auto V
+Viewers: 717 </desc>
+</programme>
+
 <programme start="20250107091304 +0000" stop="20250110041304 +0000" channel="Frank_Ladd.us">
 <title lang="en"> New engine day - Day 7-31 - Frank OG Scaletta - The Manor - NoPixel WL - Discord </title>
 <desc lang="en"> Started: 04:13 am
 Playing: Grand Theft Auto V
-Viewers: 149 </desc>
+Viewers: 192 </desc>
 </programme>
 
-<programme start="20250107115753 +0000" stop="20250110065753 +0000" channel="ClayStehling.us">
-<title lang="en"> {RP} Dusty Carr - Gambit - NoPixel WL 4.0 - socials tip nopixel </title>
-<desc lang="en"> Started: 06:57 am
+<programme start="20250107084310 +0000" stop="20250110034310 +0000" channel="CARTY_tck.us">
+<title lang="en"> Ted Shredinker 💀 Nopixel 4.0 WL 💀 socials 💀 vods 💀 discord 💀 Chaos Legion MC 💀 be positive </title>
+<desc lang="en"> Started: 03:43 am
 Playing: Grand Theft Auto V
-Viewers: 17 </desc>
+Viewers: 25 </desc>
 </programme>
 
 <programme start="20250107115753 +0000" stop="20250110065753 +0000" channel="ClayStehling.us">
@@ -171,25 +171,11 @@ Playing: Grand Theft Auto V
 Viewers: 138 </desc>
 </programme>
 
-<programme start="20250107120822 +0000" stop="20250110070822 +0000" channel="choponz.us">
-<title lang="en"> Billy Strut Returns - NOPIXEL 4.0 - </title>
-<desc lang="en"> Started: 7:08AM
-Playing: Grand Theft Auto V
-Viewers: 22 </desc>
-</programme>
-
 <programme start="20250107064213 +0000" stop="20250110014213 +0000" channel="rexs.us">
 <title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - Hydra - NoPixel WL </title>
 <desc lang="en"> Started: 1:42AM
 Playing: Grand Theft Auto V
-Viewers: 114 </desc>
-</programme>
-
-<programme start="20250107090842 +0000" stop="20250110040842 +0000" channel="cheez.us">
-<title lang="en"> Clips </title>
-<desc lang="en"> Started: 4:08AM
-Playing: Grand Theft Auto V
-Viewers: 137 </desc>
+Viewers: 105 </desc>
 </programme>
 
 <programme start="20250107115724 +0000" stop="20250110065724 +0000" channel="nidas.us">
@@ -199,18 +185,18 @@ Playing: Grand Theft Auto V
 Viewers: 241 </desc>
 </programme>
 
-<programme start="20250107125553 +0000" stop="20250110075553 +0000" channel="angelina.us">
-<title lang="en"> ˖⁺‧₊˚ NEW YEAR NEW ME ✨ BRANDI LYNN BCSO DEPUTY YEEHAW </title>
-<desc lang="en"> Started: 7:55AM
+<programme start="20250107120822 +0000" stop="20250110070822 +0000" channel="choponz.us">
+<title lang="en"> Billy Strut Returns - NOPIXEL 4.0 - </title>
+<desc lang="en"> Started: 7:08AM
 Playing: Grand Theft Auto V
-Viewers: 38 </desc>
+Viewers: 22 </desc>
 </programme>
 
-<programme start="20250107104942 +0000" stop="20250110054942 +0000" channel="tessquinn.us">
-<title lang="en"> Tess Quinn new crew, new beginning - Prodigy 2.0 WL - accent </title>
-<desc lang="en"> Started: 5:49AM
+<programme start="20250107090842 +0000" stop="20250110040842 +0000" channel="cheez.us">
+<title lang="en"> Clips </title>
+<desc lang="en"> Started: 4:08AM
 Playing: Grand Theft Auto V
-Viewers: 12 </desc>
+Viewers: 204 </desc>
 </programme>
 
 <programme start="20250107123054 +0000" stop="20250110073054 +0000" channel="matteu.us">
@@ -220,39 +206,53 @@ Playing: Grand Theft Auto V
 Viewers: 333 </desc>
 </programme>
 
-<programme start="20250107051246 +0000" stop="20250110001246 +0000" channel="roxmiral.us">
-<title lang="en"> Looking f0r Chief to get hired please ill do anything - PURPLERP - emergency </title>
-<desc lang="en"> Started: 12:12AM
+<programme start="20250107125553 +0000" stop="20250110075553 +0000" channel="angelina.us">
+<title lang="en"> ˖⁺‧₊˚ NEW YEAR NEW ME ✨ BRANDI LYNN BCSO DEPUTY YEEHAW </title>
+<desc lang="en"> Started: 7:55AM
 Playing: Grand Theft Auto V
-Viewers: 379 </desc>
+Viewers: 55 </desc>
+</programme>
+
+<programme start="20250107104942 +0000" stop="20250110054942 +0000" channel="tessquinn.us">
+<title lang="en"> Tess Quinn new crew, new beginning - Prodigy 2.0 WL - accent </title>
+<desc lang="en"> Started: 5:49AM
+Playing: Grand Theft Auto V
+Viewers: 12 </desc>
 </programme>
 
 <programme start="20250107094520 +0000" stop="20250110044520 +0000" channel="hotted89.us">
 <title lang="en"> Matthew Espinoz - LSPD - Nopixel </title>
 <desc lang="en"> Started: 4:45AM
 Playing: Grand Theft Auto V
-Viewers: 194 </desc>
+Viewers: 188 </desc>
+</programme>
+
+<programme start="20250107051246 +0000" stop="20250110001246 +0000" channel="roxmiral.us">
+<title lang="en"> Looking f0r Chief to get hired please ill do anything - PURPLERP - emergency </title>
+<desc lang="en"> Started: 12:12AM
+Playing: Grand Theft Auto V
+Viewers: 383 </desc>
 </programme>
 
 <programme start="20250107120110 +0000" stop="20250110070110 +0000" channel="vader.us">
 <title lang="en"> EUGENE - ROLEPLAY </title>
 <desc lang="en"> Started: 7:01AM
 Playing: Grand Theft Auto V
-Viewers: 791 </desc>
-</programme>
-
-<programme start="20250107084310 +0000" stop="20250110034310 +0000" channel="CARTY_tck.us">
-<title lang="en"> Ted Shredinker 💀 Nopixel 4.0 WL 💀 socials 💀 vods 💀 discord 💀 Chaos Legion MC 💀 be positive </title>
-<desc lang="en"> Started: 03:43 am
-Playing: Grand Theft Auto V
-Viewers: 24 </desc>
+Viewers: 829 </desc>
 </programme>
 
 <programme start="202501070757 +0000" stop="202501100757 +0000" channel="sayeed.us">
 <title lang="en"> Speedy Khappy Snowy daaay  - NoPixel 4.0 </title>
 <desc lang="en"> Started: 06:57 am
 Playing: Grand Theft Auto V (GTA)
-Viewers: 273 </desc>
+Viewers: 271 </desc>
+</programme>
+
+<programme start="202501070857 +0000" stop="202501100857 +0000" channel="ming.us">
+<title lang="en"> Ming Jingtai  Nopixel Roleplayer   MrMing011 </title>
+<desc lang="en"> Started: 07:57 am
+Playing: Grand Theft Auto V (GTA)
+Viewers: 260 </desc>
 </programme>
 
 
