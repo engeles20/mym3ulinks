@@ -10,10 +10,6 @@
 <display-name>sock22</display-name>
 </channel>
 
-<channel id="aus24.us">
-<display-name>aus24</display-name>
-</channel>
-
 <channel id="Harmless.us">
 <display-name>Harmless</display-name>
 </channel>
@@ -46,6 +42,10 @@
 <display-name>DeeruptDamo</display-name>
 </channel>
 
+<channel id="aus24.us">
+<display-name>aus24</display-name>
+</channel>
+
 <channel id="thatguygp.us">
 <display-name>thatguygp</display-name>
 </channel>
@@ -62,6 +62,14 @@
 <display-name>curvyelephant</display-name>
 </channel>
 
+<channel id="ClayStehling.us">
+<display-name>ClayStehling</display-name>
+</channel>
+
+<channel id="nidas.us">
+<display-name>nidas</display-name>
+</channel>
+
 <channel id="madgiiee.us">
 <display-name>madgiiee</display-name>
 </channel>
@@ -70,70 +78,63 @@
 <title lang="en"> STARSHIP LAUNCH LATER TODAY - NoPixel - discord.gg-snow </title>
 <desc lang="en"> Started: 6:11AM
 Playing: Grand Theft Auto V
-Viewers: 585 </desc>
+Viewers: 607 </desc>
 </programme>
 
 <programme start="20250116082410 +0000" stop="20250119032410 +0000" channel="sock22.us">
 <title lang="en"> Marshal Richard Dark - The Agony of Defeat - </title>
 <desc lang="en"> Started: 3:24AM
 Playing: Grand Theft Auto V
-Viewers: 455 </desc>
-</programme>
-
-<programme start="20250116075000 +0000" stop="20250119025000 +0000" channel="aus24.us">
-<title lang="en"> DAVENPORT - LSPD - HYDRUST 17th Jan - NoPixel 4.0 WL </title>
-<desc lang="en"> Started: 2:50AM
-Playing: Grand Theft Auto V
-Viewers: 83 </desc>
+Viewers: 450 </desc>
 </programme>
 
 <programme start="20250116052401 +0000" stop="20250119002401 +0000" channel="Harmless.us">
 <title lang="en"> Maynard Schmidt - NoPixel 4.0 </title>
 <desc lang="en"> Started: 12:24 am
 Playing: Grand Theft Auto V
-Viewers: 459 </desc>
+Viewers: 416 </desc>
 </programme>
 
 <programme start="20250116112742 +0000" stop="20250119062742 +0000" channel="simplynumi.us">
 <title lang="en"> Sofia Torres - CYPRESS - NoPixel - Short Stream </title>
 <desc lang="en"> Started: 06:27 am
 Playing: Grand Theft Auto V
-Viewers: 129 </desc>
+Viewers: 151 </desc>
 </programme>
 
 <programme start="20250116034605 +0000" stop="20250118224605 +0000" channel="MargoTheSnail.us">
 <title lang="en"> MARGO THE MENACE ESCARGOT ~ NoPixel RP ~ The Crackhead - PANIC ALL THE TYME - </title>
 <desc lang="en"> Started: 10:46 pm
 Playing: Grand Theft Auto V
-Viewers: 50 </desc>
+Viewers: 48 </desc>
 </programme>
 
 <programme start="20250116082619 +0000" stop="20250119032619 +0000" channel="AnnaMayMight.us">
 <title lang="en"> [18][UK][50] Martha NoPixel 4.0 NP WL </title>
 <desc lang="en"> Started: 03:26 am
 Playing: Grand Theft Auto V
-Viewers: 38 </desc>
+Viewers: 34 </desc>
 </programme>
 
 <programme start="20250116112729 +0000" stop="20250119062729 +0000" channel="GoufBam.us">
 <title lang="en"> Np then rivals </title>
 <desc lang="en"> Started: 06:27 am
 Playing: Grand Theft Auto V
-Viewers: 16 </desc>
+Viewers: 19 </desc>
 </programme>
 
 <programme start="20250116064154 +0000" stop="20250119014154 +0000" channel="kyrienolife.us">
 <title lang="en"> Coop - NoPixel - </title>
 <desc lang="en"> Started: 01:41 am
 Playing: Grand Theft Auto V
-Viewers: 13 </desc>
+Viewers: 15 </desc>
 </programme>
 
 <programme start="20250116012453 +0000" stop="20250118202453 +0000" channel="Bondii.us">
 <title lang="en"> Episode 40 - NoPixel WL - Randy Dalton - THE CRACKHEADS </title>
 <desc lang="en"> Started: 08:24 pm
 Playing: Grand Theft Auto V
-Viewers: 11 </desc>
+Viewers: 12 </desc>
 </programme>
 
 <programme start="20250116110123 +0000" stop="20250119060123 +0000" channel="DeeruptDamo.us">
@@ -143,11 +144,18 @@ Playing: Grand Theft Auto V
 Viewers: 1 </desc>
 </programme>
 
+<programme start="20250116075000 +0000" stop="20250119025000 +0000" channel="aus24.us">
+<title lang="en"> DAVENPORT - LSPD - HYDRUST 17th Jan - NoPixel 4.0 WL </title>
+<desc lang="en"> Started: 2:50AM
+Playing: Grand Theft Auto V
+Viewers: 270 </desc>
+</programme>
+
 <programme start="20250116070441 +0000" stop="20250119020441 +0000" channel="thatguygp.us">
 <title lang="en"> Jamal-Nopixel 4.0-BESTIES </title>
 <desc lang="en"> Started: 2:04AM
 Playing: Grand Theft Auto V
-Viewers: 247 </desc>
+Viewers: 258 </desc>
 </programme>
 
 <programme start="20250116112137 +0000" stop="20250119062137 +0000" channel="tessquinn.us">
@@ -161,21 +169,35 @@ Viewers: 10 </desc>
 <title lang="en"> DERPUTY TYME - PURPLERP - emergency </title>
 <desc lang="en"> Started: 3:58AM
 Playing: Grand Theft Auto V
-Viewers: 380 </desc>
+Viewers: 427 </desc>
 </programme>
 
 <programme start="20250116112434 +0000" stop="20250119062434 +0000" channel="curvyelephant.us">
 <title lang="en"> Matt Rhodes avoids TRAFFIC STOPS - nopixel - </title>
 <desc lang="en"> Started: 6:24AM
 Playing: Grand Theft Auto V
-Viewers: 278 </desc>
+Viewers: 290 </desc>
+</programme>
+
+<programme start="20250116115914 +0000" stop="20250119065914 +0000" channel="ClayStehling.us">
+<title lang="en"> {RP} Dusty Carr - Gambit - NoPixel WL 4.0 - socials tip nopixel </title>
+<desc lang="en"> Started: 06:59 am
+Playing: Grand Theft Auto V
+Viewers: 5 </desc>
+</programme>
+
+<programme start="20250116120850 +0000" stop="20250119070850 +0000" channel="nidas.us">
+<title lang="en"> STREAM TYME YEEEEE - @nidas </title>
+<desc lang="en"> Started: 7:08AM
+Playing: Grand Theft Auto V
+Viewers: 24 </desc>
 </programme>
 
 <programme start="20250116095907 +0000" stop="20250119045907 +0000" channel="madgiiee.us">
 <title lang="en"> 🌸Maggie Gunn🌸 NPWL 🌸 ⚫-⚫ ADMC - Prospect 🌸 what is happening .... 🌸 </title>
 <desc lang="en"> Started: 4:59AM
 Playing: Grand Theft Auto V
-Viewers: 22 </desc>
+Viewers: 29 </desc>
 </programme>
 
 
