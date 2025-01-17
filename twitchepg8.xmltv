@@ -2,12 +2,16 @@
 <display-name>clearepg</display-name>
 </channel>
 
+<channel id="artbybaha.us">
+<display-name>artbybaha</display-name>
+</channel>
+
 <channel id="raveesh1.us">
 <display-name>raveesh1</display-name>
 </channel>
 
-<channel id="artbybaha.us">
-<display-name>artbybaha</display-name>
+<channel id="client.us">
+<display-name>client</display-name>
 </channel>
 
 <channel id="timmac.us">
@@ -38,12 +42,12 @@
 <display-name>rexs</display-name>
 </channel>
 
-<channel id="client.us">
-<display-name>client</display-name>
-</channel>
-
 <channel id="caramel.us">
 <display-name>caramel</display-name>
+</channel>
+
+<channel id="illinora.us">
+<display-name>illinora</display-name>
 </channel>
 
 <channel id="TheDlinQuenT.us">
@@ -66,6 +70,10 @@
 <display-name>ClayStehling</display-name>
 </channel>
 
+<channel id="Offnan.us">
+<display-name>Offnan</display-name>
+</channel>
+
 <channel id="OmicronzZz.us">
 <display-name>OmicronzZz</display-name>
 </channel>
@@ -78,12 +86,12 @@
 <display-name>VOSSAC</display-name>
 </channel>
 
-<channel id="Offnan.us">
-<display-name>Offnan</display-name>
-</channel>
-
 <channel id="ImZendo.us">
 <display-name>ImZendo</display-name>
+</channel>
+
+<channel id="SAVVAA_.us">
+<display-name>SAVVAA_</display-name>
 </channel>
 
 <channel id="tessquinn.us">
@@ -94,16 +102,8 @@
 <display-name>hotted89</display-name>
 </channel>
 
-<channel id="illinora.us">
-<display-name>illinora</display-name>
-</channel>
-
 <channel id="Castro_1021.us">
 <display-name>Castro_1021</display-name>
-</channel>
-
-<channel id="SAVVAA_.us">
-<display-name>SAVVAA_</display-name>
 </channel>
 
 <channel id="sayeed.us">
@@ -118,60 +118,67 @@
 <display-name>ming</display-name>
 </channel>
 
-<programme start="20250117145011 +0000" stop="20250120095011 +0000" channel="raveesh1.us">
-<title lang="en"> YAHYA YAYA AHMED - Nopixel WL 4.0 </title>
-<desc lang="en"> Started: 9:50AM
-Playing: Grand Theft Auto V
-Viewers: 23 </desc>
-</programme>
-
 <programme start="20250117134320 +0000" stop="20250120084320 +0000" channel="artbybaha.us">
 <title lang="en"> Cuddles - A Heart of Stone - Nopixel WL </title>
 <desc lang="en"> Started: 8:43AM
 Playing: Grand Theft Auto V
-Viewers: 156 </desc>
+Viewers: 159 </desc>
+</programme>
+
+<programme start="20250117145011 +0000" stop="20250120095011 +0000" channel="raveesh1.us">
+<title lang="en"> YAHYA YAYA AHMED - Nopixel WL 4.0 </title>
+<desc lang="en"> Started: 9:50AM
+Playing: Grand Theft Auto V
+Viewers: 30 </desc>
+</programme>
+
+<programme start="20250117153031 +0000" stop="20250120103031 +0000" channel="client.us">
+<title lang="en"> Peanut - ProdigyRP - Socials </title>
+<desc lang="en"> Started: 10:30AM
+Playing: Grand Theft Auto V
+Viewers: 316 </desc>
 </programme>
 
 <programme start="20250117120322 +0000" stop="20250120070322 +0000" channel="timmac.us">
 <title lang="en"> Captain Mack - Prodigy RP - Socials: @timmac </title>
 <desc lang="en"> Started: 7:03AM
 Playing: Grand Theft Auto V
-Viewers: 514 </desc>
+Viewers: 500 </desc>
 </programme>
 
 <programme start="20250117121958 +0000" stop="20250120071958 +0000" channel="moosetaffy.us">
 <title lang="en"> Patar Bellosh - Prodigy RP - Royal #AD - Socials </title>
 <desc lang="en"> Started: 7:19AM
 Playing: Grand Theft Auto V
-Viewers: 131 </desc>
+Viewers: 123 </desc>
 </programme>
 
 <programme start="20250117135703 +0000" stop="20250120085703 +0000" channel="hutchmf.us">
 <title lang="en"> Back like we never left - </title>
 <desc lang="en"> Started: 8:57AM
 Playing: Grand Theft Auto V
-Viewers: 4127 </desc>
+Viewers: 4186 </desc>
 </programme>
 
 <programme start="20250117144231 +0000" stop="20250120094231 +0000" channel="silent.us">
 <title lang="en"> FLIPPY - masters - GS - 🏆 Awards-Olympics 🥇 - results - 🐍 hydra - SileNt Live on sleeper #ad </title>
 <desc lang="en"> Started: 9:42AM
 Playing: Grand Theft Auto V
-Viewers: 1314 </desc>
+Viewers: 1250 </desc>
 </programme>
 
 <programme start="20250117131238 +0000" stop="20250120081238 +0000" channel="chillypanda.us">
 <title lang="en"> Lilly Megaphone Brat Pandia -- GTA - Pokemon Soul Link pt 3 4 -- Hydra NP WL -- gamersupps </title>
 <desc lang="en"> Started: 8:12AM
 Playing: Grand Theft Auto V
-Viewers: 126 </desc>
+Viewers: 142 </desc>
 </programme>
 
 <programme start="20250117102845 +0000" stop="20250120052845 +0000" channel="arnie.us">
 <title lang="en"> racer arnie weekly finals tonight vods </title>
 <desc lang="en"> Started: 5:28AM
 Playing: Grand Theft Auto V
-Viewers: 456 </desc>
+Viewers: 408 </desc>
 </programme>
 
 <programme start="20250117074824 +0000" stop="20250120024824 +0000" channel="rexs.us">
@@ -181,53 +188,60 @@ Playing: Grand Theft Auto V
 Viewers: 50 </desc>
 </programme>
 
-<programme start="20250117153031 +0000" stop="20250120103031 +0000" channel="client.us">
-<title lang="en"> Peanut - ProdigyRP - Socials </title>
-<desc lang="en"> Started: 10:30AM
-Playing: Grand Theft Auto V
-Viewers: 96 </desc>
-</programme>
-
 <programme start="20250117133648 +0000" stop="20250120083648 +0000" channel="caramel.us">
 <title lang="en"> Lovemore - Besties - NoPixel 4.0 </title>
 <desc lang="en"> Started: 8:36AM
 Playing: Grand Theft Auto V
-Viewers: 308 </desc>
+Viewers: 306 </desc>
+</programme>
+
+<programme start="20250117152149 +0000" stop="20250120102149 +0000" channel="illinora.us">
+<title lang="en"> ✨Suki Cruz ✨ - DOC - NoPixel 4.0 - discord socials </title>
+<desc lang="en"> Started: 10:21 am
+Playing: Grand Theft Auto V
+Viewers: 56 </desc>
 </programme>
 
 <programme start="20250117134936 +0000" stop="20250120084936 +0000" channel="TheDlinQuenT.us">
 <title lang="en"> Dee LinQ- 455 - LSPDee - NoPixel 4.0 WL - GTA RP </title>
 <desc lang="en"> Started: 08:49 am
 Playing: Grand Theft Auto V
-Viewers: 54 </desc>
+Viewers: 61 </desc>
 </programme>
 
 <programme start="20250117132520 +0000" stop="20250120082520 +0000" channel="GoufBam.us">
 <title lang="en"> Zee Bruh - Mad Scientist - Besties - NoPixel WL </title>
 <desc lang="en"> Started: 08:25 am
 Playing: Grand Theft Auto V
-Viewers: 20 </desc>
+Viewers: 22 </desc>
 </programme>
 
 <programme start="20250117070637 +0000" stop="20250120020637 +0000" channel="kyrienolife.us">
 <title lang="en"> Coop - NoPixel </title>
 <desc lang="en"> Started: 02:06 am
 Playing: Grand Theft Auto V
-Viewers: 173 </desc>
+Viewers: 158 </desc>
 </programme>
 
 <programme start="20250117135745 +0000" stop="20250120085745 +0000" channel="ollie2313.us">
 <title lang="en"> BCSO Cadet 713 Matilda Murphy - NoPixel 4.0 </title>
 <desc lang="en"> Started: 08:57 am
 Playing: Grand Theft Auto V
-Viewers: 69 </desc>
+Viewers: 83 </desc>
 </programme>
 
 <programme start="20250117115812 +0000" stop="20250120065812 +0000" channel="ClayStehling.us">
 <title lang="en"> {RP} Dusty Carr - Gambit - NoPixel WL 4.0 - socials tip nopixel </title>
 <desc lang="en"> Started: 06:58 am
 Playing: Grand Theft Auto V
-Viewers: 17 </desc>
+Viewers: 16 </desc>
+</programme>
+
+<programme start="20250117151724 +0000" stop="20250120101724 +0000" channel="Offnan.us">
+<title lang="en"> Zayn Hunter - NoPixel WL </title>
+<desc lang="en"> Started: 10:17 am
+Playing: Grand Theft Auto V
+Viewers: 6 </desc>
 </programme>
 
 <programme start="20250117140035 +0000" stop="20250120090035 +0000" channel="OmicronzZz.us">
@@ -248,14 +262,7 @@ Viewers: 4 </desc>
 <title lang="en"> Odin DeWitt - Cypress Associate - NoPixel 4.0 WL </title>
 <desc lang="en"> Started: 10:16 am
 Playing: Grand Theft Auto V
-Viewers: 2 </desc>
-</programme>
-
-<programme start="20250117151724 +0000" stop="20250120101724 +0000" channel="Offnan.us">
-<title lang="en"> Zayn Hunter - NoPixel WL </title>
-<desc lang="en"> Started: 10:17 am
-Playing: Grand Theft Auto V
-Viewers: 4 </desc>
+Viewers: 3 </desc>
 </programme>
 
 <programme start="20250117150109 +0000" stop="20250120100109 +0000" channel="ImZendo.us">
@@ -265,60 +272,53 @@ Playing: Grand Theft Auto V
 Viewers: 1 </desc>
 </programme>
 
+<programme start="20250117152406 +0000" stop="20250120102406 +0000" channel="SAVVAA_.us">
+<title lang="en"> [ENG-PL] Lilith Zarov - Nopixel💥NEW ADVENTURES💥DRAMA💥 </title>
+<desc lang="en"> Started: 10:24 am
+Playing: Grand Theft Auto V
+Viewers: 2 </desc>
+</programme>
+
 <programme start="20250117120722 +0000" stop="20250120070722 +0000" channel="tessquinn.us">
 <title lang="en"> Tess Quinn, growing the crew and planning the next step - Forsaken - Prodigy 2.0 WL - accent </title>
 <desc lang="en"> Started: 7:07AM
 Playing: Grand Theft Auto V
-Viewers: 16 </desc>
+Viewers: 13 </desc>
 </programme>
 
 <programme start="20250117125251 +0000" stop="20250120075251 +0000" channel="hotted89.us">
 <title lang="en"> Matthew Espinoz - LSPD - Nopixel </title>
 <desc lang="en"> Started: 7:52AM
 Playing: Grand Theft Auto V
-Viewers: 191 </desc>
-</programme>
-
-<programme start="20250117152149 +0000" stop="20250120102149 +0000" channel="illinora.us">
-<title lang="en"> ✨Suki Cruz ✨ - DOC - NoPixel 4.0 - discord socials </title>
-<desc lang="en"> Started: 10:21 am
-Playing: Grand Theft Auto V
-Viewers: 50 </desc>
+Viewers: 188 </desc>
 </programme>
 
 <programme start="20250117143443 +0000" stop="20250120093443 +0000" channel="Castro_1021.us">
 <title lang="en"> TOTY STARTS TODAY IS FC 25 ALIVE </title>
 <desc lang="en"> Started: 9:34AM
 Playing: EA Sports FC 25
-Viewers: 4267 </desc>
-</programme>
-
-<programme start="20250117152406 +0000" stop="20250120102406 +0000" channel="SAVVAA_.us">
-<title lang="en"> [ENG-PL] Lilith Zarov - Nopixel💥NEW ADVENTURES💥DRAMA💥 </title>
-<desc lang="en"> Started: 10:24 am
-Playing: Grand Theft Auto V
-Viewers: 1 </desc>
+Viewers: 4339 </desc>
 </programme>
 
 <programme start="202501171003 +0000" stop="202501201003 +0000" channel="sayeed.us">
 <title lang="en"> Speedy Fridaaaay-Cypress - NoPixel 4.0 </title>
 <desc lang="en"> Started: 09:03 am
 Playing: Grand Theft Auto V (GTA)
-Viewers: 800 </desc>
+Viewers: 748 </desc>
 </programme>
 
 <programme start="202501171108 +0000" stop="202501201108 +0000" channel="4head.us">
 <title lang="en"> 4HEAD  NOPIXEL 4.0  TTS </title>
 <desc lang="en"> Started: 10:08 am
 Playing: Outlast II
-Viewers: 1173 </desc>
+Viewers: 1205 </desc>
 </programme>
 
 <programme start="202501170928 +0000" stop="202501200928 +0000" channel="ming.us">
 <title lang="en"> Marvel rivals gamer   MrMing011 </title>
 <desc lang="en"> Started: 08:28 am
 Playing: Marvel Rivals
-Viewers: 344 </desc>
+Viewers: 292 </desc>
 </programme>
 
 
