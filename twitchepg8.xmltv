@@ -2,6 +2,10 @@
 <display-name>clearepg</display-name>
 </channel>
 
+<channel id="rexs.us">
+<display-name>rexs</display-name>
+</channel>
+
 <channel id="FrankTactics.us">
 <display-name>FrankTactics</display-name>
 </channel>
@@ -10,16 +14,16 @@
 <display-name>Harmless</display-name>
 </channel>
 
+<channel id="Hurnani.us">
+<display-name>Hurnani</display-name>
+</channel>
+
 <channel id="kyrienolife.us">
 <display-name>kyrienolife</display-name>
 </channel>
 
 <channel id="AnnaMayMight.us">
 <display-name>AnnaMayMight</display-name>
-</channel>
-
-<channel id="rexs.us">
-<display-name>rexs</display-name>
 </channel>
 
 <channel id="tessquinn.us">
@@ -34,10 +38,6 @@
 <display-name>curvyelephant</display-name>
 </channel>
 
-<channel id="jacksonsfaded.us">
-<display-name>jacksonsfaded</display-name>
-</channel>
-
 <channel id="elochai.us">
 <display-name>elochai</display-name>
 </channel>
@@ -50,6 +50,13 @@
 <display-name>ming</display-name>
 </channel>
 
+<programme start="20250127050804 +0000" stop="20250130000804 +0000" channel="rexs.us">
+<title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - Hydra - NoPixel WL </title>
+<desc lang="en"> Started: 12:08AM
+Playing: Grand Theft Auto V
+Viewers: 135 </desc>
+</programme>
+
 <programme start="20250127074356 +0000" stop="20250130024356 +0000" channel="FrankTactics.us">
 <title lang="en"> 🔥 QUICK Birthday Stream 🔥 - Nomad - NoPixel WL -- youtube </title>
 <desc lang="en"> Started: 02:43 am
@@ -61,77 +68,70 @@ Viewers: 35 </desc>
 <title lang="en"> Maynard  Idiot  Schmidt - Besties - Nopixel 4.0 </title>
 <desc lang="en"> Started: 01:05 am
 Playing: Grand Theft Auto V
-Viewers: 624 </desc>
+Viewers: 623 </desc>
+</programme>
+
+<programme start="20250127083150 +0000" stop="20250130033150 +0000" channel="Hurnani.us">
+<title lang="en"> Whats next - 248 Bruno Brown - NoPixel 4.0 </title>
+<desc lang="en"> Started: 03:31 am
+Playing: Grand Theft Auto V
+Viewers: 32 </desc>
 </programme>
 
 <programme start="20250127012853 +0000" stop="20250129202853 +0000" channel="kyrienolife.us">
 <title lang="en"> Coop - NoPixel </title>
 <desc lang="en"> Started: 08:28 pm
 Playing: Grand Theft Auto V
-Viewers: 48 </desc>
+Viewers: 39 </desc>
 </programme>
 
 <programme start="20250127111353 +0000" stop="20250130061353 +0000" channel="AnnaMayMight.us">
 <title lang="en"> [18][UK][50] Martha Always needs meat - NoPixel 4.0 NP WL </title>
 <desc lang="en"> Started: 06:13 am
 Playing: Grand Theft Auto V
-Viewers: 19 </desc>
-</programme>
-
-<programme start="20250127050804 +0000" stop="20250130000804 +0000" channel="rexs.us">
-<title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - Hydra - NoPixel WL </title>
-<desc lang="en"> Started: 12:08AM
-Playing: Grand Theft Auto V
-Viewers: 143 </desc>
+Viewers: 22 </desc>
 </programme>
 
 <programme start="20250127111904 +0000" stop="20250130061904 +0000" channel="tessquinn.us">
 <title lang="en"> Tess Quinn, jobs, heists and kidnapping - Forsaken - Prodigy 2.0 WL - accent </title>
 <desc lang="en"> Started: 6:19AM
 Playing: Grand Theft Auto V
-Viewers: 8 </desc>
+Viewers: 10 </desc>
 </programme>
 
 <programme start="20250127111817 +0000" stop="20250130061817 +0000" channel="roxmiral.us">
 <title lang="en"> Please mercy, I am still sick - PURPLERP - emergency </title>
 <desc lang="en"> Started: 6:18AM
 Playing: Grand Theft Auto V
-Viewers: 48 </desc>
+Viewers: 90 </desc>
 </programme>
 
 <programme start="20250127090805 +0000" stop="20250130040805 +0000" channel="curvyelephant.us">
 <title lang="en"> Matt Rhodes - nopixel - </title>
 <desc lang="en"> Started: 4:08AM
 Playing: Grand Theft Auto V
-Viewers: 635 </desc>
-</programme>
-
-<programme start="20250127092142 +0000" stop="20250130042142 +0000" channel="jacksonsfaded.us">
-<title lang="en"> Smalls - Guilty Conscience - 3pas - Nopixel 4.0 (very late n short strim) </title>
-<desc lang="en"> Started: 4:21AM
-Playing: Grand Theft Auto V
-Viewers: 27 </desc>
+Viewers: 632 </desc>
 </programme>
 
 <programme start="20250127063205 +0000" stop="20250130013205 +0000" channel="elochai.us">
 <title lang="en"> Some clothing the stuff f0r server - RP - NoPixel 3D Dev - @elochai - click f0r socials </title>
 <desc lang="en"> Started: 1:32AM
 Playing: Grand Theft Auto V
-Viewers: 131 </desc>
+Viewers: 141 </desc>
 </programme>
 
 <programme start="202501261721 +0000" stop="202501291721 +0000" channel="anthonyz.us">
 <title lang="en"> LONG STREAM TODAY LOCK THE FCK IN BROTHA  NOPIXEL WL TONY CORLEONE GTA RP </title>
 <desc lang="en"> Started: 04:21 pm
 Playing: Grand Theft Auto V (GTA)
-Viewers: 504 </desc>
+Viewers: 489 </desc>
 </programme>
 
 <programme start="202501270408 +0000" stop="202501300408 +0000" channel="ming.us">
 <title lang="en"> Marvel rivals  Custom games   MrMing011 </title>
 <desc lang="en"> Started: 03:08 am
 Playing: Marvel Rivals
-Viewers: 748 </desc>
+Viewers: 736 </desc>
 </programme>
 
 
