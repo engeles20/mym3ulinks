@@ -6,6 +6,10 @@
 <display-name>Silbullet</display-name>
 </channel>
 
+<channel id="aus24.us">
+<display-name>aus24</display-name>
+</channel>
+
 <channel id="PaperStackerJ.us">
 <display-name>PaperStackerJ</display-name>
 </channel>
@@ -20,10 +24,6 @@
 
 <channel id="Harmless.us">
 <display-name>Harmless</display-name>
-</channel>
-
-<channel id="thebiggbrickz.us">
-<display-name>thebiggbrickz</display-name>
 </channel>
 
 <channel id="MartyrdomNZ.us">
@@ -46,14 +46,6 @@
 <display-name>UppyAU</display-name>
 </channel>
 
-<channel id="aus24.us">
-<display-name>aus24</display-name>
-</channel>
-
-<channel id="KittenQG.us">
-<display-name>KittenQG</display-name>
-</channel>
-
 <channel id="rexs.us">
 <display-name>rexs</display-name>
 </channel>
@@ -62,8 +54,20 @@
 <display-name>yuukidav</display-name>
 </channel>
 
+<channel id="KittenQG.us">
+<display-name>KittenQG</display-name>
+</channel>
+
 <channel id="tinyspark.us">
 <display-name>tinyspark</display-name>
+</channel>
+
+<channel id="roxmiral.us">
+<display-name>roxmiral</display-name>
+</channel>
+
+<channel id="DrThax.us">
+<display-name>DrThax</display-name>
 </channel>
 
 <channel id="madgiiee.us">
@@ -74,15 +78,18 @@
 <display-name>elochai</display-name>
 </channel>
 
-<channel id="roxmiral.us">
-<display-name>roxmiral</display-name>
-</channel>
-
 <programme start="20250201055315 +0000" stop="20250204005315 +0000" channel="Silbullet.us">
 <title lang="en"> SHIFT 3 ACADEMY Sgt. Maple 297 - LSPD - NoPixel WL 4.0 - gtarecap clip </title>
 <desc lang="en"> Started: 12:53AM
 Playing: Grand Theft Auto V
-Viewers: 264 </desc>
+Viewers: 185 </desc>
+</programme>
+
+<programme start="20250201072550 +0000" stop="20250204022550 +0000" channel="aus24.us">
+<title lang="en"> DAVENPORT - LSPD - NoPixel 4.0 WL </title>
+<desc lang="en"> Started: 2:25AM
+Playing: Grand Theft Auto V
+Viewers: 126 </desc>
 </programme>
 
 <programme start="20250131200208 +0000" stop="20250203150208 +0000" channel="PaperStackerJ.us">
@@ -96,49 +103,42 @@ Viewers: 96 </desc>
 <title lang="en"> Remi Ironside - Academy - Nopixel WL </title>
 <desc lang="en"> Started: 12:53 am
 Playing: Grand Theft Auto V
-Viewers: 31 </desc>
+Viewers: 26 </desc>
 </programme>
 
 <programme start="20250201101734 +0000" stop="20250204051734 +0000" channel="Sukhi_1.us">
 <title lang="en"> Lucky Torkel - Besties - Nopixel 4.0 </title>
 <desc lang="en"> Started: 05:17 am
 Playing: Grand Theft Auto V
-Viewers: 71 </desc>
+Viewers: 84 </desc>
 </programme>
 
 <programme start="20250201055231 +0000" stop="20250204005231 +0000" channel="Harmless.us">
 <title lang="en"> Perry Falken - PD Academy - NoPixel 4.0 </title>
 <desc lang="en"> Started: 12:52 am
 Playing: Grand Theft Auto V
-Viewers: 494 </desc>
-</programme>
-
-<programme start="20250201074950 +0000" stop="20250204024950 +0000" channel="thebiggbrickz.us">
-<title lang="en"> Brickston Does Academy... Again.. - NoPixel WL 4.0 </title>
-<desc lang="en"> Started: 02:49 am
-Playing: Grand Theft Auto V
-Viewers: 32 </desc>
+Viewers: 460 </desc>
 </programme>
 
 <programme start="20250201061339 +0000" stop="20250204011339 +0000" channel="MartyrdomNZ.us">
 <title lang="en"> 459 Dan Fischer - Police Academy - NoPixel 4.0 WL </title>
 <desc lang="en"> Started: 01:13 am
 Playing: Grand Theft Auto V
-Viewers: 13 </desc>
+Viewers: 14 </desc>
 </programme>
 
 <programme start="20250201080345 +0000" stop="20250204030345 +0000" channel="katecirrus.us">
 <title lang="en"> Phoebe Violet - PHEE BRUH - short saturday streeeam - NP WL </title>
 <desc lang="en"> Started: 03:03 am
 Playing: Grand Theft Auto V
-Viewers: 8 </desc>
+Viewers: 9 </desc>
 </programme>
 
 <programme start="20250201083308 +0000" stop="20250204033308 +0000" channel="stalkerchic.us">
 <title lang="en"> NoPixelRP: Atlas Elwood: Doing Stuff and Things </title>
 <desc lang="en"> Started: 03:33 am
 Playing: Grand Theft Auto V
-Viewers: 5 </desc>
+Viewers: 6 </desc>
 </programme>
 
 <programme start="20250201103348 +0000" stop="20250204053348 +0000" channel="DeuceNasty.us">
@@ -152,63 +152,63 @@ Viewers: 2 </desc>
 <title lang="en"> Odin Alfson - NoPixel WL GTA RP - WSMC Hangaround #Day3 </title>
 <desc lang="en"> Started: 05:22 am
 Playing: Grand Theft Auto V
-Viewers: 1 </desc>
-</programme>
-
-<programme start="20250201072550 +0000" stop="20250204022550 +0000" channel="aus24.us">
-<title lang="en"> DAVENPORT - LSPD - NoPixel 4.0 WL </title>
-<desc lang="en"> Started: 2:25AM
-Playing: Grand Theft Auto V
-Viewers: 121 </desc>
-</programme>
-
-<programme start="20250131182041 +0000" stop="20250203132041 +0000" channel="KittenQG.us">
-<title lang="en"> Lily Night-Sky - NoPixelWL - 18 </title>
-<desc lang="en"> Started: 01:20 pm
-Playing: Grand Theft Auto V
-Viewers: 126 </desc>
+Viewers: 3 </desc>
 </programme>
 
 <programme start="20250201053103 +0000" stop="20250204003103 +0000" channel="rexs.us">
 <title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - Hydra - NoPixel WL </title>
 <desc lang="en"> Started: 12:31AM
 Playing: Grand Theft Auto V
-Viewers: 58 </desc>
+Viewers: 57 </desc>
 </programme>
 
 <programme start="20250201053628 +0000" stop="20250204003628 +0000" channel="yuukidav.us">
 <title lang="en"> captain lukas lavender 🎀 bcso - nopixel wl - @yuukidav </title>
 <desc lang="en"> Started: 12:36AM
 Playing: Grand Theft Auto V
-Viewers: 267 </desc>
+Viewers: 272 </desc>
+</programme>
+
+<programme start="20250131182041 +0000" stop="20250203132041 +0000" channel="KittenQG.us">
+<title lang="en"> Lily Night-Sky - NoPixelWL - 18 </title>
+<desc lang="en"> Started: 01:20 pm
+Playing: Grand Theft Auto V
+Viewers: 117 </desc>
 </programme>
 
 <programme start="20250201060608 +0000" stop="20250204010608 +0000" channel="tinyspark.us">
 <title lang="en"> 344 Daisy Dukakis - NoPixel - An appearance was asked f0r </title>
 <desc lang="en"> Started: 1:06AM
 Playing: Grand Theft Auto V
-Viewers: 142 </desc>
-</programme>
-
-<programme start="20250201100937 +0000" stop="20250204050937 +0000" channel="madgiiee.us">
-<title lang="en"> 🌸G2G🌸 Maggie Gunn 🌸 NPWL 🌸 ⚫-⚫ ADMC - Prospect 🌸 what is happening .... 🌸 BARD BG3 LATER ..... </title>
-<desc lang="en"> Started: 5:09AM
-Playing: Grand Theft Auto V
-Viewers: 31 </desc>
-</programme>
-
-<programme start="20250201063335 +0000" stop="20250204013335 +0000" channel="elochai.us">
-<title lang="en"> More clothing stuff f0r the server - RP - NoPixel 3D Dev - @elochai - click f0r socials </title>
-<desc lang="en"> Started: 1:33AM
-Playing: Grand Theft Auto V
-Viewers: 116 </desc>
+Viewers: 140 </desc>
 </programme>
 
 <programme start="20250201110306 +0000" stop="20250204060306 +0000" channel="roxmiral.us">
 <title lang="en"> I am still sick - PURPLERP - emergency </title>
 <desc lang="en"> Started: 6:03AM
 Playing: Grand Theft Auto V
-Viewers: 8 </desc>
+Viewers: 38 </desc>
+</programme>
+
+<programme start="20250201110220 +0000" stop="20250204060220 +0000" channel="DrThax.us">
+<title lang="en"> nopixel 4.0 </title>
+<desc lang="en"> Started: 06:02 am
+Playing: Grand Theft Auto V
+Viewers: 2 </desc>
+</programme>
+
+<programme start="20250201100937 +0000" stop="20250204050937 +0000" channel="madgiiee.us">
+<title lang="en"> 🌸G2G🌸 Maggie Gunn 🌸 NPWL 🌸 ⚫-⚫ ADMC - Prospect 🌸 what is happening .... 🌸 BARD BG3 LATER ..... </title>
+<desc lang="en"> Started: 5:09AM
+Playing: Grand Theft Auto V
+Viewers: 36 </desc>
+</programme>
+
+<programme start="20250201063335 +0000" stop="20250204013335 +0000" channel="elochai.us">
+<title lang="en"> More clothing stuff f0r the server - RP - NoPixel 3D Dev - @elochai - click f0r socials </title>
+<desc lang="en"> Started: 1:33AM
+Playing: Grand Theft Auto V
+Viewers: 100 </desc>
 </programme>
 
 
