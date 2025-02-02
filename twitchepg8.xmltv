@@ -6,12 +6,12 @@
 <display-name>aaoki</display-name>
 </channel>
 
-<channel id="aus24.us">
-<display-name>aus24</display-name>
-</channel>
-
 <channel id="rexs.us">
 <display-name>rexs</display-name>
+</channel>
+
+<channel id="aus24.us">
+<display-name>aus24</display-name>
 </channel>
 
 <channel id="ashi.us">
@@ -24,6 +24,14 @@
 
 <channel id="ealixer.us">
 <display-name>ealixer</display-name>
+</channel>
+
+<channel id="beetle.us">
+<display-name>beetle</display-name>
+</channel>
+
+<channel id="KKrackd.us">
+<display-name>KKrackd</display-name>
 </channel>
 
 <channel id="MooMooGamingTV.us">
@@ -46,10 +54,6 @@
 <display-name>zaxx386</display-name>
 </channel>
 
-<channel id="beetle.us">
-<display-name>beetle</display-name>
-</channel>
-
 <channel id="christombstone.us">
 <display-name>christombstone</display-name>
 </channel>
@@ -62,28 +66,28 @@
 <title lang="en"> Marshal Hughes - NoPixel WL </title>
 <desc lang="en"> Started: 1:02AM
 Playing: Grand Theft Auto V
-Viewers: 73 </desc>
-</programme>
-
-<programme start="20250202072205 +0000" stop="20250205022205 +0000" channel="aus24.us">
-<title lang="en"> DAVENPORT - LSPD - NoPixel 4.0 WL </title>
-<desc lang="en"> Started: 2:22AM
-Playing: Grand Theft Auto V
-Viewers: 33 </desc>
+Viewers: 74 </desc>
 </programme>
 
 <programme start="20250202051126 +0000" stop="20250205001126 +0000" channel="rexs.us">
 <title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - Hydra - NoPixel WL </title>
 <desc lang="en"> Started: 12:11AM
 Playing: Grand Theft Auto V
-Viewers: 98 </desc>
+Viewers: 116 </desc>
+</programme>
+
+<programme start="20250202072205 +0000" stop="20250205022205 +0000" channel="aus24.us">
+<title lang="en"> DAVENPORT - LSPD - NoPixel 4.0 WL </title>
+<desc lang="en"> Started: 2:22AM
+Playing: Grand Theft Auto V
+Viewers: 44 </desc>
 </programme>
 
 <programme start="20250201231632 +0000" stop="20250204181632 +0000" channel="ashi.us">
 <title lang="en"> FIFI-FIONA ORPHAN MAKER STEWART - NOPIXEL WL RP </title>
 <desc lang="en"> Started: 6:16PM
 Playing: Grand Theft Auto V
-Viewers: 339 </desc>
+Viewers: 336 </desc>
 </programme>
 
 <programme start="20250202070640 +0000" stop="20250205020640 +0000" channel="UnicornFrapp.us">
@@ -97,14 +101,28 @@ Viewers: 19 </desc>
 <title lang="en"> Johnny Lane - Willy Robinson - Hades - Nopixel WL 4.0 </title>
 <desc lang="en"> Started: 07:45 pm
 Playing: Grand Theft Auto V
-Viewers: 14 </desc>
+Viewers: 17 </desc>
+</programme>
+
+<programme start="20250201230707 +0000" stop="20250204180707 +0000" channel="beetle.us">
+<title lang="en"> ROD LONG - ONX - IT CANT BE WORSE THAN YESTERDAY... RIGHT </title>
+<desc lang="en"> Started: 6:07PM
+Playing: Grand Theft Auto V
+Viewers: 220 </desc>
+</programme>
+
+<programme start="20250201200833 +0000" stop="20250204150833 +0000" channel="KKrackd.us">
+<title lang="en"> 👮 200 Snr Officer Alex Shields - NoPixel 4.0 WL PD - Clown Huntin 🤡 </title>
+<desc lang="en"> Started: 03:08 pm
+Playing: Grand Theft Auto V
+Viewers: 51 </desc>
 </programme>
 
 <programme start="20250202065226 +0000" stop="20250205015226 +0000" channel="MooMooGamingTV.us">
 <title lang="en"> Rylee Kenwood -- Raiders MC -- Nopixel 4.0 WL -- discord lurk </title>
 <desc lang="en"> Started: 01:52 am
 Playing: Grand Theft Auto V
-Viewers: 20 </desc>
+Viewers: 18 </desc>
 </programme>
 
 <programme start="20250201230744 +0000" stop="20250204180744 +0000" channel="iDripp.us">
@@ -125,35 +143,28 @@ Viewers: 3 </desc>
 <title lang="en"> Al Caholic - NoPixel RP - Lukes Court Case - A Quiet Grinders Perspective </title>
 <desc lang="en"> Started: 02:35 pm
 Playing: Grand Theft Auto V
-Viewers: 2 </desc>
+Viewers: 1 </desc>
 </programme>
 
 <programme start="20250202015526 +0000" stop="20250204205526 +0000" channel="zaxx386.us">
 <title lang="en"> Moose Knuckles - Judge - Clown - Stansfeld Belany - DOC - NoPixel WL - Epic Creator Code: ZAXX386 </title>
 <desc lang="en"> Started: 08:55 pm
 Playing: Grand Theft Auto V
-Viewers: 118 </desc>
-</programme>
-
-<programme start="20250201230707 +0000" stop="20250204180707 +0000" channel="beetle.us">
-<title lang="en"> ROD LONG - ONX - IT CANT BE WORSE THAN YESTERDAY... RIGHT </title>
-<desc lang="en"> Started: 6:07PM
-Playing: Grand Theft Auto V
-Viewers: 212 </desc>
+Viewers: 113 </desc>
 </programme>
 
 <programme start="20250202011017 +0000" stop="20250204201017 +0000" channel="christombstone.us">
 <title lang="en"> Flop Dugong - ADMC Prospect - NoPixel WL - @ChrisTombstone_ on </title>
 <desc lang="en"> Started: 8:10PM
 Playing: Grand Theft Auto V
-Viewers: 462 </desc>
+Viewers: 472 </desc>
 </programme>
 
 <programme start="20250202050052 +0000" stop="20250205000052 +0000" channel="cutieno.us">
 <title lang="en"> Rue Minmi - ADMC SecRUEtary - Nopixel WL - Rue Things  Some Art Later </title>
 <desc lang="en"> Started: 12:00AM
 Playing: Grand Theft Auto V
-Viewers: 117 </desc>
+Viewers: 112 </desc>
 </programme>
 
 
