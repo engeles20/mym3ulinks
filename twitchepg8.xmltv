@@ -2,6 +2,14 @@
 <display-name>clearepg</display-name>
 </channel>
 
+<channel id="aus24.us">
+<display-name>aus24</display-name>
+</channel>
+
+<channel id="rexs.us">
+<display-name>rexs</display-name>
+</channel>
+
 <channel id="Harmless.us">
 <display-name>Harmless</display-name>
 </channel>
@@ -10,12 +18,16 @@
 <display-name>Sukhi_1</display-name>
 </channel>
 
+<channel id="kyrienolife.us">
+<display-name>kyrienolife</display-name>
+</channel>
+
 <channel id="katecirrus.us">
 <display-name>katecirrus</display-name>
 </channel>
 
-<channel id="kyrienolife.us">
-<display-name>kyrienolife</display-name>
+<channel id="YooshiiBear.us">
+<display-name>YooshiiBear</display-name>
 </channel>
 
 <channel id="stalkerchic.us">
@@ -24,10 +36,6 @@
 
 <channel id="basHYYEE.us">
 <display-name>basHYYEE</display-name>
-</channel>
-
-<channel id="YooshiiBear.us">
-<display-name>YooshiiBear</display-name>
 </channel>
 
 <channel id="UppyAU.us">
@@ -42,14 +50,6 @@
 <display-name>ogboaa</display-name>
 </channel>
 
-<channel id="aus24.us">
-<display-name>aus24</display-name>
-</channel>
-
-<channel id="rexs.us">
-<display-name>rexs</display-name>
-</channel>
-
 <channel id="hotted89.us">
 <display-name>hotted89</display-name>
 </channel>
@@ -62,30 +62,51 @@
 <display-name>madgiiee</display-name>
 </channel>
 
+<programme start="20250202072205 +0000" stop="20250205022205 +0000" channel="aus24.us">
+<title lang="en"> DAVENPORT - LSPD - NoPixel 4.0 WL </title>
+<desc lang="en"> Started: 2:22AM
+Playing: Grand Theft Auto V
+Viewers: 171 </desc>
+</programme>
+
+<programme start="20250202051126 +0000" stop="20250205001126 +0000" channel="rexs.us">
+<title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - Hydra - NoPixel WL </title>
+<desc lang="en"> Started: 12:11AM
+Playing: Grand Theft Auto V
+Viewers: 151 </desc>
+</programme>
+
 <programme start="20250202075149 +0000" stop="20250205025149 +0000" channel="Harmless.us">
 <title lang="en"> Maynard Idiot Schmidt - Besties - NoPixel 4.0 </title>
 <desc lang="en"> Started: 02:51 am
 Playing: Grand Theft Auto V
-Viewers: 479 </desc>
+Viewers: 498 </desc>
 </programme>
 
 <programme start="20250202101508 +0000" stop="20250205051508 +0000" channel="Sukhi_1.us">
 <title lang="en"> Lucky Torkel - Besties - Nopixel 4.0 </title>
 <desc lang="en"> Started: 05:15 am
 Playing: Grand Theft Auto V
-Viewers: 90 </desc>
+Viewers: 92 </desc>
+</programme>
+
+<programme start="20250202101449 +0000" stop="20250205051449 +0000" channel="kyrienolife.us">
+<title lang="en"> Coop - NoPixel </title>
+<desc lang="en"> Started: 05:14 am
+Playing: Grand Theft Auto V
+Viewers: 18 </desc>
 </programme>
 
 <programme start="20250202082233 +0000" stop="20250205032233 +0000" channel="katecirrus.us">
 <title lang="en"> Phoebe Violet - PHEE BRUH - worst criminal POV - NP WL </title>
 <desc lang="en"> Started: 03:22 am
 Playing: Grand Theft Auto V
-Viewers: 15 </desc>
+Viewers: 17 </desc>
 </programme>
 
-<programme start="20250202101449 +0000" stop="20250205051449 +0000" channel="kyrienolife.us">
-<title lang="en"> Coop - NoPixel </title>
-<desc lang="en"> Started: 05:14 am
+<programme start="20250202112641 +0000" stop="20250205062641 +0000" channel="YooshiiBear.us">
+<title lang="en"> My shyt is dying so more than likely a short one - NOPIXEL WL 4.0 - ELIYANNA ALI - donate - Pushing f0r Partner </title>
+<desc lang="en"> Started: 06:26 am
 Playing: Grand Theft Auto V
 Viewers: 13 </desc>
 </programme>
@@ -102,13 +123,6 @@ Viewers: 8 </desc>
 <desc lang="en"> Started: 06:08 am
 Playing: Grand Theft Auto V
 Viewers: 6 </desc>
-</programme>
-
-<programme start="20250202112641 +0000" stop="20250205062641 +0000" channel="YooshiiBear.us">
-<title lang="en"> My shyt is dying so more than likely a short one - NOPIXEL WL 4.0 - ELIYANNA ALI - donate - Pushing f0r Partner </title>
-<desc lang="en"> Started: 06:26 am
-Playing: Grand Theft Auto V
-Viewers: 5 </desc>
 </programme>
 
 <programme start="20250202090804 +0000" stop="20250205040804 +0000" channel="UppyAU.us">
@@ -132,39 +146,25 @@ Playing: Grand Theft Auto V
 Viewers: 2 </desc>
 </programme>
 
-<programme start="20250202072205 +0000" stop="20250205022205 +0000" channel="aus24.us">
-<title lang="en"> DAVENPORT - LSPD - NoPixel 4.0 WL </title>
-<desc lang="en"> Started: 2:22AM
-Playing: Grand Theft Auto V
-Viewers: 164 </desc>
-</programme>
-
-<programme start="20250202051126 +0000" stop="20250205001126 +0000" channel="rexs.us">
-<title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - Hydra - NoPixel WL </title>
-<desc lang="en"> Started: 12:11AM
-Playing: Grand Theft Auto V
-Viewers: 148 </desc>
-</programme>
-
 <programme start="20250202095150 +0000" stop="20250205045150 +0000" channel="hotted89.us">
 <title lang="en"> Matthew Espinoz - LSPD - Nopixel WL 4.0 </title>
 <desc lang="en"> Started: 4:51AM
 Playing: Grand Theft Auto V
-Viewers: 258 </desc>
+Viewers: 243 </desc>
 </programme>
 
 <programme start="20250202113411 +0000" stop="20250205063411 +0000" channel="nikkisariot.us">
 <title lang="en"> • Jebs • NoPixel WL • • </title>
 <desc lang="en"> Started: 6:34AM
 Playing: Grand Theft Auto V
-Viewers: 84 </desc>
+Viewers: 132 </desc>
 </programme>
 
 <programme start="20250202091344 +0000" stop="20250205041344 +0000" channel="madgiiee.us">
 <title lang="en"> 🌸G2G🌸 Maggie Gunn🌸 NPWL 🌸 ⚫-⚫ ADMC - Prospect 🌸 what is happening .... </title>
 <desc lang="en"> Started: 4:13AM
 Playing: Grand Theft Auto V
-Viewers: 68 </desc>
+Viewers: 67 </desc>
 </programme>
 
 
