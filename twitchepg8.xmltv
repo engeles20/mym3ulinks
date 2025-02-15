@@ -2,10 +2,6 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="sock22.us">
-<display-name>sock22</display-name>
-</channel>
-
 <channel id="yuukidav.us">
 <display-name>yuukidav</display-name>
 </channel>
@@ -20,10 +16,6 @@
 
 <channel id="Harmless.us">
 <display-name>Harmless</display-name>
-</channel>
-
-<channel id="SINCLVIR.us">
-<display-name>SINCLVIR</display-name>
 </channel>
 
 <channel id="kyrienolife.us">
@@ -50,6 +42,10 @@
 <display-name>zaxx386</display-name>
 </channel>
 
+<channel id="sock22.us">
+<display-name>sock22</display-name>
+</channel>
+
 <channel id="curvyelephant.us">
 <display-name>curvyelephant</display-name>
 </channel>
@@ -66,25 +62,18 @@
 <display-name>elochai</display-name>
 </channel>
 
-<programme start="20250215093157 +0000" stop="20250218043157 +0000" channel="sock22.us">
-<title lang="en"> Field Director Richard Dark - Epidemic - NoPixel - </title>
-<desc lang="en"> Started: 4:31AM
-Playing: Grand Theft Auto V
-Viewers: 86 </desc>
-</programme>
-
 <programme start="20250215073451 +0000" stop="20250218023451 +0000" channel="yuukidav.us">
 <title lang="en"> captain lukas lavender 🎀 bcso - nopixel wl - @yuukidav </title>
 <desc lang="en"> Started: 2:34AM
 Playing: Grand Theft Auto V
-Viewers: 118 </desc>
+Viewers: 113 </desc>
 </programme>
 
 <programme start="20250215050738 +0000" stop="20250218000738 +0000" channel="UnicornFrapp.us">
 <title lang="en"> Remi Ironside - BCSO PPO - Nopixel WL </title>
 <desc lang="en"> Started: 12:07 am
 Playing: Grand Theft Auto V
-Viewers: 20 </desc>
+Viewers: 21 </desc>
 </programme>
 
 <programme start="20250215042820 +0000" stop="20250217232820 +0000" channel="ealixer.us">
@@ -98,35 +87,28 @@ Viewers: 19 </desc>
 <title lang="en"> Perry Falken - NoPixel 4.0 </title>
 <desc lang="en"> Started: 12:06 am
 Playing: Grand Theft Auto V
-Viewers: 306 </desc>
-</programme>
-
-<programme start="20250215075158 +0000" stop="20250218025158 +0000" channel="SINCLVIR.us">
-<title lang="en"> AURALESS GANG - SEWER AMMO BLUEPRINT POV - Saint Clair - NoPixel WL 4.0 - Saints </title>
-<desc lang="en"> Started: 02:51 am
-Playing: Grand Theft Auto V
-Viewers: 67 </desc>
+Viewers: 293 </desc>
 </programme>
 
 <programme start="20250215065555 +0000" stop="20250218015555 +0000" channel="kyrienolife.us">
 <title lang="en"> Coop - NoPixel - short stream </title>
 <desc lang="en"> Started: 01:55 am
 Playing: Grand Theft Auto V
-Viewers: 37 </desc>
+Viewers: 58 </desc>
 </programme>
 
 <programme start="20250215063023 +0000" stop="20250218013023 +0000" channel="MargoTheSnail.us">
 <title lang="en"> MARGO ESCARGOT ~ NoPixel RP ~ The Crackheads </title>
 <desc lang="en"> Started: 01:30 am
 Playing: Grand Theft Auto V
-Viewers: 28 </desc>
+Viewers: 36 </desc>
 </programme>
 
 <programme start="20250215055744 +0000" stop="20250218005744 +0000" channel="lauti.us">
 <title lang="en"> 317 sergeant mani - bcso - nopixel wl @lauti </title>
 <desc lang="en"> Started: 12:57 am
 Playing: Grand Theft Auto V
-Viewers: 13 </desc>
+Viewers: 10 </desc>
 </programme>
 
 <programme start="20250215054051 +0000" stop="20250218004051 +0000" channel="Emalee12.us">
@@ -147,35 +129,42 @@ Viewers: 4 </desc>
 <title lang="en"> Moose Knuckles - Judge - Clown - Stansfeld Belany - DOC - NoPixel WL - Epic Creator Code: ZAXX386 </title>
 <desc lang="en"> Started: 09:40 pm
 Playing: Grand Theft Auto V
-Viewers: 47 </desc>
+Viewers: 52 </desc>
+</programme>
+
+<programme start="20250215095013 +0000" stop="20250218045013 +0000" channel="sock22.us">
+<title lang="en"> Field Director Richard Dark - Epidemic - NoPixel - </title>
+<desc lang="en"> Started: 4:50AM
+Playing: Grand Theft Auto V
+Viewers: 95 </desc>
 </programme>
 
 <programme start="20250215084025 +0000" stop="20250218034025 +0000" channel="curvyelephant.us">
 <title lang="en"> Matt Rhodes - nopixel - </title>
 <desc lang="en"> Started: 3:40AM
 Playing: Grand Theft Auto V
-Viewers: 323 </desc>
+Viewers: 351 </desc>
 </programme>
 
 <programme start="20250215090028 +0000" stop="20250218040028 +0000" channel="defac3d.us">
 <title lang="en"> RP - G2A </title>
 <desc lang="en"> Started: 4:00AM
 Playing: Grand Theft Auto V
-Viewers: 361 </desc>
+Viewers: 388 </desc>
 </programme>
 
 <programme start="20250215010200 +0000" stop="20250217200200 +0000" channel="christombstone.us">
 <title lang="en"> Deputy Chance Dice - NoPixel WL - @ChrisTombstone_ on </title>
 <desc lang="en"> Started: 8:02PM
 Playing: Grand Theft Auto V
-Viewers: 335 </desc>
+Viewers: 328 </desc>
 </programme>
 
 <programme start="20250215073158 +0000" stop="20250218023158 +0000" channel="elochai.us">
 <title lang="en"> 3D - RP - NoPixel 3D Dev - @elochai - click f0r socials </title>
 <desc lang="en"> Started: 2:31AM
 Playing: Grand Theft Auto V
-Viewers: 119 </desc>
+Viewers: 107 </desc>
 </programme>
 
 
