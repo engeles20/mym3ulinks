@@ -1,10 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/engeles20/others/main/newtwitchepg.xmltv" 
  
 #EXTINF:-1 tvg-name="buddha_audio",buddha_audio 
-error: No playable streams found on this URL: twitch.tv/buddha
+[cli][info] Found matching plugin twitch for URL twitch.tv/buddha
+[plugins.twitch][info] Acquiring new client-integrity token...
  
 #EXTINF:-1 tvg-name="buddha_160p",buddha_160p 
-error: No playable streams found on this URL: twitch.tv/buddha
+[cli][info] Found matching plugin twitch for URL twitch.tv/buddha
+[plugins.twitch][info] Acquiring new client-integrity token...
  
 #EXTINF:-1 tvg-name="buddha_360p",buddha_360p 
-error: No playable streams found on this URL: twitch.tv/buddha
+[cli][info] Found matching plugin twitch for URL twitch.tv/buddha
+[plugins.twitch][info] Acquiring new client-integrity token...
