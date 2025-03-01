@@ -25,3 +25,6 @@ error: No playable streams found on this URL: twitch.tv/nidas
  
 #EXTINF:-1 tvg-id="nikkisariot.us" tvg-name="nikkisariot" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/nikkisariot-profile_image-3d3448fe1613ab60-300x300.png" group-title="05Cops",nikkisariot 
 [cli][info] Found matching plugin twitch for URL twitch.tv/nikkisariot
+[cli][info] Available streams: audio_only, 160p (worst), 360p, 480p, 720p60, 1080p60 (best)
+[cli][info] Opening stream: 1080p60 (hls)
+[cli][info] Starting player: P:\Programs\VLC\vlc.exe
