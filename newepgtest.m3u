@@ -28,3 +28,32 @@ error: No playable streams found on this URL: twitch.tv/nidas
 [cli][info] Available streams: audio_only, 160p (worst), 360p, 480p, 720p60, 1080p60 (best)
 [cli][info] Opening stream: 1080p60 (hls)
 [cli][info] Starting player: P:\Programs\VLC\vlc.exe
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[cli][info] Stream ended
+[cli][info] Closing currently open stream...
+ 
+#EXTINF:-1 tvg-id="crystalst.us" tvg-name="crystalst" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/489b7287-66ce-402c-869a-72f49968e2da-profile_image-300x300.png" group-title="05Cops",crystalst 
+[cli][info] Found matching plugin twitch for URL twitch.tv/crystalst
+error: No playable streams found on this URL: twitch.tv/crystalst
+ 
+#EXTINF:-1 tvg-id="myles_away.us" tvg-name="myles_away" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c7ceb234-f928-4d9a-847c-6dfa671fba2d-profile_image-300x300.png" group-title="05Cops",myles_away 
