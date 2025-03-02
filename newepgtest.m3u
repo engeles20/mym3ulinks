@@ -61,3 +61,31 @@ error: No playable streams found on this URL: twitch.tv/crystalst
 [cli][info] Available streams: audio_only, 160p (worst), 360p, 480p, 720p60, 1080p60 (best)
 [cli][info] Opening stream: 1080p60 (hls)
 [cli][info] Starting player: P:\Programs\VLC\vlc.exe
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[stream.hls][warning] Encountered a stream discontinuity. This is unsupported and will result in incoherent output data.
+[cli][info] Stream ended
+[cli][info] Closing currently open stream...
+ 
+#EXTINF:-1 tvg-id="luka_aus.us" tvg-name="luka_aus" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/36aab0f9-5c97-4afb-9e59-96eafdae5593-profile_image-300x300.png" group-title="05Cops",luka_aus 
+[cli][info] Found matching plugin twitch for URL twitch.tv/luka_aus
+error: No playable streams found on this URL: twitch.tv/luka_aus
+ 
+#EXTINF:-1 tvg-id="tinyspark.us" tvg-name="tinyspark" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/06a2aec7-df61-45bd-a92a-4dd537ef735c-profile_image-300x300.jpeg" group-title="16Seaside",tinyspark 
+[cli][info] Found matching plugin twitch for URL twitch.tv/tinyspark
+error: No playable streams found on this URL: twitch.tv/tinyspark
+ 
+#EXTINF:-1 tvg-id="kate_ca.us" tvg-name="kate_ca" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7e21abea-9cd1-4ebb-a68b-27ee25b275b4-profile_image-300x300.png" group-title="05Cops",kate_ca 
+[cli][info] Found matching plugin twitch for URL twitch.tv/kate_ca
+error: No playable streams found on this URL: twitch.tv/kate_ca
+ 
+#EXTINF:-1 tvg-id="ferst711.us" tvg-name="ferst711" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a4cabe41-b6f9-4de6-ab06-a1f89a8f13f0-profile_image-300x300.png" group-title="05Cops",ferst711 
+[cli][info] Found matching plugin twitch for URL twitch.tv/ferst711
+error: No playable streams found on this URL: twitch.tv/ferst711
+ 
+#EXTINF:-1 tvg-id="curvyelephant.us" tvg-name="curvyelephant" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/57df5503-40d1-4c7b-be33-4349ce5488c8-profile_image-300x300.png" group-title="09No_Group",curvyelephant 
+[cli][info] Found matching plugin twitch for URL twitch.tv/curvyelephant
+error: No playable streams found on this URL: twitch.tv/curvyelephant
+ 
+#EXTINF:-1 tvg-id="fiendota.us" tvg-name="fiendota" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/33bdfc02-9304-42d6-9e13-e451df9fb167-profile_image-300x300.png" group-title="05Cops",fiendota 
