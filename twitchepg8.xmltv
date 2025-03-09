@@ -2,14 +2,6 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="rexs.us">
-<display-name>rexs</display-name>
-</channel>
-
-<channel id="jack.us">
-<display-name>jack</display-name>
-</channel>
-
 <channel id="Harmless.us">
 <display-name>Harmless</display-name>
 </channel>
@@ -26,16 +18,20 @@
 <display-name>CrimsoneTV</display-name>
 </channel>
 
-<channel id="kyrienolife.us">
-<display-name>kyrienolife</display-name>
-</channel>
-
 <channel id="MargoTheSnail.us">
 <display-name>MargoTheSnail</display-name>
 </channel>
 
-<channel id="lunchyrp.us">
-<display-name>lunchyrp</display-name>
+<channel id="rexs.us">
+<display-name>rexs</display-name>
+</channel>
+
+<channel id="kyrienolife.us">
+<display-name>kyrienolife</display-name>
+</channel>
+
+<channel id="jack.us">
+<display-name>jack</display-name>
 </channel>
 
 <channel id="nicksfv.us">
@@ -44,6 +40,10 @@
 
 <channel id="katecirrus.us">
 <display-name>katecirrus</display-name>
+</channel>
+
+<channel id="lunchyrp.us">
+<display-name>lunchyrp</display-name>
 </channel>
 
 <channel id="MrGlee.us">
@@ -62,39 +62,25 @@
 <display-name>christombstone</display-name>
 </channel>
 
-<programme start="20250309085405 +0000" stop="20250312035405 +0000" channel="rexs.us">
-<title lang="en"> 🤠 RICKY DALLAS 🤠 - BCSO - NoPixel WL </title>
-<desc lang="en"> Started: 3:54AM
-Playing: Grand Theft Auto V
-Viewers: 125 </desc>
-</programme>
-
-<programme start="20250309094009 +0000" stop="20250312044009 +0000" channel="jack.us">
-<title lang="en"> Jack Cortair NoPixel 4.0  short stream  N0T SICK ANYMORE </title>
-<desc lang="en"> Started: 4:40AM
-Playing: Grand Theft Auto V
-Viewers: 244 </desc>
-</programme>
-
 <programme start="20250309064834 +0000" stop="20250312004834 +0000" channel="Harmless.us">
 <title lang="en"> Perry Falken - NoPixel 4.0 </title>
 <desc lang="en"> Started: 12:48 am
 Playing: Grand Theft Auto V
-Viewers: 389 </desc>
+Viewers: 379 </desc>
 </programme>
 
 <programme start="20250309004957 +0000" stop="20250311194957 +0000" channel="BlurredVII.us">
 <title lang="en"> Rai Dordai - Blur - looking f0r new 4 door short stream (maybe) - Civ Gang - T10 - NoPixel 4.0 WL </title>
 <desc lang="en"> Started: 07:49 pm
 Playing: Grand Theft Auto V
-Viewers: 118 </desc>
+Viewers: 99 </desc>
 </programme>
 
 <programme start="20250309074809 +0000" stop="20250312014809 +0000" channel="NismoDOMA.us">
 <title lang="en"> Tony Leung - short grind stream, nothing crazy - HADES - NoPixel WL </title>
 <desc lang="en"> Started: 01:48 am
 Playing: Grand Theft Auto V
-Viewers: 68 </desc>
+Viewers: 74 </desc>
 </programme>
 
 <programme start="20250309033035 +0000" stop="20250311213035 +0000" channel="CrimsoneTV.us">
@@ -104,67 +90,81 @@ Playing: Grand Theft Auto V
 Viewers: 72 </desc>
 </programme>
 
-<programme start="20250309091358 +0000" stop="20250312041358 +0000" channel="kyrienolife.us">
-<title lang="en"> Coop - NoPixel - short stream </title>
-<desc lang="en"> Started: 04:13 am
-Playing: Grand Theft Auto V
-Viewers: 52 </desc>
-</programme>
-
 <programme start="20250309063607 +0000" stop="20250312003607 +0000" channel="MargoTheSnail.us">
 <title lang="en"> Margo Escargot - The Crackheads - NoPixel WL </title>
 <desc lang="en"> Started: 12:36 am
 Playing: Grand Theft Auto V
-Viewers: 43 </desc>
+Viewers: 45 </desc>
 </programme>
 
-<programme start="20250309083921 +0000" stop="20250312033921 +0000" channel="lunchyrp.us">
-<title lang="en"> Danny Goomba - Nopixel WL </title>
-<desc lang="en"> Started: 03:39 am
+<programme start="20250309085405 +0000" stop="20250312035405 +0000" channel="rexs.us">
+<title lang="en"> 🤠 RICKY DALLAS 🤠 - BCSO - NoPixel WL </title>
+<desc lang="en"> Started: 3:54AM
 Playing: Grand Theft Auto V
-Viewers: 15 </desc>
+Viewers: 126 </desc>
+</programme>
+
+<programme start="20250309091358 +0000" stop="20250312041358 +0000" channel="kyrienolife.us">
+<title lang="en"> Coop - NoPixel - short stream </title>
+<desc lang="en"> Started: 04:13 am
+Playing: Grand Theft Auto V
+Viewers: 42 </desc>
+</programme>
+
+<programme start="20250309094009 +0000" stop="20250312044009 +0000" channel="jack.us">
+<title lang="en"> Jack Cortair NoPixel 4.0  short stream  N0T SICK ANYMORE </title>
+<desc lang="en"> Started: 4:40AM
+Playing: Grand Theft Auto V
+Viewers: 237 </desc>
 </programme>
 
 <programme start="20250309050212 +0000" stop="20250311230212 +0000" channel="nicksfv.us">
 <title lang="en"> No Pixel Rp Sargent Elite Prime Takes On The City subathon Adds 12 hours to the stream. </title>
 <desc lang="en"> Started: 11:02 pm
 Playing: Grand Theft Auto V
-Viewers: 14 </desc>
+Viewers: 12 </desc>
 </programme>
 
 <programme start="20250309095528 +0000" stop="20250312045528 +0000" channel="katecirrus.us">
 <title lang="en"> PHEE BRUH - SAVING ZEE BRUH - NP WL </title>
 <desc lang="en"> Started: 04:55 am
 Playing: Grand Theft Auto V
-Viewers: 13 </desc>
+Viewers: 12 </desc>
+</programme>
+
+<programme start="20250309083921 +0000" stop="20250312033921 +0000" channel="lunchyrp.us">
+<title lang="en"> Danny Goomba - Nopixel WL </title>
+<desc lang="en"> Started: 03:39 am
+Playing: Grand Theft Auto V
+Viewers: 11 </desc>
 </programme>
 
 <programme start="20250309074457 +0000" stop="20250312014457 +0000" channel="MrGlee.us">
 <title lang="en"> Degen Church Hours - Sai Kou - Road Captain - Lost MC - NoPixel WL - socials </title>
 <desc lang="en"> Started: 01:44 am
 Playing: Grand Theft Auto V
-Viewers: 3 </desc>
+Viewers: 4 </desc>
 </programme>
 
 <programme start="20250309093748 +0000" stop="20250312043748 +0000" channel="baldlionnn.us">
 <title lang="en"> TJ Finding zee 🦓 NopixelWL 🔥 🇷🇺 </title>
 <desc lang="en"> Started: 04:37 am
 Playing: Grand Theft Auto V
-Viewers: 2 </desc>
+Viewers: 3 </desc>
 </programme>
 
 <programme start="20250309103212 +0000" stop="20250312053212 +0000" channel="roxmiral.us">
 <title lang="en"> Malding because people dont know how to cop - emergency </title>
 <desc lang="en"> Started: 5:32AM
 Playing: Grand Theft Auto V
-Viewers: 183 </desc>
+Viewers: 203 </desc>
 </programme>
 
 <programme start="20250308234035 +0000" stop="20250311184035 +0000" channel="christombstone.us">
 <title lang="en"> SUBATHON - Deputy Chance Dice - NoPixel WL - @ChrisTombstone_ on </title>
 <desc lang="en"> Started: 6:40PM
 Playing: Grand Theft Auto V
-Viewers: 571 </desc>
+Viewers: 563 </desc>
 </programme>
 
 
