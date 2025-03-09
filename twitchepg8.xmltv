@@ -2,10 +2,6 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="rexs.us">
-<display-name>rexs</display-name>
-</channel>
-
 <channel id="Harmless.us">
 <display-name>Harmless</display-name>
 </channel>
@@ -14,12 +10,36 @@
 <display-name>AbbottJake</display-name>
 </channel>
 
+<channel id="rexs.us">
+<display-name>rexs</display-name>
+</channel>
+
+<channel id="Finlay.us">
+<display-name>Finlay</display-name>
+</channel>
+
 <channel id="jack.us">
 <display-name>jack</display-name>
 </channel>
 
+<channel id="MargoTheSnail.us">
+<display-name>MargoTheSnail</display-name>
+</channel>
+
+<channel id="CrimsoneTV.us">
+<display-name>CrimsoneTV</display-name>
+</channel>
+
+<channel id="katecirrus.us">
+<display-name>katecirrus</display-name>
+</channel>
+
 <channel id="choponz.us">
 <display-name>choponz</display-name>
+</channel>
+
+<channel id="YooshiiBear.us">
+<display-name>YooshiiBear</display-name>
 </channel>
 
 <channel id="ste_eire.us">
@@ -30,28 +50,8 @@
 <display-name>jakson</display-name>
 </channel>
 
-<channel id="Finlay.us">
-<display-name>Finlay</display-name>
-</channel>
-
 <channel id="matteu.us">
 <display-name>matteu</display-name>
-</channel>
-
-<channel id="MargoTheSnail.us">
-<display-name>MargoTheSnail</display-name>
-</channel>
-
-<channel id="YooshiiBear.us">
-<display-name>YooshiiBear</display-name>
-</channel>
-
-<channel id="CrimsoneTV.us">
-<display-name>CrimsoneTV</display-name>
-</channel>
-
-<channel id="katecirrus.us">
-<display-name>katecirrus</display-name>
 </channel>
 
 <channel id="ScratchRP.us">
@@ -66,12 +66,12 @@
 <display-name>baldlionnn</display-name>
 </channel>
 
-<channel id="roxmiral.us">
-<display-name>roxmiral</display-name>
-</channel>
-
 <channel id="panpawn1.us">
 <display-name>panpawn1</display-name>
+</channel>
+
+<channel id="roxmiral.us">
+<display-name>roxmiral</display-name>
 </channel>
 
 <channel id="vader.us">
@@ -82,61 +82,33 @@
 <display-name>denis3d</display-name>
 </channel>
 
-<channel id="stankxo.us">
-<display-name>stankxo</display-name>
-</channel>
-
 <channel id="ming.us">
 <display-name>ming</display-name>
 </channel>
 
-<programme start="20250309085405 +0000" stop="20250312035405 +0000" channel="rexs.us">
-<title lang="en"> 🤠 RICKY DALLAS 🤠 - BCSO - NoPixel WL </title>
-<desc lang="en"> Started: 3:54AM
-Playing: Grand Theft Auto V
-Viewers: 150 </desc>
-</programme>
+<channel id="stankxo.us">
+<display-name>stankxo</display-name>
+</channel>
 
 <programme start="20250309064834 +0000" stop="20250312004834 +0000" channel="Harmless.us">
 <title lang="en"> Maynard Idiot Schmidt - Besties - NoPixel 4.0 </title>
 <desc lang="en"> Started: 12:48 am
 Playing: Grand Theft Auto V
-Viewers: 504 </desc>
+Viewers: 483 </desc>
 </programme>
 
 <programme start="20250309104234 +0000" stop="20250312054234 +0000" channel="AbbottJake.us">
 <title lang="en"> hellofresh 🥑luke atar from the manor on nopixel (in a real way th) #hellofreshpartner #ad </title>
 <desc lang="en"> Started: 05:42 am
 Playing: Grand Theft Auto V
-Viewers: 186 </desc>
+Viewers: 181 </desc>
 </programme>
 
-<programme start="20250309094009 +0000" stop="20250312044009 +0000" channel="jack.us">
-<title lang="en"> Jack Cortair NoPixel 4.0  short stream  N0T SICK ANYMORE </title>
-<desc lang="en"> Started: 4:40AM
+<programme start="20250309085405 +0000" stop="20250312035405 +0000" channel="rexs.us">
+<title lang="en"> 🤠 RICKY DALLAS 🤠 - BCSO - NoPixel WL </title>
+<desc lang="en"> Started: 3:54AM
 Playing: Grand Theft Auto V
-Viewers: 251 </desc>
-</programme>
-
-<programme start="20250309132928 +0000" stop="20250312082928 +0000" channel="choponz.us">
-<title lang="en"> 🥴Billy Strut - 😈Besties - ✨Nopixel 4.0 - ▶️@ChopoClips on YT - </title>
-<desc lang="en"> Started: 8:29AM
-Playing: Grand Theft Auto V
-Viewers: 10 </desc>
-</programme>
-
-<programme start="20250309131635 +0000" stop="20250312081635 +0000" channel="ste_eire.us">
-<title lang="en"> someone say war </title>
-<desc lang="en"> Started: 8:16AM
-Playing: Grand Theft Auto V
-Viewers: 799 </desc>
-</programme>
-
-<programme start="20250309113807 +0000" stop="20250312063807 +0000" channel="jakson.us">
-<title lang="en"> abit of rping into probably f0rters roblox #AD </title>
-<desc lang="en"> Started: 6:38AM
-Playing: Grand Theft Auto V
-Viewers: 146 </desc>
+Viewers: 152 </desc>
 </programme>
 
 <programme start="20250309122722 +0000" stop="20250312072722 +0000" channel="Finlay.us">
@@ -146,102 +118,130 @@ Playing: Grand Theft Auto V
 Viewers: 65 </desc>
 </programme>
 
-<programme start="20250309120113 +0000" stop="20250312070113 +0000" channel="matteu.us">
-<title lang="en"> WARRRRRRRRRRRRRRRR 1 WEEK OF BEING A FACECAM STREAMER WarRobots #AD </title>
-<desc lang="en"> Started: 7:01AM
+<programme start="20250309094009 +0000" stop="20250312044009 +0000" channel="jack.us">
+<title lang="en"> Jack Cortair NoPixel 4.0  short stream  N0T SICK ANYMORE </title>
+<desc lang="en"> Started: 4:40AM
 Playing: Grand Theft Auto V
-Viewers: 792 </desc>
+Viewers: 245 </desc>
 </programme>
 
 <programme start="20250309063607 +0000" stop="20250312003607 +0000" channel="MargoTheSnail.us">
 <title lang="en"> Margo Escargot - The Crackheads - NoPixel WL </title>
 <desc lang="en"> Started: 12:36 am
 Playing: Grand Theft Auto V
-Viewers: 52 </desc>
-</programme>
-
-<programme start="20250309115557 +0000" stop="20250312065557 +0000" channel="YooshiiBear.us">
-<title lang="en"> Eliyanna Ali - Owner of Hydrate - NOPIXEL WL 4.0 - donate - pushing f0r partner </title>
-<desc lang="en"> Started: 06:55 am
-Playing: Grand Theft Auto V
-Viewers: 43 </desc>
+Viewers: 54 </desc>
 </programme>
 
 <programme start="20250309033035 +0000" stop="20250311213035 +0000" channel="CrimsoneTV.us">
 <title lang="en"> Jack Outback Turner - MILTONS MODS EVERYONE - NoPixel WL - </title>
 <desc lang="en"> Started: 09:30 pm
 Playing: Grand Theft Auto V
-Viewers: 43 </desc>
+Viewers: 44 </desc>
 </programme>
 
 <programme start="20250309095528 +0000" stop="20250312045528 +0000" channel="katecirrus.us">
 <title lang="en"> PHEE BRUH - SAVING ZEE BRUH - NP WL </title>
 <desc lang="en"> Started: 04:55 am
 Playing: Grand Theft Auto V
-Viewers: 42 </desc>
+Viewers: 35 </desc>
+</programme>
+
+<programme start="20250309132928 +0000" stop="20250312082928 +0000" channel="choponz.us">
+<title lang="en"> 🥴Billy Strut - 😈Besties - ✨Nopixel 4.0 - ▶️@ChopoClips on YT - </title>
+<desc lang="en"> Started: 8:29AM
+Playing: Grand Theft Auto V
+Viewers: 11 </desc>
+</programme>
+
+<programme start="20250309115557 +0000" stop="20250312065557 +0000" channel="YooshiiBear.us">
+<title lang="en"> Eliyanna Ali - Owner of Hydrate - NOPIXEL WL 4.0 - donate - pushing f0r partner </title>
+<desc lang="en"> Started: 06:55 am
+Playing: Grand Theft Auto V
+Viewers: 34 </desc>
+</programme>
+
+<programme start="20250309131635 +0000" stop="20250312081635 +0000" channel="ste_eire.us">
+<title lang="en"> someone say war </title>
+<desc lang="en"> Started: 8:16AM
+Playing: Grand Theft Auto V
+Viewers: 896 </desc>
+</programme>
+
+<programme start="20250309113807 +0000" stop="20250312063807 +0000" channel="jakson.us">
+<title lang="en"> abit of rping into probably f0rters roblox #AD </title>
+<desc lang="en"> Started: 6:38AM
+Playing: Grand Theft Auto V
+Viewers: 139 </desc>
+</programme>
+
+<programme start="20250309120113 +0000" stop="20250312070113 +0000" channel="matteu.us">
+<title lang="en"> WARRRRRRRRRRRRRRRR 1 WEEK OF BEING A FACECAM STREAMER WarRobots #AD </title>
+<desc lang="en"> Started: 7:01AM
+Playing: Grand Theft Auto V
+Viewers: 914 </desc>
 </programme>
 
 <programme start="20250309121351 +0000" stop="20250312071351 +0000" channel="ScratchRP.us">
 <title lang="en"> Scuffed stream #65 - Jasper Johns - No Pixel 4.0 🐍 Hydra 🐍 - discord </title>
 <desc lang="en"> Started: 07:13 am
 Playing: Grand Theft Auto V
-Viewers: 23 </desc>
+Viewers: 22 </desc>
 </programme>
 
 <programme start="20250309050212 +0000" stop="20250311230212 +0000" channel="nicksfv.us">
 <title lang="en"> No Pixel Rp Sargent Elite Prime Takes On The City subathon Adds 12 hours to the stream. </title>
 <desc lang="en"> Started: 11:02 pm
 Playing: Grand Theft Auto V
-Viewers: 17 </desc>
+Viewers: 18 </desc>
 </programme>
 
 <programme start="20250309093748 +0000" stop="20250312043748 +0000" channel="baldlionnn.us">
 <title lang="en"> TJ Finding zee 🦓 NopixelWL 🔥 🇷🇺 </title>
 <desc lang="en"> Started: 04:37 am
 Playing: Grand Theft Auto V
-Viewers: 3 </desc>
-</programme>
-
-<programme start="20250309103212 +0000" stop="20250312053212 +0000" channel="roxmiral.us">
-<title lang="en"> Malding because people dont know how to cop - emergency </title>
-<desc lang="en"> Started: 5:32AM
-Playing: Grand Theft Auto V
-Viewers: 230 </desc>
+Viewers: 4 </desc>
 </programme>
 
 <programme start="20250309122524 +0000" stop="20250312072524 +0000" channel="panpawn1.us">
 <title lang="en"> Nigel Pryce - nopixel pub </title>
 <desc lang="en"> Started: 07:25 am
 Playing: Grand Theft Auto V
-Viewers: 2 </desc>
+Viewers: 1 </desc>
+</programme>
+
+<programme start="20250309103212 +0000" stop="20250312053212 +0000" channel="roxmiral.us">
+<title lang="en"> Malding because people dont know how to cop - emergency </title>
+<desc lang="en"> Started: 5:32AM
+Playing: Grand Theft Auto V
+Viewers: 219 </desc>
 </programme>
 
 <programme start="20250309130758 +0000" stop="20250312080758 +0000" channel="vader.us">
 <title lang="en"> THIS. IS. ROLEPLAY. WOW. </title>
 <desc lang="en"> Started: 8:07AM
 Playing: Grand Theft Auto V
-Viewers: 713 </desc>
+Viewers: 757 </desc>
 </programme>
 
 <programme start="20250309134722 +0000" stop="20250312084722 +0000" channel="denis3d.us">
 <title lang="en"> 🔴 SUNDAY TODAY YEP, WE DO THINGS YEP 🔴 - NoPixel Dev - links #blender </title>
 <desc lang="en"> Started: 8:47AM
 Playing: Grand Theft Auto V
-Viewers: 1 </desc>
+Viewers: 33 </desc>
 </programme>
 
-<programme start="20250309000000 +0000" stop="20250312085132 +0000" channel="stankxo.us">
-<title lang="en"> RACCOOOOON HYDRA slowly fixing sleep NOPIXEL 4.0 </title>
-<desc lang="en"> Started: 05:34 am
-Playing: No Pixel RP (GTA)
-Viewers: 87 </desc>
-</programme>
-
-<programme start="20250309000000 +0000" stop="20250312085132 +0000" channel="ming.us">
+<programme start="20250309000000 +0000" stop="20250312085617 +0000" channel="ming.us">
 <title lang="en"> Cool Click bait title  Chillin 🥶   MrMing011 </title>
 <desc lang="en"> Started: 05:54 am
 Playing: No Pixel RP (GTA)
-Viewers: 653 </desc>
+Viewers: 669 </desc>
+</programme>
+
+<programme start="20250309000000 +0000" stop="20250312085617 +0000" channel="stankxo.us">
+<title lang="en"> RACCOOOOON HYDRA slowly fixing sleep NOPIXEL 4.0 </title>
+<desc lang="en"> Started: 05:34 am
+Playing: No Pixel RP (GTA)
+Viewers: 97 </desc>
 </programme>
 
 
