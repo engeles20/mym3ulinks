@@ -6,32 +6,32 @@
 <display-name>rexs</display-name>
 </channel>
 
-<channel id="Harmless.us">
-<display-name>Harmless</display-name>
-</channel>
-
 <channel id="jack.us">
 <display-name>jack</display-name>
+</channel>
+
+<channel id="Harmless.us">
+<display-name>Harmless</display-name>
 </channel>
 
 <channel id="BlurredVII.us">
 <display-name>BlurredVII</display-name>
 </channel>
 
-<channel id="CrimsoneTV.us">
-<display-name>CrimsoneTV</display-name>
-</channel>
-
 <channel id="NismoDOMA.us">
 <display-name>NismoDOMA</display-name>
+</channel>
+
+<channel id="CrimsoneTV.us">
+<display-name>CrimsoneTV</display-name>
 </channel>
 
 <channel id="kyrienolife.us">
 <display-name>kyrienolife</display-name>
 </channel>
 
-<channel id="katecirrus.us">
-<display-name>katecirrus</display-name>
+<channel id="MargoTheSnail.us">
+<display-name>MargoTheSnail</display-name>
 </channel>
 
 <channel id="nicksfv.us">
@@ -40,6 +40,10 @@
 
 <channel id="lunchyrp.us">
 <display-name>lunchyrp</display-name>
+</channel>
+
+<channel id="katecirrus.us">
+<display-name>katecirrus</display-name>
 </channel>
 
 <channel id="MrGlee.us">
@@ -58,29 +62,25 @@
 <display-name>christombstone</display-name>
 </channel>
 
-<channel id="MargoTheSnail.us">
-<display-name>MargoTheSnail</display-name>
-</channel>
-
 <programme start="20250309085405 +0000" stop="20250312035405 +0000" channel="rexs.us">
 <title lang="en"> 🤠 RICKY DALLAS 🤠 - BCSO - NoPixel WL </title>
 <desc lang="en"> Started: 3:54AM
 Playing: Grand Theft Auto V
-Viewers: 125 </desc>
-</programme>
-
-<programme start="20250309064834 +0000" stop="20250312004834 +0000" channel="Harmless.us">
-<title lang="en"> Perry Falken - NoPixel 4.0 </title>
-<desc lang="en"> Started: 12:48 am
-Playing: Grand Theft Auto V
-Viewers: 377 </desc>
+Viewers: 118 </desc>
 </programme>
 
 <programme start="20250309094009 +0000" stop="20250312044009 +0000" channel="jack.us">
 <title lang="en"> Jack Cortair NoPixel 4.0  short stream  N0T SICK ANYMORE </title>
 <desc lang="en"> Started: 4:40AM
 Playing: Grand Theft Auto V
-Viewers: 228 </desc>
+Viewers: 237 </desc>
+</programme>
+
+<programme start="20250309064834 +0000" stop="20250312004834 +0000" channel="Harmless.us">
+<title lang="en"> Perry Falken - NoPixel 4.0 </title>
+<desc lang="en"> Started: 12:48 am
+Playing: Grand Theft Auto V
+Viewers: 364 </desc>
 </programme>
 
 <programme start="20250309004957 +0000" stop="20250311194957 +0000" channel="BlurredVII.us">
@@ -90,16 +90,16 @@ Playing: Grand Theft Auto V
 Viewers: 113 </desc>
 </programme>
 
-<programme start="20250309033035 +0000" stop="20250311213035 +0000" channel="CrimsoneTV.us">
-<title lang="en"> Jack Outback Turner - Jacks Birthday - NoPixel WL - </title>
-<desc lang="en"> Started: 09:30 pm
-Playing: Grand Theft Auto V
-Viewers: 77 </desc>
-</programme>
-
 <programme start="20250309074809 +0000" stop="20250312014809 +0000" channel="NismoDOMA.us">
 <title lang="en"> Tony Leung - short grind stream, nothing crazy - HADES - NoPixel WL </title>
 <desc lang="en"> Started: 01:48 am
+Playing: Grand Theft Auto V
+Viewers: 75 </desc>
+</programme>
+
+<programme start="20250309033035 +0000" stop="20250311213035 +0000" channel="CrimsoneTV.us">
+<title lang="en"> Jack Outback Turner - Jacks Birthday - NoPixel WL - </title>
+<desc lang="en"> Started: 09:30 pm
 Playing: Grand Theft Auto V
 Viewers: 74 </desc>
 </programme>
@@ -108,28 +108,35 @@ Viewers: 74 </desc>
 <title lang="en"> Coop - NoPixel - short stream </title>
 <desc lang="en"> Started: 04:13 am
 Playing: Grand Theft Auto V
-Viewers: 32 </desc>
+Viewers: 45 </desc>
 </programme>
 
-<programme start="20250309095528 +0000" stop="20250312045528 +0000" channel="katecirrus.us">
-<title lang="en"> PHEE BRUH - SAVING ZEE BRUH - NP WL </title>
-<desc lang="en"> Started: 04:55 am
+<programme start="20250309063607 +0000" stop="20250312003607 +0000" channel="MargoTheSnail.us">
+<title lang="en"> Margo Escargot - The Crackheads - NoPixel WL </title>
+<desc lang="en"> Started: 12:36 am
 Playing: Grand Theft Auto V
-Viewers: 16 </desc>
+Viewers: 38 </desc>
 </programme>
 
 <programme start="20250309050212 +0000" stop="20250311230212 +0000" channel="nicksfv.us">
 <title lang="en"> No Pixel Rp Sargent Elite Prime Takes On The City subathon Adds 12 hours to the stream. </title>
 <desc lang="en"> Started: 11:02 pm
 Playing: Grand Theft Auto V
-Viewers: 14 </desc>
+Viewers: 16 </desc>
 </programme>
 
 <programme start="20250309083921 +0000" stop="20250312033921 +0000" channel="lunchyrp.us">
 <title lang="en"> Danny Goomba - Nopixel WL </title>
 <desc lang="en"> Started: 03:39 am
 Playing: Grand Theft Auto V
-Viewers: 11 </desc>
+Viewers: 14 </desc>
+</programme>
+
+<programme start="20250309095528 +0000" stop="20250312045528 +0000" channel="katecirrus.us">
+<title lang="en"> PHEE BRUH - SAVING ZEE BRUH - NP WL </title>
+<desc lang="en"> Started: 04:55 am
+Playing: Grand Theft Auto V
+Viewers: 13 </desc>
 </programme>
 
 <programme start="20250309074457 +0000" stop="20250312014457 +0000" channel="MrGlee.us">
@@ -143,28 +150,21 @@ Viewers: 6 </desc>
 <title lang="en"> TJ Finding zee 🦓 NopixelWL 🔥 🇷🇺 </title>
 <desc lang="en"> Started: 04:37 am
 Playing: Grand Theft Auto V
-Viewers: 1 </desc>
+Viewers: 4 </desc>
 </programme>
 
 <programme start="20250309103212 +0000" stop="20250312053212 +0000" channel="roxmiral.us">
 <title lang="en"> Malding because people dont know how to cop - emergency </title>
 <desc lang="en"> Started: 5:32AM
 Playing: Grand Theft Auto V
-Viewers: 162 </desc>
+Viewers: 163 </desc>
 </programme>
 
 <programme start="20250308234035 +0000" stop="20250311184035 +0000" channel="christombstone.us">
 <title lang="en"> SUBATHON - Deputy Chance Dice - NoPixel WL - @ChrisTombstone_ on </title>
 <desc lang="en"> Started: 6:40PM
 Playing: Grand Theft Auto V
-Viewers: 576 </desc>
-</programme>
-
-<programme start="20250309063607 +0000" stop="20250312003607 +0000" channel="MargoTheSnail.us">
-<title lang="en"> Margo Escargot - The Crackheads - NoPixel WL </title>
-<desc lang="en"> Started: 12:36 am
-Playing: Grand Theft Auto V
-Viewers: 38 </desc>
+Viewers: 594 </desc>
 </programme>
 
 
