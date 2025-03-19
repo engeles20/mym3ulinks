@@ -2,10 +2,6 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="yuukidav.us">
-<display-name>yuukidav</display-name>
-</channel>
-
 <channel id="Harmless.us">
 <display-name>Harmless</display-name>
 </channel>
@@ -30,6 +26,10 @@
 <display-name>nicksfv</display-name>
 </channel>
 
+<channel id="yuukidav.us">
+<display-name>yuukidav</display-name>
+</channel>
+
 <channel id="alliumm.us">
 <display-name>alliumm</display-name>
 </channel>
@@ -50,12 +50,12 @@
 <display-name>snekysly</display-name>
 </channel>
 
-<channel id="Unabeard.us">
-<display-name>Unabeard</display-name>
-</channel>
-
 <channel id="Sarkwentv.us">
 <display-name>Sarkwentv</display-name>
+</channel>
+
+<channel id="Unabeard.us">
+<display-name>Unabeard</display-name>
 </channel>
 
 <channel id="curvyelephant.us">
@@ -66,46 +66,47 @@
 <display-name>solekefs</display-name>
 </channel>
 
-<programme start="20250319060216 +0000" stop="20250322010216 +0000" channel="yuukidav.us">
-<title lang="en"> captain lukas lavender 🎀 bcso - nopixel wl - @yuukidav modapp </title>
-<desc lang="en"> Started: 1:02AM
-Playing: Grand Theft Auto V
-Viewers: 202 </desc>
-</programme>
+<channel id="madgiiee.us">
+<display-name>madgiiee</display-name>
+</channel>
+
+<channel id="defac3d.us">
+<display-name>defac3d</display-name>
+</channel>
 
 <programme start="20250319060951 +0000" stop="20250322010951 +0000" channel="Harmless.us">
 <title lang="en"> Perry Falken - NoPixel 4.0 </title>
 <desc lang="en"> Started: 01:09 am
 Playing: Grand Theft Auto V
-Viewers: 468 </desc>
+Viewers: 500 </desc>
 </programme>
 
 <programme start="20250318203117 +0000" stop="20250321153117 +0000" channel="Barnszzz.us">
 <title lang="en"> Dean Bean Barns - SAAd Boi Zoomer - ADMC T10 - NoPixel WL </title>
 <desc lang="en"> Started: 03:31 pm
 Playing: Grand Theft Auto V
-Viewers: 163 </desc>
+Viewers: 164 </desc>
 </programme>
 
 <programme start="20250319083411 +0000" stop="20250322033411 +0000" channel="AnnaMayMight.us">
 <title lang="en"> [18][UK][50] Martha NoPixel 4.0 NP WL </title>
 <desc lang="en"> Started: 03:34 am
 Playing: Grand Theft Auto V
-Viewers: 129 </desc>
+Viewers: 128 </desc>
 </programme>
 
 <programme start="20250319002259 +0000" stop="20250321192259 +0000" channel="BlurredVII.us">
 <title lang="en"> Rai Dordai - Blur - T10 - NoPixel 4.0 WL </title>
 <desc lang="en"> Started: 07:22 pm
 Playing: Grand Theft Auto V
-Viewers: 81 </desc>
+Viewers: 82 </desc>
 </programme>
 
 <programme start="20250319050126 +0000" stop="20250322000126 +0000" channel="CrimsoneTV.us">
 <title lang="en"> 18 Rhys Rice Blease - NoPixel Whitelist </title>
 <desc lang="en"> Started: 12:01 am
 Playing: Grand Theft Auto V
-Viewers: 61 </desc>
+Viewers: 62 </desc>
 </programme>
 
 <programme start="20250318192457 +0000" stop="20250321142457 +0000" channel="nicksfv.us">
@@ -115,18 +116,25 @@ Playing: Grand Theft Auto V
 Viewers: 51 </desc>
 </programme>
 
+<programme start="20250319060216 +0000" stop="20250322010216 +0000" channel="yuukidav.us">
+<title lang="en"> captain lukas lavender 🎀 bcso - nopixel wl - @yuukidav modapp </title>
+<desc lang="en"> Started: 1:02AM
+Playing: Grand Theft Auto V
+Viewers: 216 </desc>
+</programme>
+
 <programme start="20250319070759 +0000" stop="20250322020759 +0000" channel="alliumm.us">
 <title lang="en"> CAPTAIN AWICE 🫡 - EMS - Alice Liddell - NoPixel WL </title>
 <desc lang="en"> Started: 02:07 am
 Playing: Grand Theft Auto V
-Viewers: 27 </desc>
+Viewers: 28 </desc>
 </programme>
 
 <programme start="20250319081804 +0000" stop="20250322031804 +0000" channel="ealixer.us">
 <title lang="en"> Cooked 242 Willy Robinson LSPD - Johnny Lane - Hades - Nopixel WL 4.0 </title>
 <desc lang="en"> Started: 03:18 am
 Playing: Grand Theft Auto V
-Viewers: 17 </desc>
+Viewers: 14 </desc>
 </programme>
 
 <programme start="20250319034442 +0000" stop="20250321224442 +0000" channel="Blokeowski.us">
@@ -140,42 +148,56 @@ Viewers: 15 </desc>
 <title lang="en"> Terry The Manager Adams 🔧 NoPixel 4.0 WL 🔧 Miltons Mods 🔧 @bashyyee on socials. </title>
 <desc lang="en"> Started: 03:13 am
 Playing: Grand Theft Auto V
-Viewers: 3 </desc>
+Viewers: 5 </desc>
 </programme>
 
 <programme start="20250319065507 +0000" stop="20250322015507 +0000" channel="snekysly.us">
 <title lang="en"> Charlie Lockwood - Crayons - NoPixel 4.0 WL </title>
 <desc lang="en"> Started: 01:55 am
 Playing: Grand Theft Auto V
-Viewers: 3 </desc>
-</programme>
-
-<programme start="20250319092037 +0000" stop="20250322042037 +0000" channel="Unabeard.us">
-<title lang="en"> Bruce Baylor - NoPixel 4.0 - Cypress - Kortz Center - </title>
-<desc lang="en"> Started: 04:20 am
-Playing: Grand Theft Auto V
-Viewers: 3 </desc>
+Viewers: 4 </desc>
 </programme>
 
 <programme start="20250319065517 +0000" stop="20250322015517 +0000" channel="Sarkwentv.us">
 <title lang="en"> 025 Chris Peters - - MARSHAL - NoPixel WL </title>
 <desc lang="en"> Started: 01:55 am
 Playing: Grand Theft Auto V
-Viewers: 2 </desc>
+Viewers: 1 </desc>
+</programme>
+
+<programme start="20250319092037 +0000" stop="20250322042037 +0000" channel="Unabeard.us">
+<title lang="en"> Bruce Baylor - NoPixel 4.0 - Cypress - Kortz Center - </title>
+<desc lang="en"> Started: 04:20 am
+Playing: Grand Theft Auto V
+Viewers: 1 </desc>
 </programme>
 
 <programme start="20250319064720 +0000" stop="20250322014720 +0000" channel="curvyelephant.us">
 <title lang="en"> Matt Rhodes - nopixel - </title>
 <desc lang="en"> Started: 1:47AM
 Playing: Grand Theft Auto V
-Viewers: 466 </desc>
+Viewers: 498 </desc>
 </programme>
 
 <programme start="20250319073959 +0000" stop="20250322023959 +0000" channel="solekefs.us">
 <title lang="en"> 🌴 Junior Meats 🍖 🟩 Prodigy 2.5 🟩 </title>
 <desc lang="en"> Started: 2:39AM
 Playing: Grand Theft Auto V
-Viewers: 53 </desc>
+Viewers: 46 </desc>
+</programme>
+
+<programme start="20250319100849 +0000" stop="20250322050849 +0000" channel="madgiiee.us">
+<title lang="en"> 🌸 Maggie Gunn , ADMC Prospect , NPWL 🌸 </title>
+<desc lang="en"> Started: 5:08AM
+Playing: Grand Theft Auto V
+Viewers: 9 </desc>
+</programme>
+
+<programme start="20250319101018 +0000" stop="20250322051018 +0000" channel="defac3d.us">
+<title lang="en"> RP - G2A </title>
+<desc lang="en"> Started: 5:10AM
+Playing: Grand Theft Auto V
+Viewers: 3 </desc>
 </programme>
 
 
