@@ -2,36 +2,44 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="Harmless.us">
-<display-name>Harmless</display-name>
+<channel id="sock22.us">
+<display-name>sock22</display-name>
 </channel>
 
-<channel id="alliumm.us">
-<display-name>alliumm</display-name>
+<channel id="Harmless.us">
+<display-name>Harmless</display-name>
 </channel>
 
 <channel id="BlurredVII.us">
 <display-name>BlurredVII</display-name>
 </channel>
 
-<channel id="rexs.us">
-<display-name>rexs</display-name>
+<channel id="alliumm.us">
+<display-name>alliumm</display-name>
 </channel>
 
 <channel id="nicksfv.us">
 <display-name>nicksfv</display-name>
 </channel>
 
-<channel id="YooshiiBear.us">
-<display-name>YooshiiBear</display-name>
+<channel id="rexs.us">
+<display-name>rexs</display-name>
 </channel>
 
 <channel id="AnnaMayMight.us">
 <display-name>AnnaMayMight</display-name>
 </channel>
 
+<channel id="YooshiiBear.us">
+<display-name>YooshiiBear</display-name>
+</channel>
+
 <channel id="basHYYEE.us">
 <display-name>basHYYEE</display-name>
+</channel>
+
+<channel id="Frank_Ladd.us">
+<display-name>Frank_Ladd</display-name>
 </channel>
 
 <channel id="CrimsoneTV.us">
@@ -42,10 +50,6 @@
 <display-name>defac3d</display-name>
 </channel>
 
-<channel id="cutieno.us">
-<display-name>cutieno</display-name>
-</channel>
-
 <channel id="jacksonsfaded.us">
 <display-name>jacksonsfaded</display-name>
 </channel>
@@ -54,31 +58,25 @@
 <display-name>kittenqg</display-name>
 </channel>
 
-<channel id="sock22.us">
-<display-name>sock22</display-name>
-</channel>
-
-<channel id="Frank_Ladd.us">
-<display-name>Frank_Ladd</display-name>
-</channel>
-
-<channel id="Frank_Ladd.us">
-<display-name>Frank_Ladd</display-name>
-</channel>
-
-<channel id="aus24.us">
-<display-name>aus24</display-name>
-</channel>
-
-<channel id="slimeoz.us">
-<display-name>slimeoz</display-name>
-</channel>
+<programme start="20250320103456 +0000" stop="20250323053456 +0000" channel="sock22.us">
+<title lang="en"> Richard Dark - Revelations - NoPixel 4.0 </title>
+<desc lang="en"> Started: 5:34AM
+Playing: Grand Theft Auto V
+Viewers: 123 </desc>
+</programme>
 
 <programme start="20250320064130 +0000" stop="20250323014130 +0000" channel="Harmless.us">
 <title lang="en"> Perry Falken - NoPixel 4.0 </title>
 <desc lang="en"> Started: 01:41 am
 Playing: Grand Theft Auto V
-Viewers: 435 </desc>
+Viewers: 447 </desc>
+</programme>
+
+<programme start="20250320012321 +0000" stop="20250322202321 +0000" channel="BlurredVII.us">
+<title lang="en"> Rai Dordai - Blur - T10 - NoPixel 4.0 WL </title>
+<desc lang="en"> Started: 08:23 pm
+Playing: Grand Theft Auto V
+Viewers: 142 </desc>
 </programme>
 
 <programme start="20250320073135 +0000" stop="20250323023135 +0000" channel="alliumm.us">
@@ -88,116 +86,74 @@ Playing: Grand Theft Auto V
 Viewers: 141 </desc>
 </programme>
 
-<programme start="20250320012321 +0000" stop="20250322202321 +0000" channel="BlurredVII.us">
-<title lang="en"> Rai Dordai - Blur - T10 - NoPixel 4.0 WL </title>
-<desc lang="en"> Started: 08:23 pm
+<programme start="20250318192457 +0000" stop="20250321142457 +0000" channel="nicksfv.us">
+<title lang="en"> No Pixel Rp Sargent Elite Prime Takes On The City subathon Adds 12 hours to the Stream </title>
+<desc lang="en"> Started: 02:24 pm
 Playing: Grand Theft Auto V
-Viewers: 127 </desc>
+Viewers: 53 </desc>
 </programme>
 
 <programme start="20250320100117 +0000" stop="20250323050117 +0000" channel="rexs.us">
 <title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - Hydra - NoPixel WL </title>
 <desc lang="en"> Started: 5:01AM
 Playing: Grand Theft Auto V
-Viewers: 73 </desc>
-</programme>
-
-<programme start="20250318192457 +0000" stop="20250321142457 +0000" channel="nicksfv.us">
-<title lang="en"> No Pixel Rp Sargent Elite Prime Takes On The City subathon Adds 12 hours to the Stream </title>
-<desc lang="en"> Started: 02:24 pm
-Playing: Grand Theft Auto V
-Viewers: 52 </desc>
-</programme>
-
-<programme start="20250320093818 +0000" stop="20250323043818 +0000" channel="YooshiiBear.us">
-<title lang="en"> Eliyanna Ali - BearFoot Cafe - NOPIXEL WL 4.0 - donate - pushing f0r partner </title>
-<desc lang="en"> Started: 04:38 am
-Playing: Grand Theft Auto V
-Viewers: 27 </desc>
+Viewers: 96 </desc>
 </programme>
 
 <programme start="20250320095935 +0000" stop="20250323045935 +0000" channel="AnnaMayMight.us">
 <title lang="en"> [18][UK][50] Martha NoPixel 4.0 NP WL </title>
 <desc lang="en"> Started: 04:59 am
 Playing: Grand Theft Auto V
-Viewers: 20 </desc>
+Viewers: 24 </desc>
+</programme>
+
+<programme start="20250320093818 +0000" stop="20250323043818 +0000" channel="YooshiiBear.us">
+<title lang="en"> Eliyanna Ali - BearFoot Cafe - NOPIXEL WL 4.0 - donate - pushing f0r partner </title>
+<desc lang="en"> Started: 04:38 am
+Playing: Grand Theft Auto V
+Viewers: 23 </desc>
 </programme>
 
 <programme start="20250320075322 +0000" stop="20250323025322 +0000" channel="basHYYEE.us">
 <title lang="en"> Terry The Manager Adams 🔧 NoPixel 4.0 WL 🔧 Miltons Mods 🔧 @bashyyee on socials. </title>
 <desc lang="en"> Started: 02:53 am
 Playing: Grand Theft Auto V
-Viewers: 11 </desc>
+Viewers: 65 </desc>
+</programme>
+
+<programme start="20250320102303 +0000" stop="20250323052303 +0000" channel="Frank_Ladd.us">
+<title lang="en"> Morning Mafia getting active - Frank OG Scaletta - The Manor - NoPixel WL - Discord </title>
+<desc lang="en"> Started: 05:23 am
+Playing: Grand Theft Auto V
+Viewers: 54 </desc>
 </programme>
 
 <programme start="20250320030813 +0000" stop="20250322220813 +0000" channel="CrimsoneTV.us">
 <title lang="en"> 18 Rhys Rice Blaese - Hes Fine :) - NoPixel Whitelist </title>
 <desc lang="en"> Started: 10:08 pm
 Playing: Grand Theft Auto V
-Viewers: 10 </desc>
+Viewers: 23 </desc>
 </programme>
 
 <programme start="20250320100643 +0000" stop="20250323050643 +0000" channel="defac3d.us">
 <title lang="en"> RP - G2A </title>
 <desc lang="en"> Started: 5:06AM
 Playing: Grand Theft Auto V
-Viewers: 302 </desc>
-</programme>
-
-<programme start="20250320083008 +0000" stop="20250323033008 +0000" channel="cutieno.us">
-<title lang="en"> Rue Minmi - ADMC SecRUEtary - Nopixel WL - Rue doing Rue things </title>
-<desc lang="en"> Started: 3:30AM
-Playing: Grand Theft Auto V
-Viewers: 162 </desc>
+Viewers: 324 </desc>
 </programme>
 
 <programme start="20250320043743 +0000" stop="20250322233743 +0000" channel="jacksonsfaded.us">
 <title lang="en"> Smalls - Hades prospect - Nopixel 4.0 </title>
 <desc lang="en"> Started: 11:37PM
 Playing: Grand Theft Auto V
-Viewers: 81 </desc>
+Viewers: 94 </desc>
 </programme>
 
 <programme start="20250320022346 +0000" stop="20250322212346 +0000" channel="kittenqg.us">
 <title lang="en"> Going undercover - Lily Fumbles - 18 - #hellofreshpartner </title>
 <desc lang="en"> Started: 9:23PM
 Playing: Grand Theft Auto V
-Viewers: 79 </desc>
-</programme>
-
-<programme start="20250320103456 +0000" stop="20250323053456 +0000" channel="sock22.us">
-<title lang="en"> Richard Dark - Revelations - NoPixel 4.0 </title>
-<desc lang="en"> Started: 5:34AM
-Playing: Grand Theft Auto V
-Viewers: 41 </desc>
-</programme>
-
-<programme start="20250320102303 +0000" stop="20250323052303 +0000" channel="Frank_Ladd.us">
-<title lang="en"> Morning Mafia getting active - Frank OG Scaletta - The Manor - NoPixel WL - Discord </title>
-<desc lang="en"> Started: 05:23 am
-Playing: Grand Theft Auto V
-Viewers: 38 </desc>
-</programme>
-
-<programme start="20250320102303 +0000" stop="20250323052303 +0000" channel="Frank_Ladd.us">
-<title lang="en"> Morning Mafia getting active - Frank OG Scaletta - The Manor - NoPixel WL - Discord </title>
-<desc lang="en"> Started: 05:23 am
-Playing: Grand Theft Auto V
-Viewers: 38 </desc>
-</programme>
-
-<programme start="20250320000000 +0000" stop="20250323053630 +0000" channel="aus24.us">
-<title lang="en"> DAVENPORT  LSPD  JORDAN WALKER  HYDRA  NoPixel 4.0 WL </title>
-<desc lang="en"> Started: 04:19 am
-Playing: No Pixel RP (GTA)
-Viewers: 28 </desc>
-</programme>
-
-<programme start="20250320000000 +0000" stop="20250323053630 +0000" channel="slimeoz.us">
-<title lang="en"> early af - tictac - Hades - Nopixel WL 4.0 </title>
-<desc lang="en"> Started: 10:25 pm
-Playing: No Pixel RP (GTA)
-Viewers: 160 </desc>
+Viewers: 65 </desc>
 </programme>
 
 
