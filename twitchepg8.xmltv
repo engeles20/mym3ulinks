@@ -2,6 +2,10 @@
 <display-name>clearepg</display-name>
 </channel>
 
+<channel id="moosetaffy.us">
+<display-name>moosetaffy</display-name>
+</channel>
+
 <channel id="uhsnow.us">
 <display-name>uhsnow</display-name>
 </channel>
@@ -10,20 +14,20 @@
 <display-name>sock22</display-name>
 </channel>
 
-<channel id="rexs.us">
-<display-name>rexs</display-name>
-</channel>
-
 <channel id="Rissabear.us">
 <display-name>Rissabear</display-name>
 </channel>
 
-<channel id="PotatoJesuss.us">
-<display-name>PotatoJesuss</display-name>
+<channel id="rexs.us">
+<display-name>rexs</display-name>
 </channel>
 
 <channel id="iPink_.us">
 <display-name>iPink_</display-name>
+</channel>
+
+<channel id="PotatoJesuss.us">
+<display-name>PotatoJesuss</display-name>
 </channel>
 
 <channel id="BlurredVII.us">
@@ -58,83 +62,78 @@
 <display-name>madgiiee</display-name>
 </channel>
 
-<channel id="moosetaffy.us">
-<display-name>moosetaffy</display-name>
+<channel id="vader.us">
+<display-name>vader</display-name>
 </channel>
 
-<channel id="aus24.us">
-<display-name>aus24</display-name>
-</channel>
-
-<channel id="stankxo.us">
-<display-name>stankxo</display-name>
-</channel>
-
-<channel id="slimeoz.us">
-<display-name>slimeoz</display-name>
-</channel>
+<programme start="20250322130150 +0000" stop="20250325080150 +0000" channel="moosetaffy.us">
+<title lang="en"> Patar Bellosh - Clips - Reactions - Community Game Night R.E.P.O With Chat [11am EST] - Opera #AD - @MooseTaffy </title>
+<desc lang="en"> Started: 8:01AM
+Playing: Grand Theft Auto V
+Viewers: 25 </desc>
+</programme>
 
 <programme start="20250322124847 +0000" stop="20250325074847 +0000" channel="uhsnow.us">
 <title lang="en"> RP - NoPixel - discord.gg-snow - </title>
 <desc lang="en"> Started: 7:48AM
 Playing: Grand Theft Auto V
-Viewers: 312 </desc>
+Viewers: 447 </desc>
 </programme>
 
 <programme start="20250322094223 +0000" stop="20250325044223 +0000" channel="sock22.us">
 <title lang="en"> Richard Dark - Seven - NoPixel 4.0 - pcfund </title>
 <desc lang="en"> Started: 4:42AM
 Playing: Grand Theft Auto V
-Viewers: 671 </desc>
-</programme>
-
-<programme start="20250322120436 +0000" stop="20250325070436 +0000" channel="rexs.us">
-<title lang="en"> Rex - 🐍 Hydra Gang 🐍 - Nopixel WL </title>
-<desc lang="en"> Started: 7:04AM
-Playing: Grand Theft Auto V
-Viewers: 154 </desc>
+Viewers: 650 </desc>
 </programme>
 
 <programme start="20250322101308 +0000" stop="20250325051308 +0000" channel="Rissabear.us">
 <title lang="en"> 💟🐻 Rissa Berry 🐻💟- Im a bear - BESTIES - NP WL - GTA RP </title>
 <desc lang="en"> Started: 05:13 am
 Playing: Grand Theft Auto V
-Viewers: 142 </desc>
+Viewers: 148 </desc>
 </programme>
 
-<programme start="20250322073023 +0000" stop="20250325023023 +0000" channel="PotatoJesuss.us">
-<title lang="en"> Kenny Cushman - NoPixel 4.0 - </title>
-<desc lang="en"> Started: 02:30 am
+<programme start="20250322120436 +0000" stop="20250325070436 +0000" channel="rexs.us">
+<title lang="en"> Rex - 🐍 Hydra Gang 🐍 - Nopixel WL </title>
+<desc lang="en"> Started: 7:04AM
 Playing: Grand Theft Auto V
-Viewers: 72 </desc>
+Viewers: 171 </desc>
 </programme>
 
 <programme start="20250322124532 +0000" stop="20250325074532 +0000" channel="iPink_.us">
 <title lang="en"> NoPixel 4.0 - Omar Samir 🤠 - Besties *TEST stream p3* </title>
 <desc lang="en"> Started: 07:45 am
 Playing: Grand Theft Auto V
-Viewers: 68 </desc>
+Viewers: 73 </desc>
+</programme>
+
+<programme start="20250322073023 +0000" stop="20250325023023 +0000" channel="PotatoJesuss.us">
+<title lang="en"> Kenny Cushman - NoPixel 4.0 - </title>
+<desc lang="en"> Started: 02:30 am
+Playing: Grand Theft Auto V
+Viewers: 69 </desc>
 </programme>
 
 <programme start="20250321233953 +0000" stop="20250324183953 +0000" channel="BlurredVII.us">
 <title lang="en"> Rai Dordai - Blur - T10 - NoPixel 4.0 WL </title>
 <desc lang="en"> Started: 06:39 pm
 Playing: Grand Theft Auto V
-Viewers: 43 </desc>
+Viewers: 42 </desc>
 </programme>
 
 <programme start="20250322110946 +0000" stop="20250325060946 +0000" channel="defac3d.us">
 <title lang="en"> RP - G2A </title>
 <desc lang="en"> Started: 6:09AM
 Playing: Grand Theft Auto V
-Viewers: 484 </desc>
+Viewers: 507 </desc>
 </programme>
 
 <programme start="20250322123014 +0000" stop="20250325073014 +0000" channel="jakson.us">
 <title lang="en"> james malding manor nopixel wl </title>
 <desc lang="en"> Started: 7:30AM
 Playing: Grand Theft Auto V
-Viewers: 262 </desc>
+Viewers: 284 </desc>
 </programme>
 
 <programme start="20250322085730 +0000" stop="20250325035730 +0000" channel="Unabeard.us">
@@ -155,7 +154,7 @@ Viewers: 1 </desc>
 <title lang="en"> Sheriff Tessa Walker did nothing wrong - PurpleRP - emergency </title>
 <desc lang="en"> Started: 7:42AM
 Playing: Grand Theft Auto V
-Viewers: 96 </desc>
+Viewers: 97 </desc>
 </programme>
 
 <programme start="20250322124241 +0000" stop="20250325074241 +0000" channel="HooligannRP.us">
@@ -169,35 +168,14 @@ Viewers: 1 </desc>
 <title lang="en"> 🌸Maggie Gunn , Kell of Ls , ADMC Prospect , NPWL , D2 Later Seasonal Story and Rushdown Rotation stufff with Chat : ) 🌸 </title>
 <desc lang="en"> Started: 2:27AM
 Playing: Grand Theft Auto V
-Viewers: 131 </desc>
+Viewers: 120 </desc>
 </programme>
 
-<programme start="20250322130150 +0000" stop="20250325080150 +0000" channel="moosetaffy.us">
-<title lang="en"> Patar Bellosh - Clips - Reactions - Community Game Night R.E.P.O With Chat [11am EST] - Opera #AD - @MooseTaffy </title>
-<desc lang="en"> Started: 8:01AM
+<programme start="20250322131030 +0000" stop="20250325081030 +0000" channel="vader.us">
+<title lang="en"> Eugene - ROLEPLAY </title>
+<desc lang="en"> Started: 8:10AM
 Playing: Grand Theft Auto V
-Viewers: 12 </desc>
-</programme>
-
-<programme start="20250322000000 +0000" stop="20250325080628 +0000" channel="aus24.us">
-<title lang="en"> DAVENPORT  LSPD  JORDAN WALKER  HYDRA  NoPixel 4.0 WL </title>
-<desc lang="en"> Started: 02:17 am
-Playing: No Pixel RP (GTA)
-Viewers: 48 </desc>
-</programme>
-
-<programme start="20250322000000 +0000" stop="20250325080628 +0000" channel="stankxo.us">
-<title lang="en"> raccoon tries not to STEAL from hydra - Nopixel 4.0 </title>
-<desc lang="en"> Started: 03:06 am
-Playing: No Pixel RP (GTA)
-Viewers: 174 </desc>
-</programme>
-
-<programme start="20250322000000 +0000" stop="20250325080628 +0000" channel="slimeoz.us">
-<title lang="en"> simos rust community server - Nopixel later </title>
-<desc lang="en"> Started: 10:27 pm
-Playing: Rust
-Viewers: 228 </desc>
+Viewers: 38 </desc>
 </programme>
 
 
