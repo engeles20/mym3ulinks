@@ -2,10 +2,6 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="tjnv.us">
-<display-name>tjnv</display-name>
-</channel>
-
 <channel id="Silbullet.us">
 <display-name>Silbullet</display-name>
 </channel>
@@ -14,12 +10,12 @@
 <display-name>aus24</display-name>
 </channel>
 
-<channel id="yuukidav.us">
-<display-name>yuukidav</display-name>
-</channel>
-
 <channel id="BlurredVII.us">
 <display-name>BlurredVII</display-name>
+</channel>
+
+<channel id="yuukidav.us">
+<display-name>yuukidav</display-name>
 </channel>
 
 <channel id="Blokeowski.us">
@@ -30,20 +26,20 @@
 <display-name>kyrienolife</display-name>
 </channel>
 
-<channel id="ashi.us">
-<display-name>ashi</display-name>
-</channel>
-
 <channel id="Texhna.us">
 <display-name>Texhna</display-name>
 </channel>
 
-<channel id="CatsRage.us">
-<display-name>CatsRage</display-name>
+<channel id="ashi.us">
+<display-name>ashi</display-name>
 </channel>
 
 <channel id="alliumm.us">
 <display-name>alliumm</display-name>
+</channel>
+
+<channel id="CatsRage.us">
+<display-name>CatsRage</display-name>
 </channel>
 
 <channel id="GeminiPKC.us">
@@ -58,12 +54,12 @@
 <display-name>een1Z</display-name>
 </channel>
 
-<channel id="Unabeard.us">
-<display-name>Unabeard</display-name>
-</channel>
-
 <channel id="Brakketts.us">
 <display-name>Brakketts</display-name>
+</channel>
+
+<channel id="Unabeard.us">
+<display-name>Unabeard</display-name>
 </channel>
 
 <channel id="curvyelephant.us">
@@ -78,87 +74,76 @@
 <display-name>kittenqg</display-name>
 </channel>
 
-<channel id="royalcreates.us">
-<display-name>royalcreates</display-name>
-</channel>
-
 <channel id="anthonyz.us">
 <display-name>anthonyz</display-name>
 </channel>
-
-<programme start="20250324171514 +0000" stop="20250327121514 +0000" channel="tjnv.us">
-<title lang="en"> Charli CJ Jones - o7 - NOPIXEL </title>
-<desc lang="en"> Started: 12:15PM
-Playing: Grand Theft Auto V
-Viewers: 871 </desc>
-</programme>
 
 <programme start="20250325060008 +0000" stop="20250328010008 +0000" channel="Silbullet.us">
 <title lang="en"> Lt. Maple 297 - LSPD - NoPixel WL 4.0 - gtarecap clip </title>
 <desc lang="en"> Started: 1:00AM
 Playing: Grand Theft Auto V
-Viewers: 55 </desc>
+Viewers: 51 </desc>
 </programme>
 
 <programme start="20250325061028 +0000" stop="20250328011028 +0000" channel="aus24.us">
 <title lang="en"> DAVENPORT - LSPD - NoPixel 4.0 WL </title>
 <desc lang="en"> Started: 1:10AM
 Playing: Grand Theft Auto V
-Viewers: 51 </desc>
-</programme>
-
-<programme start="20250325060454 +0000" stop="20250328010454 +0000" channel="yuukidav.us">
-<title lang="en"> captain lukas lavender 🎀 bcso - nopixel wl - @yuukidav modapp </title>
-<desc lang="en"> Started: 1:04AM
-Playing: Grand Theft Auto V
-Viewers: 197 </desc>
+Viewers: 49 </desc>
 </programme>
 
 <programme start="20250324201259 +0000" stop="20250327151259 +0000" channel="BlurredVII.us">
 <title lang="en"> Rai Dordai - Blur - T10 - NoPixel 4.0 WL </title>
 <desc lang="en"> Started: 03:12 pm
 Playing: Grand Theft Auto V
-Viewers: 108 </desc>
+Viewers: 101 </desc>
+</programme>
+
+<programme start="20250325060454 +0000" stop="20250328010454 +0000" channel="yuukidav.us">
+<title lang="en"> captain lukas lavender 🎀 bcso - nopixel wl - @yuukidav modapp </title>
+<desc lang="en"> Started: 1:04AM
+Playing: Grand Theft Auto V
+Viewers: 192 </desc>
 </programme>
 
 <programme start="20250325040008 +0000" stop="20250327230008 +0000" channel="Blokeowski.us">
 <title lang="en"> NoPixel WL 18 - EMS RP as Nathan Warren - BEING A CIVILIAN BEF0RE THE SHENANIGANS - reachout supportservices blackdoginstitute </title>
 <desc lang="en"> Started: 11:00 pm
 Playing: Grand Theft Auto V
-Viewers: 38 </desc>
+Viewers: 64 </desc>
 </programme>
 
 <programme start="20250325064145 +0000" stop="20250328014145 +0000" channel="kyrienolife.us">
 <title lang="en"> Coop - NoPixel - short stream </title>
 <desc lang="en"> Started: 01:41 am
 Playing: Grand Theft Auto V
-Viewers: 33 </desc>
-</programme>
-
-<programme start="20250325024005 +0000" stop="20250327214005 +0000" channel="ashi.us">
-<title lang="en"> FIFI-FIONA - PURPOSE - NOPIXEL WL RP </title>
-<desc lang="en"> Started: 9:40PM
-Playing: Grand Theft Auto V
-Viewers: 301 </desc>
+Viewers: 29 </desc>
 </programme>
 
 <programme start="20250325065049 +0000" stop="20250328015049 +0000" channel="Texhna.us">
 <title lang="en"> Tony Lito Parker - Nopixel 4.0 WL - Manor Hangaround - T10 - short strm </title>
 <desc lang="en"> Started: 01:50 am
 Playing: Grand Theft Auto V
-Viewers: 24 </desc>
+Viewers: 26 </desc>
 </programme>
 
-<programme start="20250325062332 +0000" stop="20250328012332 +0000" channel="CatsRage.us">
-<title lang="en"> Uhhhhh N0t so Yearly Stream And Shit - Faye Archer - NoPixel WL </title>
-<desc lang="en"> Started: 01:23 am
+<programme start="20250325024005 +0000" stop="20250327214005 +0000" channel="ashi.us">
+<title lang="en"> FIFI-FIONA - PURPOSE - NOPIXEL WL RP </title>
+<desc lang="en"> Started: 9:40PM
 Playing: Grand Theft Auto V
-Viewers: 17 </desc>
+Viewers: 698 </desc>
 </programme>
 
 <programme start="20250325070808 +0000" stop="20250328020808 +0000" channel="alliumm.us">
 <title lang="en"> captain things ✨ - EMS - Alice Liddell - NoPixel WL 🚑 </title>
 <desc lang="en"> Started: 02:08 am
+Playing: Grand Theft Auto V
+Viewers: 15 </desc>
+</programme>
+
+<programme start="20250325062332 +0000" stop="20250328012332 +0000" channel="CatsRage.us">
+<title lang="en"> Uhhhhh N0t so Yearly Stream And Shit - Faye Archer - NoPixel WL </title>
+<desc lang="en"> Started: 01:23 am
 Playing: Grand Theft Auto V
 Viewers: 13 </desc>
 </programme>
@@ -167,7 +152,7 @@ Viewers: 13 </desc>
 <title lang="en"> Preacher Wall - Hades - NoPixel WL </title>
 <desc lang="en"> Started: 02:34 am
 Playing: Grand Theft Auto V
-Viewers: 10 </desc>
+Viewers: 8 </desc>
 </programme>
 
 <programme start="20250325042934 +0000" stop="20250327232934 +0000" channel="PotatoJesuss.us">
@@ -184,16 +169,16 @@ Playing: Grand Theft Auto V
 Viewers: 3 </desc>
 </programme>
 
-<programme start="20250325070440 +0000" stop="20250328020440 +0000" channel="Unabeard.us">
-<title lang="en"> Bruce Baylor - NoPixel 4.0 </title>
-<desc lang="en"> Started: 02:04 am
-Playing: Grand Theft Auto V
-Viewers: 3 </desc>
-</programme>
-
 <programme start="20250325074632 +0000" stop="20250328024632 +0000" channel="Brakketts.us">
 <title lang="en"> Quick one - Nopixel </title>
 <desc lang="en"> Started: 02:46 am
+Playing: Grand Theft Auto V
+Viewers: 1 </desc>
+</programme>
+
+<programme start="20250325070440 +0000" stop="20250328020440 +0000" channel="Unabeard.us">
+<title lang="en"> Bruce Baylor - NoPixel 4.0 </title>
+<desc lang="en"> Started: 02:04 am
 Playing: Grand Theft Auto V
 Viewers: 1 </desc>
 </programme>
@@ -202,35 +187,28 @@ Viewers: 1 </desc>
 <title lang="en"> Matt Rhodes - nopixel - </title>
 <desc lang="en"> Started: 1:48AM
 Playing: Grand Theft Auto V
-Viewers: 353 </desc>
+Viewers: 387 </desc>
 </programme>
 
 <programme start="20250325070456 +0000" stop="20250328020456 +0000" channel="jacksonsfaded.us">
 <title lang="en"> Smalls - Hades - Nopixel 4.0 </title>
 <desc lang="en"> Started: 2:04AM
 Playing: Grand Theft Auto V
-Viewers: 63 </desc>
+Viewers: 64 </desc>
 </programme>
 
 <programme start="20250325032530 +0000" stop="20250327222530 +0000" channel="kittenqg.us">
 <title lang="en"> Lily Fumbles - 18 - #hellofreshpartner </title>
 <desc lang="en"> Started: 10:25PM
 Playing: Grand Theft Auto V
-Viewers: 186 </desc>
+Viewers: 181 </desc>
 </programme>
 
-<programme start="20250325010049 +0000" stop="20250327200049 +0000" channel="royalcreates.us">
-<title lang="en"> Aphrodite Theos - LSPD 269 - NoPixel WL 4.0 </title>
-<desc lang="en"> Started: 8:00PM
-Playing: Grand Theft Auto V
-Viewers: 42 </desc>
-</programme>
-
-<programme start="20250325000000 +0000" stop="20250328033617 +0000" channel="anthonyz.us">
+<programme start="20250325000000 +0000" stop="20250328034317 +0000" channel="anthonyz.us">
 <title lang="en"> IM GONNA BE A DEGEN TONIGHT BOOSTING AND ALL THAT NOPIXEL WL REDLINE TONY </title>
 <desc lang="en"> Started: 08:27 pm
 Playing: Grand Theft Auto V (GTA)
-Viewers: 278 </desc>
+Viewers: 302 </desc>
 </programme>
 
 
