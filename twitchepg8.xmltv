@@ -2,20 +2,8 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="Silbullet.us">
-<display-name>Silbullet</display-name>
-</channel>
-
 <channel id="Harmless.us">
 <display-name>Harmless</display-name>
-</channel>
-
-<channel id="UnicornFrapp.us">
-<display-name>UnicornFrapp</display-name>
-</channel>
-
-<channel id="JonLaw_.us">
-<display-name>JonLaw_</display-name>
 </channel>
 
 <channel id="Blokeowski.us">
@@ -26,8 +14,16 @@
 <display-name>Sukhi_1</display-name>
 </channel>
 
-<channel id="Frank_Ladd.us">
-<display-name>Frank_Ladd</display-name>
+<channel id="UnicornFrapp.us">
+<display-name>UnicornFrapp</display-name>
+</channel>
+
+<channel id="JonLaw_.us">
+<display-name>JonLaw_</display-name>
+</channel>
+
+<channel id="LarBearTV.us">
+<display-name>LarBearTV</display-name>
 </channel>
 
 <channel id="AnnaMayMight.us">
@@ -38,12 +34,20 @@
 <display-name>nidas</display-name>
 </channel>
 
-<channel id="LarBearTV.us">
-<display-name>LarBearTV</display-name>
-</channel>
-
 <channel id="alliumm.us">
 <display-name>alliumm</display-name>
+</channel>
+
+<channel id="CrimsoneTV.us">
+<display-name>CrimsoneTV</display-name>
+</channel>
+
+<channel id="Frank_Ladd.us">
+<display-name>Frank_Ladd</display-name>
+</channel>
+
+<channel id="kittenqg.us">
+<display-name>kittenqg</display-name>
 </channel>
 
 <channel id="defac3d.us">
@@ -54,44 +58,15 @@
 <display-name>basHYYEE</display-name>
 </channel>
 
-<channel id="CrimsoneTV.us">
-<display-name>CrimsoneTV</display-name>
-</channel>
-
-<channel id="kittenqg.us">
-<display-name>kittenqg</display-name>
-</channel>
-
 <channel id="bondii.us">
 <display-name>bondii</display-name>
 </channel>
-
-<programme start="20250401060013 +0000" stop="20250404010013 +0000" channel="Silbullet.us">
-<title lang="en"> PERMAING TONIGHT - Lt. Maple 297 - LSPD - NoPixel WL 4.0 - gtarecap clip </title>
-<desc lang="en"> Started: 1:00AM
-Playing: Grand Theft Auto V
-Viewers: 90 </desc>
-</programme>
 
 <programme start="20250401061229 +0000" stop="20250404011229 +0000" channel="Harmless.us">
 <title lang="en"> Maynard Idiot Schmidt - Besties - NoPixel 4.0 </title>
 <desc lang="en"> Started: 01:12 am
 Playing: Grand Theft Auto V
-Viewers: 425 </desc>
-</programme>
-
-<programme start="20250401033854 +0000" stop="20250403223854 +0000" channel="UnicornFrapp.us">
-<title lang="en"> Remi Ironside - BCSO Deputy - Nopixel WL </title>
-<desc lang="en"> Started: 10:38 pm
-Playing: Grand Theft Auto V
-Viewers: 72 </desc>
-</programme>
-
-<programme start="20250401074738 +0000" stop="20250404024738 +0000" channel="JonLaw_.us">
-<title lang="en"> Clips  Jon Joyce 🔵 NoPixel WL 🔵 </title>
-<desc lang="en"> Started: 02:47 am
-Playing: Grand Theft Auto V
-Viewers: 300 </desc>
+Viewers: 459 </desc>
 </programme>
 
 <programme start="20250401033645 +0000" stop="20250403223645 +0000" channel="Blokeowski.us">
@@ -105,28 +80,21 @@ Viewers: 120 </desc>
 <title lang="en"> Lucky Torkel - Besties - Nopixel 4.0 </title>
 <desc lang="en"> Started: 05:19 am
 Playing: Grand Theft Auto V
-Viewers: 160 </desc>
+Viewers: 234 </desc>
 </programme>
 
-<programme start="20250401093005 +0000" stop="20250404043005 +0000" channel="Frank_Ladd.us">
-<title lang="en"> Here we are - Frank OG Scaletta - The Manor - NoPixel WL - Discord </title>
-<desc lang="en"> Started: 04:30 am
+<programme start="20250401033854 +0000" stop="20250403223854 +0000" channel="UnicornFrapp.us">
+<title lang="en"> Remi Ironside - BCSO Deputy - Nopixel WL </title>
+<desc lang="en"> Started: 10:38 pm
 Playing: Grand Theft Auto V
-Viewers: 81 </desc>
+Viewers: 79 </desc>
 </programme>
 
-<programme start="20250401082222 +0000" stop="20250404032222 +0000" channel="AnnaMayMight.us">
-<title lang="en"> [18][UK][50] Martha Them veg wont chop theirselfs - NoPixel 4.0 NP WL </title>
-<desc lang="en"> Started: 03:22 am
+<programme start="20250401074738 +0000" stop="20250404024738 +0000" channel="JonLaw_.us">
+<title lang="en"> Clips  Jon Joyce 🔵 NoPixel WL 🔵 </title>
+<desc lang="en"> Started: 02:47 am
 Playing: Grand Theft Auto V
-Viewers: 48 </desc>
-</programme>
-
-<programme start="20250401101330 +0000" stop="20250404051330 +0000" channel="nidas.us">
-<title lang="en"> Streaming until I jump in a SAUNA - @nidas </title>
-<desc lang="en"> Started: 5:13AM
-Playing: Grand Theft Auto V
-Viewers: 99 </desc>
+Viewers: 350 </desc>
 </programme>
 
 <programme start="20250401081559 +0000" stop="20250404031559 +0000" channel="LarBearTV.us">
@@ -136,39 +104,60 @@ Playing: Grand Theft Auto V
 Viewers: 8 </desc>
 </programme>
 
+<programme start="20250401082222 +0000" stop="20250404032222 +0000" channel="AnnaMayMight.us">
+<title lang="en"> [18][UK][50] Martha Them veg wont chop theirselfs - NoPixel 4.0 NP WL </title>
+<desc lang="en"> Started: 03:22 am
+Playing: Grand Theft Auto V
+Viewers: 54 </desc>
+</programme>
+
+<programme start="20250401101330 +0000" stop="20250404051330 +0000" channel="nidas.us">
+<title lang="en"> Streaming until I jump in a SAUNA - @nidas </title>
+<desc lang="en"> Started: 5:13AM
+Playing: Grand Theft Auto V
+Viewers: 125 </desc>
+</programme>
+
 <programme start="20250401072515 +0000" stop="20250404022515 +0000" channel="alliumm.us">
 <title lang="en"> ITS HER BIRTHDAY - EMS - Alice Liddell - NoPixel WL 🚑 </title>
 <desc lang="en"> Started: 02:25 am
 Playing: Grand Theft Auto V
-Viewers: 10 </desc>
-</programme>
-
-<programme start="20250401083949 +0000" stop="20250404033949 +0000" channel="defac3d.us">
-<title lang="en"> RP - G2A </title>
-<desc lang="en"> Started: 3:39AM
-Playing: Grand Theft Auto V
-Viewers: 448 </desc>
-</programme>
-
-<programme start="20250401072336 +0000" stop="20250404022336 +0000" channel="basHYYEE.us">
-<title lang="en"> Terry The Manager Adams 🔧 NoPixel 4.0 WL 🔧 Miltons Mods 🔧 @bashyyee on socials. </title>
-<desc lang="en"> Started: 02:23 am
-Playing: Grand Theft Auto V
-Viewers: 8 </desc>
+Viewers: 14 </desc>
 </programme>
 
 <programme start="20250401072047 +0000" stop="20250404022047 +0000" channel="CrimsoneTV.us">
 <title lang="en"> 18 RHYS BLAESE - EMS E-25 - Trauma isnt real kekw - NOPixel Whitelist </title>
 <desc lang="en"> Started: 02:20 am
 Playing: Grand Theft Auto V
-Viewers: 1 </desc>
+Viewers: 2 </desc>
+</programme>
+
+<programme start="20250401093005 +0000" stop="20250404043005 +0000" channel="Frank_Ladd.us">
+<title lang="en"> Here we are - Frank OG Scaletta - The Manor - NoPixel WL - Discord </title>
+<desc lang="en"> Started: 04:30 am
+Playing: Grand Theft Auto V
+Viewers: 87 </desc>
 </programme>
 
 <programme start="20250401024104 +0000" stop="20250403214104 +0000" channel="kittenqg.us">
 <title lang="en"> Sub-a-thon Day 1 - Grind f0r Partner - Lily Fumbles - 18 - #hellofreshpartner </title>
 <desc lang="en"> Started: 9:41PM
 Playing: Grand Theft Auto V
-Viewers: 89 </desc>
+Viewers: 93 </desc>
+</programme>
+
+<programme start="20250401083949 +0000" stop="20250404033949 +0000" channel="defac3d.us">
+<title lang="en"> RP - G2A </title>
+<desc lang="en"> Started: 3:39AM
+Playing: Grand Theft Auto V
+Viewers: 459 </desc>
+</programme>
+
+<programme start="20250401072336 +0000" stop="20250404022336 +0000" channel="basHYYEE.us">
+<title lang="en"> Terry The Manager Adams 🔧 NoPixel 4.0 WL 🔧 Miltons Mods 🔧 @bashyyee on socials. </title>
+<desc lang="en"> Started: 02:23 am
+Playing: Grand Theft Auto V
+Viewers: 10 </desc>
 </programme>
 
 <programme start="20250401092004 +0000" stop="20250404042004 +0000" channel="bondii.us">
