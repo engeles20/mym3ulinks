@@ -2,6 +2,10 @@
 <display-name>clearepg</display-name>
 </channel>
 
+<channel id="kingjayclouted.us">
+<display-name>kingjayclouted</display-name>
+</channel>
+
 <channel id="Judd.us">
 <display-name>Judd</display-name>
 </channel>
@@ -12,6 +16,10 @@
 
 <channel id="NismoDOMA.us">
 <display-name>NismoDOMA</display-name>
+</channel>
+
+<channel id="raided.us">
+<display-name>raided</display-name>
 </channel>
 
 <channel id="casualbaesu.us">
@@ -26,20 +34,12 @@
 <display-name>CrimsoneTV</display-name>
 </channel>
 
-<channel id="kingjayclouted.us">
-<display-name>kingjayclouted</display-name>
+<channel id="solekefs.us">
+<display-name>solekefs</display-name>
 </channel>
 
 <channel id="ThisIsFineLive.us">
 <display-name>ThisIsFineLive</display-name>
-</channel>
-
-<channel id="raided.us">
-<display-name>raided</display-name>
-</channel>
-
-<channel id="solekefs.us">
-<display-name>solekefs</display-name>
 </channel>
 
 <channel id="heyimzed.us">
@@ -62,51 +62,65 @@
 <display-name>margothesnail</display-name>
 </channel>
 
-<channel id="bondii.us">
-<display-name>bondii</display-name>
-</channel>
-
 <channel id="kittenqg.us">
 <display-name>kittenqg</display-name>
+</channel>
+
+<channel id="bondii.us">
+<display-name>bondii</display-name>
 </channel>
 
 <channel id="dasmehdi.us">
 <display-name>dasmehdi</display-name>
 </channel>
 
+<programme start="20250406060012 +0000" stop="20250409010012 +0000" channel="kingjayclouted.us">
+<title lang="en"> 🚔 Fivem Server Hoppin🚔Police Patrol - Hood RP - GTA6 Realistic Graphics Mod - Serious Roleplay Cop RP- pc graphics </title>
+<desc lang="en"> Started: 1:00AM
+Playing: Grand Theft Auto V
+Viewers: 21 </desc>
+</programme>
+
 <programme start="20250406061055 +0000" stop="20250409011055 +0000" channel="Judd.us">
 <title lang="en"> I havent Been on nopixel in f0rever lets do it </title>
 <desc lang="en"> Started: 01:10 am
 Playing: Grand Theft Auto V
-Viewers: 255 </desc>
+Viewers: 263 </desc>
 </programme>
 
 <programme start="20250406034653 +0000" stop="20250408224653 +0000" channel="zaxx386.us">
 <title lang="en"> Moose Knuckles - Judge - Clown - Stansfeld Belany - DOC - NoPixel WL - Epic Creator Code: ZAXX386c </title>
 <desc lang="en"> Started: 10:46 pm
 Playing: Grand Theft Auto V
-Viewers: 56 </desc>
+Viewers: 59 </desc>
 </programme>
 
 <programme start="20250405225727 +0000" stop="20250408175727 +0000" channel="NismoDOMA.us">
 <title lang="en"> Tony Leung - Fumbling is hereditary - HADES - NoPixel WL </title>
 <desc lang="en"> Started: 05:57 pm
 Playing: Grand Theft Auto V
-Viewers: 45 </desc>
+Viewers: 48 </desc>
+</programme>
+
+<programme start="20250406071351 +0000" stop="20250409021351 +0000" channel="raided.us">
+<title lang="en"> Draider - NoPixel Dev </title>
+<desc lang="en"> Started: 2:13AM
+Playing: Grand Theft Auto V
+Viewers: 104 </desc>
 </programme>
 
 <programme start="20250406025519 +0000" stop="20250408215519 +0000" channel="casualbaesu.us">
 <title lang="en"> Baesu Heartless - Hades - NP 4.0 WL </title>
 <desc lang="en"> Started: 09:55 pm
 Playing: Grand Theft Auto V
-Viewers: 20 </desc>
+Viewers: 17 </desc>
 </programme>
 
 <programme start="20250406072130 +0000" stop="20250409022130 +0000" channel="NotGonnaResub.us">
 <title lang="en"> 😈 Gus Andersen 😈 SANI DEMON 😈 BOOST CONNOISSEUR 😈 NoPixel WL 4.0 😈 </title>
 <desc lang="en"> Started: 02:21 am
 Playing: Grand Theft Auto V
-Viewers: 10 </desc>
+Viewers: 9 </desc>
 </programme>
 
 <programme start="20250406065253 +0000" stop="20250409015253 +0000" channel="CrimsoneTV.us">
@@ -116,11 +130,11 @@ Playing: Grand Theft Auto V
 Viewers: 8 </desc>
 </programme>
 
-<programme start="20250406060012 +0000" stop="20250409010012 +0000" channel="kingjayclouted.us">
-<title lang="en"> 🚔 Fivem Server Hoppin🚔Police Patrol - Hood RP - GTA6 Realistic Graphics Mod - Serious Roleplay Cop RP- pc graphics </title>
-<desc lang="en"> Started: 1:00AM
+<programme start="20250406074736 +0000" stop="20250409024736 +0000" channel="solekefs.us">
+<title lang="en"> 🌴 Junior Meats 🍖 🟩 Prodigy RP WL 🟩 </title>
+<desc lang="en"> Started: 2:47AM
 Playing: Grand Theft Auto V
-Viewers: 23 </desc>
+Viewers: 17 </desc>
 </programme>
 
 <programme start="20250406005821 +0000" stop="20250408195821 +0000" channel="ThisIsFineLive.us">
@@ -130,70 +144,56 @@ Playing: Grand Theft Auto V
 Viewers: 6 </desc>
 </programme>
 
-<programme start="20250406071351 +0000" stop="20250409021351 +0000" channel="raided.us">
-<title lang="en"> Draider - NoPixel Dev </title>
-<desc lang="en"> Started: 2:13AM
-Playing: Grand Theft Auto V
-Viewers: 114 </desc>
-</programme>
-
-<programme start="20250406074736 +0000" stop="20250409024736 +0000" channel="solekefs.us">
-<title lang="en"> 🌴 Junior Meats 🍖 🟩 Prodigy RP WL 🟩 </title>
-<desc lang="en"> Started: 2:47AM
-Playing: Grand Theft Auto V
-Viewers: 18 </desc>
-</programme>
-
 <programme start="20250405215349 +0000" stop="20250408165349 +0000" channel="heyimzed.us">
 <title lang="en"> Patch First 💀 ADMC HC 💀 EDBERT ROPEBURN 💀 NOPIXEL WL </title>
 <desc lang="en"> Started: 4:53PM
 Playing: Grand Theft Auto V
-Viewers: 769 </desc>
+Viewers: 686 </desc>
 </programme>
 
 <programme start="20250405234827 +0000" stop="20250408184827 +0000" channel="cutieno.us">
 <title lang="en"> Rue Minmi - ADMC SecRUEtary - Nopixel WL - Bottle by bottle </title>
 <desc lang="en"> Started: 6:48PM
 Playing: Grand Theft Auto V
-Viewers: 204 </desc>
+Viewers: 205 </desc>
 </programme>
 
 <programme start="20250406052102 +0000" stop="20250409002102 +0000" channel="theeazylife.us">
 <title lang="en"> Valentino - Nopixel WL - sub , </title>
 <desc lang="en"> Started: 12:21AM
 Playing: Grand Theft Auto V
-Viewers: 64 </desc>
+Viewers: 68 </desc>
 </programme>
 
 <programme start="20250406072548 +0000" stop="20250409022548 +0000" channel="jacksonsfaded.us">
 <title lang="en"> Smalls - Hades - Nopixel 4.0 - Short one (extra cooked) </title>
 <desc lang="en"> Started: 2:25AM
 Playing: Grand Theft Auto V
-Viewers: 61 </desc>
+Viewers: 50 </desc>
 </programme>
 
 <programme start="20250406043412 +0000" stop="20250408233412 +0000" channel="margothesnail.us">
 <title lang="en"> Margo Escargot - The Crackheads - NoPixel WL </title>
 <desc lang="en"> Started: 11:34PM
 Playing: Grand Theft Auto V
-Viewers: 58 </desc>
-</programme>
-
-<programme start="20250406063124 +0000" stop="20250409013124 +0000" channel="bondii.us">
-<title lang="en"> Randall Dalton - Episode 63 - NoPixel WL - THE CRACKHEADS </title>
-<desc lang="en"> Started: 1:31AM
-Playing: Grand Theft Auto V
-Viewers: 6 </desc>
+Viewers: 56 </desc>
 </programme>
 
 <programme start="20250406070235 +0000" stop="20250409020235 +0000" channel="kittenqg.us">
 <title lang="en"> Sub-a-thon Day 6 - Grind f0r Partner - Lily Fumbles - 18 - #hellofreshpartner </title>
 <desc lang="en"> Started: 2:02AM
 Playing: Grand Theft Auto V
-Viewers: 55 </desc>
+Viewers: 56 </desc>
 </programme>
 
-<programme start="20250406000000 +0000" stop="20250409031316 +0000" channel="dasmehdi.us">
+<programme start="20250406063124 +0000" stop="20250409013124 +0000" channel="bondii.us">
+<title lang="en"> Randall Dalton - Episode 63 - NoPixel WL - THE CRACKHEADS </title>
+<desc lang="en"> Started: 1:31AM
+Playing: Grand Theft Auto V
+Viewers: 7 </desc>
+</programme>
+
+<programme start="20250406000000 +0000" stop="20250409032117 +0000" channel="dasmehdi.us">
 <title lang="en">  </title>
 <desc lang="en"> Started: 
 Playing: 
