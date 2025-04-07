@@ -2,10 +2,6 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="capped.us">
-<display-name>capped</display-name>
-</channel>
-
 <channel id="moosetaffy.us">
 <display-name>moosetaffy</display-name>
 </channel>
@@ -46,67 +42,76 @@
 <display-name>hotted89</display-name>
 </channel>
 
-<programme start="20250407123441 +0000" stop="20250410073441 +0000" channel="capped.us">
-<title lang="en"> The Faceless - NoPixel - </title>
-<desc lang="en"> Started: 7:34AM
-Playing: Grand Theft Auto V
-Viewers: 360 </desc>
-</programme>
+<channel id="aaoki.us">
+<display-name>aaoki</display-name>
+</channel>
+
+<channel id="YooshiiBear.us">
+<display-name>YooshiiBear</display-name>
+</channel>
+
+<channel id="tessquinn.us">
+<display-name>tessquinn</display-name>
+</channel>
+
+<channel id="swizz.us">
+<display-name>swizz</display-name>
+</channel>
 
 <programme start="20250407124947 +0000" stop="20250410074947 +0000" channel="moosetaffy.us">
 <title lang="en"> Patar Bellosh - GTA RP - Minecraft Movie Recap... - [Updates] - @MooseTaffy </title>
 <desc lang="en"> Started: 7:49AM
 Playing: Grand Theft Auto V
-Viewers: 21 </desc>
+Viewers: 65 </desc>
 </programme>
 
 <programme start="20250407031818 +0000" stop="20250409221818 +0000" channel="UnicornFrapp.us">
 <title lang="en"> Remi Ironside - BCSO Deputy - Nopixel WL </title>
 <desc lang="en"> Started: 10:18 pm
 Playing: Grand Theft Auto V
-Viewers: 85 </desc>
+Viewers: 80 </desc>
 </programme>
 
 <programme start="20250407055511 +0000" stop="20250410005511 +0000" channel="CrimsoneTV.us">
 <title lang="en"> 18 Rhys Blaese - EMS RP on NoPixel Whitelist </title>
 <desc lang="en"> Started: 12:55 am
 Playing: Grand Theft Auto V
-Viewers: 94 </desc>
+Viewers: 85 </desc>
 </programme>
 
 <programme start="20250407090641 +0000" stop="20250410040641 +0000" channel="ScratchRP.us">
 <title lang="en"> Scuffed stream #76 - Jasper Johns - No Pixel 4.0 🐍 Hydra 🐍 - discord </title>
 <desc lang="en"> Started: 04:06 am
 Playing: Grand Theft Auto V
-Viewers: 60 </desc>
+Viewers: 61 </desc>
 </programme>
 
 <programme start="20250407102111 +0000" stop="20250410052111 +0000" channel="Papa_Capes.us">
 <title lang="en"> Dominic Kavanagh - New Week, Same Goals - Cypress - NoPixel WL -- UNITY IN DIVERSITY - #LeaveYourMark </title>
 <desc lang="en"> Started: 05:21 am
 Playing: Grand Theft Auto V
-Viewers: 32 </desc>
+Viewers: 36 </desc>
 </programme>
 
 <programme start="20250407112028 +0000" stop="20250410062028 +0000" channel="rexs.us">
 <title lang="en"> REX - 🐍 HYDRA GANG 🐍 - NOPIXEL WL </title>
 <desc lang="en"> Started: 6:20AM
 Playing: Grand Theft Auto V
-Viewers: 145 </desc>
+Viewers: 155 </desc>
 </programme>
 
 <programme start="20250407111048 +0000" stop="20250410061048 +0000" channel="nidas.us">
 <title lang="en"> Last of us e2 - NO SPOILERS, FIRST TYME- @nidas </title>
 <desc lang="en"> Started: 6:10AM
 Playing: The Last of Us Part II
-Viewers: 136 </desc>
+Viewers: 143 </desc>
 </programme>
 
 <programme start="20250407084203 +0000" stop="20250410034203 +0000" channel="defac3d.us">
 <title lang="en"> RP - G2A </title>
 <desc lang="en"> Started: 3:42AM
 Playing: Grand Theft Auto V
-Viewers: 425 </desc>
+Viewers: 443 </desc>
 </programme>
 
 <programme start="20250407103218 +0000" stop="20250410053218 +0000" channel="chilljason_.us">
@@ -120,7 +125,35 @@ Viewers: 1 </desc>
 <title lang="en"> Sgt. Matthew Espinoz - Hot pursuits - Nopixel WL </title>
 <desc lang="en"> Started: 2:05AM
 Playing: Grand Theft Auto V
-Viewers: 263 </desc>
+Viewers: 293 </desc>
+</programme>
+
+<programme start="20250407130149 +0000" stop="20250410080149 +0000" channel="aaoki.us">
+<title lang="en"> Marshal Hughes - NoPixel W.L - Stream </title>
+<desc lang="en"> Started: 8:01AM
+Playing: Grand Theft Auto V
+Viewers: 5 </desc>
+</programme>
+
+<programme start="20250407125108 +0000" stop="20250410075108 +0000" channel="YooshiiBear.us">
+<title lang="en"> HYDRA ASSASSIN DAY 3 - Eliyanna BROKE Ali - NOPIXEL WL 4.0 - donate - pushing f0r partner </title>
+<desc lang="en"> Started: 07:51 am
+Playing: Grand Theft Auto V
+Viewers: 11 </desc>
+</programme>
+
+<programme start="20250407130111 +0000" stop="20250410080111 +0000" channel="tessquinn.us">
+<title lang="en"> Tess Quinn, big day Self incriminating - Forsaken - Prodigy 2.5 WL - tiktok accent </title>
+<desc lang="en"> Started: 8:01AM
+Playing: Grand Theft Auto V
+Viewers: 3 </desc>
+</programme>
+
+<programme start="20250407000000 +0000" stop="20250410080630 +0000" channel="swizz.us">
+<title lang="en"> Miguel Almerion  NoPixel 🟢🟢Kick Stream☝️ </title>
+<desc lang="en"> Started: 02:02 am
+Playing: No Pixel RP (GTA)
+Viewers: 120 </desc>
 </programme>
 
 
