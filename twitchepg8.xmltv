@@ -2,8 +2,16 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="capped.us">
-<display-name>capped</display-name>
+<channel id="rexs.us">
+<display-name>rexs</display-name>
+</channel>
+
+<channel id="harmless.us">
+<display-name>harmless</display-name>
+</channel>
+
+<channel id="defac3d.us">
+<display-name>defac3d</display-name>
 </channel>
 
 <channel id="UnicornFrapp.us">
@@ -18,44 +26,24 @@
 <display-name>Frank_Ladd</display-name>
 </channel>
 
-<channel id="rexs.us">
-<display-name>rexs</display-name>
-</channel>
-
 <channel id="CrimsoneTV.us">
 <display-name>CrimsoneTV</display-name>
-</channel>
-
-<channel id="harmless.us">
-<display-name>harmless</display-name>
-</channel>
-
-<channel id="dj_fusion.us">
-<display-name>dj_fusion</display-name>
-</channel>
-
-<channel id="defac3d.us">
-<display-name>defac3d</display-name>
 </channel>
 
 <channel id="kingjayclouted.us">
 <display-name>kingjayclouted</display-name>
 </channel>
 
+<channel id="dj_fusion.us">
+<display-name>dj_fusion</display-name>
+</channel>
+
 <channel id="potatojesuss.us">
 <display-name>potatojesuss</display-name>
 </channel>
 
-<channel id="christombstone.us">
-<display-name>christombstone</display-name>
-</channel>
-
 <channel id="theeazylife.us">
 <display-name>theeazylife</display-name>
-</channel>
-
-<channel id="margothesnail.us">
-<display-name>margothesnail</display-name>
 </channel>
 
 <channel id="bondii.us">
@@ -66,39 +54,54 @@
 <display-name>kittenqg</display-name>
 </channel>
 
-<programme start="20250410091043 +0000" stop="20250413041043 +0000" channel="capped.us">
-<title lang="en"> Capped Pigeon Tarranova - NoPixel - </title>
-<desc lang="en"> Started: 4:10AM
+<channel id="crystalst.us">
+<display-name>crystalst</display-name>
+</channel>
+
+<channel id="margothesnail.us">
+<display-name>margothesnail</display-name>
+</channel>
+
+<programme start="20250410051014 +0000" stop="20250413001014 +0000" channel="rexs.us">
+<title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - Hydra - NoPixel WL </title>
+<desc lang="en"> Started: 12:10AM
 Playing: Grand Theft Auto V
-Viewers: 360 </desc>
+Viewers: 345 </desc>
+</programme>
+
+<programme start="20250410050631 +0000" stop="20250413000631 +0000" channel="harmless.us">
+<title lang="en"> Perry Falken - NoPixel 4.0 </title>
+<desc lang="en"> Started: 12:06AM
+Playing: Grand Theft Auto V
+Viewers: 574 </desc>
+</programme>
+
+<programme start="20250410092301 +0000" stop="20250413042301 +0000" channel="defac3d.us">
+<title lang="en"> RP  CLIPS  IRL LATER - G2A </title>
+<desc lang="en"> Started: 4:23AM
+Playing: Grand Theft Auto V
+Viewers: 344 </desc>
 </programme>
 
 <programme start="20250410085911 +0000" stop="20250413035911 +0000" channel="UnicornFrapp.us">
 <title lang="en"> Remi Ironside - BCSO Deputy - Nopixel WL - Long One </title>
 <desc lang="en"> Started: 03:59 am
 Playing: Grand Theft Auto V
-Viewers: 97 </desc>
+Viewers: 115 </desc>
 </programme>
 
 <programme start="20250410082657 +0000" stop="20250413032657 +0000" channel="ScratchRP.us">
 <title lang="en"> Scuffed stream #78 - Jasper Johns - No Pixel 4.0 🐍 Hydra 🐍 - discord </title>
 <desc lang="en"> Started: 03:26 am
 Playing: Grand Theft Auto V
-Viewers: 42 </desc>
+Viewers: 40 </desc>
 </programme>
 
 <programme start="20250410091930 +0000" stop="20250413041930 +0000" channel="Frank_Ladd.us">
 <title lang="en"> Any action - Frank OG Scaletta - The Manor - NoPixel WL - Discord </title>
 <desc lang="en"> Started: 04:19 am
 Playing: Grand Theft Auto V
-Viewers: 42 </desc>
-</programme>
-
-<programme start="20250410051014 +0000" stop="20250413001014 +0000" channel="rexs.us">
-<title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - Hydra - NoPixel WL </title>
-<desc lang="en"> Started: 12:10AM
-Playing: Grand Theft Auto V
-Viewers: 146 </desc>
+Viewers: 40 </desc>
 </programme>
 
 <programme start="20250410065441 +0000" stop="20250413015441 +0000" channel="CrimsoneTV.us">
@@ -108,11 +111,11 @@ Playing: Grand Theft Auto V
 Viewers: 6 </desc>
 </programme>
 
-<programme start="20250410050631 +0000" stop="20250413000631 +0000" channel="harmless.us">
-<title lang="en"> Perry Falken - NoPixel 4.0 </title>
-<desc lang="en"> Started: 12:06AM
+<programme start="20250410082259 +0000" stop="20250413032259 +0000" channel="kingjayclouted.us">
+<title lang="en"> Trooper J.Stone - Lifestyle RP Police RP - San Andreas State Patrols - High-Speed Pursuits - GTA 5 RP Live - pc graphics </title>
+<desc lang="en"> Started: 3:22AM
 Playing: Grand Theft Auto V
-Viewers: 560 </desc>
+Viewers: 18 </desc>
 </programme>
 
 <programme start="20250410085532 +0000" stop="20250413035532 +0000" channel="dj_fusion.us">
@@ -122,46 +125,18 @@ Playing: Grand Theft Auto V
 Viewers: 2 </desc>
 </programme>
 
-<programme start="20250410092301 +0000" stop="20250413042301 +0000" channel="defac3d.us">
-<title lang="en"> RP  CLIPS  IRL LATER - G2A </title>
-<desc lang="en"> Started: 4:23AM
-Playing: Grand Theft Auto V
-Viewers: 324 </desc>
-</programme>
-
-<programme start="20250410082259 +0000" stop="20250413032259 +0000" channel="kingjayclouted.us">
-<title lang="en"> Trooper J.Stone - Lifestyle RP Police RP - San Andreas State Patrols - High-Speed Pursuits - GTA 5 RP Live - pc graphics </title>
-<desc lang="en"> Started: 3:22AM
-Playing: Grand Theft Auto V
-Viewers: 19 </desc>
-</programme>
-
 <programme start="20250410052114 +0000" stop="20250413002114 +0000" channel="potatojesuss.us">
 <title lang="en"> Kenny Cushman - NoPixel 4.0 - </title>
 <desc lang="en"> Started: 12:21AM
 Playing: Grand Theft Auto V
-Viewers: 3 </desc>
-</programme>
-
-<programme start="20250410010547 +0000" stop="20250412200547 +0000" channel="christombstone.us">
-<title lang="en"> Flop Dugong - ADMC Prospect - NoPixel WL - @ChrisTombstone_ on </title>
-<desc lang="en"> Started: 8:05PM
-Playing: Grand Theft Auto V
-Viewers: 375 </desc>
+Viewers: 8 </desc>
 </programme>
 
 <programme start="20250410014157 +0000" stop="20250412204157 +0000" channel="theeazylife.us">
 <title lang="en"> Valentino - Nopixel WL - sub , </title>
 <desc lang="en"> Started: 8:41PM
 Playing: Grand Theft Auto V
-Viewers: 21 </desc>
-</programme>
-
-<programme start="20250410043343 +0000" stop="20250412233343 +0000" channel="margothesnail.us">
-<title lang="en"> Margo Escargot - The Crackheads - NoPixel WL </title>
-<desc lang="en"> Started: 11:33PM
-Playing: Grand Theft Auto V
-Viewers: 65 </desc>
+Viewers: 31 </desc>
 </programme>
 
 <programme start="20250410082219 +0000" stop="20250413032219 +0000" channel="bondii.us">
@@ -175,7 +150,21 @@ Viewers: 6 </desc>
 <title lang="en"> Sub-a-thon Day 10 - Grind f0r Partner - Lily Fumbles - 18 - #hellofreshpartner </title>
 <desc lang="en"> Started: 11:52PM
 Playing: Grand Theft Auto V
-Viewers: 319 </desc>
+Viewers: 287 </desc>
+</programme>
+
+<programme start="20250410100057 +0000" stop="20250413050057 +0000" channel="crystalst.us">
+<title lang="en"> ✨crystals clear1 arc continuing LA noire later ~ </title>
+<desc lang="en"> Started: 5:00AM
+Playing: Grand Theft Auto V
+Viewers: 41 </desc>
+</programme>
+
+<programme start="20250410043343 +0000" stop="20250412233343 +0000" channel="margothesnail.us">
+<title lang="en"> Margo Escargot - The Crackheads - NoPixel WL </title>
+<desc lang="en"> Started: 11:33PM
+Playing: Grand Theft Auto V
+Viewers: 55 </desc>
 </programme>
 
 
