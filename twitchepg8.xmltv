@@ -2,8 +2,16 @@
 <display-name>clearepg</display-name>
 </channel>
 
+<channel id="crystalst.us">
+<display-name>crystalst</display-name>
+</channel>
+
 <channel id="sock22.us">
 <display-name>sock22</display-name>
+</channel>
+
+<channel id="berryyboo.us">
+<display-name>berryyboo</display-name>
 </channel>
 
 <channel id="Oyamec.us">
@@ -14,8 +22,8 @@
 <display-name>YooshiiBear</display-name>
 </channel>
 
-<channel id="berryyboo.us">
-<display-name>berryyboo</display-name>
+<channel id="NotGonnaResub.us">
+<display-name>NotGonnaResub</display-name>
 </channel>
 
 <channel id="nidas.us">
@@ -50,34 +58,40 @@
 <display-name>kittenqg</display-name>
 </channel>
 
-<channel id="crystalst.us">
-<display-name>crystalst</display-name>
-</channel>
-
-<channel id="NotGonnaResub.us">
-<display-name>NotGonnaResub</display-name>
+<channel id="stankxo.us">
+<display-name>stankxo</display-name>
 </channel>
 
 <channel id="ming.us">
 <display-name>ming</display-name>
 </channel>
 
-<channel id="stankxo.us">
-<display-name>stankxo</display-name>
-</channel>
+<programme start="20250411111307 +0000" stop="20250414061307 +0000" channel="crystalst.us">
+<title lang="en"> ✨cozy crystal clear patrol ~ </title>
+<desc lang="en"> Started: 6:13AM
+Playing: Grand Theft Auto V
+Viewers: 124 </desc>
+</programme>
 
 <programme start="20250411085800 +0000" stop="20250414035800 +0000" channel="sock22.us">
 <title lang="en"> Richard Dark - NoPixel - </title>
 <desc lang="en"> Started: 3:58AM
 Playing: Grand Theft Auto V
-Viewers: 395 </desc>
+Viewers: 401 </desc>
+</programme>
+
+<programme start="20250411110230 +0000" stop="20250414060230 +0000" channel="berryyboo.us">
+<title lang="en"> Lt. Viv - Friyay - LSPD - </title>
+<desc lang="en"> Started: 6:02AM
+Playing: Grand Theft Auto V
+Viewers: 118 </desc>
 </programme>
 
 <programme start="20250411090202 +0000" stop="20250414040202 +0000" channel="Oyamec.us">
 <title lang="en"> Lotte Breeze - Good Girls Go Bad - Did a murder - Old Lady - NoPixel WL - GTARP </title>
 <desc lang="en"> Started: 04:02 am
 Playing: Grand Theft Auto V
-Viewers: 80 </desc>
+Viewers: 86 </desc>
 </programme>
 
 <programme start="20250411110132 +0000" stop="20250414060132 +0000" channel="YooshiiBear.us">
@@ -87,53 +101,53 @@ Playing: Grand Theft Auto V
 Viewers: 74 </desc>
 </programme>
 
-<programme start="20250411110230 +0000" stop="20250414060230 +0000" channel="berryyboo.us">
-<title lang="en"> Lt. Viv - Friyay - LSPD - </title>
-<desc lang="en"> Started: 6:02AM
+<programme start="20250411111024 +0000" stop="20250414061024 +0000" channel="NotGonnaResub.us">
+<title lang="en"> TESTING NEW ALERTS AND MULTISTREAM TODAY 😈 Gus Andersen 😈 SANI DEMON 😈 BOOST CONNOISSEUR 😈 NoPixel WL 4.0 😈 </title>
+<desc lang="en"> Started: 06:10 am
 Playing: Grand Theft Auto V
-Viewers: 85 </desc>
+Viewers: 7 </desc>
 </programme>
 
 <programme start="20250411110111 +0000" stop="20250414060111 +0000" channel="nidas.us">
 <title lang="en"> FRIDAY STYLE YEAH (drilling stream) - @nidas </title>
 <desc lang="en"> Started: 6:01AM
 Playing: Just Chatting
-Viewers: 66 </desc>
+Viewers: 65 </desc>
 </programme>
 
 <programme start="20250411050933 +0000" stop="20250414000933 +0000" channel="harmless.us">
 <title lang="en"> Perry Falken - Nopixel 4.0 </title>
 <desc lang="en"> Started: 12:09AM
 Playing: Grand Theft Auto V
-Viewers: 510 </desc>
+Viewers: 501 </desc>
 </programme>
 
 <programme start="20250411085832 +0000" stop="20250414035832 +0000" channel="defac3d.us">
 <title lang="en"> FRIDAY - G2A </title>
 <desc lang="en"> Started: 3:58AM
 Playing: Grand Theft Auto V
-Viewers: 384 </desc>
+Viewers: 406 </desc>
 </programme>
 
 <programme start="20250411101848 +0000" stop="20250414051848 +0000" channel="angelina.us">
 <title lang="en"> facecam ✨ SHORT STRIM ✨ BRANDI LYNN ✨ BCSO DEPUTY ✨ NOPIXEL WL ✨ </title>
 <desc lang="en"> Started: 5:18AM
 Playing: Grand Theft Auto V
-Viewers: 304 </desc>
+Viewers: 303 </desc>
 </programme>
 
 <programme start="20250411091352 +0000" stop="20250414041352 +0000" channel="hotted89.us">
 <title lang="en"> Sgt. Matthew Espinoz - Nopixel WL </title>
 <desc lang="en"> Started: 4:13AM
 Playing: Grand Theft Auto V
-Viewers: 88 </desc>
+Viewers: 70 </desc>
 </programme>
 
 <programme start="20250411103151 +0000" stop="20250414053151 +0000" channel="roxmiral.us">
 <title lang="en"> Making new trooper cadet mald - EU SHIFT IS GREAT - PurpleRP emergency </title>
 <desc lang="en"> Started: 5:31AM
 Playing: Grand Theft Auto V
-Viewers: 126 </desc>
+Viewers: 147 </desc>
 </programme>
 
 <programme start="20250411065501 +0000" stop="20250414015501 +0000" channel="curvyelephant.us">
@@ -147,31 +161,17 @@ Viewers: 393 </desc>
 <title lang="en"> Sub-a-thon Day 11 - Grind f0r Partner - Lily Fumbles - 18 - #hellofreshpartner </title>
 <desc lang="en"> Started: 3:22AM
 Playing: Grand Theft Auto V
-Viewers: 80 </desc>
+Viewers: 85 </desc>
 </programme>
 
-<programme start="20250411111307 +0000" stop="20250414061307 +0000" channel="crystalst.us">
-<title lang="en"> ✨cozy crystal clear patrol ~ </title>
-<desc lang="en"> Started: 6:13AM
-Playing: Grand Theft Auto V
-Viewers: 83 </desc>
-</programme>
-
-<programme start="20250411111024 +0000" stop="20250414061024 +0000" channel="NotGonnaResub.us">
-<title lang="en"> TESTING NEW ALERTS AND MULTISTREAM TODAY 😈 Gus Andersen 😈 SANI DEMON 😈 BOOST CONNOISSEUR 😈 NoPixel WL 4.0 😈 </title>
-<desc lang="en"> Started: 06:10 am
-Playing: Grand Theft Auto V
-Viewers: 6 </desc>
-</programme>
-
-<programme start="20250411000000 +0000" stop="20250414062131 +0000" channel="ming.us">
+<programme start="20250411000000 +0000" stop="20250414062817 +0000" channel="stankxo.us">
 <title lang="en">  </title>
 <desc lang="en"> Started: 
 Playing: 
 Viewers:  </desc>
 </programme>
 
-<programme start="20250411000000 +0000" stop="20250414062131 +0000" channel="stankxo.us">
+<programme start="20250411000000 +0000" stop="20250414062817 +0000" channel="ming.us">
 <title lang="en">  </title>
 <desc lang="en"> Started: 
 Playing: 
