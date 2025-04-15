@@ -2,16 +2,12 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="tjnv.us">
-<display-name>tjnv</display-name>
-</channel>
-
-<channel id="reconmalfunction.us">
-<display-name>reconmalfunction</display-name>
-</channel>
-
 <channel id="yuukidav.us">
 <display-name>yuukidav</display-name>
+</channel>
+
+<channel id="harmless.us">
+<display-name>harmless</display-name>
 </channel>
 
 <channel id="mungo.us">
@@ -42,10 +38,6 @@
 <display-name>DevilSiren</display-name>
 </channel>
 
-<channel id="itsNICVIC.us">
-<display-name>itsNICVIC</display-name>
-</channel>
-
 <channel id="zaxx386.us">
 <display-name>zaxx386</display-name>
 </channel>
@@ -54,16 +46,24 @@
 <display-name>NismoDOMA</display-name>
 </channel>
 
+<channel id="itsNICVIC.us">
+<display-name>itsNICVIC</display-name>
+</channel>
+
 <channel id="Skorbnut.us">
 <display-name>Skorbnut</display-name>
+</channel>
+
+<channel id="iMaceinHD.us">
+<display-name>iMaceinHD</display-name>
 </channel>
 
 <channel id="sethbowdengaming.us">
 <display-name>sethbowdengaming</display-name>
 </channel>
 
-<channel id="iMaceinHD.us">
-<display-name>iMaceinHD</display-name>
+<channel id="Blokeowski.us">
+<display-name>Blokeowski</display-name>
 </channel>
 
 <channel id="heyimzed.us">
@@ -78,16 +78,8 @@
 <display-name>margothesnail</display-name>
 </channel>
 
-<channel id="harmless.us">
-<display-name>harmless</display-name>
-</channel>
-
 <channel id="kittenqg.us">
 <display-name>kittenqg</display-name>
-</channel>
-
-<channel id="LarBearTV.us">
-<display-name>LarBearTV</display-name>
 </channel>
 
 <channel id="Twinkles.us">
@@ -98,93 +90,83 @@
 <display-name>firecrackthat</display-name>
 </channel>
 
+<channel id="LarBearTV.us">
+<display-name>LarBearTV</display-name>
+</channel>
+
 <channel id="Kaelath_The_Red.us">
 <display-name>Kaelath_The_Red</display-name>
 </channel>
 
-<channel id="Blokeowski.us">
-<display-name>Blokeowski</display-name>
+<channel id="MrGlee.us">
+<display-name>MrGlee</display-name>
 </channel>
 
 <channel id="xqc.us">
 <display-name>xqc</display-name>
 </channel>
 
-<programme start="20250414171000 +0000" stop="20250417121000 +0000" channel="tjnv.us">
-<title lang="en"> Charli  CJ  Jones - mission - NOPIXEL </title>
-<desc lang="en"> Started: 12:10PM
-Playing: Grand Theft Auto V
-Viewers: 914 </desc>
-</programme>
-
-<programme start="20250415022300 +0000" stop="20250417212300 +0000" channel="reconmalfunction.us">
-<title lang="en"> ProdigyRP 2.5 WL -- Richard Woytkiw - CG - Chill - #hellofreshpartner -- pzserver pzmods marbles </title>
-<desc lang="en"> Started: 9:23PM
-Playing: Grand Theft Auto V
-Viewers: 128 </desc>
-</programme>
-
 <programme start="20250415050642 +0000" stop="20250418000642 +0000" channel="yuukidav.us">
 <title lang="en"> captain lukas lavender 🎀 bcso - nopixel wl - @yuukidav modapp </title>
 <desc lang="en"> Started: 12:06AM
 Playing: Grand Theft Auto V
-Viewers: 171 </desc>
+Viewers: 177 </desc>
+</programme>
+
+<programme start="20250415052418 +0000" stop="20250418002418 +0000" channel="harmless.us">
+<title lang="en"> Perry Falken - NoPixel 4.0 gs Gamer Supps - NEW EMOTES </title>
+<desc lang="en"> Started: 12:24AM
+Playing: Grand Theft Auto V
+Viewers: 69 </desc>
 </programme>
 
 <programme start="20250414232051 +0000" stop="20250417182051 +0000" channel="mungo.us">
 <title lang="en"> Bobby Beldrum - NoPixel 4.0 - Blue Prince Continued Today </title>
 <desc lang="en"> Started: 6:20PM
 Playing: Grand Theft Auto V
-Viewers: 85 </desc>
+Viewers: 84 </desc>
 </programme>
 
 <programme start="20250414203821 +0000" stop="20250417153821 +0000" channel="NinjaJessica.us">
 <title lang="en"> 🔥 Ember Quinn 🔥 Nopixel 4.0 Whitelist 🔥 GFUEL #GFUEL 🔥 </title>
 <desc lang="en"> Started: 3:38PM
 Playing: Grand Theft Auto V
-Viewers: 43 </desc>
+Viewers: 42 </desc>
 </programme>
 
 <programme start="20250414172452 +0000" stop="20250417122452 +0000" channel="xKibbs.us">
 <title lang="en"> 🔴 JONAH JOJO HYDELL 🔴 NORTH CYPRESS 🔴 FRESH WEEK - NOPIXEL 4.0 </title>
 <desc lang="en"> Started: 12:24 pm
 Playing: Grand Theft Auto V
-Viewers: 144 </desc>
+Viewers: 590 </desc>
 </programme>
 
 <programme start="20250415003040 +0000" stop="20250417193040 +0000" channel="ealixer.us">
 <title lang="en"> 242 Willy Robinson LSPD - Johnny Lane - Hades - Nopixel WL 4.0 </title>
 <desc lang="en"> Started: 07:30 pm
 Playing: Grand Theft Auto V
-Viewers: 121 </desc>
+Viewers: 113 </desc>
 </programme>
 
 <programme start="20250414234504 +0000" stop="20250417184504 +0000" channel="DrulkTV.us">
 <title lang="en"> Marshal Ray Lee - Chill Day, N0thing Crazy- NoPixel 4.0 WL </title>
 <desc lang="en"> Started: 06:45 pm
 Playing: Grand Theft Auto V
-Viewers: 64 </desc>
+Viewers: 94 </desc>
 </programme>
 
 <programme start="20250415030434 +0000" stop="20250417220434 +0000" channel="Texhna.us">
 <title lang="en"> Tony Lito Parker - Nopixel 4.0 WL - Manor Hangaround - T10 </title>
 <desc lang="en"> Started: 10:04 pm
 Playing: Grand Theft Auto V
-Viewers: 63 </desc>
+Viewers: 71 </desc>
 </programme>
 
 <programme start="20250415005540 +0000" stop="20250417195540 +0000" channel="DevilSiren.us">
 <title lang="en"> 008 Marshal Krystal Stitches Bordier, M.d. - Clown Doctor - Mason Dixie Murder Investigation - NoPixel 4.0 WL </title>
 <desc lang="en"> Started: 07:55 pm
 Playing: Grand Theft Auto V
-Viewers: 49 </desc>
-</programme>
-
-<programme start="20250415004259 +0000" stop="20250417194259 +0000" channel="itsNICVIC.us">
-<title lang="en"> Emmy 💫 nopixel 4.0 wl </title>
-<desc lang="en"> Started: 07:42 pm
-Playing: Grand Theft Auto V
-Viewers: 42 </desc>
+Viewers: 46 </desc>
 </programme>
 
 <programme start="20250415032122 +0000" stop="20250417222122 +0000" channel="zaxx386.us">
@@ -201,18 +183,18 @@ Playing: Grand Theft Auto V
 Viewers: 40 </desc>
 </programme>
 
+<programme start="20250415004259 +0000" stop="20250417194259 +0000" channel="itsNICVIC.us">
+<title lang="en"> Emmy 💫 nopixel 4.0 wl </title>
+<desc lang="en"> Started: 07:42 pm
+Playing: Grand Theft Auto V
+Viewers: 38 </desc>
+</programme>
+
 <programme start="20250414222623 +0000" stop="20250417172623 +0000" channel="Skorbnut.us">
 <title lang="en"> 🚓⚖️ Sr Officer Conner Oxby - More Mason Dixie Case  Cadet Onboarding - NoPixel WL </title>
 <desc lang="en"> Started: 05:26 pm
 Playing: Grand Theft Auto V
-Viewers: 31 </desc>
-</programme>
-
-<programme start="20250415022654 +0000" stop="20250417212654 +0000" channel="sethbowdengaming.us">
-<title lang="en"> NoPixel 4.0 WL - Eugene Bartholomew Mustard - The Sewers are Affecting My Mind </title>
-<desc lang="en"> Started: 9:26PM
-Playing: Grand Theft Auto V
-Viewers: 7 </desc>
+Viewers: 23 </desc>
 </programme>
 
 <programme start="20250414195542 +0000" stop="20250417145542 +0000" channel="iMaceinHD.us">
@@ -222,32 +204,39 @@ Playing: Grand Theft Auto V
 Viewers: 14 </desc>
 </programme>
 
+<programme start="20250415022654 +0000" stop="20250417212654 +0000" channel="sethbowdengaming.us">
+<title lang="en"> NoPixel 4.0 WL - Eugene Bartholomew Mustard - The Sewers are Affecting My Mind </title>
+<desc lang="en"> Started: 9:26PM
+Playing: Grand Theft Auto V
+Viewers: 7 </desc>
+</programme>
+
+<programme start="20250415051936 +0000" stop="20250418001936 +0000" channel="Blokeowski.us">
+<title lang="en"> NoPixel WL 18 - Keith Herman...or Goro Nakamura - How will this end - reachout supportservices blackdoginstitute </title>
+<desc lang="en"> Started: 12:19 am
+Playing: Grand Theft Auto V
+Viewers: 10 </desc>
+</programme>
+
 <programme start="20250415013706 +0000" stop="20250417203706 +0000" channel="heyimzed.us">
 <title lang="en"> Saving the Club - Edbert Ropeburn - ADMC HC - NoPixel WL </title>
 <desc lang="en"> Started: 8:37PM
 Playing: Grand Theft Auto V
-Viewers: 477 </desc>
+Viewers: 490 </desc>
 </programme>
 
 <programme start="20250414173419 +0000" stop="20250417123419 +0000" channel="JustRebexa.us">
 <title lang="en"> Violet Waters - Nopixel 4.0 WL -EMT - The Hub - Party Records - Day 79. I PASSED VI IS EMT </title>
 <desc lang="en"> Started: 12:34 pm
 Playing: Grand Theft Auto V
-Viewers: 7 </desc>
+Viewers: 8 </desc>
 </programme>
 
 <programme start="20250415024752 +0000" stop="20250417214752 +0000" channel="margothesnail.us">
 <title lang="en"> Philbert Assman - Margos Missing - Character Variety Time - NoPixel WL </title>
 <desc lang="en"> Started: 9:47PM
 Playing: Grand Theft Auto V
-Viewers: 49 </desc>
-</programme>
-
-<programme start="20250415052418 +0000" stop="20250418002418 +0000" channel="harmless.us">
-<title lang="en"> Perry Falken - NoPixel 4.0 gs Gamer Supps - NEW EMOTES </title>
-<desc lang="en"> Started: 12:24AM
-Playing: Grand Theft Auto V
-Viewers: 11 </desc>
+Viewers: 59 </desc>
 </programme>
 
 <programme start="20250415033728 +0000" stop="20250417223728 +0000" channel="kittenqg.us">
@@ -257,25 +246,25 @@ Playing: Grand Theft Auto V
 Viewers: 232 </desc>
 </programme>
 
-<programme start="20250415031352 +0000" stop="20250417221352 +0000" channel="LarBearTV.us">
-<title lang="en"> 👮 Ofc. Larry Johnson 👮 - Fixing Sleep Schedule Still 🥱 - NoPixel WL 4.0 - @LarBearTV </title>
-<desc lang="en"> Started: 10:13 pm
-Playing: Grand Theft Auto V
-Viewers: 6 </desc>
-</programme>
-
 <programme start="20250414173744 +0000" stop="20250417123744 +0000" channel="Twinkles.us">
 <title lang="en"> TODAY IS THE DAY - twinkles - nopixel - </title>
 <desc lang="en"> Started: 12:37PM
 Playing: Grand Theft Auto V
-Viewers: 361 </desc>
+Viewers: 359 </desc>
 </programme>
 
 <programme start="20250415050931 +0000" stop="20250418000931 +0000" channel="firecrackthat.us">
 <title lang="en"> Stumbles Fumbles - NoPixel 4.0 - Road Back to 120 Subs </title>
 <desc lang="en"> Started: 12:09AM
 Playing: Grand Theft Auto V
-Viewers: 17 </desc>
+Viewers: 26 </desc>
+</programme>
+
+<programme start="20250415031352 +0000" stop="20250417221352 +0000" channel="LarBearTV.us">
+<title lang="en"> 👮 Ofc. Larry Johnson 👮 - Fixing Sleep Schedule Still 🥱 - NoPixel WL 4.0 - @LarBearTV </title>
+<desc lang="en"> Started: 10:13 pm
+Playing: Grand Theft Auto V
+Viewers: 6 </desc>
 </programme>
 
 <programme start="20250414204941 +0000" stop="20250417154941 +0000" channel="Kaelath_The_Red.us">
@@ -285,14 +274,14 @@ Playing: Grand Theft Auto V
 Viewers: 1 </desc>
 </programme>
 
-<programme start="20250415051936 +0000" stop="20250418001936 +0000" channel="Blokeowski.us">
-<title lang="en"> NoPixel WL 18 - Keith Herman...or Goro Nakamura - How will this end - reachout supportservices blackdoginstitute </title>
-<desc lang="en"> Started: 12:19 am
+<programme start="20250415052653 +0000" stop="20250418002653 +0000" channel="MrGlee.us">
+<title lang="en"> Short One To Start My Week - Sai Kou - Road Captain - Lost MC - NoPixel WL - socials </title>
+<desc lang="en"> Started: 12:26 am
 Playing: Grand Theft Auto V
-Viewers: 5 </desc>
+Viewers: 1 </desc>
 </programme>
 
-<programme start="20250415000000 +0000" stop="20250418002817 +0000" channel="xqc.us">
+<programme start="20250415000000 +0000" stop="20250418003617 +0000" channel="xqc.us">
 <title lang="en">  </title>
 <desc lang="en"> Started: 
 Playing: 
