@@ -6,6 +6,10 @@
 <display-name>Silbullet</display-name>
 </channel>
 
+<channel id="rexs.us">
+<display-name>rexs</display-name>
+</channel>
+
 <channel id="DevilSiren.us">
 <display-name>DevilSiren</display-name>
 </channel>
@@ -14,20 +18,16 @@
 <display-name>DrulkTV</display-name>
 </channel>
 
-<channel id="rexs.us">
-<display-name>rexs</display-name>
-</channel>
-
 <channel id="harmless.us">
 <display-name>harmless</display-name>
 </channel>
 
-<channel id="Blokeowski.us">
-<display-name>Blokeowski</display-name>
-</channel>
-
 <channel id="alliumm.us">
 <display-name>alliumm</display-name>
+</channel>
+
+<channel id="Blokeowski.us">
+<display-name>Blokeowski</display-name>
 </channel>
 
 <channel id="CrimsoneTV.us">
@@ -62,67 +62,71 @@
 <display-name>gtawiseguy</display-name>
 </channel>
 
+<channel id="thatguygp.us">
+<display-name>thatguygp</display-name>
+</channel>
+
 <programme start="20250416050013 +0000" stop="20250419000013 +0000" channel="Silbullet.us">
 <title lang="en"> Lt. Maple 297 - LSPD - NoPixel WL 4.0 - gtarecap clip </title>
 <desc lang="en"> Started: 12:00AM
 Playing: Grand Theft Auto V
-Viewers: 115 </desc>
-</programme>
-
-<programme start="20250415234229 +0000" stop="20250418184229 +0000" channel="DevilSiren.us">
-<title lang="en"> 008 Marshal Krystal Stitches Bordier, M.d. - Clown Doctor - Mason Dixie Murder Investigation - NoPixel 4.0 WL </title>
-<desc lang="en"> Started: 06:42 pm
-Playing: Grand Theft Auto V
-Viewers: 146 </desc>
-</programme>
-
-<programme start="20250415234013 +0000" stop="20250418184013 +0000" channel="DrulkTV.us">
-<title lang="en"> Marshal Ray Lee - Chill Day, N0thing Crazy- NoPixel 4.0 WL </title>
-<desc lang="en"> Started: 06:40 pm
-Playing: Grand Theft Auto V
-Viewers: 141 </desc>
+Viewers: 113 </desc>
 </programme>
 
 <programme start="20250416053352 +0000" stop="20250419003352 +0000" channel="rexs.us">
 <title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - NoPixel WL </title>
 <desc lang="en"> Started: 12:33AM
 Playing: Grand Theft Auto V
-Viewers: 67 </desc>
+Viewers: 82 </desc>
+</programme>
+
+<programme start="20250415234229 +0000" stop="20250418184229 +0000" channel="DevilSiren.us">
+<title lang="en"> 008 Marshal Krystal Stitches Bordier, M.d. - Clown Doctor - Mason Dixie Murder Investigation - NoPixel 4.0 WL </title>
+<desc lang="en"> Started: 06:42 pm
+Playing: Grand Theft Auto V
+Viewers: 143 </desc>
+</programme>
+
+<programme start="20250415234013 +0000" stop="20250418184013 +0000" channel="DrulkTV.us">
+<title lang="en"> Marshal Ray Lee - Chill Day, N0thing Crazy- NoPixel 4.0 WL </title>
+<desc lang="en"> Started: 06:40 pm
+Playing: Grand Theft Auto V
+Viewers: 134 </desc>
 </programme>
 
 <programme start="20250416090701 +0000" stop="20250419040701 +0000" channel="harmless.us">
 <title lang="en"> Perry Falken - NoPixel 4.0 - GS Gamer Supps </title>
 <desc lang="en"> Started: 4:07AM
 Playing: Grand Theft Auto V
-Viewers: 308 </desc>
-</programme>
-
-<programme start="20250416045013 +0000" stop="20250418235013 +0000" channel="Blokeowski.us">
-<title lang="en"> NoPixel WL 18 - Ole mate Barmy Wattlesby - ARE YOU MY GRANDCHILD - reachout supportservices blackdoginstitute </title>
-<desc lang="en"> Started: 11:50 pm
-Playing: Grand Theft Auto V
-Viewers: 26 </desc>
+Viewers: 304 </desc>
 </programme>
 
 <programme start="20250416073400 +0000" stop="20250419023400 +0000" channel="alliumm.us">
 <title lang="en"> everything is on fire - EMS - Alice Liddell - NoPixel WL 🚑 </title>
 <desc lang="en"> Started: 02:34 am
 Playing: Grand Theft Auto V
-Viewers: 26 </desc>
+Viewers: 29 </desc>
+</programme>
+
+<programme start="20250416045013 +0000" stop="20250418235013 +0000" channel="Blokeowski.us">
+<title lang="en"> NoPixel WL 18 - Ole mate Barmy Wattlesby - ARE YOU MY GRANDCHILD - reachout supportservices blackdoginstitute </title>
+<desc lang="en"> Started: 11:50 pm
+Playing: Grand Theft Auto V
+Viewers: 28 </desc>
 </programme>
 
 <programme start="20250415234121 +0000" stop="20250418184121 +0000" channel="CrimsoneTV.us">
 <title lang="en"> Road to Partner - 18- Rhys Rice Blice Blaese - EMS RP on NoPixel Recovery </title>
 <desc lang="en"> Started: 06:41 pm
 Playing: Grand Theft Auto V
-Viewers: 11 </desc>
+Viewers: 13 </desc>
 </programme>
 
 <programme start="20250416022720 +0000" stop="20250418212720 +0000" channel="LarBearTV.us">
 <title lang="en"> 👮 Ofc. Larry Johnson 👮 - Fixing Sleep Schedule Still 🥱 - NoPixel WL 4.0 - @LarBearTV </title>
 <desc lang="en"> Started: 09:27 pm
 Playing: Grand Theft Auto V
-Viewers: 7 </desc>
+Viewers: 8 </desc>
 </programme>
 
 <programme start="20250416074600 +0000" stop="20250419024600 +0000" channel="LNT_TTV.us">
@@ -136,35 +140,42 @@ Viewers: 1 </desc>
 <title lang="en"> Eliza D. Stellano - DECORATING PURGATORY - NoPixel </title>
 <desc lang="en"> Started: 2:17PM
 Playing: Grand Theft Auto V
-Viewers: 166 </desc>
+Viewers: 161 </desc>
 </programme>
 
 <programme start="20250416063635 +0000" stop="20250419013635 +0000" channel="cutieno.us">
 <title lang="en"> Rue Minmi - ADMC SecRUEtary - Nopixel WL - RUE </title>
 <desc lang="en"> Started: 1:36AM
 Playing: Grand Theft Auto V
-Viewers: 230 </desc>
+Viewers: 218 </desc>
 </programme>
 
 <programme start="20250416055044 +0000" stop="20250419005044 +0000" channel="margothesnail.us">
 <title lang="en"> Cassidy Lovelace - Margos Missing - Character Variety Time - NoPixel WL </title>
 <desc lang="en"> Started: 12:50AM
 Playing: Grand Theft Auto V
-Viewers: 45 </desc>
+Viewers: 47 </desc>
 </programme>
 
 <programme start="20250416030022 +0000" stop="20250418220022 +0000" channel="kittenqg.us">
 <title lang="en"> Sub-a-thon Day 15 - Grind f0r Partner - Lily Fumbles - 18 </title>
 <desc lang="en"> Started: 10:00PM
 Playing: Grand Theft Auto V
-Viewers: 158 </desc>
+Viewers: 149 </desc>
 </programme>
 
 <programme start="20250416093147 +0000" stop="20250419043147 +0000" channel="gtawiseguy.us">
 <title lang="en"> BIRTHDAY STREAM - ONX tuning onx </title>
 <desc lang="en"> Started: 4:31AM
 Playing: Grand Theft Auto V
-Viewers: 651 </desc>
+Viewers: 633 </desc>
+</programme>
+
+<programme start="20250416095102 +0000" stop="20250419045102 +0000" channel="thatguygp.us">
+<title lang="en"> Jamal-Nopixel-BESTIES rain </title>
+<desc lang="en"> Started: 4:51AM
+Playing: Grand Theft Auto V
+Viewers: 32 </desc>
 </programme>
 
 
