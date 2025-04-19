@@ -6,6 +6,10 @@
 <display-name>kalcyon</display-name>
 </channel>
 
+<channel id="brakketts.us">
+<display-name>brakketts</display-name>
+</channel>
+
 <channel id="jennybeartv.us">
 <display-name>jennybeartv</display-name>
 </channel>
@@ -34,20 +38,20 @@
 <display-name>basedLore</display-name>
 </channel>
 
-<channel id="LarBearTV.us">
-<display-name>LarBearTV</display-name>
-</channel>
-
 <channel id="charli.us">
 <display-name>charli</display-name>
+</channel>
+
+<channel id="kingjayclouted.us">
+<display-name>kingjayclouted</display-name>
 </channel>
 
 <channel id="arckon.us">
 <display-name>arckon</display-name>
 </channel>
 
-<channel id="kingjayclouted.us">
-<display-name>kingjayclouted</display-name>
+<channel id="LarBearTV.us">
+<display-name>LarBearTV</display-name>
 </channel>
 
 <channel id="CrimsoneTV.us">
@@ -56,10 +60,6 @@
 
 <channel id="JustRebexa.us">
 <display-name>JustRebexa</display-name>
-</channel>
-
-<channel id="brakketts.us">
-<display-name>brakketts</display-name>
 </channel>
 
 <channel id="cutieno.us">
@@ -74,10 +74,6 @@
 <display-name>MrGlee</display-name>
 </channel>
 
-<channel id="Hellknight86.us">
-<display-name>Hellknight86</display-name>
-</channel>
-
 <channel id="xqc.us">
 <display-name>xqc</display-name>
 </channel>
@@ -87,6 +83,13 @@
 <desc lang="en"> Started: 6:28PM
 Playing: Grand Theft Auto V
 Viewers: 131 </desc>
+</programme>
+
+<programme start="20250419071725 +0000" stop="20250422021725 +0000" channel="brakketts.us">
+<title lang="en"> BCSO 329 Tommy Horver - Nopixel </title>
+<desc lang="en"> Started: 2:17AM
+Playing: Grand Theft Auto V
+Viewers: 1 </desc>
 </programme>
 
 <programme start="20250418225948 +0000" stop="20250421175948 +0000" channel="jennybeartv.us">
@@ -100,21 +103,21 @@ Viewers: 358 </desc>
 <title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - NoPixel WL </title>
 <desc lang="en"> Started: 12:09AM
 Playing: Grand Theft Auto V
-Viewers: 34 </desc>
+Viewers: 38 </desc>
 </programme>
 
 <programme start="20250419050728 +0000" stop="20250422000728 +0000" channel="yuukidav.us">
 <title lang="en"> captain lukas lavender 🎀 bcso - nopixel wl - @yuukidav modapp </title>
 <desc lang="en"> Started: 12:07AM
 Playing: Grand Theft Auto V
-Viewers: 311 </desc>
+Viewers: 305 </desc>
 </programme>
 
 <programme start="20250419051308 +0000" stop="20250422001308 +0000" channel="harmless.us">
 <title lang="en"> Perry Falken - NoPixel 4.0 gs Gamer Supps </title>
 <desc lang="en"> Started: 12:13AM
 Playing: Grand Theft Auto V
-Viewers: 306 </desc>
+Viewers: 317 </desc>
 </programme>
 
 <programme start="20250418183701 +0000" stop="20250421133701 +0000" channel="xKibbs.us">
@@ -128,7 +131,7 @@ Viewers: 161 </desc>
 <title lang="en"> Moose Knuckles - Judge - Clown - Stansfeld Belany - DOC - NoPixel WL - Epic Creator Code: ZAXX386 </title>
 <desc lang="en"> Started: 10:35 pm
 Playing: Grand Theft Auto V
-Viewers: 95 </desc>
+Viewers: 89 </desc>
 </programme>
 
 <programme start="20250419061636 +0000" stop="20250422011636 +0000" channel="basedLore.us">
@@ -138,13 +141,6 @@ Playing: Grand Theft Auto V
 Viewers: 70 </desc>
 </programme>
 
-<programme start="20250419050210 +0000" stop="20250422000210 +0000" channel="LarBearTV.us">
-<title lang="en"> 👮Ofc. Larry Johnson 👮- #LarryDriver #DemurePremier- NoPixel 4.0 WL - @LarBearTV </title>
-<desc lang="en"> Started: 12:02 am
-Playing: Grand Theft Auto V
-Viewers: 13 </desc>
-</programme>
-
 <programme start="20250418201650 +0000" stop="20250421151650 +0000" channel="charli.us">
 <title lang="en"> Butterflies 🌈 WindSong ✌️ NoPixel </title>
 <desc lang="en"> Started: 3:16PM
@@ -152,18 +148,25 @@ Playing: Grand Theft Auto V
 Viewers: 252 </desc>
 </programme>
 
-<programme start="20250418212325 +0000" stop="20250421162325 +0000" channel="arckon.us">
-<title lang="en"> Beric - NoPixel @arckon </title>
-<desc lang="en"> Started: 4:23PM
-Playing: Grand Theft Auto V
-Viewers: 212 </desc>
-</programme>
-
 <programme start="20250419045500 +0000" stop="20250421235500 +0000" channel="kingjayclouted.us">
 <title lang="en"> AIR 1 Trooper J.Stone - Lifestyle RP Police RP - San Andreas State Patrols - High-Speed Pursuits - GTA 5 RP Live - pc graphics </title>
 <desc lang="en"> Started: 11:55PM
 Playing: Grand Theft Auto V
 Viewers: 23 </desc>
+</programme>
+
+<programme start="20250418212325 +0000" stop="20250421162325 +0000" channel="arckon.us">
+<title lang="en"> Beric - NoPixel @arckon </title>
+<desc lang="en"> Started: 4:23PM
+Playing: Grand Theft Auto V
+Viewers: 222 </desc>
+</programme>
+
+<programme start="20250419050210 +0000" stop="20250422000210 +0000" channel="LarBearTV.us">
+<title lang="en"> 👮Ofc. Larry Johnson 👮- #LarryDriver #DemurePremier- NoPixel 4.0 WL - @LarBearTV </title>
+<desc lang="en"> Started: 12:02 am
+Playing: Grand Theft Auto V
+Viewers: 16 </desc>
 </programme>
 
 <programme start="20250419032130 +0000" stop="20250421222130 +0000" channel="CrimsoneTV.us">
@@ -180,18 +183,11 @@ Playing: Grand Theft Auto V
 Viewers: 3 </desc>
 </programme>
 
-<programme start="20250419071725 +0000" stop="20250422021725 +0000" channel="brakketts.us">
-<title lang="en"> BCSO 329 Tommy Horver - Nopixel </title>
-<desc lang="en"> Started: 2:17AM
-Playing: Grand Theft Auto V
-Viewers: 1 </desc>
-</programme>
-
 <programme start="20250419062500 +0000" stop="20250422012500 +0000" channel="cutieno.us">
 <title lang="en"> Rue Minmi - ADMC SecRUEtary - Nopixel WL - RUE :D Probably Pipi </title>
 <desc lang="en"> Started: 1:25AM
 Playing: Grand Theft Auto V
-Viewers: 138 </desc>
+Viewers: 145 </desc>
 </programme>
 
 <programme start="20250419031517 +0000" stop="20250421221517 +0000" channel="kittenqg.us">
@@ -208,14 +204,7 @@ Playing: Grand Theft Auto V
 Viewers: 1 </desc>
 </programme>
 
-<programme start="20250419060146 +0000" stop="20250422010146 +0000" channel="Hellknight86.us">
-<title lang="en"> Viktor Schmidt Nopixel WL </title>
-<desc lang="en"> Started: 01:01 am
-Playing: Grand Theft Auto V
-Viewers: 1 </desc>
-</programme>
-
-<programme start="20250419000000 +0000" stop="20250422021922 +0000" channel="xqc.us">
+<programme start="20250419000000 +0000" stop="20250422022256 +0000" channel="xqc.us">
 <title lang="en">  </title>
 <desc lang="en"> Started: 
 Playing: 
