@@ -2,6 +2,10 @@
 <display-name>clearepg</display-name>
 </channel>
 
+<channel id="binks.us">
+<display-name>binks</display-name>
+</channel>
+
 <channel id="zolo.us">
 <display-name>zolo</display-name>
 </channel>
@@ -10,32 +14,24 @@
 <display-name>reconmalfunction</display-name>
 </channel>
 
-<channel id="binks.us">
-<display-name>binks</display-name>
+<channel id="theeazylife.us">
+<display-name>theeazylife</display-name>
 </channel>
 
 <channel id="ashi.us">
 <display-name>ashi</display-name>
 </channel>
 
-<channel id="theeazylife.us">
-<display-name>theeazylife</display-name>
+<channel id="BaRKy.us">
+<display-name>BaRKy</display-name>
 </channel>
 
 <channel id="mdrakoo.us">
 <display-name>mdrakoo</display-name>
 </channel>
 
-<channel id="BaRKy.us">
-<display-name>BaRKy</display-name>
-</channel>
-
 <channel id="zixtah.us">
 <display-name>zixtah</display-name>
-</channel>
-
-<channel id="Leahstoo.us">
-<display-name>Leahstoo</display-name>
 </channel>
 
 <channel id="hol_stream.us">
@@ -44,6 +40,14 @@
 
 <channel id="kingjayclouted.us">
 <display-name>kingjayclouted</display-name>
+</channel>
+
+<channel id="Leahstoo.us">
+<display-name>Leahstoo</display-name>
+</channel>
+
+<channel id="Manvaril.us">
+<display-name>Manvaril</display-name>
 </channel>
 
 <channel id="GamerMagoo.us">
@@ -66,24 +70,20 @@
 <display-name>docwizard</display-name>
 </channel>
 
-<channel id="dadsyuk.us">
-<display-name>dadsyuk</display-name>
-</channel>
-
-<channel id="SiennaSNOW_.us">
-<display-name>SiennaSNOW_</display-name>
-</channel>
-
-<channel id="royalcreates.us">
-<display-name>royalcreates</display-name>
-</channel>
-
 <channel id="thechief1114.us">
 <display-name>thechief1114</display-name>
 </channel>
 
+<channel id="cutieno.us">
+<display-name>cutieno</display-name>
+</channel>
+
 <channel id="Castro_1021.us">
 <display-name>Castro_1021</display-name>
+</channel>
+
+<channel id="royalcreates.us">
+<display-name>royalcreates</display-name>
 </channel>
 
 <channel id="EarlDobbs.us">
@@ -94,11 +94,18 @@
 <display-name>rasolTTV</display-name>
 </channel>
 
+<programme start="20250420195142 +0000" stop="20250423145142 +0000" channel="binks.us">
+<title lang="en"> Subathon Day 113 - Ellie - CG Mom - Prodigy - gg </title>
+<desc lang="en"> Started: 2:51PM
+Playing: Grand Theft Auto V
+Viewers: 563 </desc>
+</programme>
+
 <programme start="20250420191008 +0000" stop="20250423141008 +0000" channel="zolo.us">
 <title lang="en"> Grant AKA Mr PC 🎈Bonnet Zo Sundays 🎈 clips reacts prodigyRP </title>
 <desc lang="en"> Started: 2:10PM
 Playing: Grand Theft Auto V
-Viewers: 553 </desc>
+Viewers: 544 </desc>
 </programme>
 
 <programme start="20250421013044 +0000" stop="20250423203044 +0000" channel="reconmalfunction.us">
@@ -108,11 +115,11 @@ Playing: Grand Theft Auto V
 Viewers: 95 </desc>
 </programme>
 
-<programme start="20250420195142 +0000" stop="20250423145142 +0000" channel="binks.us">
-<title lang="en"> Subathon Day 113 - Ellie - CG Mom - Prodigy - gg </title>
-<desc lang="en"> Started: 2:51PM
+<programme start="20250421010606 +0000" stop="20250423200606 +0000" channel="theeazylife.us">
+<title lang="en"> Valentino - Nopixel WL - sub , </title>
+<desc lang="en"> Started: 8:06PM
 Playing: Grand Theft Auto V
-Viewers: 563 </desc>
+Viewers: 46 </desc>
 </programme>
 
 <programme start="20250421005926 +0000" stop="20250423195926 +0000" channel="ashi.us">
@@ -122,25 +129,18 @@ Playing: Grand Theft Auto V
 Viewers: 209 </desc>
 </programme>
 
-<programme start="20250421010606 +0000" stop="20250423200606 +0000" channel="theeazylife.us">
-<title lang="en"> Valentino - Nopixel WL - sub , </title>
-<desc lang="en"> Started: 8:06PM
+<programme start="20250420214654 +0000" stop="20250423164654 +0000" channel="BaRKy.us">
+<title lang="en"> A Shadowed Cave Painting - Shang Liu - ADMC COMMAND I GOT DEMOTED - NoPixel WL </title>
+<desc lang="en"> Started: 04:46 pm
 Playing: Grand Theft Auto V
-Viewers: 44 </desc>
+Viewers: 445 </desc>
 </programme>
 
 <programme start="20250420191523 +0000" stop="20250423141523 +0000" channel="mdrakoo.us">
 <title lang="en"> RGB - NOPIXEL 4.0 - LSPD GOON </title>
 <desc lang="en"> Started: 02:15 pm
 Playing: Grand Theft Auto V
-Viewers: 373 </desc>
-</programme>
-
-<programme start="20250420214654 +0000" stop="20250423164654 +0000" channel="BaRKy.us">
-<title lang="en"> A Shadowed Cave Painting - Shang Liu - ADMC COMMAND I GOT DEMOTED - NoPixel WL </title>
-<desc lang="en"> Started: 04:46 pm
-Playing: Grand Theft Auto V
-Viewers: 451 </desc>
+Viewers: 339 </desc>
 </programme>
 
 <programme start="20250420221104 +0000" stop="20250423171104 +0000" channel="zixtah.us">
@@ -148,13 +148,6 @@ Viewers: 451 </desc>
 <desc lang="en"> Started: 05:11 pm
 Playing: Grand Theft Auto V
 Viewers: 173 </desc>
-</programme>
-
-<programme start="20250420203614 +0000" stop="20250423153614 +0000" channel="Leahstoo.us">
-<title lang="en"> QUADRANGLES AND QUESTING - Princess Elena - NoPixel WL </title>
-<desc lang="en"> Started: 03:36 pm
-Playing: Grand Theft Auto V
-Viewers: 101 </desc>
 </programme>
 
 <programme start="20250421000213 +0000" stop="20250423190213 +0000" channel="hol_stream.us">
@@ -168,21 +161,35 @@ Viewers: 59 </desc>
 <title lang="en"> Trooper J.Stone - Lifestyle RP Police RP - San Andreas State Patrols - High-Speed Pursuits - GTA 5 RP Live - pc graphics </title>
 <desc lang="en"> Started: 10:14PM
 Playing: Grand Theft Auto V
-Viewers: 15 </desc>
+Viewers: 17 </desc>
+</programme>
+
+<programme start="20250420203614 +0000" stop="20250423153614 +0000" channel="Leahstoo.us">
+<title lang="en"> QUADRANGLES AND QUESTING - Princess Elena - NoPixel WL </title>
+<desc lang="en"> Started: 03:36 pm
+Playing: Grand Theft Auto V
+Viewers: 101 </desc>
+</programme>
+
+<programme start="20250421010550 +0000" stop="20250423200550 +0000" channel="Manvaril.us">
+<title lang="en"> Pockets the Clown - NoPixel WL </title>
+<desc lang="en"> Started: 08:05 pm
+Playing: Grand Theft Auto V
+Viewers: 63 </desc>
 </programme>
 
 <programme start="20250421020245 +0000" stop="20250423210245 +0000" channel="GamerMagoo.us">
 <title lang="en"> Officer Orabelle - Nopixel </title>
 <desc lang="en"> Started: 09:02 pm
 Playing: Grand Theft Auto V
-Viewers: 75 </desc>
+Viewers: 63 </desc>
 </programme>
 
 <programme start="20250421023156 +0000" stop="20250423213156 +0000" channel="mikfoolery.us">
 <title lang="en"> SGT HOP OUT HELEN GETS THE DEATH PENALTY </title>
 <desc lang="en"> Started: 9:31PM
 Playing: Grand Theft Auto V
-Viewers: 204 </desc>
+Viewers: 263 </desc>
 </programme>
 
 <programme start="20250420214739 +0000" stop="20250423164739 +0000" channel="solekefs.us">
@@ -206,27 +213,6 @@ Playing: Grand Theft Auto V
 Viewers: 419 </desc>
 </programme>
 
-<programme start="20250420211529 +0000" stop="20250423161529 +0000" channel="dadsyuk.us">
-<title lang="en"> Snr Officer Vi Gray - Cop be Copping - NP 4.0 WL - discord </title>
-<desc lang="en"> Started: 04:15 pm
-Playing: Grand Theft Auto V
-Viewers: 17 </desc>
-</programme>
-
-<programme start="20250420231237 +0000" stop="20250423181237 +0000" channel="SiennaSNOW_.us">
-<title lang="en"> ❄️ Its my birthday And Chrissys too - Christelle Snow -- NoPixel WL ❄️ (discord) (factor) </title>
-<desc lang="en"> Started: 06:12 pm
-Playing: Grand Theft Auto V
-Viewers: 9 </desc>
-</programme>
-
-<programme start="20250421010356 +0000" stop="20250423200356 +0000" channel="royalcreates.us">
-<title lang="en"> Aphrodite Theos - LSPD 269 - NoPixel WL 4.0 </title>
-<desc lang="en"> Started: 8:03PM
-Playing: Grand Theft Auto V
-Viewers: 52 </desc>
-</programme>
-
 <programme start="20250421002546 +0000" stop="20250423192546 +0000" channel="thechief1114.us">
 <title lang="en"> Fingle Dan - PurpleRP </title>
 <desc lang="en"> Started: 7:25PM
@@ -234,11 +220,25 @@ Playing: Grand Theft Auto V
 Viewers: 2402 </desc>
 </programme>
 
+<programme start="20250421033700 +0000" stop="20250423223700 +0000" channel="cutieno.us">
+<title lang="en"> Rue Minmi - ADMC SecRUEtary - Nopixel WL - Rue and her Molotov </title>
+<desc lang="en"> Started: 10:37PM
+Playing: Grand Theft Auto V
+Viewers: 0 </desc>
+</programme>
+
 <programme start="20250421015153 +0000" stop="20250423205153 +0000" channel="Castro_1021.us">
 <title lang="en"> LOS ALIENS MATCH WE ARE IN 1st PLACE </title>
 <desc lang="en"> Started: 8:51PM
 Playing: Kings League
-Viewers: 2479 </desc>
+Viewers: 2512 </desc>
+</programme>
+
+<programme start="20250421010356 +0000" stop="20250423200356 +0000" channel="royalcreates.us">
+<title lang="en"> Aphrodite Theos - LSPD 269 - NoPixel WL 4.0 </title>
+<desc lang="en"> Started: 8:03PM
+Playing: Grand Theft Auto V
+Viewers: 60 </desc>
 </programme>
 
 <programme start="20250421013530 +0000" stop="20250423203530 +0000" channel="EarlDobbs.us">
