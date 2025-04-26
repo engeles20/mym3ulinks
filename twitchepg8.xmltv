@@ -2,12 +2,12 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="Silbullet.us">
-<display-name>Silbullet</display-name>
-</channel>
-
 <channel id="brakketts.us">
 <display-name>brakketts</display-name>
+</channel>
+
+<channel id="Silbullet.us">
+<display-name>Silbullet</display-name>
 </channel>
 
 <channel id="sock22.us">
@@ -18,8 +18,8 @@
 <display-name>basedLore</display-name>
 </channel>
 
-<channel id="zaxx386.us">
-<display-name>zaxx386</display-name>
+<channel id="Sukhi_1.us">
+<display-name>Sukhi_1</display-name>
 </channel>
 
 <channel id="rexs.us">
@@ -30,8 +30,8 @@
 <display-name>yuukidav</display-name>
 </channel>
 
-<channel id="Sukhi_1.us">
-<display-name>Sukhi_1</display-name>
+<channel id="Kangaro0.us">
+<display-name>Kangaro0</display-name>
 </channel>
 
 <channel id="Kangaro0.us">
@@ -66,6 +66,10 @@
 <display-name>Frizkers</display-name>
 </channel>
 
+<channel id="CrashCustoms.us">
+<display-name>CrashCustoms</display-name>
+</channel>
+
 <channel id="ThrustinJustin78.us">
 <display-name>ThrustinJustin78</display-name>
 </channel>
@@ -74,16 +78,8 @@
 <display-name>lunchyrp</display-name>
 </channel>
 
-<channel id="CrashCustoms.us">
-<display-name>CrashCustoms</display-name>
-</channel>
-
 <channel id="ItsHazelsaurus.us">
 <display-name>ItsHazelsaurus</display-name>
-</channel>
-
-<channel id="YunoWhatsGood.us">
-<display-name>YunoWhatsGood</display-name>
 </channel>
 
 <channel id="Hellknight86.us">
@@ -98,13 +94,6 @@
 <display-name>denis3d</display-name>
 </channel>
 
-<programme start="20250426050154 +0000" stop="20250429000154 +0000" channel="Silbullet.us">
-<title lang="en"> ACADEMY DAY 2 - Lt. Maple 297 - LSPD - NoPixel WL 4.0 - gtarecap clip </title>
-<desc lang="en"> Started: 12:01AM
-Playing: Grand Theft Auto V
-Viewers: 39 </desc>
-</programme>
-
 <programme start="20250426053927 +0000" stop="20250429003927 +0000" channel="brakketts.us">
 <title lang="en"> 389 Tommy Horver - Academy Day 2 - Nopixel </title>
 <desc lang="en"> Started: 12:39AM
@@ -112,74 +101,81 @@ Playing: Grand Theft Auto V
 Viewers: 1 </desc>
 </programme>
 
+<programme start="20250426050154 +0000" stop="20250429000154 +0000" channel="Silbullet.us">
+<title lang="en"> ACADEMY DAY 2 - Lt. Maple 297 - LSPD - NoPixel WL 4.0 - gtarecap clip </title>
+<desc lang="en"> Started: 12:01AM
+Playing: Grand Theft Auto V
+Viewers: 49 </desc>
+</programme>
+
 <programme start="20250426045538 +0000" stop="20250428235538 +0000" channel="sock22.us">
 <title lang="en"> Jim Hastings - Academy Day 2 - NoPixel - </title>
 <desc lang="en"> Started: 11:55PM
 Playing: Grand Theft Auto V
-Viewers: 354 </desc>
+Viewers: 370 </desc>
 </programme>
 
 <programme start="20250426051243 +0000" stop="20250429001243 +0000" channel="basedLore.us">
 <title lang="en"> academy strem - madelyn montes - nopixel wl </title>
 <desc lang="en"> Started: 12:12 am
 Playing: Grand Theft Auto V
-Viewers: 119 </desc>
-</programme>
-
-<programme start="20250426034403 +0000" stop="20250428224403 +0000" channel="zaxx386.us">
-<title lang="en"> Moose Knuckles - Judge - Clown - Stansfeld Belany - DOC - NoPixel WL - Epic Creator Code: ZAXX386 </title>
-<desc lang="en"> Started: 10:44 pm
-Playing: Grand Theft Auto V
-Viewers: 64 </desc>
-</programme>
-
-<programme start="20250426051705 +0000" stop="20250429001705 +0000" channel="rexs.us">
-<title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - Academy Day 2 - NoPixel WL </title>
-<desc lang="en"> Started: 12:17AM
-Playing: Grand Theft Auto V
-Viewers: 44 </desc>
-</programme>
-
-<programme start="20250426050625 +0000" stop="20250429000625 +0000" channel="yuukidav.us">
-<title lang="en"> captain lukas lavender 🎀 bcso - nopixel wl - @yuukidav modapp </title>
-<desc lang="en"> Started: 12:06AM
-Playing: Grand Theft Auto V
-Viewers: 181 </desc>
+Viewers: 110 </desc>
 </programme>
 
 <programme start="20250426100041 +0000" stop="20250429050041 +0000" channel="Sukhi_1.us">
 <title lang="en"> Lucky Torkel - Besties - Nopixel 4.0 </title>
 <desc lang="en"> Started: 05:00 am
 Playing: Grand Theft Auto V
-Viewers: 39 </desc>
+Viewers: 49 </desc>
+</programme>
+
+<programme start="20250426051705 +0000" stop="20250429001705 +0000" channel="rexs.us">
+<title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - Academy Day 2 - NoPixel WL </title>
+<desc lang="en"> Started: 12:17AM
+Playing: Grand Theft Auto V
+Viewers: 56 </desc>
+</programme>
+
+<programme start="20250426050625 +0000" stop="20250429000625 +0000" channel="yuukidav.us">
+<title lang="en"> captain lukas lavender 🎀 bcso - nopixel wl - @yuukidav modapp </title>
+<desc lang="en"> Started: 12:06AM
+Playing: Grand Theft Auto V
+Viewers: 213 </desc>
 </programme>
 
 <programme start="20250426064827 +0000" stop="20250429014827 +0000" channel="Kangaro0.us">
 <title lang="en"> Frost - NoPixel 4.0 WL @Kangaro0 </title>
 <desc lang="en"> Started: 01:48 am
 Playing: Grand Theft Auto V
-Viewers: 20 </desc>
+Viewers: 24 </desc>
+</programme>
+
+<programme start="20250426064827 +0000" stop="20250429014827 +0000" channel="Kangaro0.us">
+<title lang="en"> Frost - NoPixel 4.0 WL @Kangaro0 </title>
+<desc lang="en"> Started: 01:48 am
+Playing: Grand Theft Auto V
+Viewers: 24 </desc>
 </programme>
 
 <programme start="20250426055816 +0000" stop="20250429005816 +0000" channel="YooshiiBear.us">
 <title lang="en"> AYESHA MARIE - ACADEMY - NOPIXEL WL 4.0 - pushing f0r partner </title>
 <desc lang="en"> Started: 12:58 am
 Playing: Grand Theft Auto V
-Viewers: 21 </desc>
+Viewers: 18 </desc>
 </programme>
 
 <programme start="20250426081722 +0000" stop="20250429031722 +0000" channel="thatguygp.us">
 <title lang="en"> Jamal-Nopixel-BESTIES rain </title>
 <desc lang="en"> Started: 3:17AM
 Playing: Grand Theft Auto V
-Viewers: 306 </desc>
+Viewers: 302 </desc>
 </programme>
 
 <programme start="20250426091414 +0000" stop="20250429041414 +0000" channel="defac3d.us">
 <title lang="en"> CLIPS THEN IRL - G2A </title>
 <desc lang="en"> Started: 4:14AM
 Playing: Grand Theft Auto V
-Viewers: 444 </desc>
+Viewers: 449 </desc>
 </programme>
 
 <programme start="20250426081735 +0000" stop="20250429031735 +0000" channel="katecirrus.us">
@@ -193,14 +189,14 @@ Viewers: 12 </desc>
 <title lang="en"> Betty Briskett - BCSO - 709-C - PD ACADEMY DAY 2 - Nopixel WL - Sleepy Saturday init - </title>
 <desc lang="en"> Started: 11:50PM
 Playing: Grand Theft Auto V
-Viewers: 14 </desc>
+Viewers: 15 </desc>
 </programme>
 
 <programme start="20250426042647 +0000" stop="20250428232647 +0000" channel="LarBearTV.us">
 <title lang="en"> 👮 FTO Larry Johnson 👮- Academy Day 2 - New GPU :) - NoPixel 4.0 WL - @LarBearTV </title>
 <desc lang="en"> Started: 11:26 pm
 Playing: Grand Theft Auto V
-Viewers: 6 </desc>
+Viewers: 5 </desc>
 </programme>
 
 <programme start="20250426083215 +0000" stop="20250429033215 +0000" channel="Frizkers.us">
@@ -208,6 +204,13 @@ Viewers: 6 </desc>
 <desc lang="en"> Started: 03:32 am
 Playing: Grand Theft Auto V
 Viewers: 4 </desc>
+</programme>
+
+<programme start="20250426080025 +0000" stop="20250429030025 +0000" channel="CrashCustoms.us">
+<title lang="en"> Rebuilding - Rainer Fairlady - NoPixel WL - GTA V RP </title>
+<desc lang="en"> Started: 03:00 am
+Playing: Grand Theft Auto V
+Viewers: 3 </desc>
 </programme>
 
 <programme start="20250426050358 +0000" stop="20250429000358 +0000" channel="ThrustinJustin78.us">
@@ -221,13 +224,6 @@ Viewers: 3 </desc>
 <title lang="en"> Academy Day 2 - Storm Truepa - Nopixel WL </title>
 <desc lang="en"> Started: 12:08 am
 Playing: Grand Theft Auto V
-Viewers: 3 </desc>
-</programme>
-
-<programme start="20250426080025 +0000" stop="20250429030025 +0000" channel="CrashCustoms.us">
-<title lang="en"> Rebuilding - Rainer Fairlady - NoPixel WL - GTA V RP </title>
-<desc lang="en"> Started: 03:00 am
-Playing: Grand Theft Auto V
 Viewers: 2 </desc>
 </programme>
 
@@ -236,13 +232,6 @@ Viewers: 2 </desc>
 <desc lang="en"> Started: 02:56 am
 Playing: Grand Theft Auto V
 Viewers: 2 </desc>
-</programme>
-
-<programme start="20250426031919 +0000" stop="20250428221919 +0000" channel="YunoWhatsGood.us">
-<title lang="en"> Joe Jemini - FIRST NP STREAM EVER </title>
-<desc lang="en"> Started: 10:19 pm
-Playing: Grand Theft Auto V
-Viewers: 1 </desc>
 </programme>
 
 <programme start="20250426051023 +0000" stop="20250429001023 +0000" channel="Hellknight86.us">
@@ -256,14 +245,14 @@ Viewers: 1 </desc>
 <title lang="en"> Randy Dalton RETURNS - ALIVE - NoPixel WL </title>
 <desc lang="en"> Started: 3:07AM
 Playing: Grand Theft Auto V
-Viewers: 7 </desc>
+Viewers: 9 </desc>
 </programme>
 
 <programme start="20250426083843 +0000" stop="20250429033843 +0000" channel="denis3d.us">
 <title lang="en"> 🔴 WEEKEND A bit of work and gaming 🔴- links instant #blender </title>
 <desc lang="en"> Started: 3:38AM
 Playing: Grand Theft Auto V
-Viewers: 74 </desc>
+Viewers: 88 </desc>
 </programme>
 
 
