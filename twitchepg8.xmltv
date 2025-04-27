@@ -6,28 +6,32 @@
 <display-name>moosetaffy</display-name>
 </channel>
 
-<channel id="kyle.us">
-<display-name>kyle</display-name>
-</channel>
-
 <channel id="uhsnow.us">
 <display-name>uhsnow</display-name>
 </channel>
 
-<channel id="berryyboo.us">
-<display-name>berryyboo</display-name>
+<channel id="kyle.us">
+<display-name>kyle</display-name>
+</channel>
+
+<channel id="kinamazing.us">
+<display-name>kinamazing</display-name>
 </channel>
 
 <channel id="sock22.us">
 <display-name>sock22</display-name>
 </channel>
 
-<channel id="Sukhi_1.us">
-<display-name>Sukhi_1</display-name>
+<channel id="berryyboo.us">
+<display-name>berryyboo</display-name>
 </channel>
 
 <channel id="rexs.us">
 <display-name>rexs</display-name>
+</channel>
+
+<channel id="Sukhi_1.us">
+<display-name>Sukhi_1</display-name>
 </channel>
 
 <channel id="Frizkers.us">
@@ -42,28 +46,28 @@
 <display-name>thatguygp</display-name>
 </channel>
 
-<channel id="louuis.us">
-<display-name>louuis</display-name>
+<channel id="jakson.us">
+<display-name>jakson</display-name>
 </channel>
 
 <channel id="matteu.us">
 <display-name>matteu</display-name>
 </channel>
 
-<channel id="jakson.us">
-<display-name>jakson</display-name>
-</channel>
-
 <channel id="katecirrus.us">
 <display-name>katecirrus</display-name>
 </channel>
 
-<channel id="CrashCustoms.us">
-<display-name>CrashCustoms</display-name>
+<channel id="louuis.us">
+<display-name>louuis</display-name>
 </channel>
 
 <channel id="LarBearTV.us">
 <display-name>LarBearTV</display-name>
+</channel>
+
+<channel id="CrashCustoms.us">
+<display-name>CrashCustoms</display-name>
 </channel>
 
 <channel id="hotted89.us">
@@ -74,20 +78,20 @@
 <display-name>iuzeekh</display-name>
 </channel>
 
-<channel id="rockface.us">
-<display-name>rockface</display-name>
-</channel>
-
-<channel id="AdamSmiley96.us">
-<display-name>AdamSmiley96</display-name>
-</channel>
-
 <channel id="curvyelephant.us">
 <display-name>curvyelephant</display-name>
 </channel>
 
+<channel id="rockface.us">
+<display-name>rockface</display-name>
+</channel>
+
 <channel id="PluTatoStar.us">
 <display-name>PluTatoStar</display-name>
+</channel>
+
+<channel id="AdamSmiley96.us">
+<display-name>AdamSmiley96</display-name>
 </channel>
 
 <channel id="BaldLionnn.us">
@@ -102,7 +106,14 @@
 <title lang="en"> Patar Bellosh - Fired Uber Driver :( - @MooseTaffy </title>
 <desc lang="en"> Started: 7:55AM
 Playing: Grand Theft Auto V
-Viewers: 146 </desc>
+Viewers: 175 </desc>
+</programme>
+
+<programme start="20250427115036 +0000" stop="20250430065036 +0000" channel="uhsnow.us">
+<title lang="en"> KING - NoPixel - discord.gg-snow </title>
+<desc lang="en"> Started: 6:50AM
+Playing: Grand Theft Auto V
+Viewers: 913 </desc>
 </programme>
 
 <programme start="20250427130047 +0000" stop="20250430080047 +0000" channel="kyle.us">
@@ -112,18 +123,11 @@ Playing: Grand Theft Auto V
 Viewers: 682 </desc>
 </programme>
 
-<programme start="20250427115036 +0000" stop="20250430065036 +0000" channel="uhsnow.us">
-<title lang="en"> KING - NoPixel - discord.gg-snow </title>
-<desc lang="en"> Started: 6:50AM
+<programme start="20250427132320 +0000" stop="20250430082320 +0000" channel="kinamazing.us">
+<title lang="en"> GTA RP - Charlie - Nopixel </title>
+<desc lang="en"> Started: 8:23AM
 Playing: Grand Theft Auto V
-Viewers: 937 </desc>
-</programme>
-
-<programme start="20250427113533 +0000" stop="20250430063533 +0000" channel="berryyboo.us">
-<title lang="en"> Lt. Viv - Chill Sunday - NoPixel 4.0 - </title>
-<desc lang="en"> Started: 6:35AM
-Playing: Grand Theft Auto V
-Viewers: 322 </desc>
+Viewers: 0 </desc>
 </programme>
 
 <programme start="20250427083051 +0000" stop="20250430033051 +0000" channel="sock22.us">
@@ -133,11 +137,11 @@ Playing: Grand Theft Auto V
 Viewers: 565 </desc>
 </programme>
 
-<programme start="20250427095947 +0000" stop="20250430045947 +0000" channel="Sukhi_1.us">
-<title lang="en"> Lucky Torkel - Besties - Nopixel 4.0 </title>
-<desc lang="en"> Started: 04:59 am
+<programme start="20250427113533 +0000" stop="20250430063533 +0000" channel="berryyboo.us">
+<title lang="en"> Lt. Viv - Chill Sunday - NoPixel 4.0 - </title>
+<desc lang="en"> Started: 6:35AM
 Playing: Grand Theft Auto V
-Viewers: 156 </desc>
+Viewers: 339 </desc>
 </programme>
 
 <programme start="20250427051014 +0000" stop="20250430001014 +0000" channel="rexs.us">
@@ -147,11 +151,18 @@ Playing: Grand Theft Auto V
 Viewers: 164 </desc>
 </programme>
 
+<programme start="20250427095947 +0000" stop="20250430045947 +0000" channel="Sukhi_1.us">
+<title lang="en"> Lucky Torkel - Besties - Nopixel 4.0 </title>
+<desc lang="en"> Started: 04:59 am
+Playing: Grand Theft Auto V
+Viewers: 156 </desc>
+</programme>
+
 <programme start="20250427083939 +0000" stop="20250430033939 +0000" channel="Frizkers.us">
 <title lang="en"> Henry Claude 🩺 - NoPixel WL - Variety Games after For Real dono </title>
 <desc lang="en"> Started: 03:39 am
 Playing: Grand Theft Auto V
-Viewers: 58 </desc>
+Viewers: 50 </desc>
 </programme>
 
 <programme start="20250427112447 +0000" stop="20250430062447 +0000" channel="AnnaMayMight.us">
@@ -168,25 +179,18 @@ Playing: Grand Theft Auto V
 Viewers: 274 </desc>
 </programme>
 
-<programme start="20250427124049 +0000" stop="20250430074049 +0000" channel="louuis.us">
-<title lang="en"> MERCH 🎮 WE ARE SO BACK 🎮 LIVE ON 🟢and🟣 🎮 TOTS🎮 pcs </title>
-<desc lang="en"> Started: 7:40AM
+<programme start="20250427114915 +0000" stop="20250430064915 +0000" channel="jakson.us">
+<title lang="en"> JIM DODGING JAIL POV - ALEX LSPD BEST PPO- NOPIXEL WL </title>
+<desc lang="en"> Started: 6:49AM
 Playing: Grand Theft Auto V
-Viewers: 545 </desc>
+Viewers: 130 </desc>
 </programme>
 
 <programme start="20250427120405 +0000" stop="20250430070405 +0000" channel="matteu.us">
 <title lang="en"> #1 BANK TRUCK SCENE LEAD 💠 LUCAS MILLER 💠 LSPD 💠 NOPIXEL WL 💠 </title>
 <desc lang="en"> Started: 7:04AM
 Playing: Grand Theft Auto V
-Viewers: 556 </desc>
-</programme>
-
-<programme start="20250427114915 +0000" stop="20250430064915 +0000" channel="jakson.us">
-<title lang="en"> JIM DODGING JAIL POV - ALEX LSPD BEST PPO- NOPIXEL WL </title>
-<desc lang="en"> Started: 6:49AM
-Playing: Grand Theft Auto V
-Viewers: 130 </desc>
+Viewers: 528 </desc>
 </programme>
 
 <programme start="20250427092302 +0000" stop="20250430042302 +0000" channel="katecirrus.us">
@@ -196,11 +200,11 @@ Playing: Grand Theft Auto V
 Viewers: 16 </desc>
 </programme>
 
-<programme start="20250427074330 +0000" stop="20250430024330 +0000" channel="CrashCustoms.us">
-<title lang="en"> Rebuilding - Rainer Fairlady - NoPixel 4.0 WL - GTA V RP </title>
-<desc lang="en"> Started: 02:43 am
+<programme start="20250427124049 +0000" stop="20250430074049 +0000" channel="louuis.us">
+<title lang="en"> MERCH 🎮 WE ARE SO BACK 🎮 LIVE ON 🟢and🟣 🎮 TOTS🎮 pcs </title>
+<desc lang="en"> Started: 7:40AM
 Playing: Grand Theft Auto V
-Viewers: 9 </desc>
+Viewers: 529 </desc>
 </programme>
 
 <programme start="20250427110216 +0000" stop="20250430060216 +0000" channel="LarBearTV.us">
@@ -208,6 +212,13 @@ Viewers: 9 </desc>
 <desc lang="en"> Started: 06:02 am
 Playing: Grand Theft Auto V
 Viewers: 6 </desc>
+</programme>
+
+<programme start="20250427074330 +0000" stop="20250430024330 +0000" channel="CrashCustoms.us">
+<title lang="en"> Rebuilding - Rainer Fairlady - NoPixel 4.0 WL - GTA V RP </title>
+<desc lang="en"> Started: 02:43 am
+Playing: Grand Theft Auto V
+Viewers: 9 </desc>
 </programme>
 
 <programme start="20250427110310 +0000" stop="20250430060310 +0000" channel="hotted89.us">
@@ -224,30 +235,30 @@ Playing: Grand Theft Auto V
 Viewers: 2 </desc>
 </programme>
 
-<programme start="20250427090522 +0000" stop="20250430040522 +0000" channel="rockface.us">
-<title lang="en"> Theo Jones towing and brainstorming NoPixel 4.0 WL </title>
-<desc lang="en"> Started: 04:05 am
-Playing: Grand Theft Auto V
-Viewers: 3 </desc>
-</programme>
-
-<programme start="20250427094051 +0000" stop="20250430044051 +0000" channel="AdamSmiley96.us">
-<title lang="en"> Sebastian Von DiQuad - New Beginnings. Same Old Seb - NoPixel 4.0 - (Test to see if my pc can handle it) </title>
-<desc lang="en"> Started: 04:40 am
-Playing: Grand Theft Auto V
-Viewers: 3 </desc>
-</programme>
-
 <programme start="20250427125618 +0000" stop="20250430075618 +0000" channel="curvyelephant.us">
 <title lang="en"> Matt Rhodes - nopixel - </title>
 <desc lang="en"> Started: 7:56AM
 Playing: Grand Theft Auto V
-Viewers: 102 </desc>
+Viewers: 112 </desc>
+</programme>
+
+<programme start="20250427090522 +0000" stop="20250430040522 +0000" channel="rockface.us">
+<title lang="en"> Theo Jones towing and brainstorming NoPixel 4.0 WL </title>
+<desc lang="en"> Started: 04:05 am
+Playing: Grand Theft Auto V
+Viewers: 2 </desc>
 </programme>
 
 <programme start="20250427101515 +0000" stop="20250430051515 +0000" channel="PluTatoStar.us">
 <title lang="en"> Eric Shivington - NoPixel 4.0 - Twitch Partner Push partnerthon </title>
 <desc lang="en"> Started: 05:15 am
+Playing: Grand Theft Auto V
+Viewers: 2 </desc>
+</programme>
+
+<programme start="20250427094051 +0000" stop="20250430044051 +0000" channel="AdamSmiley96.us">
+<title lang="en"> Sebastian Von DiQuad - New Beginnings. Same Old Seb - NoPixel 4.0 - (Test to see if my pc can handle it) </title>
+<desc lang="en"> Started: 04:40 am
 Playing: Grand Theft Auto V
 Viewers: 2 </desc>
 </programme>
@@ -263,7 +274,7 @@ Viewers: 2 </desc>
 <title lang="en"> Cassidy Lovelace - T-80 EMS - Nopixel WL </title>
 <desc lang="en"> Started: 11:39PM
 Playing: Grand Theft Auto V
-Viewers: 58 </desc>
+Viewers: 55 </desc>
 </programme>
 
 
