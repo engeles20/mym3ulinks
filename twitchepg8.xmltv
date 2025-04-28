@@ -2,18 +2,6 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="rexs.us">
-<display-name>rexs</display-name>
-</channel>
-
-<channel id="yuukidav.us">
-<display-name>yuukidav</display-name>
-</channel>
-
-<channel id="harmless.us">
-<display-name>harmless</display-name>
-</channel>
-
 <channel id="Blokeowski.us">
 <display-name>Blokeowski</display-name>
 </channel>
@@ -26,8 +14,12 @@
 <display-name>UnicornFrapp</display-name>
 </channel>
 
-<channel id="Kerazane.us">
-<display-name>Kerazane</display-name>
+<channel id="rexs.us">
+<display-name>rexs</display-name>
+</channel>
+
+<channel id="yuukidav.us">
+<display-name>yuukidav</display-name>
 </channel>
 
 <channel id="LarBearTV.us">
@@ -36,6 +28,10 @@
 
 <channel id="ItsHazelsaurus.us">
 <display-name>ItsHazelsaurus</display-name>
+</channel>
+
+<channel id="Kerazane.us">
+<display-name>Kerazane</display-name>
 </channel>
 
 <channel id="heyimzed.us">
@@ -50,60 +46,46 @@
 <display-name>xqc</display-name>
 </channel>
 
-<programme start="20250428051638 +0000" stop="20250501001638 +0000" channel="rexs.us">
-<title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - NoPixel WL </title>
-<desc lang="en"> Started: 12:16AM
-Playing: Grand Theft Auto V
-Viewers: 83 </desc>
-</programme>
-
-<programme start="20250428054307 +0000" stop="20250501004307 +0000" channel="yuukidav.us">
-<title lang="en"> captain lukas lavender 🎀 bcso - nopixel wl - @yuukidav modapp </title>
-<desc lang="en"> Started: 12:43AM
-Playing: Grand Theft Auto V
-Viewers: 226 </desc>
-</programme>
-
-<programme start="20250428050532 +0000" stop="20250501000532 +0000" channel="harmless.us">
-<title lang="en"> Perry Falken - NoPixel 4.0 </title>
-<desc lang="en"> Started: 12:05AM
-Playing: Grand Theft Auto V
-Viewers: 404 </desc>
-</programme>
-
 <programme start="20250428050554 +0000" stop="20250501000554 +0000" channel="Blokeowski.us">
 <title lang="en"> NoPixel WL 18 - EMS RP as Nathan Warren - EMERGENCY MEDICAL SHENANIGANS - reachout supportservices blackdoginstitute </title>
 <desc lang="en"> Started: 12:05 am
 Playing: Grand Theft Auto V
-Viewers: 70 </desc>
+Viewers: 65 </desc>
 </programme>
 
 <programme start="20250428035203 +0000" stop="20250430225203 +0000" channel="NismoDOMA.us">
 <title lang="en"> Yilong Ma - Tony Leung - its been a min - HADES - NoPixel WL </title>
 <desc lang="en"> Started: 10:52 pm
 Playing: Grand Theft Auto V
-Viewers: 46 </desc>
+Viewers: 49 </desc>
 </programme>
 
 <programme start="20250428045515 +0000" stop="20250430235515 +0000" channel="UnicornFrapp.us">
 <title lang="en"> Remi Ironside - BCSO Deputy - Nopixel WL </title>
 <desc lang="en"> Started: 11:55 pm
 Playing: Grand Theft Auto V
-Viewers: 40 </desc>
+Viewers: 41 </desc>
 </programme>
 
-<programme start="20250428073135 +0000" stop="20250501023135 +0000" channel="Kerazane.us">
-<title lang="en"> Kol ( coco ) Cascade - The Misfit - Nopixel WL - Sleepy Monday init - </title>
-<desc lang="en"> Started: 2:31AM
+<programme start="20250428051638 +0000" stop="20250501001638 +0000" channel="rexs.us">
+<title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - NoPixel WL </title>
+<desc lang="en"> Started: 12:16AM
 Playing: Grand Theft Auto V
-Viewers: 2 </desc>
+Viewers: 80 </desc>
+</programme>
+
+<programme start="20250428054307 +0000" stop="20250501004307 +0000" channel="yuukidav.us">
+<title lang="en"> captain lukas lavender 🎀 bcso - nopixel wl - @yuukidav modapp </title>
+<desc lang="en"> Started: 12:43AM
+Playing: Grand Theft Auto V
+Viewers: 247 </desc>
 </programme>
 
 <programme start="20250428050457 +0000" stop="20250501000457 +0000" channel="LarBearTV.us">
 <title lang="en"> 👮 Ofc. Larry Johnson 👮- 🙏Hopefully no nVidia Driver Crashes 🙏 - NoPixel 4.0 WL - @LarBearTV </title>
 <desc lang="en"> Started: 12:04 am
 Playing: Grand Theft Auto V
-Viewers: 13 </desc>
+Viewers: 15 </desc>
 </programme>
 
 <programme start="20250428032502 +0000" stop="20250430222502 +0000" channel="ItsHazelsaurus.us">
@@ -113,21 +95,28 @@ Playing: Grand Theft Auto V
 Viewers: 1 </desc>
 </programme>
 
+<programme start="20250428073135 +0000" stop="20250501023135 +0000" channel="Kerazane.us">
+<title lang="en"> Kol ( coco ) Cascade - The Misfit - Nopixel WL - Sleepy Monday init - </title>
+<desc lang="en"> Started: 2:31AM
+Playing: Grand Theft Auto V
+Viewers: 2 </desc>
+</programme>
+
 <programme start="20250428053931 +0000" stop="20250501003931 +0000" channel="heyimzed.us">
 <title lang="en"> 😴 serial napper 😴 - Edbert Ropeburn - ADMC COMMAND (o7) - NoPixel WL </title>
 <desc lang="en"> Started: 12:39AM
 Playing: Grand Theft Auto V
-Viewers: 197 </desc>
+Viewers: 193 </desc>
 </programme>
 
 <programme start="20250428055058 +0000" stop="20250501005058 +0000" channel="cutieno.us">
 <title lang="en"> Rue Minmi - ADMC SecRUEtary - Nopixel WL - Rue things and stuffs </title>
 <desc lang="en"> Started: 12:50AM
 Playing: Grand Theft Auto V
-Viewers: 194 </desc>
+Viewers: 210 </desc>
 </programme>
 
-<programme start="20250428000000 +0000" stop="20250501030629 +0000" channel="xqc.us">
+<programme start="20250428000000 +0000" stop="20250501031317 +0000" channel="xqc.us">
 <title lang="en">  </title>
 <desc lang="en"> Started: 
 Playing: 
