@@ -2,24 +2,24 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="yuukidav.us">
-<display-name>yuukidav</display-name>
-</channel>
-
 <channel id="rexs.us">
 <display-name>rexs</display-name>
+</channel>
+
+<channel id="yuukidav.us">
+<display-name>yuukidav</display-name>
 </channel>
 
 <channel id="harmless.us">
 <display-name>harmless</display-name>
 </channel>
 
-<channel id="NismoDOMA.us">
-<display-name>NismoDOMA</display-name>
-</channel>
-
 <channel id="Blokeowski.us">
 <display-name>Blokeowski</display-name>
+</channel>
+
+<channel id="NismoDOMA.us">
+<display-name>NismoDOMA</display-name>
 </channel>
 
 <channel id="UnicornFrapp.us">
@@ -42,10 +42,6 @@
 <display-name>Hellknight86</display-name>
 </channel>
 
-<channel id="MopsyTheClown.us">
-<display-name>MopsyTheClown</display-name>
-</channel>
-
 <channel id="heyimzed.us">
 <display-name>heyimzed</display-name>
 </channel>
@@ -62,53 +58,53 @@
 <display-name>xqc</display-name>
 </channel>
 
-<programme start="20250428054307 +0000" stop="20250501004307 +0000" channel="yuukidav.us">
-<title lang="en"> captain lukas lavender 🎀 bcso - nopixel wl - @yuukidav modapp </title>
-<desc lang="en"> Started: 12:43AM
-Playing: Grand Theft Auto V
-Viewers: 261 </desc>
-</programme>
-
 <programme start="20250428051638 +0000" stop="20250501001638 +0000" channel="rexs.us">
 <title lang="en"> 🤠 Ricky Dallas 🤠 - BCSO - NoPixel WL </title>
 <desc lang="en"> Started: 12:16AM
 Playing: Grand Theft Auto V
-Viewers: 61 </desc>
+Viewers: 64 </desc>
+</programme>
+
+<programme start="20250428054307 +0000" stop="20250501004307 +0000" channel="yuukidav.us">
+<title lang="en"> captain lukas lavender 🎀 bcso - nopixel wl - @yuukidav modapp </title>
+<desc lang="en"> Started: 12:43AM
+Playing: Grand Theft Auto V
+Viewers: 266 </desc>
 </programme>
 
 <programme start="20250428050532 +0000" stop="20250501000532 +0000" channel="harmless.us">
 <title lang="en"> Perry Falken - NoPixel 4.0 </title>
 <desc lang="en"> Started: 12:05AM
 Playing: Grand Theft Auto V
-Viewers: 299 </desc>
-</programme>
-
-<programme start="20250428035203 +0000" stop="20250430225203 +0000" channel="NismoDOMA.us">
-<title lang="en"> Yilong Ma - Tony Leung - its been a min - HADES - NoPixel WL </title>
-<desc lang="en"> Started: 10:52 pm
-Playing: Grand Theft Auto V
-Viewers: 75 </desc>
+Viewers: 348 </desc>
 </programme>
 
 <programme start="20250428050554 +0000" stop="20250501000554 +0000" channel="Blokeowski.us">
 <title lang="en"> NoPixel WL 18 - Ole mate Barmy Wattlesby - ARE YOU MY GRANDCHILD - reachout supportservices blackdoginstitute </title>
 <desc lang="en"> Started: 12:05 am
 Playing: Grand Theft Auto V
-Viewers: 74 </desc>
+Viewers: 73 </desc>
+</programme>
+
+<programme start="20250428035203 +0000" stop="20250430225203 +0000" channel="NismoDOMA.us">
+<title lang="en"> Yilong Ma - Tony Leung - its been a min - HADES - NoPixel WL </title>
+<desc lang="en"> Started: 10:52 pm
+Playing: Grand Theft Auto V
+Viewers: 57 </desc>
 </programme>
 
 <programme start="20250428045515 +0000" stop="20250430235515 +0000" channel="UnicornFrapp.us">
 <title lang="en"> Remi Ironside - BCSO Deputy - Nopixel WL </title>
 <desc lang="en"> Started: 11:55 pm
 Playing: Grand Theft Auto V
-Viewers: 38 </desc>
+Viewers: 34 </desc>
 </programme>
 
 <programme start="20250428050457 +0000" stop="20250501000457 +0000" channel="LarBearTV.us">
 <title lang="en"> 👮 Ofc. Larry Johnson 👮- 🙏Hopefully no nVidia Driver Crashes 🙏 - NoPixel 4.0 WL - @LarBearTV </title>
 <desc lang="en"> Started: 12:04 am
 Playing: Grand Theft Auto V
-Viewers: 15 </desc>
+Viewers: 18 </desc>
 </programme>
 
 <programme start="20250427202033 +0000" stop="20250430152033 +0000" channel="JustRebexa.us">
@@ -122,7 +118,7 @@ Viewers: 6 </desc>
 <title lang="en"> Ana Hunter - Planning Financials - Nopixel 4.0 </title>
 <desc lang="en"> Started: 10:25 pm
 Playing: Grand Theft Auto V
-Viewers: 1 </desc>
+Viewers: 4 </desc>
 </programme>
 
 <programme start="20250428050919 +0000" stop="20250501000919 +0000" channel="Hellknight86.us">
@@ -132,35 +128,28 @@ Playing: Grand Theft Auto V
 Viewers: 1 </desc>
 </programme>
 
-<programme start="20250428023541 +0000" stop="20250430213541 +0000" channel="MopsyTheClown.us">
-<title lang="en"> NoPixel - Mopsy The Clown - I got emotes now thanks to BTTV c: emotes </title>
-<desc lang="en"> Started: 09:35 pm
-Playing: Grand Theft Auto V
-Viewers: 1 </desc>
-</programme>
-
 <programme start="20250428053931 +0000" stop="20250501003931 +0000" channel="heyimzed.us">
 <title lang="en"> 😴 serial napper 😴 - Edbert Ropeburn - ADMC COMMAND (o7) - NoPixel WL </title>
 <desc lang="en"> Started: 12:39AM
 Playing: Grand Theft Auto V
-Viewers: 253 </desc>
+Viewers: 246 </desc>
 </programme>
 
 <programme start="20250428055058 +0000" stop="20250501005058 +0000" channel="cutieno.us">
 <title lang="en"> Rue Minmi - ADMC SecRUEtary - Nopixel WL - Rue things and stuffs </title>
 <desc lang="en"> Started: 12:50AM
 Playing: Grand Theft Auto V
-Viewers: 189 </desc>
+Viewers: 187 </desc>
 </programme>
 
 <programme start="20250427235541 +0000" stop="20250430185541 +0000" channel="royalcreates.us">
 <title lang="en"> Aphrodite Theos - LSPD 269 - NoPixel WL 4.0 </title>
 <desc lang="en"> Started: 6:55PM
 Playing: Grand Theft Auto V
-Viewers: 130 </desc>
+Viewers: 126 </desc>
 </programme>
 
-<programme start="20250428000000 +0000" stop="20250501014317 +0000" channel="xqc.us">
+<programme start="20250428000000 +0000" stop="20250501015129 +0000" channel="xqc.us">
 <title lang="en">  </title>
 <desc lang="en"> Started: 
 Playing: 
