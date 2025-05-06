@@ -2,12 +2,12 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="tjnv.us">
-<display-name>tjnv</display-name>
-</channel>
-
 <channel id="anthonyz.us">
 <display-name>anthonyz</display-name>
+</channel>
+
+<channel id="tjnv.us">
+<display-name>tjnv</display-name>
 </channel>
 
 <channel id="officialtaco.us">
@@ -38,20 +38,16 @@
 <display-name>rexs</display-name>
 </channel>
 
-<channel id="harmless.us">
-<display-name>harmless</display-name>
-</channel>
-
 <channel id="justkiku.us">
 <display-name>justkiku</display-name>
 </channel>
 
-<channel id="casualbaesu.us">
-<display-name>casualbaesu</display-name>
+<channel id="harmless.us">
+<display-name>harmless</display-name>
 </channel>
 
-<channel id="lStrictlyLogicl.us">
-<display-name>lStrictlyLogicl</display-name>
+<channel id="casualbaesu.us">
+<display-name>casualbaesu</display-name>
 </channel>
 
 <channel id="mungo.us">
@@ -70,12 +66,12 @@
 <display-name>UnicornFrapp</display-name>
 </channel>
 
-<channel id="NyokoSato.us">
-<display-name>NyokoSato</display-name>
-</channel>
-
 <channel id="NismoDOMA.us">
 <display-name>NismoDOMA</display-name>
+</channel>
+
+<channel id="NyokoSato.us">
+<display-name>NyokoSato</display-name>
 </channel>
 
 <channel id="arckon.us">
@@ -86,6 +82,10 @@
 <display-name>JustRebexa</display-name>
 </channel>
 
+<channel id="raided.us">
+<display-name>raided</display-name>
+</channel>
+
 <channel id="mikfoolery.us">
 <display-name>mikfoolery</display-name>
 </channel>
@@ -94,12 +94,20 @@
 <display-name>Hellknight86</display-name>
 </channel>
 
+<channel id="christombstone.us">
+<display-name>christombstone</display-name>
+</channel>
+
 <channel id="cutieno.us">
 <display-name>cutieno</display-name>
 </channel>
 
-<channel id="christombstone.us">
-<display-name>christombstone</display-name>
+<channel id="snekysly.us">
+<display-name>snekysly</display-name>
+</channel>
+
+<channel id="margothesnail.us">
+<display-name>margothesnail</display-name>
 </channel>
 
 <channel id="kittenqg.us">
@@ -114,34 +122,22 @@
 <display-name>kaicenat</display-name>
 </channel>
 
-<channel id="snekysly.us">
-<display-name>snekysly</display-name>
-</channel>
-
-<channel id="margothesnail.us">
-<display-name>margothesnail</display-name>
-</channel>
-
-<channel id="raided.us">
-<display-name>raided</display-name>
-</channel>
-
 <channel id="lysium.us">
 <display-name>lysium</display-name>
 </channel>
-
-<programme start="20250505171030 +0000" stop="20250508121030 +0000" channel="tjnv.us">
-<title lang="en"> Charli  CJ  Jones - whats in the box - NOPIXEL </title>
-<desc lang="en"> Started: 12:10PM
-Playing: Grand Theft Auto V
-Viewers: 743 </desc>
-</programme>
 
 <programme start="20250505223128 +0000" stop="20250508173128 +0000" channel="anthonyz.us">
 <title lang="en"> FAKE ITALIAN TRIES TO MAKE SOME PASTA F0R HIS CHAT GTA RP AND CS AFTER 3 </title>
 <desc lang="en"> Started: 5:31PM
 Playing: Grand Theft Auto V
 Viewers: 601 </desc>
+</programme>
+
+<programme start="20250505171030 +0000" stop="20250508121030 +0000" channel="tjnv.us">
+<title lang="en"> Charli  CJ  Jones - whats in the box - NOPIXEL </title>
+<desc lang="en"> Started: 12:10PM
+Playing: Grand Theft Auto V
+Viewers: 754 </desc>
 </programme>
 
 <programme start="20250504093405 +0000" stop="20250507043405 +0000" channel="officialtaco.us">
@@ -169,7 +165,7 @@ Viewers: 50 </desc>
 <title lang="en"> The Split of Hades: A New Story - Raymond Romanov 🔥 NoPixel 4.0 WL - </title>
 <desc lang="en"> Started: 6:11PM
 Playing: Grand Theft Auto V
-Viewers: 1529 </desc>
+Viewers: 1450 </desc>
 </programme>
 
 <programme start="20250506053535 +0000" stop="20250509003535 +0000" channel="jacksonsfaded.us">
@@ -193,18 +189,18 @@ Playing: Grand Theft Auto V
 Viewers: 22 </desc>
 </programme>
 
+<programme start="20250505180214 +0000" stop="20250508130214 +0000" channel="justkiku.us">
+<title lang="en"> Aiko Young - Manor - Nopixel WL - Headphones broke yeah cheers </title>
+<desc lang="en"> Started: 01:02 pm
+Playing: Grand Theft Auto V
+Viewers: 141 </desc>
+</programme>
+
 <programme start="20250506051325 +0000" stop="20250509001325 +0000" channel="harmless.us">
 <title lang="en"> Perry Falken - NoPixel 4.0 </title>
 <desc lang="en"> Started: 12:13AM
 Playing: Grand Theft Auto V
 Viewers: 155 </desc>
-</programme>
-
-<programme start="20250505180214 +0000" stop="20250508130214 +0000" channel="justkiku.us">
-<title lang="en"> Aiko Young - Manor - Nopixel WL - Headphones broke yeah cheers </title>
-<desc lang="en"> Started: 01:02 pm
-Playing: Grand Theft Auto V
-Viewers: 138 </desc>
 </programme>
 
 <programme start="20250505225641 +0000" stop="20250508175641 +0000" channel="casualbaesu.us">
@@ -214,18 +210,11 @@ Playing: Grand Theft Auto V
 Viewers: 81 </desc>
 </programme>
 
-<programme start="20250506001944 +0000" stop="20250508191944 +0000" channel="lStrictlyLogicl.us">
-<title lang="en"> 🔴Valdez - The Fall of Hades - Habibi MC - NoPixel WL 🔴 - Socials: @lstrictlylogicl </title>
-<desc lang="en"> Started: 07:19 pm
-Playing: Grand Theft Auto V
-Viewers: 47 </desc>
-</programme>
-
 <programme start="20250505230254 +0000" stop="20250508180254 +0000" channel="mungo.us">
 <title lang="en"> NEW EMOTES - Bobby Beldrum - NoPixel 4.0 </title>
 <desc lang="en"> Started: 6:02PM
 Playing: Grand Theft Auto V
-Viewers: 55 </desc>
+Viewers: 53 </desc>
 </programme>
 
 <programme start="20250505211526 +0000" stop="20250508161526 +0000" channel="Hauwnted.us">
@@ -249,13 +238,6 @@ Playing: Grand Theft Auto V
 Viewers: 23 </desc>
 </programme>
 
-<programme start="20250505223734 +0000" stop="20250508173734 +0000" channel="NyokoSato.us">
-<title lang="en"> New path -Skye Shields- NoPixel 4.0 WL </title>
-<desc lang="en"> Started: 05:37 pm
-Playing: Grand Theft Auto V
-Viewers: 21 </desc>
-</programme>
-
 <programme start="20250506004047 +0000" stop="20250508194047 +0000" channel="NismoDOMA.us">
 <title lang="en"> Tony Leung - The End.... - HADES - NoPixel WL </title>
 <desc lang="en"> Started: 07:40 pm
@@ -263,18 +245,32 @@ Playing: Grand Theft Auto V
 Viewers: 19 </desc>
 </programme>
 
+<programme start="20250505223734 +0000" stop="20250508173734 +0000" channel="NyokoSato.us">
+<title lang="en"> New path -Skye Shields- NoPixel 4.0 WL </title>
+<desc lang="en"> Started: 05:37 pm
+Playing: Grand Theft Auto V
+Viewers: 20 </desc>
+</programme>
+
 <programme start="20250505222614 +0000" stop="20250508172614 +0000" channel="arckon.us">
 <title lang="en"> PT - NoPixel - @arckon - Reasonably short one (REAL) </title>
 <desc lang="en"> Started: 5:26PM
 Playing: Grand Theft Auto V
-Viewers: 98 </desc>
+Viewers: 114 </desc>
 </programme>
 
 <programme start="20250505213445 +0000" stop="20250508163445 +0000" channel="JustRebexa.us">
 <title lang="en"> Violet Waters - Nopixel 4.0 WL - EMT - The Hub - Party Records - Day 99 Crit Care Day 1. </title>
 <desc lang="en"> Started: 04:34 pm
 Playing: Grand Theft Auto V
-Viewers: 5 </desc>
+Viewers: 4 </desc>
+</programme>
+
+<programme start="20250506054815 +0000" stop="20250509004815 +0000" channel="raided.us">
+<title lang="en"> Draider - NoPixel Dev </title>
+<desc lang="en"> Started: 12:48AM
+Playing: Grand Theft Auto V
+Viewers: 16 </desc>
 </programme>
 
 <programme start="20250506004807 +0000" stop="20250508194807 +0000" channel="mikfoolery.us">
@@ -291,18 +287,32 @@ Playing: Grand Theft Auto V
 Viewers: 2 </desc>
 </programme>
 
-<programme start="20250506001811 +0000" stop="20250508191811 +0000" channel="cutieno.us">
-<title lang="en"> Pipi Taipan - Somehow not fired LSPD Cadet - Nopixel WL </title>
-<desc lang="en"> Started: 7:18PM
-Playing: Grand Theft Auto V
-Viewers: 129 </desc>
-</programme>
-
 <programme start="20250505231947 +0000" stop="20250508181947 +0000" channel="christombstone.us">
 <title lang="en"> Deputy Chance Dice - NoPixel WL - @ChrisTombstone_ on </title>
 <desc lang="en"> Started: 6:19PM
 Playing: Grand Theft Auto V
 Viewers: 453 </desc>
+</programme>
+
+<programme start="20250506001811 +0000" stop="20250508191811 +0000" channel="cutieno.us">
+<title lang="en"> Pipi Taipan - Somehow not fired LSPD Cadet - Nopixel WL </title>
+<desc lang="en"> Started: 7:18PM
+Playing: Grand Theft Auto V
+Viewers: 131 </desc>
+</programme>
+
+<programme start="20250506052927 +0000" stop="20250509002927 +0000" channel="snekysly.us">
+<title lang="en"> Crayons - Charlie Lockwood - NoPixel 4.0 WL </title>
+<desc lang="en"> Started: 12:29 am
+Playing: Grand Theft Auto V
+Viewers: 2 </desc>
+</programme>
+
+<programme start="20250506054623 +0000" stop="20250509004623 +0000" channel="margothesnail.us">
+<title lang="en"> Margo Escargot Returns (And She Sucks) - Nopixel 4.0 WL - Back from Burning Myself Out </title>
+<desc lang="en"> Started: 12:46AM
+Playing: Grand Theft Auto V
+Viewers: 16 </desc>
 </programme>
 
 <programme start="20250506042034 +0000" stop="20250508232034 +0000" channel="kittenqg.us">
@@ -326,28 +336,7 @@ Playing: IRL
 Viewers: 82739 </desc>
 </programme>
 
-<programme start="20250506052927 +0000" stop="20250509002927 +0000" channel="snekysly.us">
-<title lang="en"> Crayons - Charlie Lockwood - NoPixel 4.0 WL </title>
-<desc lang="en"> Started: 12:29 am
-Playing: Grand Theft Auto V
-Viewers: 2 </desc>
-</programme>
-
-<programme start="20250506054623 +0000" stop="20250509004623 +0000" channel="margothesnail.us">
-<title lang="en"> Margo Escargot Returns (And She Sucks) - Nopixel 4.0 WL - Back from Burning Myself Out </title>
-<desc lang="en"> Started: 12:46AM
-Playing: Grand Theft Auto V
-Viewers: 16 </desc>
-</programme>
-
-<programme start="20250506054815 +0000" stop="20250509004815 +0000" channel="raided.us">
-<title lang="en"> Draider - NoPixel Dev </title>
-<desc lang="en"> Started: 12:48AM
-Playing: Grand Theft Auto V
-Viewers: 16 </desc>
-</programme>
-
-<programme start="20250506000000 +0000" stop="20250509010342 +0000" channel="lysium.us">
+<programme start="20250506000000 +0000" stop="20250509010509 +0000" channel="lysium.us">
 <title lang="en">  </title>
 <desc lang="en"> Started: 
 Playing: 
