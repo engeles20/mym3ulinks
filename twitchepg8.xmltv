@@ -2,10 +2,6 @@
 <display-name>clearepg</display-name>
 </channel>
 
-<channel id="capped.us">
-<display-name>capped</display-name>
-</channel>
-
 <channel id="brakketts.us">
 <display-name>brakketts</display-name>
 </channel>
@@ -38,12 +34,12 @@
 <display-name>OGDxD</display-name>
 </channel>
 
-<channel id="miss_daydreamer.us">
-<display-name>miss_daydreamer</display-name>
-</channel>
-
 <channel id="Hellknight86.us">
 <display-name>Hellknight86</display-name>
+</channel>
+
+<channel id="miss_daydreamer.us">
+<display-name>miss_daydreamer</display-name>
 </channel>
 
 <channel id="aintitadam.us">
@@ -58,13 +54,6 @@
 <display-name>xqc</display-name>
 </channel>
 
-<programme start="20250516071741 +0000" stop="20250519021741 +0000" channel="capped.us">
-<title lang="en"> REPO → RP - The Faceless x Talon Mission 4PM EST - NoPixel - </title>
-<desc lang="en"> Started: 2:17AM
-Playing: Grand Theft Auto V
-Viewers: 120 </desc>
-</programme>
-
 <programme start="20250516071936 +0000" stop="20250519021936 +0000" channel="brakketts.us">
 <title lang="en"> 389 Tommy Horver - Active - Nopixel </title>
 <desc lang="en"> Started: 2:19AM
@@ -76,56 +65,49 @@ Viewers: 1 </desc>
 <title lang="en"> Perry Falken - NoPixel 4.0 </title>
 <desc lang="en"> Started: 2:08AM
 Playing: Grand Theft Auto V
-Viewers: 141 </desc>
+Viewers: 189 </desc>
 </programme>
 
 <programme start="20250516023948 +0000" stop="20250518213948 +0000" channel="xKibbs.us">
 <title lang="en"> 🔴 JONAH JOJO HYDELL 🔴 NORTH CYPRESS 🔴 - NOPIXEL 4.0 - ROAD TO PARTNER </title>
 <desc lang="en"> Started: 09:39 pm
 Playing: Grand Theft Auto V
-Viewers: 174 </desc>
+Viewers: 165 </desc>
 </programme>
 
 <programme start="20250515220701 +0000" stop="20250518170701 +0000" channel="iMaceinHD.us">
 <title lang="en"> Deputy Sloe - NP WL - shift 2 czar </title>
 <desc lang="en"> Started: 05:07 pm
 Playing: Grand Theft Auto V
-Viewers: 125 </desc>
+Viewers: 117 </desc>
 </programme>
 
 <programme start="20250516010855 +0000" stop="20250518200855 +0000" channel="NismoDOMA.us">
 <title lang="en"> Tony Leung - hi - HADES - NoPixel WL </title>
 <desc lang="en"> Started: 08:08 pm
 Playing: Grand Theft Auto V
-Viewers: 34 </desc>
+Viewers: 35 </desc>
 </programme>
 
 <programme start="20250516050418 +0000" stop="20250519000418 +0000" channel="LarBearTV.us">
 <title lang="en"> 👮 Snr. Ofc. Larry Johnson 👮 - Maybe Joshy Boy Later 🍺 - NoPixel 4.0 WL - @LarBearTV </title>
 <desc lang="en"> Started: 12:04 am
 Playing: Grand Theft Auto V
-Viewers: 26 </desc>
+Viewers: 22 </desc>
 </programme>
 
 <programme start="20250516000000 +0000" stop="20250518190000 +0000" channel="Fayttt.us">
 <title lang="en"> « Rean Brite - NoPixel 4.0 WL » </title>
 <desc lang="en"> Started: 07:00 pm
 Playing: Grand Theft Auto V
-Viewers: 6 </desc>
+Viewers: 5 </desc>
 </programme>
 
 <programme start="20250515201925 +0000" stop="20250518151925 +0000" channel="OGDxD.us">
 <title lang="en"> Jimmy Porter - NoPixel 4.0 </title>
 <desc lang="en"> Started: 03:19 pm
 Playing: Grand Theft Auto V
-Viewers: 4 </desc>
-</programme>
-
-<programme start="20250515175656 +0000" stop="20250518125656 +0000" channel="miss_daydreamer.us">
-<title lang="en"> EJ - Nopixel WL 4.0 </title>
-<desc lang="en"> Started: 12:56PM
-Playing: Grand Theft Auto V
-Viewers: 194 </desc>
+Viewers: 3 </desc>
 </programme>
 
 <programme start="20250516055602 +0000" stop="20250519005602 +0000" channel="Hellknight86.us">
@@ -135,21 +117,28 @@ Playing: Grand Theft Auto V
 Viewers: 1 </desc>
 </programme>
 
+<programme start="20250515175656 +0000" stop="20250518125656 +0000" channel="miss_daydreamer.us">
+<title lang="en"> EJ - Nopixel WL 4.0 </title>
+<desc lang="en"> Started: 12:56PM
+Playing: Grand Theft Auto V
+Viewers: 192 </desc>
+</programme>
+
 <programme start="20250515201853 +0000" stop="20250518151853 +0000" channel="aintitadam.us">
 <title lang="en"> Scruffy Doodle - Nopixel WL - Prodigy gtarp </title>
 <desc lang="en"> Started: 3:18PM
 Playing: Grand Theft Auto V
-Viewers: 640 </desc>
+Viewers: 609 </desc>
 </programme>
 
 <programme start="20250516050127 +0000" stop="20250519000127 +0000" channel="firecrackthat.us">
 <title lang="en"> Stumbles Fumbles - NoPixel 4.0 RP - HELP ME GET BACK TO 120 SUBS </title>
 <desc lang="en"> Started: 12:01AM
 Playing: Grand Theft Auto V
-Viewers: 83 </desc>
+Viewers: 97 </desc>
 </programme>
 
-<programme start="20250516000000 +0000" stop="20250519022818 +0000" channel="xqc.us">
+<programme start="20250516000000 +0000" stop="20250519023630 +0000" channel="xqc.us">
 <title lang="en">  </title>
 <desc lang="en"> Started: 
 Playing: 
